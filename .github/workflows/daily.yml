@@ -15,6 +15,11 @@ on:
         required: false
         default: "false"
         type: string
+      force:
+        description: "强制推送，忽略“今天已推过”（true/false）"
+        required: false
+        default: "false"
+        type: string
 
 permissions:
   contents: write
@@ -36,11 +41,13 @@ jobs:
           SCT_SENDKEY: ${{ secrets.SCT_SENDKEY }}
           FORCE_DAY: ${{ inputs.day }}
           DRY_RUN: ${{ inputs.dry_run }}
+          FORCE: ${{ inputs.force }}
         run: |
           set -e
           ARGS=""
           if [ -n "${FORCE_DAY}" ]; then ARGS="$ARGS --day ${FORCE_DAY}"; fi
           if [ "${DRY_RUN}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          if [ "${FORCE}" = "true" ]; then ARGS="$ARGS --force"; fi
           echo "python3 scripts/daily.py $ARGS"
           python3 scripts/daily.py $ARGS
 
