@@ -1,0 +1,60 @@
+{
+ "day": 79,
+ "words": [
+  {
+   "word": "response",
+   "phr": [
+    {"en": "in response to", "zh": "作为对…的回应"},
+    {"en": "a quick response", "zh": "迅速回应"}
+   ],
+   "ex": [
+    {"en": "The company issued a short statement in response to the complaints.", "zh": "公司针对这些投诉发表了一份简短声明。"}
+   ],
+   "note": "in response to 是固定搭配，后接名词；动词 respond 也要接 to。"
+  },
+  {
+   "word": "treaty",
+   "phr": [
+    {"en": "sign a treaty", "zh": "签署条约"},
+    {"en": "peace treaty", "zh": "和平条约"}
+   ],
+   "ex": [
+    {"en": "The two countries signed a peace treaty after years of difficult talks.", "zh": "经过多年艰难谈判，两国签署了和平条约。"}
+   ],
+   "note": "treaty 指国家间的正式条约，比 agreement 更正式。"
+  },
+  {
+   "word": "dignity",
+   "phr": [
+    {"en": "human dignity", "zh": "人的尊严"},
+    {"en": "with dignity", "zh": "有尊严地"}
+   ],
+   "ex": [
+    {"en": "She faced her long illness with dignity and never complained in public.", "zh": "她从容面对久病，从不在公开场合抱怨。"}
+   ],
+   "note": "dignity 常与 with 连用；形容词 dignified 意为庄重的。"
+  },
+  {
+   "word": "challenge",
+   "phr": [
+    {"en": "face a challenge", "zh": "面对挑战"},
+    {"en": "meet the challenge", "zh": "迎接挑战"}
+   ],
+   "ex": [
+    {"en": "Rising costs are the biggest challenge facing small businesses this year.", "zh": "成本上升是今年小企业面临的最大挑战。"}
+   ],
+   "note": "challenge 作动词直接跟宾语，不说 challenge against sb。"
+  },
+  {
+   "word": "rival",
+   "phr": [
+    {"en": "a rival company", "zh": "竞争公司"},
+    {"en": "business rivals", "zh": "商业对手"}
+   ],
+   "ex": [
+    {"en": "The two rival companies have been competing for the same customers for years.", "zh": "这两家竞争公司多年来争夺同一批客户。"}
+   ],
+   "note": "rival 可作名词、形容词和动词；rival sb 意为比得上某人。"
+  }
+ ]
+}

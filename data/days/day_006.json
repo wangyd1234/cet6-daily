@@ -1,0 +1,246 @@
+{
+ "day": 6,
+ "date": null,
+ "words": [
+  {
+   "id": 151,
+   "word": "reservation",
+   "uk": "/ˌrezəˈveɪʃn/",
+   "us": "/,rɛzɚˈveʃən/",
+   "pos": "n.",
+   "cn": "预订；保留；犹豫；居留地"
+  },
+  {
+   "id": 152,
+   "word": "revive",
+   "uk": "/rɪˈvaɪv/",
+   "us": "",
+   "pos": "v.",
+   "cn": "复苏"
+  },
+  {
+   "id": 153,
+   "word": "cordial",
+   "uk": "/ˈkɔːdiəl/",
+   "us": "/ˈkɔrdʒəl/",
+   "pos": "adj.",
+   "cn": "热情友好的；热诚的"
+  },
+  {
+   "id": 154,
+   "word": "timid",
+   "uk": "/ˈtɪmɪd/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "羞怯的；胆小的"
+  },
+  {
+   "id": 155,
+   "word": "loyalty",
+   "uk": "/ˈlɔɪəlti/",
+   "us": "",
+   "pos": "n.",
+   "cn": "忠诚；忠心"
+  },
+  {
+   "id": 156,
+   "word": "dismiss",
+   "uk": "/dɪsˈmɪs/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "不再考虑；解雇；解散；驳回"
+  },
+  {
+   "id": 157,
+   "word": "underlying",
+   "uk": "/ˌʌndəˈlaɪɪŋ/",
+   "us": "/,ʌndɚˈlaɪɪŋ/",
+   "pos": "adj.",
+   "cn": "在下面的；含蓄的；潜在的"
+  },
+  {
+   "id": 158,
+   "word": "reform",
+   "uk": "/rɪˈfɔːm/",
+   "us": "/rɪˈfɔrm/",
+   "pos": "v.,n.",
+   "cn": "改革；改良；改造；改正；改过自新"
+  },
+  {
+   "id": 159,
+   "word": "install",
+   "uk": "/ɪnˈstɔːl/",
+   "us": "/ɪnˈstɔl/",
+   "pos": "vt.",
+   "cn": "安装；设置；使就职；任命"
+  },
+  {
+   "id": 160,
+   "word": "ensue",
+   "uk": "/ɪnˈsjuː/",
+   "us": "/ɪnˈsu/",
+   "pos": "vi.",
+   "cn": "接着发生；接踵而来；因而产生"
+  },
+  {
+   "id": 161,
+   "word": "indication",
+   "uk": "/ˌɪndɪˈkeɪʃn/",
+   "us": "/,ɪndɪˈkeʃən/",
+   "pos": "n.",
+   "cn": "指出；指示；迹象；暗示"
+  },
+  {
+   "id": 162,
+   "word": "bulk",
+   "uk": "/bʌlk/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "变得越来越大；使更大；物体；体积；大批"
+  },
+  {
+   "id": 163,
+   "word": "bull",
+   "uk": "/bul/",
+   "us": "",
+   "pos": "n.",
+   "cn": "公牛；雄兽；买进证券投机图利者；看涨的人"
+  },
+  {
+   "id": 164,
+   "word": "champion",
+   "uk": "/ˈtʃæmpiən/",
+   "us": "/ˈtʃæmpɪən/",
+   "pos": "n.",
+   "cn": "冠军；得胜者；捍卫者；拥护者"
+  },
+  {
+   "id": 165,
+   "word": "ceramic",
+   "uk": "/səˈræmɪk/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "陶器的；陶瓷器"
+  },
+  {
+   "id": 166,
+   "word": "queer",
+   "uk": "/kwɪə/",
+   "us": "/kwɪr/",
+   "pos": "adj.",
+   "cn": "奇怪的；异常的；不舒服的；眩晕的"
+  },
+  {
+   "id": 167,
+   "word": "successor",
+   "uk": "/səkˈsesə/",
+   "us": "/səkˈsɛsɚ/",
+   "pos": "n.",
+   "cn": "接替的人或事物；继任者"
+  },
+  {
+   "id": 168,
+   "word": "enlightenment",
+   "uk": "/ɪnˈlaɪtnmənt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "启发；开导；开明；文明"
+  },
+  {
+   "id": 169,
+   "word": "booklet",
+   "uk": "/ˈbuklət/",
+   "us": "/ˈbʊklət/",
+   "pos": "n.",
+   "cn": "小册子"
+  },
+  {
+   "id": 170,
+   "word": "magnificent",
+   "uk": "/mægˈnɪfɪsnt/",
+   "us": "/mægˈnɪfəsnt/",
+   "pos": "adj.",
+   "cn": "壮丽的；华丽的；极好的"
+  },
+  {
+   "id": 171,
+   "word": "stagger",
+   "uk": "/ˈstægə/",
+   "us": "/ˈstægɚ/",
+   "pos": "vi.,vt.,n.",
+   "cn": "摇晃；蹒跚；使吃惊；使错开；使交错；蹒跚；踉跄"
+  },
+  {
+   "id": 172,
+   "word": "irony",
+   "uk": "/ˈaɪərəni/",
+   "us": "/ˈaɪrəni/",
+   "pos": "n.",
+   "cn": "反话；冷嘲；嘲弄；具有讽刺意味的事"
+  },
+  {
+   "id": 173,
+   "word": "restrict",
+   "uk": "/rɪˈstrɪkt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "限制；约束；限定"
+  },
+  {
+   "id": 174,
+   "word": "bandage",
+   "uk": "/ˈbændɪdʒ/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "绷带；用绷带绑扎"
+  },
+  {
+   "id": 175,
+   "word": "prevalence",
+   "uk": "/ˈprevələns/",
+   "us": "/ˈprɛvələns/",
+   "pos": "n.",
+   "cn": "流行"
+  },
+  {
+   "id": 176,
+   "word": "scrap",
+   "uk": "/skræp/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "碎片；碎屑；废金属；残羹剩饭；少量；点滴；废弃；抛弃"
+  },
+  {
+   "id": 177,
+   "word": "syndrome",
+   "uk": "/ˈsɪndrəum/",
+   "us": "/ˈsɪndrəm/",
+   "pos": "n.",
+   "cn": "综合病症；综合症状；一系列表现"
+  },
+  {
+   "id": 178,
+   "word": "tow",
+   "uk": "/təu/",
+   "us": "/to/",
+   "pos": "vt.,n.",
+   "cn": "拖；拉；牵引"
+  },
+  {
+   "id": 179,
+   "word": "imperative",
+   "uk": "/ɪmˈperətɪv/",
+   "us": "/ɪmˈpɛrətɪv/",
+   "pos": "adj.,n.",
+   "cn": "必要的；紧急的；极重要的；命令的；必要的事；必须完成的事；【语】祈使语气"
+  },
+  {
+   "id": 180,
+   "word": "meadow",
+   "uk": "/ˈmedəu/",
+   "us": "/ˈmɛdo/",
+   "pos": "n.",
+   "cn": "草地"
+  }
+ ]
+}

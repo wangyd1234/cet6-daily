@@ -1,0 +1,365 @@
+{
+  "day": 52,
+  "words": [
+    {
+      "word": "dilemma",
+      "phr": [
+        {"en": "face a dilemma", "zh": "面临两难处境"},
+        {"en": "a moral dilemma", "zh": "道德困境"}
+      ],
+      "ex": [
+        {"en": "She faced a real dilemma: accept the job offer or stay with her family.",
+         "zh": "她面临真正的难题：接受这份工作还是留在家人身边。"}
+      ],
+      "note": "常见搭配是 face a dilemma、in a dilemma，指两难处境。"
+    },
+    {
+      "word": "engagement",
+      "phr": [
+        {"en": "announce one's engagement", "zh": "宣布订婚"},
+        {"en": "a prior engagement", "zh": "有约在先"}
+      ],
+      "ex": [
+        {"en": "They announced their engagement at a small family dinner.",
+         "zh": "他们在一场小型家庭晚餐上宣布订婚。"}
+      ],
+      "note": "engagement 指订婚或约定；engaging 意为迷人的，注意区分。"
+    },
+    {
+      "word": "wealthy",
+      "phr": [
+        {"en": "a wealthy family", "zh": "富裕家庭"},
+        {"en": "a wealthy nation", "zh": "富裕国家"}
+      ],
+      "ex": [
+        {"en": "The wealthy businessman donated a large sum to the local school.",
+         "zh": "这位富商向当地学校捐了一大笔钱。"}
+      ],
+      "note": "wealthy 比 rich 正式；the wealthy 指富人阶层。"
+    },
+    {
+      "word": "slum",
+      "phr": [
+        {"en": "a slum area", "zh": "贫民区"},
+        {"en": "clear the slums", "zh": "拆除贫民窟"}
+      ],
+      "ex": [
+        {"en": "The charity works to improve housing in the city's slum areas.",
+         "zh": "该慈善机构致力于改善城市贫民区的住房。"}
+      ],
+      "note": "slum 常用复数 the slums 指贫民区，多与住房话题相关。"
+    },
+    {
+      "word": "foam",
+      "phr": [
+        {"en": "shaving foam", "zh": "剃须泡沫"},
+        {"en": "foam at the mouth", "zh": "口吐白沫；大怒"}
+      ],
+      "ex": [
+        {"en": "The waves crashed against the rocks and sent white foam into the air.",
+         "zh": "海浪拍打岩石，白色泡沫飞溅到空中。"}
+      ],
+      "note": "foam 多指泡沫；foam at the mouth 常比喻大怒。"
+    },
+    {
+      "word": "disregard",
+      "phr": [
+        {"en": "disregard for", "zh": "对…的漠视"},
+        {"en": "disregard the rules", "zh": "无视规则"}
+      ],
+      "ex": [
+        {"en": "He was criticized for his complete disregard for safety rules.",
+         "zh": "他因完全无视安全规定而受到批评。"}
+      ],
+      "note": "disregard 后接名词；名词搭配是 disregard for sth。"
+    },
+    {
+      "word": "administration",
+      "phr": [
+        {"en": "business administration", "zh": "工商管理"},
+        {"en": "the current administration", "zh": "现任政府"}
+      ],
+      "ex": [
+        {"en": "She earned a degree in business administration before joining the firm.",
+         "zh": "她加入公司前获得了工商管理学位。"}
+      ],
+      "note": "administration 可指管理，也可指政府；动词是 administer。"
+    },
+    {
+      "word": "occasional",
+      "phr": [
+        {"en": "occasional visits", "zh": "偶尔的造访"},
+        {"en": "the occasional shower", "zh": "偶尔的阵雨"}
+      ],
+      "ex": [
+        {"en": "Apart from the occasional shower, the weather stayed fine all week.",
+         "zh": "除偶尔的阵雨外，整周天气都不错。"}
+      ],
+      "note": "occasional 是形容词，表偶尔；副词 occasionally 更常用。"
+    },
+    {
+      "word": "dwell",
+      "phr": [
+        {"en": "dwell on", "zh": "老是想着"},
+        {"en": "dwell in", "zh": "居住于"}
+      ],
+      "ex": [
+        {"en": "There is no point in dwelling on mistakes you cannot change.",
+         "zh": "老想着无法改变的过错没有意义。"}
+      ],
+      "note": "dwell in 现多用于文学；dwell on sth 指反复思虑。"
+    },
+    {
+      "word": "incorporate",
+      "phr": [
+        {"en": "incorporate into", "zh": "纳入；并入"},
+        {"en": "incorporate new ideas", "zh": "吸收新想法"}
+      ],
+      "ex": [
+        {"en": "The designer incorporated traditional patterns into the new building.",
+         "zh": "设计师把传统图案融入了这座新建筑。"}
+      ],
+      "note": "incorporate sth into sth 是固定搭配，含融为一体之意。"
+    },
+    {
+      "word": "debate",
+      "phr": [
+        {"en": "a heated debate", "zh": "激烈辩论"},
+        {"en": "debate over", "zh": "就…展开辩论"}
+      ],
+      "ex": [
+        {"en": "The proposal sparked a heated debate among the committee members.",
+         "zh": "该提案在委员会成员中引发了激烈辩论。"}
+      ],
+      "note": "debate 可作名词和动词；debate on 或 over sth 更常见。"
+    },
+    {
+      "word": "extinguish",
+      "phr": [
+        {"en": "extinguish a fire", "zh": "扑灭火灾"},
+        {"en": "extinguish a cigarette", "zh": "掐灭香烟"}
+      ],
+      "ex": [
+        {"en": "Firefighters worked through the night to extinguish the flames.",
+         "zh": "消防员连夜扑灭大火。"}
+      ],
+      "note": "extinguish 比 put out 正式；extinguisher 是灭火器。"
+    },
+    {
+      "word": "vulnerable",
+      "phr": [
+        {"en": "vulnerable to", "zh": "易受…伤害"},
+        {"en": "vulnerable groups", "zh": "弱势群体"}
+      ],
+      "ex": [
+        {"en": "Older people are more vulnerable to the flu in winter.",
+         "zh": "冬天老年人更容易患流感。"}
+      ],
+      "note": "be vulnerable to sth 是固定搭配；名词是 vulnerability。"
+    },
+    {
+      "word": "furniture",
+      "phr": [
+        {"en": "a piece of furniture", "zh": "一件家具"},
+        {"en": "office furniture", "zh": "办公家具"}
+      ],
+      "ex": [
+        {"en": "They bought most of their furniture at a second-hand market.",
+         "zh": "他们的家具大多购自二手市场。"}
+      ],
+      "note": "furniture 不可数，计量用 a piece of furniture。"
+    },
+    {
+      "word": "segment",
+      "phr": [
+        {"en": "a segment of", "zh": "…的一部分"},
+        {"en": "a market segment", "zh": "市场细分"}
+      ],
+      "ex": [
+        {"en": "This segment of the market is growing faster than any other.",
+         "zh": "这个市场板块比其他任何板块增长都快。"}
+      ],
+      "note": "segment 指整体中划分出的一段；动词意为分割。"
+    },
+    {
+      "word": "counterpart",
+      "phr": [
+        {"en": "one's counterpart", "zh": "与自己职位相当的人"},
+        {"en": "the female counterpart", "zh": "女性对应者"}
+      ],
+      "ex": [
+        {"en": "The minister met her French counterpart to discuss trade.",
+         "zh": "部长会见了法国同僚，讨论贸易问题。"}
+      ],
+      "note": "counterpart 指地位或作用相当者，常用于对比两国职位。"
+    },
+    {
+      "word": "preach",
+      "phr": [
+        {"en": "preach the gospel", "zh": "传福音"},
+        {"en": "practice what you preach", "zh": "言行一致"}
+      ],
+      "ex": [
+        {"en": "Parents should practice what they preach if they want children to listen.",
+         "zh": "父母要想孩子听话，就该言行一致。"}
+      ],
+      "note": "practice what you preach 是习语，指言行一致。"
+    },
+    {
+      "word": "flank",
+      "phr": [
+        {"en": "on the left flank", "zh": "在左翼"},
+        {"en": "be flanked by", "zh": "两侧是…"}
+      ],
+      "ex": [
+        {"en": "The stage was flanked by two large screens showing the speech.",
+         "zh": "舞台两侧各有一块大屏幕播放演讲。"}
+      ],
+      "note": "be flanked by 表两侧有…；flank 也指军事上的侧翼。"
+    },
+    {
+      "word": "donate",
+      "phr": [
+        {"en": "donate blood", "zh": "献血"},
+        {"en": "donate to charity", "zh": "捐给慈善机构"}
+      ],
+      "ex": [
+        {"en": "Hundreds of residents donated blood after the earthquake.",
+         "zh": "地震后数百名居民献血。"}
+      ],
+      "note": "donate sth to sb 或 sth；名词是 donation。"
+    },
+    {
+      "word": "pendulum",
+      "phr": [
+        {"en": "a pendulum clock", "zh": "摆钟"},
+        {"en": "the swing of the pendulum", "zh": "舆论的转向"}
+      ],
+      "ex": [
+        {"en": "Public opinion has swung like a pendulum between the two extremes.",
+         "zh": "舆论像钟摆一样在两种极端之间摇摆。"}
+      ],
+      "note": "pendulum 常比喻局势或舆论的摇摆。"
+    },
+    {
+      "word": "defiance",
+      "phr": [
+        {"en": "in defiance of", "zh": "不顾；违抗"},
+        {"en": "an act of defiance", "zh": "违抗行为"}
+      ],
+      "ex": [
+        {"en": "He left the meeting in defiance of the chairman's orders.",
+         "zh": "他违抗主席的命令离开了会场。"}
+      ],
+      "note": "in defiance of 是固定搭配，后接规定、命令等。"
+    },
+    {
+      "word": "sovereign",
+      "phr": [
+        {"en": "a sovereign state", "zh": "主权国家"},
+        {"en": "sovereign power", "zh": "最高权力"}
+      ],
+      "ex": [
+        {"en": "Every sovereign state has the right to control its own borders.",
+         "zh": "每个主权国家都有权控制自己的边界。"}
+      ],
+      "note": "sovereign 指拥有最高权力；名词是 sovereignty。"
+    },
+    {
+      "word": "cater",
+      "phr": [
+        {"en": "cater to", "zh": "迎合"},
+        {"en": "cater for", "zh": "为…提供饮食"}
+      ],
+      "ex": [
+        {"en": "The hotel caters mainly to business travelers and conference groups.",
+         "zh": "这家酒店主要接待商务旅客和会议团体。"}
+      ],
+      "note": "cater to 多指迎合需求，cater for 多指提供饮食。"
+    },
+    {
+      "word": "attractive",
+      "phr": [
+        {"en": "an attractive offer", "zh": "有吸引力的报价"},
+        {"en": "attractive to", "zh": "对…有吸引力"}
+      ],
+      "ex": [
+        {"en": "The city offers an attractive package of jobs and affordable housing.",
+         "zh": "这座城市提供了工作和可负担住房的诱人组合。"}
+      ],
+      "note": "attractive 后接 to 表对某人有吸引力；名词是 attraction。"
+    },
+    {
+      "word": "significant",
+      "phr": [
+        {"en": "a significant increase", "zh": "显著增长"},
+        {"en": "significant differences", "zh": "显著差异"}
+      ],
+      "ex": [
+        {"en": "There has been a significant increase in online sales this year.",
+         "zh": "今年网上销售额显著增长。"}
+      ],
+      "note": "significant 既可指重要，也可指数量可观，注意语境。"
+    },
+    {
+      "word": "duplicate",
+      "phr": [
+        {"en": "a duplicate copy", "zh": "副本"},
+        {"en": "in duplicate", "zh": "一式两份"}
+      ],
+      "ex": [
+        {"en": "Please submit the form in duplicate to the front desk.",
+         "zh": "请将表格一式两份交到前台。"}
+      ],
+      "note": "in duplicate 表一式两份；作动词时重音在后。"
+    },
+    {
+      "word": "bleed",
+      "phr": [
+        {"en": "bleed to death", "zh": "失血而死"},
+        {"en": "bleed heavily", "zh": "流血不止"}
+      ],
+      "ex": [
+        {"en": "His hand was bleeding heavily, so we rushed him to hospital.",
+         "zh": "他的手流血不止，我们赶紧送他去医院。"}
+      ],
+      "note": "bleed 是不规则动词，过去式为 bled；名词是 blood。"
+    },
+    {
+      "word": "rein",
+      "phr": [
+        {"en": "rein in", "zh": "控制；约束"},
+        {"en": "give free rein to", "zh": "放任"}
+      ],
+      "ex": [
+        {"en": "The government promised to rein in rising house prices.",
+         "zh": "政府承诺抑制不断上涨的房价。"}
+      ],
+      "note": "rein in 表约束；give free rein to 表放任，两者相反。"
+    },
+    {
+      "word": "decrease",
+      "phr": [
+        {"en": "a decrease in", "zh": "…的减少"},
+        {"en": "decrease by", "zh": "减少了"}
+      ],
+      "ex": [
+        {"en": "The number of accidents decreased by nearly a third last year.",
+         "zh": "去年事故数量减少了近三分之一。"}
+      ],
+      "note": "decrease by 表减少幅度，decrease to 表减少到某值。"
+    },
+    {
+      "word": "flutter",
+      "phr": [
+        {"en": "flutter in the wind", "zh": "在风中飘动"},
+        {"en": "a flutter of wings", "zh": "翅膀的拍动"}
+      ],
+      "ex": [
+        {"en": "Flags fluttered in the wind along the main street.",
+         "zh": "主街道两旁的旗帜在风中飘扬。"}
+      ],
+      "note": "flutter 指轻快地飘动或拍翅，比 fly 更轻。"
+    }
+  ]
+}

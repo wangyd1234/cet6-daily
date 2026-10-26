@@ -1,0 +1,335 @@
+{
+  "day": 46,
+  "words": [
+    {
+      "word": "epoch",
+      "phr": [
+        {"en": "a new epoch", "zh": "新纪元"},
+        {"en": "epoch-making", "zh": "划时代的"}
+      ],
+      "ex": [
+        {"en": "The invention of the internet marked a new epoch in communication.", "zh": "互联网的发明标志着通信的新纪元。"}
+      ],
+      "note": "epoch 指重大事件开启的时代，常见 a new epoch in。"
+    },
+    {
+      "word": "saleable",
+      "phr": [
+        {"en": "saleable goods", "zh": "适销商品"},
+        {"en": "highly saleable", "zh": "非常畅销"}
+      ],
+      "ex": [
+        {"en": "Their new design proved highly saleable among young buyers.", "zh": "他们的新设计在年轻买家中很畅销。"}
+      ],
+      "note": "saleable 是 sale 加 -able；美式也拼作 salable。"
+    },
+    {
+      "word": "crew",
+      "phr": [
+        {"en": "the crew of the ship", "zh": "全体船员"},
+        {"en": "a film crew", "zh": "摄制组"}
+      ],
+      "ex": [
+        {"en": "The crew worked through the night to repair the damaged engine.", "zh": "船员们通宵修理受损的发动机。"}
+      ],
+      "note": "crew 是集合名词，指全体成员，强调个体时可用复数。"
+    },
+    {
+      "word": "manufacturer",
+      "phr": [
+        {"en": "a car manufacturer", "zh": "汽车制造商"},
+        {"en": "the manufacturer's instructions", "zh": "厂家的说明"}
+      ],
+      "ex": [
+        {"en": "The manufacturer recalled the product after several complaints.", "zh": "收到几起投诉后，制造商召回了该产品。"}
+      ],
+      "note": "manufacturer 由 manufacture 加 -er，指制造商。"
+    },
+    {
+      "word": "defeat",
+      "phr": [
+        {"en": "defeat an opponent", "zh": "击败对手"},
+        {"en": "admit defeat", "zh": "认输"}
+      ],
+      "ex": [
+        {"en": "The team refused to admit defeat after losing the first game.", "zh": "输掉第一场比赛后，球队拒绝认输。"}
+      ],
+      "note": "admit defeat 是固定说法「认输」。"
+    },
+    {
+      "word": "valid",
+      "phr": [
+        {"en": "a valid ticket", "zh": "有效车票"},
+        {"en": "a valid argument", "zh": "站得住脚的论点"}
+      ],
+      "ex": [
+        {"en": "This passport is no longer valid, so you cannot travel with it.", "zh": "这本护照已失效，不能用来出行。"}
+      ],
+      "note": "valid 强调法律或逻辑上有效，与 effective 侧重不同。"
+    },
+    {
+      "word": "inertia",
+      "phr": [
+        {"en": "overcome inertia", "zh": "克服惰性"},
+        {"en": "a state of inertia", "zh": "惰性状态"}
+      ],
+      "ex": [
+        {"en": "It took a real effort to overcome the inertia and start exercising.", "zh": "他费了很大力气才克服惰性开始锻炼。"}
+      ],
+      "note": "inertia 本为物理「惯性」，引申为不愿改变的惰性。"
+    },
+    {
+      "word": "encourage",
+      "phr": [
+        {"en": "encourage sb to do", "zh": "鼓励某人做"},
+        {"en": "encourage investment", "zh": "鼓励投资"}
+      ],
+      "ex": [
+        {"en": "Our teacher encouraged us to ask questions in class.", "zh": "老师鼓励我们在课堂上提问。"}
+      ],
+      "note": "encourage sb to do sth；名词是 encouragement。"
+    },
+    {
+      "word": "vacuum",
+      "phr": [
+        {"en": "a vacuum cleaner", "zh": "真空吸尘器"},
+        {"en": "leave a vacuum", "zh": "留下真空"}
+      ],
+      "ex": [
+        {"en": "He vacuumed the whole flat before the guests arrived.", "zh": "客人到来前他把整间公寓都吸尘打扫了。"}
+      ],
+      "note": "vacuum 作动词指用吸尘器打扫；in a vacuum 指脱离现实。"
+    },
+    {
+      "word": "extravagant",
+      "phr": [
+        {"en": "extravagant spending", "zh": "挥霍"},
+        {"en": "an extravagant lifestyle", "zh": "奢侈的生活方式"}
+      ],
+      "ex": [
+        {"en": "Her extravagant lifestyle finally left her deep in debt.", "zh": "她奢侈的生活方式最终让她债台高筑。"}
+      ],
+      "note": "extra-（超出）加 vag（漫游），本义漫游过头，引申为挥霍。"
+    },
+    {
+      "word": "accommodate",
+      "phr": [
+        {"en": "accommodate guests", "zh": "接待客人"},
+        {"en": "accommodate the needs of", "zh": "满足…的需求"}
+      ],
+      "ex": [
+        {"en": "The new hall can accommodate up to five hundred people.", "zh": "新礼堂最多可容纳五百人。"}
+      ],
+      "note": "表「容纳」直接接宾语；表「适应」用 accommodate oneself to。"
+    },
+    {
+      "word": "bubble",
+      "phr": [
+        {"en": "bubble economy", "zh": "泡沫经济"},
+        {"en": "burst the bubble", "zh": "戳破泡沫"}
+      ],
+      "ex": [
+        {"en": "The housing bubble finally burst and prices fell sharply.", "zh": "房地产泡沫最终破裂，房价急剧下跌。"}
+      ],
+      "note": "bubble 常喻不实之物，如 economic bubble 经济泡沫。"
+    },
+    {
+      "word": "morality",
+      "phr": [
+        {"en": "public morality", "zh": "公共道德"},
+        {"en": "a sense of morality", "zh": "道德感"}
+      ],
+      "ex": [
+        {"en": "The novel raises questions about public morality and personal freedom.", "zh": "这部小说提出公共道德与个人自由的问题。"}
+      ],
+      "note": "morality 指道德体系，具体道德或寓意用 moral。"
+    },
+    {
+      "word": "yield",
+      "phr": [
+        {"en": "yield to", "zh": "屈服于"},
+        {"en": "yield results", "zh": "产生结果"}
+      ],
+      "ex": [
+        {"en": "The land yields enough grain to feed the whole village.", "zh": "这片土地出产的粮食足以养活全村人。"}
+      ],
+      "note": "yield to 表让步或屈服；作名词指产量，如 crop yield。"
+    },
+    {
+      "word": "electronic",
+      "phr": [
+        {"en": "electronic equipment", "zh": "电子设备"},
+        {"en": "electronic payment", "zh": "电子支付"}
+      ],
+      "ex": [
+        {"en": "Most students now prefer electronic books to paper ones.", "zh": "现在多数学生更喜欢电子书而不是纸质书。"}
+      ],
+      "note": "electronic 是电子的，electric 是用电的。"
+    },
+    {
+      "word": "transplant",
+      "phr": [
+        {"en": "a heart transplant", "zh": "心脏移植"},
+        {"en": "transplant seedlings", "zh": "移栽幼苗"}
+      ],
+      "ex": [
+        {"en": "The patient is still waiting for a suitable heart transplant.", "zh": "这名病人仍在等待合适的心脏移植。"}
+      ],
+      "note": "transplant 作名词重音在前，作动词重音在后。"
+    },
+    {
+      "word": "terrace",
+      "phr": [
+        {"en": "a roof terrace", "zh": "屋顶露台"},
+        {"en": "terraced houses", "zh": "排屋"}
+      ],
+      "ex": [
+        {"en": "They had dinner on the roof terrace overlooking the river.", "zh": "他们在俯瞰河流的屋顶露台上吃晚饭。"}
+      ],
+      "note": "terrace 指阶梯平台或露台；terraced house 指排屋。"
+    },
+    {
+      "word": "deficit",
+      "phr": [
+        {"en": "trade deficit", "zh": "贸易逆差"},
+        {"en": "budget deficit", "zh": "预算赤字"}
+      ],
+      "ex": [
+        {"en": "The country has been running a large trade deficit for years.", "zh": "该国多年来一直存在巨额贸易逆差。"}
+      ],
+      "note": "deficit 常搭 trade/budget deficit；反义是 surplus。"
+    },
+    {
+      "word": "sacred",
+      "phr": [
+        {"en": "a sacred duty", "zh": "神圣职责"},
+        {"en": "hold sth sacred", "zh": "视…为神圣"}
+      ],
+      "ex": [
+        {"en": "For the local people, the mountain is sacred and must not be climbed.", "zh": "对当地人来说，这座山是神圣的，不得攀登。"}
+      ],
+      "note": "sacred 强调宗教或传统上的神圣；holy 更泛。"
+    },
+    {
+      "word": "cathedral",
+      "phr": [
+        {"en": "a Gothic cathedral", "zh": "哥特式大教堂"},
+        {"en": "the cathedral square", "zh": "教堂广场"}
+      ],
+      "ex": [
+        {"en": "We spent the morning walking around the old cathedral.", "zh": "我们上午绕着那座古老的大教堂散步。"}
+      ],
+      "note": "cathedral 指设主教座堂的大教堂；church 泛指教堂。"
+    },
+    {
+      "word": "elegant",
+      "phr": [
+        {"en": "an elegant solution", "zh": "简洁巧妙的解法"},
+        {"en": "an elegant dress", "zh": "优雅的连衣裙"}
+      ],
+      "ex": [
+        {"en": "The mathematician found an elegant solution to the problem.", "zh": "这位数学家为这个问题找到了简洁漂亮的解法。"}
+      ],
+      "note": "elegant 除优雅外，也修饰 solution，表简洁巧妙。"
+    },
+    {
+      "word": "synthesis",
+      "phr": [
+        {"en": "a synthesis of", "zh": "…的综合"},
+        {"en": "protein synthesis", "zh": "蛋白质合成"}
+      ],
+      "ex": [
+        {"en": "The book is a synthesis of history and philosophy.", "zh": "这本书是历史与哲学的综合。"}
+      ],
+      "note": "synthesis 复数 syntheses；动词是 synthesize。"
+    },
+    {
+      "word": "incidentally",
+      "phr": [
+        {"en": "incidentally mention", "zh": "顺便提到"},
+        {"en": "only incidentally", "zh": "只是偶然地"}
+      ],
+      "ex": [
+        {"en": "Incidentally, I saw your brother at the station this morning.", "zh": "顺便说一下，我今天早上在车站看到你哥哥了。"}
+      ],
+      "note": "incidentally 用于引出题外话，相当于 by the way。"
+    },
+    {
+      "word": "polar",
+      "phr": [
+        {"en": "polar bear", "zh": "北极熊"},
+        {"en": "polar opposite", "zh": "截然相反的事物"}
+      ],
+      "ex": [
+        {"en": "In terms of education, their views are polar opposites.", "zh": "在教育问题上，他们的看法截然相反。"}
+      ],
+      "note": "polar opposite 指截然相反；polar bear 是北极熊。"
+    },
+    {
+      "word": "shark",
+      "phr": [
+        {"en": "a great white shark", "zh": "大白鲨"},
+        {"en": "loan shark", "zh": "放高利贷者"}
+      ],
+      "ex": [
+        {"en": "The swimmers were warned that sharks had been seen near the beach.", "zh": "游泳者被告知海滩附近出现过鲨鱼。"}
+      ],
+      "note": "loan shark 指放高利贷的人，带贬义。"
+    },
+    {
+      "word": "linger",
+      "phr": [
+        {"en": "linger on", "zh": "继续存留"},
+        {"en": "linger over", "zh": "慢慢享用；拖延"}
+      ],
+      "ex": [
+        {"en": "A few guests lingered in the garden long after dinner.", "zh": "晚饭后很久，还有几位客人在花园里逗留。"}
+      ],
+      "note": "linger 常接 on 或 over，含不愿离开、慢慢消磨之意。"
+    },
+    {
+      "word": "historian",
+      "phr": [
+        {"en": "an art historian", "zh": "艺术史学家"},
+        {"en": "a leading historian", "zh": "著名历史学家"}
+      ],
+      "ex": [
+        {"en": "Historians still disagree about the causes of the war.", "zh": "历史学家对这场战争的起因仍有分歧。"}
+      ],
+      "note": "historian 由 history 加 -ian 构成。"
+    },
+    {
+      "word": "cumulative",
+      "phr": [
+        {"en": "cumulative effect", "zh": "累积效应"},
+        {"en": "cumulative total", "zh": "累计总数"}
+      ],
+      "ex": [
+        {"en": "The cumulative effect of small savings can be surprising.", "zh": "小额储蓄的累积效果可能出人意料。"}
+      ],
+      "note": "cumulative 强调逐步累加，常见 cumulative effect。"
+    },
+    {
+      "word": "prototype",
+      "phr": [
+        {"en": "a working prototype", "zh": "可运行的原型"},
+        {"en": "a prototype of", "zh": "…的原型"}
+      ],
+      "ex": [
+        {"en": "Engineers have built a prototype of the new engine.", "zh": "工程师已造出新发动机的原型。"}
+      ],
+      "note": "proto-（最初）加 type（型），即原型、样机。"
+    },
+    {
+      "word": "overpass",
+      "phr": [
+        {"en": "a pedestrian overpass", "zh": "人行天桥"},
+        {"en": "a highway overpass", "zh": "公路立交桥"}
+      ],
+      "ex": [
+        {"en": "We took the pedestrian overpass to cross the busy road.", "zh": "我们走人行天桥穿过繁忙的马路。"}
+      ],
+      "note": "overpass 是美式说法，英式多用 flyover。"
+    }
+  ]
+}

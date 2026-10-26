@@ -1,0 +1,365 @@
+{
+  "day": 69,
+  "words": [
+    {
+      "word": "specialty",
+      "phr": [
+        {"en": "a local specialty", "zh": "当地特产"},
+        {"en": "a specialty dish", "zh": "特色菜"}
+      ],
+      "ex": [
+        {"en": "The restaurant is famous for its grilled fish, a local specialty of the region.",
+         "zh": "这家餐厅以烤鱼闻名，那是当地的特色菜。"}
+      ],
+      "note": "美式常用 specialty 指特色菜和专长，英式多用 speciality。"
+    },
+    {
+      "word": "vary",
+      "phr": [
+        {"en": "vary from person to person", "zh": "因人而异"},
+        {"en": "vary in size", "zh": "大小不一"}
+      ],
+      "ex": [
+        {"en": "Prices of fresh vegetables vary greatly from season to season in this market.",
+         "zh": "这个市场上新鲜蔬菜的价格随季节变化很大。"}
+      ],
+      "note": "常与 from...to... 或 in 搭配；名词为 variety。"
+    },
+    {
+      "word": "readily",
+      "phr": [
+        {"en": "readily available", "zh": "容易获得的"},
+        {"en": "readily agree", "zh": "欣然同意"}
+      ],
+      "ex": [
+        {"en": "Information about the course is readily available on the university website.",
+         "zh": "关于这门课程的信息在大学网站上很容易查到。"}
+      ],
+      "note": "readily 兼有「容易地」与「乐意地」两义；readily available 高频。"
+    },
+    {
+      "word": "coherent",
+      "phr": [
+        {"en": "a coherent argument", "zh": "连贯的论证"},
+        {"en": "a coherent account", "zh": "条理清楚的叙述"}
+      ],
+      "ex": [
+        {"en": "She gave a coherent account of what had happened that night.",
+         "zh": "她对那天晚上发生的事情做了条理清楚的叙述。"}
+      ],
+      "note": "co- 表共同，her 表粘；coherent 强调逻辑连贯、不散乱。"
+    },
+    {
+      "word": "intercourse",
+      "phr": [
+        {"en": "social intercourse", "zh": "社交往来"},
+        {"en": "commercial intercourse", "zh": "商业往来"}
+      ],
+      "ex": [
+        {"en": "The two countries have long enjoyed peaceful commercial intercourse along the border.",
+         "zh": "两国长期在边境地区保持着和平的商业往来。"}
+      ],
+      "note": "现多用于 social／commercial intercourse，指正式的往来交流。"
+    },
+    {
+      "word": "convenience",
+      "phr": [
+        {"en": "at your convenience", "zh": "在你方便的时候"},
+        {"en": "for convenience", "zh": "为了方便"}
+      ],
+      "ex": [
+        {"en": "Please reply to this email at your earliest convenience.",
+         "zh": "请在您方便时尽早回复这封邮件。"}
+      ],
+      "note": "at your convenience 是礼貌说法；不说 I am convenient。"
+    },
+    {
+      "word": "decency",
+      "phr": [
+        {"en": "a sense of decency", "zh": "是非感"},
+        {"en": "common decency", "zh": "基本的体面"}
+      ],
+      "ex": [
+        {"en": "He had the decency to apologize for the mistake he had made.",
+         "zh": "他还懂得体面，为自己犯的错误道了歉。"}
+      ],
+      "note": "来自 decent（得体的）；have the decency to do 指讲体面地做。"
+    },
+    {
+      "word": "falsehood",
+      "phr": [
+        {"en": "tell a falsehood", "zh": "说谎"},
+        {"en": "a pack of falsehoods", "zh": "一派谎言"}
+      ],
+      "ex": [
+        {"en": "The witness was accused of spreading falsehoods about the company.",
+         "zh": "这名证人被指控散布有关该公司的谎言。"}
+      ],
+      "note": "false 加后缀 -hood 构成，指谎言或虚假，比 lie 正式。"
+    },
+    {
+      "word": "discipline",
+      "phr": [
+        {"en": "maintain discipline", "zh": "维持纪律"},
+        {"en": "self-discipline", "zh": "自律"}
+      ],
+      "ex": [
+        {"en": "Learning a language requires discipline and a little patience every day.",
+         "zh": "学一门语言需要自律，还需要每天一点耐心。"}
+      ],
+      "note": "作名词指纪律、学科，作动词指训练或惩戒。"
+    },
+    {
+      "word": "ponder",
+      "phr": [
+        {"en": "ponder over", "zh": "仔细思量"},
+        {"en": "ponder a question", "zh": "思考一个问题"}
+      ],
+      "ex": [
+        {"en": "She sat by the window and pondered over the offer for a long time.",
+         "zh": "她坐在窗边，长时间思索着那个提议。"}
+      ],
+      "note": "比 think 正式，多与 over／on 搭配，指仔细思量。"
+    },
+    {
+      "word": "objective",
+      "phr": [
+        {"en": "an objective view", "zh": "客观的看法"},
+        {"en": "achieve an objective", "zh": "实现目标"}
+      ],
+      "ex": [
+        {"en": "A good journalist tries to give an objective view of the events.",
+         "zh": "优秀的记者会努力对事件给出客观的看法。"}
+      ],
+      "note": "作形容词是客观的，作名词是目标；反义词 subjective。"
+    },
+    {
+      "word": "exert",
+      "phr": [
+        {"en": "exert influence on", "zh": "对…施加影响"},
+        {"en": "exert pressure on", "zh": "对…施加压力"}
+      ],
+      "ex": [
+        {"en": "Parents can exert a strong influence on how their children study.",
+         "zh": "父母能对孩子的学习方式产生很大影响。"}
+      ],
+      "note": "exert 多与 influence、pressure、effort 搭配。"
+    },
+    {
+      "word": "scandal",
+      "phr": [
+        {"en": "a political scandal", "zh": "政治丑闻"},
+        {"en": "cause a scandal", "zh": "引起丑闻"}
+      ],
+      "ex": [
+        {"en": "The scandal forced the minister to resign from his post last week.",
+         "zh": "这桩丑闻迫使那位部长上周辞去了职务。"}
+      ],
+      "note": "指丑闻，形容词 scandalous 意为令人愤慨的。"
+    },
+    {
+      "word": "composite",
+      "phr": [
+        {"en": "a composite material", "zh": "复合材料"},
+        {"en": "a composite index", "zh": "综合指数"}
+      ],
+      "ex": [
+        {"en": "The wing is made of a light composite material that resists heat.",
+         "zh": "机翼由一种耐热的轻质复合材料制成。"}
+      ],
+      "note": "com- 表共同，pos 表放；指由多个部分合成的。"
+    },
+    {
+      "word": "hinder",
+      "phr": [
+        {"en": "hinder sb from doing", "zh": "妨碍某人做某事"},
+        {"en": "hinder progress", "zh": "妨碍进展"}
+      ],
+      "ex": [
+        {"en": "Heavy rain hindered the rescue team from reaching the village.",
+         "zh": "大雨妨碍了救援队抵达那个村庄。"}
+      ],
+      "note": "hinder sb from doing 为固定结构，语气比 prevent 弱。"
+    },
+    {
+      "word": "scent",
+      "phr": [
+        {"en": "the scent of flowers", "zh": "花香"},
+        {"en": "pick up a scent", "zh": "嗅到气味"}
+      ],
+      "ex": [
+        {"en": "The scent of fresh coffee filled the small kitchen.",
+         "zh": "新鲜咖啡的香气充满了这间小厨房。"}
+      ],
+      "note": "指淡淡香味或气味，也可指踪迹；follow the scent 追踪。"
+    },
+    {
+      "word": "estimate",
+      "phr": [
+        {"en": "a rough estimate", "zh": "粗略估计"},
+        {"en": "estimate at", "zh": "估计为"}
+      ],
+      "ex": [
+        {"en": "Experts estimate that the project will take about two more years.",
+         "zh": "专家估计这个项目还需要大约两年时间。"}
+      ],
+      "note": "作动词重音在后，作名词重音在前；rough estimate 为粗估。"
+    },
+    {
+      "word": "diploma",
+      "phr": [
+        {"en": "a college diploma", "zh": "大学文凭"},
+        {"en": "award a diploma", "zh": "颁发文凭"}
+      ],
+      "ex": [
+        {"en": "She earned her diploma in nursing after three years of study.",
+         "zh": "她学习三年后获得了护理专业文凭。"}
+      ],
+      "note": "指毕业文凭；degree 指学位，二者不可混用。"
+    },
+    {
+      "word": "exhibit",
+      "phr": [
+        {"en": "on exhibit", "zh": "在展出"},
+        {"en": "exhibit an interest in", "zh": "表现出对…的兴趣"}
+      ],
+      "ex": [
+        {"en": "Several of her paintings will be on exhibit at the museum this spring.",
+         "zh": "她的几幅画今年春天将在博物馆展出。"}
+      ],
+      "note": "作名词指展品；on exhibit 相当于 on display。"
+    },
+    {
+      "word": "brand",
+      "phr": [
+        {"en": "a brand name", "zh": "品牌名称"},
+        {"en": "brand loyalty", "zh": "品牌忠诚度"}
+      ],
+      "ex": [
+        {"en": "The company spent millions building a brand that customers trust.",
+         "zh": "该公司花费数百万打造了一个受顾客信任的品牌。"}
+      ],
+      "note": "作动词指打烙印、加污名；brand name 是品牌名。"
+    },
+    {
+      "word": "suspension",
+      "phr": [
+        {"en": "a suspension bridge", "zh": "悬索桥"},
+        {"en": "the suspension of talks", "zh": "会谈的中止"}
+      ],
+      "ex": [
+        {"en": "The suspension of the talks surprised everyone in the room.",
+         "zh": "会谈的中止让房间里的所有人都感到意外。"}
+      ],
+      "note": "suspend 是动词；suspension bridge 指悬索桥。"
+    },
+    {
+      "word": "alcohol",
+      "phr": [
+        {"en": "alcohol content", "zh": "酒精含量"},
+        {"en": "give up alcohol", "zh": "戒酒"}
+      ],
+      "ex": [
+        {"en": "The doctor advised him to avoid alcohol while taking the medicine.",
+         "zh": "医生建议他服药期间不要饮酒。"}
+      ],
+      "note": "不可数名词；alcoholic 指含酒精的或酗酒者。"
+    },
+    {
+      "word": "inevitable",
+      "phr": [
+        {"en": "an inevitable result", "zh": "必然的结果"},
+        {"en": "it is inevitable that", "zh": "…是不可避免的"}
+      ],
+      "ex": [
+        {"en": "Some delay was inevitable once the snow began to fall.",
+         "zh": "雪一开始下，某种延误就不可避免了。"}
+      ],
+      "note": "in-（不）+ evit（避开）+ able，常与 delay、decline 搭配。"
+    },
+    {
+      "word": "deny",
+      "phr": [
+        {"en": "deny the charge", "zh": "否认指控"},
+        {"en": "deny doing sth", "zh": "否认做过某事"}
+      ],
+      "ex": [
+        {"en": "The manager continues to deny taking money from the company account.",
+         "zh": "经理仍否认从公司账户里拿过钱。"}
+      ],
+      "note": "后接 doing 而非 to do；deny sb sth 意为拒绝给予。"
+    },
+    {
+      "word": "trench",
+      "phr": [
+        {"en": "dig a trench", "zh": "挖沟"},
+        {"en": "a trench coat", "zh": "风衣"}
+      ],
+      "ex": [
+        {"en": "Workers dug a deep trench along the road to lay new pipes.",
+         "zh": "工人们沿路挖了一条深沟以铺设新管道。"}
+      ],
+      "note": "指沟渠，也指战壕；trench coat 即风衣。"
+    },
+    {
+      "word": "subtract",
+      "phr": [
+        {"en": "subtract A from B", "zh": "从 B 中减去 A"},
+        {"en": "add or subtract", "zh": "加减"}
+      ],
+      "ex": [
+        {"en": "If you subtract three from ten, you get seven.",
+         "zh": "十减去三等于七。"}
+      ],
+      "note": "subtract A from B 表示从 B 减去 A，介词用 from。"
+    },
+    {
+      "word": "recreation",
+      "phr": [
+        {"en": "outdoor recreation", "zh": "户外娱乐"},
+        {"en": "a recreation center", "zh": "娱乐中心"}
+      ],
+      "ex": [
+        {"en": "The park offers plenty of space for outdoor recreation.",
+         "zh": "这个公园为户外娱乐提供了充足的空间。"}
+      ],
+      "note": "re-（再）+ create，由「恢复精力」引申为消遣娱乐。"
+    },
+    {
+      "word": "frustration",
+      "phr": [
+        {"en": "in frustration", "zh": "沮丧地"},
+        {"en": "a sense of frustration", "zh": "挫败感"}
+      ],
+      "ex": [
+        {"en": "He threw the broken phone away in frustration.",
+         "zh": "他沮丧地把坏掉的手机扔到一边。"}
+      ],
+      "note": "不可数，常用 in frustration；动词 frustrate 使受挫。"
+    },
+    {
+      "word": "allowance",
+      "phr": [
+        {"en": "a monthly allowance", "zh": "每月零用钱"},
+        {"en": "make allowance for", "zh": "考虑到；体谅"}
+      ],
+      "ex": [
+        {"en": "Her parents send a small monthly allowance to help with rent.",
+         "zh": "她父母每月寄一笔小额零用钱帮她付房租。"}
+      ],
+      "note": "make allowance for 意为考虑到、体谅，为常考短语。"
+    },
+    {
+      "word": "hurricane",
+      "phr": [
+        {"en": "a hurricane warning", "zh": "飓风警报"},
+        {"en": "the hurricane season", "zh": "飓风季"}
+      ],
+      "ex": [
+        {"en": "The hurricane destroyed hundreds of houses along the coast.",
+         "zh": "这场飓风摧毁了沿海数百所房屋。"}
+      ],
+      "note": "指大西洋飓风；太平洋的称 typhoon，印度洋的称 cyclone。"
+    }
+  ]
+}

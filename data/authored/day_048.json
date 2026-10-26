@@ -1,0 +1,365 @@
+{
+  "day": 48,
+  "words": [
+    {
+      "word": "expense",
+      "phr": [
+        {"en": "living expenses", "zh": "生活开支"},
+        {"en": "at the expense of", "zh": "以…为代价"}
+      ],
+      "ex": [
+        {"en": "He moved to a cheaper city to cut his living expenses.",
+         "zh": "他搬到消费较低的城市以削减生活开支。"}
+      ],
+      "note": "expenses 指各项开支；at the expense of 表“以…为代价”。"
+    },
+    {
+      "word": "traverse",
+      "phr": [
+        {"en": "traverse the desert", "zh": "穿越沙漠"},
+        {"en": "traverse rough terrain", "zh": "穿越崎岖地形"}
+      ],
+      "ex": [
+        {"en": "The explorers traversed the frozen desert in only three weeks.",
+         "zh": "探险者仅用三周就穿越了冰封的荒漠。"}
+      ],
+      "note": "traverse 指横穿较大区域，比 cross 正式，多用于书面语。"
+    },
+    {
+      "word": "rigorous",
+      "phr": [
+        {"en": "rigorous training", "zh": "严格训练"},
+        {"en": "rigorous analysis", "zh": "严密分析"}
+      ],
+      "ex": [
+        {"en": "All new employees must complete a rigorous training program.",
+         "zh": "所有新员工都必须完成严格的培训项目。"}
+      ],
+      "note": "rigorous 侧重标准严格、逻辑严密，常修饰 training、analysis。"
+    },
+    {
+      "word": "yell",
+      "phr": [
+        {"en": "yell at sb", "zh": "对某人大喊"},
+        {"en": "yell for help", "zh": "大声呼救"}
+      ],
+      "ex": [
+        {"en": "She yelled at the driver to watch where he was going.",
+         "zh": "她冲着司机大喊，让他看好路。"}
+      ],
+      "note": "yell at sb 含责备意味；yell for help 是大声呼救。"
+    },
+    {
+      "word": "contemporary",
+      "phr": [
+        {"en": "contemporary art", "zh": "当代艺术"},
+        {"en": "contemporary society", "zh": "当代社会"}
+      ],
+      "ex": [
+        {"en": "The museum has a large collection of contemporary Chinese art.",
+         "zh": "这家博物馆收藏了大量中国当代艺术作品。"}
+      ],
+      "note": "contemporary 指同一时代或当代，常修饰艺术、社会。"
+    },
+    {
+      "word": "tribe",
+      "phr": [
+        {"en": "a native tribe", "zh": "土著部落"},
+        {"en": "a nomadic tribe", "zh": "游牧部落"}
+      ],
+      "ex": [
+        {"en": "The tribe has lived in the mountains for hundreds of years.",
+         "zh": "这个部落已在山中生活了数百年。"}
+      ],
+      "note": "tribe 指部落；衍生词 tribal 意为“部落的”。"
+    },
+    {
+      "word": "activate",
+      "phr": [
+        {"en": "activate the alarm", "zh": "启动警报"},
+        {"en": "activate an account", "zh": "激活账户"}
+      ],
+      "ex": [
+        {"en": "You need to click the link to activate your new account.",
+         "zh": "你需要点击链接来激活新账户。"}
+      ],
+      "note": "activate 指使设备或账户开始起作用，常接 account、alarm。"
+    },
+    {
+      "word": "mobilize",
+      "phr": [
+        {"en": "mobilize resources", "zh": "调动资源"},
+        {"en": "mobilize public support", "zh": "动员公众支持"}
+      ],
+      "ex": [
+        {"en": "The government mobilized volunteers to help with the flood relief.",
+         "zh": "政府动员志愿者参与洪灾救援。"}
+      ],
+      "note": "mobilize 强调把人力、资源组织起来投入行动。"
+    },
+    {
+      "word": "mock",
+      "phr": [
+        {"en": "mock exam", "zh": "模拟考试"},
+        {"en": "mock interview", "zh": "模拟面试"}
+      ],
+      "ex": [
+        {"en": "Students take two mock exams before the real test.",
+         "zh": "学生在正式考试前要参加两次模拟考。"}
+      ],
+      "note": "mock 作定语表“模拟的”，mock exam、interview 很常见。"
+    },
+    {
+      "word": "minibus",
+      "phr": [
+        {"en": "by minibus", "zh": "乘小型巴士"},
+        {"en": "a school minibus", "zh": "学校小巴"}
+      ],
+      "ex": [
+        {"en": "We traveled to the village by minibus because the road was narrow.",
+         "zh": "因道路狭窄，我们乘小巴去了那个村子。"}
+      ],
+      "note": "minibus 指可载十余人小巴，常用 by minibus。"
+    },
+    {
+      "word": "repetitive",
+      "phr": [
+        {"en": "repetitive work", "zh": "重复性工作"},
+        {"en": "repetitive tasks", "zh": "重复性任务"}
+      ],
+      "ex": [
+        {"en": "Factory work can be boring and highly repetitive.",
+         "zh": "工厂工作可能枯燥且高度重复。"}
+      ],
+      "note": "repetitive 带贬义，指单调重复；名词形式是 repetition。"
+    },
+    {
+      "word": "gear",
+      "phr": [
+        {"en": "shift gears", "zh": "换挡"},
+        {"en": "gear up for", "zh": "为…做准备"}
+      ],
+      "ex": [
+        {"en": "The shops are gearing up for the holiday season.",
+         "zh": "商店正为假期购物季做准备。"}
+      ],
+      "note": "gear up for 表示“为…做准备”，shift gears 指换挡或转变。"
+    },
+    {
+      "word": "facilitate",
+      "phr": [
+        {"en": "facilitate communication", "zh": "促进沟通"},
+        {"en": "facilitate the process", "zh": "简化流程"}
+      ],
+      "ex": [
+        {"en": "The new software is designed to facilitate communication between teams.",
+         "zh": "这款新软件旨在促进团队间的沟通。"}
+      ],
+      "note": "facilitate 后接抽象名词，意为“使…更容易”，不接人。"
+    },
+    {
+      "word": "precipitate",
+      "phr": [
+        {"en": "precipitate a crisis", "zh": "引发危机"},
+        {"en": "precipitate the collapse", "zh": "加速崩溃"}
+      ],
+      "ex": [
+        {"en": "The sudden cut in funding could precipitate a serious crisis.",
+         "zh": "突然削减资金可能引发一场严重危机。"}
+      ],
+      "note": "precipitate 作动词读 /prɪˈsɪpɪteɪt/，指使某事突然发生。"
+    },
+    {
+      "word": "endow",
+      "phr": [
+        {"en": "be endowed with", "zh": "天生具有"},
+        {"en": "endow a scholarship", "zh": "捐设奖学金"}
+      ],
+      "ex": [
+        {"en": "She is endowed with a remarkable talent for languages.",
+         "zh": "她天生具有非凡的语言天赋。"}
+      ],
+      "note": "be endowed with 表“天生具有”，也可指捐资设立基金。"
+    },
+    {
+      "word": "financial",
+      "phr": [
+        {"en": "financial support", "zh": "财政支持"},
+        {"en": "financial crisis", "zh": "金融危机"}
+      ],
+      "ex": [
+        {"en": "The company is facing serious financial difficulties this year.",
+         "zh": "公司今年面临严重的财务困难。"}
+      ],
+      "note": "financial 修饰与钱相关的事物；注意 finance 是名词或动词。"
+    },
+    {
+      "word": "respective",
+      "phr": [
+        {"en": "their respective jobs", "zh": "各自的职位"},
+        {"en": "in their respective fields", "zh": "在各自领域"}
+      ],
+      "ex": [
+        {"en": "After the meeting, they returned to their respective offices.",
+         "zh": "会议结束后，他们各自回到了办公室。"}
+      ],
+      "note": "respective 只作定语，修饰复数名词，后接名词不接 of。"
+    },
+    {
+      "word": "quiver",
+      "phr": [
+        {"en": "quiver with fear", "zh": "因恐惧而发抖"},
+        {"en": "quiver with anger", "zh": "气得发抖"}
+      ],
+      "ex": [
+        {"en": "Her voice quivered with fear as she described the accident.",
+         "zh": "她描述事故时，声音因恐惧而发颤。"}
+      ],
+      "note": "quiver 指轻微快速的颤动，常与 with fear、anger 连用。"
+    },
+    {
+      "word": "slot",
+      "phr": [
+        {"en": "a parking slot", "zh": "停车位"},
+        {"en": "a time slot", "zh": "时间段"}
+      ],
+      "ex": [
+        {"en": "Please book a time slot before you visit the clinic.",
+         "zh": "去诊所前请先预约一个时间段。"}
+      ],
+      "note": "slot 指狭长开口，也指日程中的时间段或空位。"
+    },
+    {
+      "word": "harden",
+      "phr": [
+        {"en": "harden steel", "zh": "使钢变硬"},
+        {"en": "harden into stone", "zh": "硬化成石头"}
+      ],
+      "ex": [
+        {"en": "The clay will harden quickly once it is left in the sun.",
+         "zh": "黏土放在太阳下很快就会变硬。"}
+      ],
+      "note": "harden 指变硬、变坚强，也可说 harden one's heart。"
+    },
+    {
+      "word": "rot",
+      "phr": [
+        {"en": "rot away", "zh": "腐烂掉"},
+        {"en": "prevent rot", "zh": "防止腐烂"}
+      ],
+      "ex": [
+        {"en": "The fallen apples slowly rotted on the wet ground.",
+         "zh": "掉落的苹果在湿地上慢慢腐烂。"}
+      ],
+      "note": "rot 可作动词也可作名词，指木头、食物等腐烂。"
+    },
+    {
+      "word": "define",
+      "phr": [
+        {"en": "define a term", "zh": "给术语下定义"},
+        {"en": "clearly defined", "zh": "界定清楚的"}
+      ],
+      "ex": [
+        {"en": "The dictionary defines the word in a very simple way.",
+         "zh": "这本词典用很简单的方式给该词下定义。"}
+      ],
+      "note": "define 常用被动 clearly defined 表“界定清楚的”。"
+    },
+    {
+      "word": "predict",
+      "phr": [
+        {"en": "predict the future", "zh": "预测未来"},
+        {"en": "predict the outcome", "zh": "预测结果"}
+      ],
+      "ex": [
+        {"en": "Experts predict that prices will rise sharply next year.",
+         "zh": "专家预测明年物价将大幅上涨。"}
+      ],
+      "note": "predict 后接名词或 that 从句；名词是 prediction。"
+    },
+    {
+      "word": "dictate",
+      "phr": [
+        {"en": "dictate terms", "zh": "规定条件"},
+        {"en": "dictate a letter", "zh": "口授一封信"}
+      ],
+      "ex": [
+        {"en": "The teacher dictated a short passage to the class.",
+         "zh": "老师给全班口授了一段短文。"}
+      ],
+      "note": "dictate 可指口授，也可指强行规定；名词是 dictation。"
+    },
+    {
+      "word": "memorize",
+      "phr": [
+        {"en": "memorize new words", "zh": "记单词"},
+        {"en": "memorize the rules", "zh": "背规则"}
+      ],
+      "ex": [
+        {"en": "Many students try to memorize new words without using them.",
+         "zh": "许多学生试图记单词却不去使用它们。"}
+      ],
+      "note": "memorize 强调背诵记住；名词 memory 还可指记忆。"
+    },
+    {
+      "word": "render",
+      "phr": [
+        {"en": "render sb helpless", "zh": "使某人无助"},
+        {"en": "render assistance", "zh": "提供援助"}
+      ],
+      "ex": [
+        {"en": "The flood rendered the bridge completely useless for weeks.",
+         "zh": "洪水使这座桥数周完全无法通行。"}
+      ],
+      "note": "render 后接宾语加形容词，如 render sth useless。"
+    },
+    {
+      "word": "undermine",
+      "phr": [
+        {"en": "undermine confidence", "zh": "削弱信心"},
+        {"en": "undermine sb's authority", "zh": "削弱权威"}
+      ],
+      "ex": [
+        {"en": "Constant criticism from parents can undermine a child's confidence.",
+         "zh": "父母不断的批评会削弱孩子的自信心。"}
+      ],
+      "note": "undermine 由 under 加 mine（挖）而来，指暗中逐渐削弱。"
+    },
+    {
+      "word": "subjective",
+      "phr": [
+        {"en": "a subjective view", "zh": "主观看法"},
+        {"en": "subjective judgment", "zh": "主观判断"}
+      ],
+      "ex": [
+        {"en": "Taste in music is highly subjective and varies from person to person.",
+         "zh": "音乐品味很主观，因人而异。"}
+      ],
+      "note": "subjective 主观，反义词 objective 客观，注意词根 subject。"
+    },
+    {
+      "word": "blossom",
+      "phr": [
+        {"en": "in blossom", "zh": "盛开"},
+        {"en": "blossom into", "zh": "发展成"}
+      ],
+      "ex": [
+        {"en": "The cherry trees along the river blossom in early April.",
+         "zh": "河边的樱花树四月初开花。"}
+      ],
+      "note": "in blossom 表“正在开花”，blossom into 指发展成为。"
+    },
+    {
+      "word": "radical",
+      "phr": [
+        {"en": "radical change", "zh": "根本性变化"},
+        {"en": "radical reform", "zh": "激进改革"}
+      ],
+      "ex": [
+        {"en": "The company has undergone radical changes in the past two years.",
+         "zh": "这家公司在过去两年经历了根本性的变化。"}
+      ],
+      "note": "radical 修饰 change、reform 时指彻底、根本性的变革。"
+    }
+  ]
+}

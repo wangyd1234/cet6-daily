@@ -1,0 +1,365 @@
+{
+  "day": 34,
+  "words": [
+    {
+      "word": "invert",
+      "phr": [
+        {"en": "invert the order", "zh": "颠倒顺序"},
+        {"en": "inverted commas", "zh": "引号"}
+      ],
+      "ex": [
+        {"en": "If you invert the glass, the water will spill out at once.",
+         "zh": "如果把杯子倒过来，水立刻就会洒出来。"}
+      ],
+      "note": "in（向内）+vert（转）→ 使倒转；inverted commas 即引号。"
+    },
+    {
+      "word": "cradle",
+      "phr": [
+        {"en": "the cradle of civilization", "zh": "文明的摇篮"},
+        {"en": "rock the cradle", "zh": "摇摇篮"}
+      ],
+      "ex": [
+        {"en": "Greece is often called the cradle of Western civilization.",
+         "zh": "希腊常被称为西方文明的摇篮。"}
+      ],
+      "note": "cradle 指摇篮，也比喻发源地；from cradle to grave 指一生。"
+    },
+    {
+      "word": "discrete",
+      "phr": [
+        {"en": "discrete units", "zh": "离散单元"},
+        {"en": "discrete categories", "zh": "独立的类别"}
+      ],
+      "ex": [
+        {"en": "The course is divided into five discrete units, each tested separately.",
+         "zh": "这门课分为五个独立单元，各自单独考核。"}
+      ],
+      "note": "discrete 分离的；discreet 谨慎的，两者拼写易混。"
+    },
+    {
+      "word": "assurance",
+      "phr": [
+        {"en": "give an assurance", "zh": "作出保证"},
+        {"en": "with assurance", "zh": "有把握地"}
+      ],
+      "ex": [
+        {"en": "The manager gave us an assurance that the goods would arrive on time.",
+         "zh": "经理向我们保证货物会准时到达。"}
+      ],
+      "note": "assurance 指口头保证或信心；assure sb of sth 为其动词用法。"
+    },
+    {
+      "word": "psychiatrist",
+      "phr": [
+        {"en": "consult a psychiatrist", "zh": "看精神科医生"},
+        {"en": "a child psychiatrist", "zh": "儿童精神科医生"}
+      ],
+      "ex": [
+        {"en": "Her doctor suggested she see a psychiatrist about her sleeping problems.",
+         "zh": "她的医生建议她就睡眠问题去看精神科医生。"}
+      ],
+      "note": "psych（心理）+iatr（治疗）+ist；psychologist 是心理师。"
+    },
+    {
+      "word": "squad",
+      "phr": [
+        {"en": "a rescue squad", "zh": "救援队"},
+        {"en": "the bomb squad", "zh": "拆弹小组"}
+      ],
+      "ex": [
+        {"en": "A rescue squad arrived within minutes of the collapse.",
+         "zh": "坍塌发生几分钟后，一支救援队赶到了。"}
+      ],
+      "note": "squad 指执行特定任务的小队，比 team 更具编组色彩。"
+    },
+    {
+      "word": "disrupt",
+      "phr": [
+        {"en": "disrupt a meeting", "zh": "扰乱会议"},
+        {"en": "disrupt traffic", "zh": "扰乱交通"}
+      ],
+      "ex": [
+        {"en": "Heavy snow disrupted flights and trains across the north of the country.",
+         "zh": "大雪扰乱了该国北部的航班和火车。"}
+      ],
+      "note": "dis（分开）+rupt（断）→ 打断、扰乱，常用于服务与秩序。"
+    },
+    {
+      "word": "scar",
+      "phr": [
+        {"en": "leave a scar", "zh": "留下伤疤"},
+        {"en": "bear the scars", "zh": "带着伤痕"}
+      ],
+      "ex": [
+        {"en": "The accident left a long scar on his left arm.",
+         "zh": "那次事故在他左臂上留下一道长长的伤疤。"}
+      ],
+      "note": "scar 可指肉体伤疤，也可指心理创伤，常用复数。"
+    },
+    {
+      "word": "sergeant",
+      "phr": [
+        {"en": "a police sergeant", "zh": "警佐"},
+        {"en": "a staff sergeant", "zh": "上士"}
+      ],
+      "ex": [
+        {"en": "The sergeant ordered his men to search the empty building.",
+         "zh": "中士命令手下搜查那栋空楼。"}
+      ],
+      "note": "sergeant 是军警军衔，注意拼写中 g 后的 ea 与 nt。"
+    },
+    {
+      "word": "vital",
+      "phr": [
+        {"en": "play a vital role", "zh": "起关键作用"},
+        {"en": "of vital importance", "zh": "至关重要"}
+      ],
+      "ex": [
+        {"en": "Clean water is vital to the health of every community.",
+         "zh": "清洁的水对每个社区的健康都至关重要。"}
+      ],
+      "note": "vital 后接 to 或 for；含“生命”义，比 important 语气强。"
+    },
+    {
+      "word": "eccentric",
+      "phr": [
+        {"en": "eccentric behaviour", "zh": "古怪的行为"},
+        {"en": "an eccentric old man", "zh": "古怪的老人"}
+      ],
+      "ex": [
+        {"en": "Our neighbour is a little eccentric, but everyone likes him.",
+         "zh": "我们的邻居有点古怪，但大家都喜欢他。"}
+      ],
+      "note": "ec（出）+centr（中心）→ 偏离中心的，故指古怪反常。"
+    },
+    {
+      "word": "conflict",
+      "phr": [
+        {"en": "come into conflict with", "zh": "与…发生冲突"},
+        {"en": "a conflict of interest", "zh": "利益冲突"}
+      ],
+      "ex": [
+        {"en": "The two countries have been in conflict for more than a decade.",
+         "zh": "两国冲突已持续十多年。"}
+      ],
+      "note": "作名词重音在前，作动词在后；a conflict of interest 常考。"
+    },
+    {
+      "word": "appliance",
+      "phr": [
+        {"en": "household appliances", "zh": "家用电器"},
+        {"en": "a kitchen appliance", "zh": "厨房电器"}
+      ],
+      "ex": [
+        {"en": "Repairing household appliances is often cheaper than replacing them.",
+         "zh": "修理家用电器通常比更换更便宜。"}
+      ],
+      "note": "appliance 多指家用电器；apply 加 -ance 构成，注意拼写。"
+    },
+    {
+      "word": "alloy",
+      "phr": [
+        {"en": "a light alloy", "zh": "轻合金"},
+        {"en": "an alloy of copper and zinc", "zh": "铜与锌的合金"}
+      ],
+      "ex": [
+        {"en": "The frame is made of a light alloy that resists rust.",
+         "zh": "这个框架由一种防锈的轻合金制成。"}
+      ],
+      "note": "alloy 是金属混合物；alloy 作动词读 /əˈlɔɪ/。"
+    },
+    {
+      "word": "delusion",
+      "phr": [
+        {"en": "be under a delusion", "zh": "抱有错觉"},
+        {"en": "suffer from delusions", "zh": "有妄想"}
+      ],
+      "ex": [
+        {"en": "He is under the delusion that everyone agrees with him.",
+         "zh": "他抱有错觉，以为大家都同意他。"}
+      ],
+      "note": "delusion 是自我欺骗的错觉；illusion 多指视觉或表面假象。"
+    },
+    {
+      "word": "mass",
+      "phr": [
+        {"en": "mass production", "zh": "批量生产"},
+        {"en": "a mass of", "zh": "大量的"}
+      ],
+      "ex": [
+        {"en": "Mass production brought cars within reach of ordinary families.",
+         "zh": "批量生产使汽车进入普通家庭的购买范围。"}
+      ],
+      "note": "the masses 指民众；a mass of 后接可数或不可数名词。"
+    },
+    {
+      "word": "detect",
+      "phr": [
+        {"en": "detect a change", "zh": "察觉变化"},
+        {"en": "detect traces of", "zh": "检测到…的痕迹"}
+      ],
+      "ex": [
+        {"en": "The device can detect tiny amounts of gas in the air.",
+         "zh": "这个装置能检测出空气中的微量气体。"}
+      ],
+      "note": "detect 强调用仪器或感官发现不易察觉之物；名词 detection。"
+    },
+    {
+      "word": "update",
+      "phr": [
+        {"en": "update the software", "zh": "更新软件"},
+        {"en": "a news update", "zh": "新闻更新"}
+      ],
+      "ex": [
+        {"en": "Please update the software before you connect to the office network.",
+         "zh": "连接办公网络前请先更新软件。"}
+      ],
+      "note": "update 作动词重音在后，作名词可重音在前，均可。"
+    },
+    {
+      "word": "renaissance",
+      "phr": [
+        {"en": "Renaissance art", "zh": "文艺复兴艺术"},
+        {"en": "a cultural renaissance", "zh": "文化复兴"}
+      ],
+      "ex": [
+        {"en": "The city is enjoying a renaissance after years of decline.",
+         "zh": "这座城市在多年衰落后正经历复兴。"}
+      ],
+      "note": "re（再）+naiss（生）+ance → 复兴；首字母大写指文艺复兴。"
+    },
+    {
+      "word": "poisonous",
+      "phr": [
+        {"en": "poisonous gas", "zh": "有毒气体"},
+        {"en": "a poisonous snake", "zh": "毒蛇"}
+      ],
+      "ex": [
+        {"en": "The workers were told to leave because poisonous gas had escaped.",
+         "zh": "工人们被告知撤离，因为有毒气体泄漏了。"}
+      ],
+      "note": "poisonous 指本身有毒；toxic 更常用于工业、化学语境。"
+    },
+    {
+      "word": "condemn",
+      "phr": [
+        {"en": "condemn the attack", "zh": "谴责袭击"},
+        {"en": "be condemned to death", "zh": "被判死刑"}
+      ],
+      "ex": [
+        {"en": "World leaders condemned the attack on the hospital as a crime.",
+         "zh": "各国领导人谴责对医院的袭击是犯罪行为。"}
+      ],
+      "note": "condemn 既指公开谴责，也指判刑；后接 as 表“斥为”。"
+    },
+    {
+      "word": "assistance",
+      "phr": [
+        {"en": "give assistance", "zh": "提供帮助"},
+        {"en": "financial assistance", "zh": "经济援助"}
+      ],
+      "ex": [
+        {"en": "Students can ask for assistance if they cannot pay the fee.",
+         "zh": "学生付不起费用时可以申请援助。"}
+      ],
+      "note": "assistance 比 help 正式，常与 give、offer 搭配。"
+    },
+    {
+      "word": "auction",
+      "phr": [
+        {"en": "an auction house", "zh": "拍卖行"},
+        {"en": "sell at auction", "zh": "在拍卖会上出售"}
+      ],
+      "ex": [
+        {"en": "The old painting was sold at auction for a record price.",
+         "zh": "那幅旧画在拍卖会上以创纪录的价格成交。"}
+      ],
+      "note": "at auction 表“以拍卖方式”，前面不加冠词。"
+    },
+    {
+      "word": "propel",
+      "phr": [
+        {"en": "propel the boat", "zh": "推动船只"},
+        {"en": "propel economic growth", "zh": "推动经济增长"}
+      ],
+      "ex": [
+        {"en": "The small engine is strong enough to propel the boat upstream.",
+         "zh": "这台小发动机足以推动小船逆流而上。"}
+      ],
+      "note": "pro（向前）+pel（推）→ 推进；propeller 即螺旋桨。"
+    },
+    {
+      "word": "admit",
+      "phr": [
+        {"en": "admit a mistake", "zh": "承认错误"},
+        {"en": "be admitted to", "zh": "被…录取"}
+      ],
+      "ex": [
+        {"en": "He finally admitted that he had copied the report from a website.",
+         "zh": "他最终承认报告是从网站上抄袭的。"}
+      ],
+      "note": "admit 后接动名词或 that 从句，不接 to do；admit to 也可。"
+    },
+    {
+      "word": "uneven",
+      "phr": [
+        {"en": "uneven ground", "zh": "不平的地面"},
+        {"en": "an uneven surface", "zh": "不平整的表面"}
+      ],
+      "ex": [
+        {"en": "The path is uneven, so watch your step in the dark.",
+         "zh": "这条路不平，天黑时小心脚下。"}
+      ],
+      "note": "un（不）+even（平）→ 不平的，也指发展、分配不均衡。"
+    },
+    {
+      "word": "definition",
+      "phr": [
+        {"en": "by definition", "zh": "从定义上说"},
+        {"en": "a clear definition", "zh": "清晰的定义"}
+      ],
+      "ex": [
+        {"en": "The dictionary gives a clear definition of the term for beginners.",
+         "zh": "这本词典为初学者提供了该术语的清晰定义。"}
+      ],
+      "note": "by definition 常置于句首，表“按定义必然如此”。"
+    },
+    {
+      "word": "mansion",
+      "phr": [
+        {"en": "a country mansion", "zh": "乡村宅邸"},
+        {"en": "a huge mansion", "zh": "巨大的宅邸"}
+      ],
+      "ex": [
+        {"en": "They bought a huge mansion in the countryside last summer.",
+         "zh": "他们去年夏天在乡下买了一栋巨大的宅邸。"}
+      ],
+      "note": "mansion 指豪华大宅；manse 是牧师住宅，勿混。"
+    },
+    {
+      "word": "mask",
+      "phr": [
+        {"en": "wear a mask", "zh": "戴口罩"},
+        {"en": "mask the truth", "zh": "掩盖真相"}
+      ],
+      "ex": [
+        {"en": "Health workers asked everyone to wear a mask on public transport.",
+         "zh": "卫生工作者要求大家在公共交通上戴口罩。"}
+      ],
+      "note": "mask 作名词指面罩，作动词指掩饰，比 hide 更书面。"
+    },
+    {
+      "word": "patrol",
+      "phr": [
+        {"en": "on patrol", "zh": "在巡逻"},
+        {"en": "a police patrol", "zh": "警察巡逻队"}
+      ],
+      "ex": [
+        {"en": "Soldiers patrol the border every night in small groups.",
+         "zh": "士兵每晚分成小组巡逻边境。"}
+      ],
+      "note": "patrol 作动词重音在后；on patrol 是固定搭配。"
+    }
+  ]
+}

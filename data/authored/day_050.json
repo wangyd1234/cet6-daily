@@ -1,0 +1,365 @@
+{
+  "day": 50,
+  "words": [
+    {
+      "word": "erect",
+      "phr": [
+        {"en": "erect a building", "zh": "建造楼房"},
+        {"en": "stand erect", "zh": "站得笔直"}
+      ],
+      "ex": [
+        {"en": "Workers erected a temporary stage in the square.",
+         "zh": "工人们在广场上搭起了一个临时舞台。"}
+      ],
+      "note": "erect 作动词指建造、竖起，比 build 正式。"
+    },
+    {
+      "word": "professional",
+      "phr": [
+        {"en": "professional advice", "zh": "专业建议"},
+        {"en": "a medical professional", "zh": "医疗专业人员"}
+      ],
+      "ex": [
+        {"en": "You should seek professional advice before signing the contract.",
+         "zh": "签合同前你应该听取专业建议。"}
+      ],
+      "note": "professional 指职业的、专业的；名词是 profession。"
+    },
+    {
+      "word": "nil",
+      "phr": [
+        {"en": "win two nil", "zh": "以二比零取胜"},
+        {"en": "fall to nil", "zh": "降到零"}
+      ],
+      "ex": [
+        {"en": "The home team won the match three nil.",
+         "zh": "主队以三比零赢得了比赛。"}
+      ],
+      "note": "nil 多用于比分或统计，表示“零”，英式英语常见。"
+    },
+    {
+      "word": "identification",
+      "phr": [
+        {"en": "photo identification", "zh": "带照片的证件"},
+        {"en": "identification card", "zh": "身份证件"}
+      ],
+      "ex": [
+        {"en": "Please bring photo identification when you come to the interview.",
+         "zh": "面试时请带上带照片的证件。"}
+      ],
+      "note": "identification 常缩略为 ID，指身份证明。"
+    },
+    {
+      "word": "migrant",
+      "phr": [
+        {"en": "migrant workers", "zh": "外来务工人员"},
+        {"en": "a migrant bird", "zh": "候鸟"}
+      ],
+      "ex": [
+        {"en": "Many migrant workers send money home to their families.",
+         "zh": "许多外来务工者把钱寄回家。"}
+      ],
+      "note": "migrant 指流动的人或动物；immigrant 指移入者。"
+    },
+    {
+      "word": "protein",
+      "phr": [
+        {"en": "high in protein", "zh": "富含蛋白质"},
+        {"en": "protein intake", "zh": "蛋白质摄入"}
+      ],
+      "ex": [
+        {"en": "Beans and nuts are a good source of protein.",
+         "zh": "豆类和坚果是很好的蛋白质来源。"}
+      ],
+      "note": "protein 指蛋白质，常说 source of protein。"
+    },
+    {
+      "word": "annual",
+      "phr": [
+        {"en": "annual meeting", "zh": "年会"},
+        {"en": "annual income", "zh": "年收入"}
+      ],
+      "ex": [
+        {"en": "The company holds its annual meeting in the spring.",
+         "zh": "公司在春季举行年度会议。"}
+      ],
+      "note": "annual 指每年的；副词 annually，名词 anniversary 同源。"
+    },
+    {
+      "word": "exclusive",
+      "phr": [
+        {"en": "exclusive interview", "zh": "独家采访"},
+        {"en": "exclusive of", "zh": "不包括"}
+      ],
+      "ex": [
+        {"en": "The magazine published an exclusive interview with the singer.",
+         "zh": "这家杂志刊登了对那位歌手的独家采访。"}
+      ],
+      "note": "exclusive 指独家的、排他的；exclusive of 表不包括。"
+    },
+    {
+      "word": "repertoire",
+      "phr": [
+        {"en": "a wide repertoire", "zh": "丰富的曲目"},
+        {"en": "expand one's repertoire", "zh": "扩充曲目"}
+      ],
+      "ex": [
+        {"en": "The pianist has a wide repertoire of classical pieces.",
+         "zh": "这位钢琴家有大量古典曲目。"}
+      ],
+      "note": "repertoire 指演员或音乐家的全部曲目，也指技能储备。"
+    },
+    {
+      "word": "poverty",
+      "phr": [
+        {"en": "live in poverty", "zh": "生活贫困"},
+        {"en": "poverty line", "zh": "贫困线"}
+      ],
+      "ex": [
+        {"en": "Millions of families still live in poverty in that region.",
+         "zh": "那个地区仍有数百万家庭生活贫困。"}
+      ],
+      "note": "poverty 不可数；live in poverty 表生活贫困。"
+    },
+    {
+      "word": "resort",
+      "phr": [
+        {"en": "resort to", "zh": "诉诸"},
+        {"en": "a holiday resort", "zh": "度假胜地"}
+      ],
+      "ex": [
+        {"en": "The two sides should not resort to force to settle disputes.",
+         "zh": "双方不应诉诸武力来解决争端。"}
+      ],
+      "note": "resort to 后接名词或动名词，表不得已而采用。"
+    },
+    {
+      "word": "testify",
+      "phr": [
+        {"en": "testify against sb", "zh": "作证指控某人"},
+        {"en": "testify to", "zh": "证明"}
+      ],
+      "ex": [
+        {"en": "Two witnesses agreed to testify against the driver in court.",
+         "zh": "两名证人同意在法庭上指证那名司机。"}
+      ],
+      "note": "testify 后接 against sb 指控，to sth 证明。"
+    },
+    {
+      "word": "pearl",
+      "phr": [
+        {"en": "pearl necklace", "zh": "珍珠项链"},
+        {"en": "a string of pearls", "zh": "一串珍珠"}
+      ],
+      "ex": [
+        {"en": "She wore a simple pearl necklace to the wedding.",
+         "zh": "她戴着一条朴素的珍珠项链参加婚礼。"}
+      ],
+      "note": "pearl 指珍珠，pearl necklace 是最常见搭配。"
+    },
+    {
+      "word": "conclusive",
+      "phr": [
+        {"en": "conclusive evidence", "zh": "确凿证据"},
+        {"en": "conclusive proof", "zh": "确证"}
+      ],
+      "ex": [
+        {"en": "The police have not yet found conclusive evidence against him.",
+         "zh": "警方尚未找到针对他的确凿证据。"}
+      ],
+      "note": "conclusive 指能最终定论的，常修饰 evidence、proof。"
+    },
+    {
+      "word": "margin",
+      "phr": [
+        {"en": "by a narrow margin", "zh": "以微弱优势"},
+        {"en": "profit margin", "zh": "利润率"}
+      ],
+      "ex": [
+        {"en": "The team won the game by a narrow margin of two points.",
+         "zh": "该队以两分的微弱优势赢得了比赛。"}
+      ],
+      "note": "margin 指差额、余地；by a narrow margin 表以微弱优势。"
+    },
+    {
+      "word": "apt",
+      "phr": [
+        {"en": "be apt to do", "zh": "易于做某事"},
+        {"en": "an apt example", "zh": "恰当的例子"}
+      ],
+      "ex": [
+        {"en": "Children are apt to imitate what they see on screen.",
+         "zh": "孩子容易模仿他们在屏幕上看到的东西。"}
+      ],
+      "note": "be apt to do 表易于做某事；apt 也指恰当贴切。"
+    },
+    {
+      "word": "remain",
+      "phr": [
+        {"en": "remain unchanged", "zh": "保持不变"},
+        {"en": "remain to be seen", "zh": "尚待观察"}
+      ],
+      "ex": [
+        {"en": "The weather remained cold for the rest of the week.",
+         "zh": "那周余下时间天气一直很冷。"}
+      ],
+      "note": "remain 是系动词，后接形容词；名词常用复数 remains。"
+    },
+    {
+      "word": "pregnancy",
+      "phr": [
+        {"en": "during pregnancy", "zh": "怀孕期间"},
+        {"en": "a pregnancy test", "zh": "验孕"}
+      ],
+      "ex": [
+        {"en": "She stopped working during her second pregnancy last year.",
+         "zh": "去年她第二次怀孕期间停止了工作。"}
+      ],
+      "note": "pregnancy 为名词，形容词形式是 pregnant。"
+    },
+    {
+      "word": "shabby",
+      "phr": [
+        {"en": "a shabby coat", "zh": "破旧的外套"},
+        {"en": "shabby treatment", "zh": "不公正的对待"}
+      ],
+      "ex": [
+        {"en": "He wore a shabby coat that had seen better days.",
+         "zh": "他穿着一件早已破旧的外套。"}
+      ],
+      "note": "shabby 指衣物破旧，也指行为卑鄙不公。"
+    },
+    {
+      "word": "toss",
+      "phr": [
+        {"en": "toss a coin", "zh": "抛硬币"},
+        {"en": "toss and turn", "zh": "翻来覆去"}
+      ],
+      "ex": [
+        {"en": "They tossed a coin to decide who would go first.",
+         "zh": "他们抛硬币决定谁先去。"}
+      ],
+      "note": "toss a coin 指掷币决定；toss and turn 指辗转难眠。"
+    },
+    {
+      "word": "demand",
+      "phr": [
+        {"en": "meet the demand", "zh": "满足需求"},
+        {"en": "in demand", "zh": "抢手"}
+      ],
+      "ex": [
+        {"en": "The factory cannot meet the demand for its new phones.",
+         "zh": "这家工厂无法满足对新手机的需求。"}
+      ],
+      "note": "demand 后接 that 从句时常用虚拟语气 (should) do。"
+    },
+    {
+      "word": "reel",
+      "phr": [
+        {"en": "reel from", "zh": "因…而踉跄"},
+        {"en": "a reel of film", "zh": "一卷胶片"}
+      ],
+      "ex": [
+        {"en": "The town is still reeling from the earthquake.",
+         "zh": "这个小镇仍因地震而惊魂未定。"}
+      ],
+      "note": "reel from 指因打击而踉跄；a reel of film 指一卷胶片。"
+    },
+    {
+      "word": "pathetic",
+      "phr": [
+        {"en": "a pathetic excuse", "zh": "蹩脚的借口"},
+        {"en": "a pathetic sight", "zh": "可怜的景象"}
+      ],
+      "ex": [
+        {"en": "He gave a pathetic excuse for missing the deadline.",
+         "zh": "他为错过截止日期找了个蹩脚的借口。"}
+      ],
+      "note": "pathetic 指可怜，也常指差劲、令人失望。"
+    },
+    {
+      "word": "dissipate",
+      "phr": [
+        {"en": "dissipate energy", "zh": "消耗能量"},
+        {"en": "dissipate into", "zh": "消散到"}
+      ],
+      "ex": [
+        {"en": "The morning fog dissipated as the sun rose higher.",
+         "zh": "太阳升起，晨雾渐渐消散。"}
+      ],
+      "note": "dissipate 指雾气消散，也指精力、钱财被挥霍。"
+    },
+    {
+      "word": "flask",
+      "phr": [
+        {"en": "a glass flask", "zh": "玻璃烧瓶"},
+        {"en": "a vacuum flask", "zh": "保温瓶"}
+      ],
+      "ex": [
+        {"en": "The chemist heated the liquid in a small glass flask.",
+         "zh": "化学家在小型玻璃烧瓶里加热液体。"}
+      ],
+      "note": "flask 指实验室烧瓶，也可指随身小酒瓶。"
+    },
+    {
+      "word": "accuse",
+      "phr": [
+        {"en": "accuse sb of", "zh": "指控某人"},
+        {"en": "be accused of", "zh": "被指控"}
+      ],
+      "ex": [
+        {"en": "The manager accused him of leaking the plan to the press.",
+         "zh": "经理指责他把计划泄露给了媒体。"}
+      ],
+      "note": "accuse sb of sth 用 of，不能用 for；名词 accusation。"
+    },
+    {
+      "word": "disturbance",
+      "phr": [
+        {"en": "cause a disturbance", "zh": "引起骚乱"},
+        {"en": "emotional disturbance", "zh": "情绪困扰"}
+      ],
+      "ex": [
+        {"en": "The noisy neighbors caused a serious disturbance last night.",
+         "zh": "吵闹的邻居昨晚引起了严重骚乱。"}
+      ],
+      "note": "disturbance 指骚乱或打扰；动词是 disturb。"
+    },
+    {
+      "word": "visceral",
+      "phr": [
+        {"en": "a visceral reaction", "zh": "本能的反应"},
+        {"en": "visceral fear", "zh": "深层的恐惧"}
+      ],
+      "ex": [
+        {"en": "Many readers had a visceral reaction to the shocking news.",
+         "zh": "许多读者对这则惊人消息有本能反应。"}
+      ],
+      "note": "visceral 源自“内脏”，引申为发自本能、不加思考的。"
+    },
+    {
+      "word": "simultaneous",
+      "phr": [
+        {"en": "simultaneous interpretation", "zh": "同声传译"},
+        {"en": "simultaneous with", "zh": "与…同时"}
+      ],
+      "ex": [
+        {"en": "The conference offered simultaneous interpretation in three languages.",
+         "zh": "会议提供三种语言的同声传译。"}
+      ],
+      "note": "simultaneous 常修饰 interpretation 这类活动。"
+    },
+    {
+      "word": "instructional",
+      "phr": [
+        {"en": "instructional materials", "zh": "教学材料"},
+        {"en": "instructional design", "zh": "教学设计"}
+      ],
+      "ex": [
+        {"en": "The school has produced new instructional videos for online classes.",
+         "zh": "学校为网课制作了新的教学视频。"}
+      ],
+      "note": "instructional 修饰材料、视频、设计，指教学用途的。"
+    }
+  ]
+}

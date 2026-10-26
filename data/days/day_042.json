@@ -1,0 +1,246 @@
+{
+ "day": 42,
+ "date": null,
+ "words": [
+  {
+   "id": 1231,
+   "word": "weird",
+   "uk": "/wɪəd/",
+   "us": "/wɪrd/",
+   "pos": "adj.",
+   "cn": "古怪的；离奇的；怪诞的；神秘而可怕的"
+  },
+  {
+   "id": 1232,
+   "word": "characterize",
+   "uk": "/ˈkærəktəraɪz/",
+   "us": "/ˈkærəktəˈraɪz/",
+   "pos": "vt.",
+   "cn": "成为…的特征；以…为特征；描绘的特性；描述"
+  },
+  {
+   "id": 1233,
+   "word": "descent",
+   "uk": "/dɪˈsent/",
+   "us": "/dɪˈsɛnt/",
+   "pos": "n.",
+   "cn": "下降；下倾；斜坡；坡道；血统；世系"
+  },
+  {
+   "id": 1234,
+   "word": "ridiculous",
+   "uk": "/rɪˈdɪkjələs/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "荒谬的；可笑的"
+  },
+  {
+   "id": 1235,
+   "word": "turbulent",
+   "uk": "/ˈtɜːbjələnt/",
+   "us": "/ˈtɝbjələnt/",
+   "pos": "adj.",
+   "cn": "动荡的；混乱的；汹涌的；狂暴的"
+  },
+  {
+   "id": 1236,
+   "word": "overt",
+   "uk": "/əuˈvɜːt/",
+   "us": "/oˈvɝt/",
+   "pos": "adj.",
+   "cn": "公开的；不隐蔽的"
+  },
+  {
+   "id": 1237,
+   "word": "refute",
+   "uk": "/rɪˈfjuːt/",
+   "us": "/riˈfjʊt/",
+   "pos": "vt.",
+   "cn": "驳斥；驳倒"
+  },
+  {
+   "id": 1238,
+   "word": "precedent",
+   "uk": "/ˈpresɪdənt/",
+   "us": "/ˈprɛsɪdənt/",
+   "pos": "n.",
+   "cn": "先例；范例；【法】 判例；惯例"
+  },
+  {
+   "id": 1239,
+   "word": "severe",
+   "uk": "/sɪˈvɪə/",
+   "us": "/səˈvɪr/",
+   "pos": "adj.",
+   "cn": "严重的；严厉的；严格的；严峻的；艰难的；朴素的；不加装饰的"
+  },
+  {
+   "id": 1240,
+   "word": "emerge",
+   "uk": "/iˈmɜːdʒ/",
+   "us": "/ɪˈmɝdʒ/",
+   "pos": "vi.",
+   "cn": "出现；涌现；冒出"
+  },
+  {
+   "id": 1241,
+   "word": "exemplify",
+   "uk": "/ɪgˈzemplɪfaɪ/",
+   "us": "/ɪɡˈzɛmplɪfaɪ/",
+   "pos": "vt.",
+   "cn": "是…的典型；例示；举例证明"
+  },
+  {
+   "id": 1242,
+   "word": "lease",
+   "uk": "/liːs/",
+   "us": "/lis/",
+   "pos": "n.,vt.",
+   "cn": "租约；租契；出租；租得；租有"
+  },
+  {
+   "id": 1243,
+   "word": "exploit",
+   "uk": "/ˈeksplɔɪt;ɪkˈsplɔɪt/",
+   "us": "/ɛksplɔɪt;ɪkˈsplɔɪt/",
+   "pos": "vt.,n.",
+   "cn": "剥削；利用；开拓；业绩；功绩"
+  },
+  {
+   "id": 1244,
+   "word": "slap",
+   "uk": "/slæp/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "掴；掌击；拍；啪的一声放；掴；掌击；拍"
+  },
+  {
+   "id": 1245,
+   "word": "anniversary",
+   "uk": "/ˌænɪˈvɜːsəri/",
+   "us": "/,ænɪˈvɝsəri/",
+   "pos": "n.",
+   "cn": "周年"
+  },
+  {
+   "id": 1246,
+   "word": "register",
+   "uk": "/ˈredʒɪstə/",
+   "us": "/ˈrɛdʒɪstɚ/",
+   "pos": "v.,n.",
+   "cn": "登记；注册；指示；自动记下；表示；表达；注意到；记住；把挂号；登记；注册；登记表；注册簿"
+  },
+  {
+   "id": 1247,
+   "word": "communicate",
+   "uk": "/kəˈmjuːnɪkeɪt/",
+   "us": "/kəˈmjunɪket/",
+   "pos": "v.",
+   "cn": "通讯；交际；交流；连接；相通；传达；传播；传染"
+  },
+  {
+   "id": 1248,
+   "word": "evidence",
+   "uk": "/ˈevɪdəns/",
+   "us": "/ˈɛvɪdəns/",
+   "pos": "n.",
+   "cn": "根据；证据；证人"
+  },
+  {
+   "id": 1249,
+   "word": "jerk",
+   "uk": "/dʒɜːk/",
+   "us": "/dʒɝk/",
+   "pos": "v.,n.",
+   "cn": "猝然一动；猛拉；急推；急拉；急扭"
+  },
+  {
+   "id": 1250,
+   "word": "fling",
+   "uk": "/flɪŋ/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "扔；掷；使扑；使投身；尽情欢乐的一阵；一时的放纵"
+  },
+  {
+   "id": 1251,
+   "word": "stun",
+   "uk": "/stʌn/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "使震惊；使目瞪口呆；把…打昏；使昏迷"
+  },
+  {
+   "id": 1252,
+   "word": "acid",
+   "uk": "/ˈæsɪd/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "酸的；酸性的；尖刻的；刻薄的；酸"
+  },
+  {
+   "id": 1253,
+   "word": "autonomy",
+   "uk": "/ɔːˈtɒnəmi/",
+   "us": "/ɔˈtɑnəmi/",
+   "pos": "n.",
+   "cn": "自治；自治权；人身自由；自主权"
+  },
+  {
+   "id": 1254,
+   "word": "transmission",
+   "uk": "/trænzˈmɪʃn/",
+   "us": "/trænsˈmɪʃən/",
+   "pos": "n.",
+   "cn": "传播；发射；传送；传递；传染"
+  },
+  {
+   "id": 1255,
+   "word": "blush",
+   "uk": "/blʌʃ/",
+   "us": "",
+   "pos": "vi.,n.",
+   "cn": "脸红"
+  },
+  {
+   "id": 1256,
+   "word": "dubious",
+   "uk": "/ˈdjuːbjəs/",
+   "us": "/ˈdubɪəs/",
+   "pos": "adj.",
+   "cn": "怀疑的；犹豫不决的；无把握的；有问题的；靠不住的"
+  },
+  {
+   "id": 1257,
+   "word": "intuition",
+   "uk": "/ˌɪntjuˈɪʃn/",
+   "us": "/,ɪntuˈɪʃən/",
+   "pos": "n.",
+   "cn": "直觉；由直觉获知的信息"
+  },
+  {
+   "id": 1258,
+   "word": "artillery",
+   "uk": "/ɑːˈtɪləri/",
+   "us": "/ɑrˈtɪləri/",
+   "pos": "n.",
+   "cn": "火炮；大炮；炮兵"
+  },
+  {
+   "id": 1259,
+   "word": "educational",
+   "uk": "/ˌedʒuˈkeɪʃənl/",
+   "us": "/,ɛdʒuˈkeʃənl/",
+   "pos": "adj.",
+   "cn": "教育的；教育性的"
+  },
+  {
+   "id": 1260,
+   "word": "pose",
+   "uk": "/pəuz/",
+   "us": "/poz/",
+   "pos": "v.,n.",
+   "cn": "造成；引起；提出；陈述；摆姿势；假装；冒充；装腔作势；样子；姿势"
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+  "day": 74,
+  "words": [
+    {
+      "word": "accessory",
+      "phr": [
+        {"en": "a fashion accessory", "zh": "时尚配饰"},
+        {"en": "an accessory to murder", "zh": "谋杀帮凶"}
+      ],
+      "ex": [
+        {"en": "Her shop sells handbags, scarves and every kind of fashion accessory.",
+         "zh": "她的店出售手提包、围巾和各类时尚配饰。"}
+      ],
+      "note": "表配饰常用复数；法律语境指帮凶，后接 to。"
+    },
+    {
+      "word": "compromise",
+      "phr": [
+        {"en": "reach a compromise", "zh": "达成妥协"},
+        {"en": "compromise on", "zh": "在…上让步"}
+      ],
+      "ex": [
+        {"en": "After hours of talks, the two sides finally reached a compromise.",
+         "zh": "经过数小时会谈，双方终于达成妥协。"}
+      ],
+      "note": "常用 reach a compromise；compromise on 表在…让步。"
+    },
+    {
+      "word": "retort",
+      "phr": [
+        {"en": "retort angrily", "zh": "愤怒地反驳"},
+        {"en": "a sharp retort", "zh": "尖刻的反驳"}
+      ],
+      "ex": [
+        {"en": "When criticized, she retorted that the plan had actually worked well.",
+         "zh": "受到批评时，她反驳说这个计划其实很奏效。"}
+      ],
+      "note": "指立即反驳，常接 that 从句，语气较尖锐。"
+    },
+    {
+      "word": "electrify",
+      "phr": [
+        {"en": "electrify the crowd", "zh": "令观众激动"},
+        {"en": "electrify the railway", "zh": "使铁路电气化"}
+      ],
+      "ex": [
+        {"en": "His final performance managed to electrify the whole audience.",
+         "zh": "他的最后一场表演让全场观众激动不已。"}
+      ],
+      "note": "由 electric 变来，既指通电、电气化，也指使人振奋。"
+    },
+    {
+      "word": "seminar",
+      "phr": [
+        {"en": "attend a seminar", "zh": "参加研讨会"},
+        {"en": "a research seminar", "zh": "研究讨论课"}
+      ],
+      "ex": [
+        {"en": "She attended a seminar on climate change at the university last week.",
+         "zh": "上周她参加了大学里一场关于气候变化的研讨会。"}
+      ],
+      "note": "指研讨会或研究讨论课，常与 attend、hold 搭配。"
+    },
+    {
+      "word": "fringe",
+      "phr": [
+        {"en": "on the fringe of", "zh": "在…的边缘"},
+        {"en": "fringe benefits", "zh": "附加福利"}
+      ],
+      "ex": [
+        {"en": "Their new flat lies on the northern fringe of the city.",
+         "zh": "他们的新公寓位于城市北部的边缘地带。"}
+      ],
+      "note": "fringe 指边缘、外围；fringe benefits 指额外福利。"
+    },
+    {
+      "word": "competition",
+      "phr": [
+        {"en": "in competition with", "zh": "与…竞争"},
+        {"en": "face fierce competition", "zh": "面临激烈竞争"}
+      ],
+      "ex": [
+        {"en": "Small shops face fierce competition from large online retailers.",
+         "zh": "小店铺面临来自大型网络零售商的激烈竞争。"}
+      ],
+      "note": "常与 with/from 搭配；动词是 compete，名词 competitor。"
+    },
+    {
+      "word": "beyond",
+      "phr": [
+        {"en": "beyond doubt", "zh": "毫无疑问"},
+        {"en": "beyond one's control", "zh": "超出某人控制"}
+      ],
+      "ex": [
+        {"en": "The task is beyond the ability of a single student.",
+         "zh": "这项任务超出了一个学生的能力范围。"}
+      ],
+      "note": "beyond 表超出范围；beyond doubt 毫无疑问，很常考。"
+    },
+    {
+      "word": "hazard",
+      "phr": [
+        {"en": "a health hazard", "zh": "健康隐患"},
+        {"en": "a fire hazard", "zh": "火灾危险"}
+      ],
+      "ex": [
+        {"en": "Smoking is a serious health hazard for both smokers and others.",
+         "zh": "吸烟对吸烟者和他人都是严重的健康隐患。"}
+      ],
+      "note": "指危险、隐患；形容词是 hazardous，表危险的。"
+    },
+    {
+      "word": "justify",
+      "phr": [
+        {"en": "justify doing sth", "zh": "为做某事辩护"},
+        {"en": "justify one's decision", "zh": "为决定辩护"}
+      ],
+      "ex": [
+        {"en": "Nothing can justify treating loyal employees so badly and unfairly.",
+         "zh": "再没有什么能为如此恶劣不公地对待忠实员工开脱。"}
+      ],
+      "note": "justify 后接动名词；名词 justice 表公平、正义。"
+    },
+    {
+      "word": "dreadful",
+      "phr": [
+        {"en": "a dreadful mistake", "zh": "可怕的错误"},
+        {"en": "dreadful weather", "zh": "恶劣的天气"}
+      ],
+      "ex": [
+        {"en": "We had dreadful weather during our holiday in the mountains.",
+         "zh": "我们在山里度假期间天气糟透了。"}
+      ],
+      "note": "dread 加 -ful，表极糟的；口语中近义 terrible。"
+    },
+    {
+      "word": "voluntary",
+      "phr": [
+        {"en": "voluntary work", "zh": "志愿工作"},
+        {"en": "voluntary service", "zh": "志愿服务"}
+      ],
+      "ex": [
+        {"en": "She does voluntary work at the local hospital every weekend.",
+         "zh": "她每个周末都在当地医院做志愿工作。"}
+      ],
+      "note": "指自愿的、志愿的；名词和动词都是 volunteer。"
+    },
+    {
+      "word": "connection",
+      "phr": [
+        {"en": "in connection with", "zh": "与…有关"},
+        {"en": "a close connection", "zh": "密切的联系"}
+      ],
+      "ex": [
+        {"en": "The police are questioning a man in connection with the robbery.",
+         "zh": "警方正在审问一名与抢劫案有关的男子。"}
+      ],
+      "note": "in connection with 是固定短语表“关于、与…有关”。"
+    },
+    {
+      "word": "proof",
+      "phr": [
+        {"en": "proof of identity", "zh": "身份证明"},
+        {"en": "living proof", "zh": "活生生的证明"}
+      ],
+      "ex": [
+        {"en": "You need to show proof of identity before entering the building.",
+         "zh": "进入大楼前你需要出示身份证明。"}
+      ],
+      "note": "proof 常接 of；也作后缀表“防…的”，如 waterproof。"
+    },
+    {
+      "word": "militant",
+      "phr": [
+        {"en": "a militant group", "zh": "激进组织"},
+        {"en": "militant workers", "zh": "好斗的工人"}
+      ],
+      "ex": [
+        {"en": "The militant group refused to accept the government's new proposal.",
+         "zh": "该激进组织拒绝接受政府的新提议。"}
+      ],
+      "note": "词根 milit 表战斗，指好斗、激进；名词形式相同。"
+    },
+    {
+      "word": "simulate",
+      "phr": [
+        {"en": "simulate a real situation", "zh": "模拟真实情景"},
+        {"en": "simulate interest", "zh": "假装感兴趣"}
+      ],
+      "ex": [
+        {"en": "The software can simulate the conditions of a real flight.",
+         "zh": "这个软件能模拟真实飞行的条件。"}
+      ],
+      "note": "指模拟或假装；名词 simulation，形容词 simulated。"
+    },
+    {
+      "word": "intricacy",
+      "phr": [
+        {"en": "the intricacy of", "zh": "…的复杂性"},
+        {"en": "the intricacy of the law", "zh": "法律的复杂性"}
+      ],
+      "ex": [
+        {"en": "The intricacy of the watch design surprised every visitor.",
+         "zh": "这块手表的精巧设计让每位参观者惊讶。"}
+      ],
+      "note": "常用复数 intricacies 指复杂细节；形容词 intricate。"
+    },
+    {
+      "word": "phase",
+      "phr": [
+        {"en": "a new phase", "zh": "新阶段"},
+        {"en": "phase out", "zh": "逐步淘汰"}
+      ],
+      "ex": [
+        {"en": "The project has entered a new phase of development.",
+         "zh": "这个项目已进入新的发展阶段。"}
+      ],
+      "note": "phase out 指逐步停止使用；in phase 表同相、协调。"
+    },
+    {
+      "word": "dilute",
+      "phr": [
+        {"en": "dilute the paint", "zh": "稀释油漆"},
+        {"en": "dilute the effect", "zh": "削弱效果"}
+      ],
+      "ex": [
+        {"en": "The nurse diluted the medicine with water before giving it to the child.",
+         "zh": "护士用水把药稀释后才给孩子服用。"}
+      ],
+      "note": "指稀释、冲淡，也可比喻削弱效果；反义 concentrate。"
+    },
+    {
+      "word": "inclusive",
+      "phr": [
+        {"en": "inclusive of", "zh": "包括…在内"},
+        {"en": "an inclusive society", "zh": "包容的社会"}
+      ],
+      "ex": [
+        {"en": "The price is inclusive of breakfast and free internet access.",
+         "zh": "该价格包含早餐和免费上网。"}
+      ],
+      "note": "inclusive of 表包括在内；反义词是 exclusive。"
+    },
+    {
+      "word": "efficiency",
+      "phr": [
+        {"en": "improve efficiency", "zh": "提高效率"},
+        {"en": "energy efficiency", "zh": "能效"}
+      ],
+      "ex": [
+        {"en": "New machines have greatly improved the efficiency of the factory.",
+         "zh": "新机器大大提高了工厂的效率。"}
+      ],
+      "note": "由 efficient 变来，常与 improve、raise 搭配。"
+    },
+    {
+      "word": "ethnic",
+      "phr": [
+        {"en": "ethnic groups", "zh": "族群"},
+        {"en": "an ethnic minority", "zh": "少数民族"}
+      ],
+      "ex": [
+        {"en": "The city is home to many ethnic groups with different customs.",
+         "zh": "这座城市居住着许多习俗不同的族群。"}
+      ],
+      "note": "指种族的、民族的；ethnic group 比 race 更常用。"
+    },
+    {
+      "word": "spectacle",
+      "phr": [
+        {"en": "a magnificent spectacle", "zh": "壮观的景象"},
+        {"en": "make a spectacle of oneself", "zh": "当众出丑"}
+      ],
+      "ex": [
+        {"en": "The fireworks over the river were a magnificent spectacle.",
+         "zh": "河面上的烟花是一幅壮观的景象。"}
+      ],
+      "note": "指壮观场面、景象；make a spectacle of oneself 指出丑。"
+    },
+    {
+      "word": "overhead",
+      "phr": [
+        {"en": "overhead costs", "zh": "经常费用"},
+        {"en": "overhead cables", "zh": "架空电缆"}
+      ],
+      "ex": [
+        {"en": "A plane flew low overhead and drowned out our conversation.",
+         "zh": "一架飞机从头顶低飞而过，盖过了我们的谈话声。"}
+      ],
+      "note": "作名词常用复数 overheads 指经常费用，如 overhead costs。"
+    },
+    {
+      "word": "contract",
+      "phr": [
+        {"en": "sign a contract", "zh": "签合同"},
+        {"en": "contract with", "zh": "与…订合同"}
+      ],
+      "ex": [
+        {"en": "The company signed a two-year contract with a local supplier.",
+         "zh": "公司与当地一家供应商签了两年合同。"}
+      ],
+      "note": "名词重音在前，动词指收缩时重音在后。"
+    },
+    {
+      "word": "conclude",
+      "phr": [
+        {"en": "conclude that", "zh": "得出结论认为"},
+        {"en": "conclude a deal", "zh": "达成交易"}
+      ],
+      "ex": [
+        {"en": "The report concluded that the policy had done more harm than good.",
+         "zh": "报告得出结论认为该政策弊大于利。"}
+      ],
+      "note": "指结束、推断或缔结；名词 conclusion，短语 in conclusion。"
+    },
+    {
+      "word": "profitable",
+      "phr": [
+        {"en": "a profitable business", "zh": "赚钱的生意"},
+        {"en": "highly profitable", "zh": "利润丰厚"}
+      ],
+      "ex": [
+        {"en": "The restaurant became profitable only in its third year.",
+         "zh": "这家餐馆到第三年才开始盈利。"}
+      ],
+      "note": "profit 加 -able，指有利可图的；也指有益的。"
+    },
+    {
+      "word": "misfortune",
+      "phr": [
+        {"en": "suffer misfortune", "zh": "遭遇不幸"},
+        {"en": "a series of misfortunes", "zh": "一连串不幸"}
+      ],
+      "ex": [
+        {"en": "She never lost her sense of humour despite her misfortunes.",
+         "zh": "尽管屡遭不幸，她从未失去幽默感。"}
+      ],
+      "note": "mis- 表坏，指不幸、灾祸；可数时指具体的不幸事件。"
+    },
+    {
+      "word": "comprehension",
+      "phr": [
+        {"en": "reading comprehension", "zh": "阅读理解"},
+        {"en": "beyond comprehension", "zh": "难以理解"}
+      ],
+      "ex": [
+        {"en": "The teacher gave us a short test on reading comprehension.",
+         "zh": "老师给我们做了一次简短的阅读理解测验。"}
+      ],
+      "note": "指理解、理解力；beyond comprehension 表无法理解。"
+    },
+    {
+      "word": "susceptible",
+      "phr": [
+        {"en": "be susceptible to disease", "zh": "易患病"},
+        {"en": "susceptible to flattery", "zh": "爱听奉承话"}
+      ],
+      "ex": [
+        {"en": "Young children are more susceptible to infection in winter.",
+         "zh": "幼儿在冬天更容易受到感染。"}
+      ],
+      "note": "susceptible to 表易受…影响；to 后接名词或动名词。"
+    }
+  ]
+}

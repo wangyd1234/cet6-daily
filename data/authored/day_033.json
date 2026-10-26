@@ -1,0 +1,365 @@
+{
+  "day": 33,
+  "words": [
+    {
+      "word": "bureaucracy",
+      "phr": [
+        {"en": "government bureaucracy", "zh": "政府官僚机构"},
+        {"en": "cut bureaucracy", "zh": "减少官僚程序"}
+      ],
+      "ex": [
+        {"en": "Small firms often complain that bureaucracy makes it hard to start a business.",
+         "zh": "小公司常抱怨官僚程序让创业变得困难。"}
+      ],
+      "note": "bureau（局）+cracy（统治）；指繁复的行政程序，含贬义。"
+    },
+    {
+      "word": "household",
+      "phr": [
+        {"en": "household chores", "zh": "家务活"},
+        {"en": "a household name", "zh": "家喻户晓的名字"}
+      ],
+      "ex": [
+        {"en": "The survey shows that women still do most of the household work.",
+         "zh": "调查显示，女性仍承担大部分家务。"}
+      ],
+      "note": "作定语时意为“家庭的、家用的”，如 household chores。"
+    },
+    {
+      "word": "glide",
+      "phr": [
+        {"en": "glide smoothly", "zh": "平稳滑行"},
+        {"en": "glide through the air", "zh": "在空中滑翔"}
+      ],
+      "ex": [
+        {"en": "The skater glided smoothly across the ice without any visible effort.",
+         "zh": "滑冰者毫不费力地平稳滑过冰面。"}
+      ],
+      "note": "glide 强调无声、轻盈地滑动，与 slide（摩擦滑动）不同。"
+    },
+    {
+      "word": "adverse",
+      "phr": [
+        {"en": "adverse effects", "zh": "不良影响"},
+        {"en": "adverse weather conditions", "zh": "恶劣天气条件"}
+      ],
+      "ex": [
+        {"en": "The drug may cause adverse effects in patients with heart disease.",
+         "zh": "该药可能对心脏病患者产生不良影响。"}
+      ],
+      "note": "adverse 多修饰 effects、conditions 等抽象名词，不用于人。"
+    },
+    {
+      "word": "bulletin",
+      "phr": [
+        {"en": "a news bulletin", "zh": "新闻简报"},
+        {"en": "a bulletin board", "zh": "公告栏"}
+      ],
+      "ex": [
+        {"en": "The evening news bulletin reported a sharp rise in food prices.",
+         "zh": "晚间新闻简报报道食品价格大幅上涨。"}
+      ],
+      "note": "bulletin 指简短公告或快讯；bulletin board 在美语中即公告栏。"
+    },
+    {
+      "word": "devote",
+      "phr": [
+        {"en": "devote oneself to", "zh": "致力于"},
+        {"en": "devote time to", "zh": "把时间用于"}
+      ],
+      "ex": [
+        {"en": "She devoted most of her free time to helping children in the village.",
+         "zh": "她把大部分空闲时间用于帮助村里的孩子。"}
+      ],
+      "note": "devote 后接 to，to 是介词，后跟名词或动名词。"
+    },
+    {
+      "word": "junction",
+      "phr": [
+        {"en": "a busy junction", "zh": "繁忙的交叉路口"},
+        {"en": "at the junction of", "zh": "在…的交汇处"}
+      ],
+      "ex": [
+        {"en": "Turn left at the next junction and you will see the station.",
+         "zh": "在下一个路口左转，你就会看到车站。"}
+      ],
+      "note": "junction 指道路、铁路的交汇点；join 加 -tion 构成。"
+    },
+    {
+      "word": "crumble",
+      "phr": [
+        {"en": "crumble into dust", "zh": "化为尘土"},
+        {"en": "crumble to pieces", "zh": "碎成碎片"}
+      ],
+      "ex": [
+        {"en": "The old stone wall has begun to crumble after years of heavy rain.",
+         "zh": "多年暴雨之后，那堵旧石墙开始崩塌。"}
+      ],
+      "note": "crumble 既可指物体碎裂，也可指制度、权威逐渐瓦解。"
+    },
+    {
+      "word": "agent",
+      "phr": [
+        {"en": "an insurance agent", "zh": "保险代理人"},
+        {"en": "a travel agent", "zh": "旅行社代理人"}
+      ],
+      "ex": [
+        {"en": "The agent helped us find a cheaper flight to London.",
+         "zh": "代理人帮我们找到了飞往伦敦更便宜的航班。"}
+      ],
+      "note": "agent 由 act（做）+ent（人）构成，指代办事务的人或作用物。"
+    },
+    {
+      "word": "abortion",
+      "phr": [
+        {"en": "have an abortion", "zh": "堕胎"},
+        {"en": "legal abortion", "zh": "合法堕胎"}
+      ],
+      "ex": [
+        {"en": "The debate over abortion has divided the country for many years.",
+         "zh": "关于堕胎的争论已使这个国家分裂多年。"}
+      ],
+      "note": "abortion 是医学和法律话题词，讨论时语气要中性客观。"
+    },
+    {
+      "word": "salvation",
+      "phr": [
+        {"en": "be the salvation of", "zh": "是…的救星"},
+        {"en": "seek salvation", "zh": "寻求拯救"}
+      ],
+      "ex": [
+        {"en": "For many small shops, online sales proved to be their salvation.",
+         "zh": "对许多小店来说，网络销售成了它们的救星。"}
+      ],
+      "note": "salv（救）+ation；宗教语境指灵魂得救，日常指唯一出路。"
+    },
+    {
+      "word": "instinct",
+      "phr": [
+        {"en": "by instinct", "zh": "出于本能"},
+        {"en": "trust your instincts", "zh": "相信你的直觉"}
+      ],
+      "ex": [
+        {"en": "Her first instinct was to run, but she stayed and helped.",
+         "zh": "她的第一反应是跑开，但她留下来帮忙。"}
+      ],
+      "note": "instinct 指天生的本能；intuition 更偏后天积累的直觉。"
+    },
+    {
+      "word": "cannon",
+      "phr": [
+        {"en": "fire a cannon", "zh": "开炮"},
+        {"en": "cannon fire", "zh": "炮火"}
+      ],
+      "ex": [
+        {"en": "The old fort still has several cannons pointing toward the sea.",
+         "zh": "这座旧堡垒仍有几门大炮朝向大海。"}
+      ],
+      "note": "注意拼写：cannon 大炮，canon 是“经典、教规”，勿混。"
+    },
+    {
+      "word": "invest",
+      "phr": [
+        {"en": "invest in", "zh": "投资于"},
+        {"en": "invest heavily", "zh": "大量投资"}
+      ],
+      "ex": [
+        {"en": "The company plans to invest heavily in solar energy next year.",
+         "zh": "公司计划明年大举投资太阳能。"}
+      ],
+      "note": "invest in 后接领域或项目；invest 也可指投入时间、精力。"
+    },
+    {
+      "word": "reputation",
+      "phr": [
+        {"en": "have a reputation for", "zh": "以…著称"},
+        {"en": "damage one's reputation", "zh": "损害名声"}
+      ],
+      "ex": [
+        {"en": "The school has a good reputation for teaching languages to adults.",
+         "zh": "这所学校因成人语言教学而享有良好声誉。"}
+      ],
+      "note": "reputation 常与 good、damage 等词搭配，是可数名词。"
+    },
+    {
+      "word": "project",
+      "phr": [
+        {"en": "a research project", "zh": "研究项目"},
+        {"en": "carry out a project", "zh": "实施项目"}
+      ],
+      "ex": [
+        {"en": "The team hopes to finish the research project by the end of June.",
+         "zh": "团队希望六月底前完成这个研究项目。"}
+      ],
+      "note": "作名词重音在前，作动词重音在后；此处为名词用法。"
+    },
+    {
+      "word": "shrug",
+      "phr": [
+        {"en": "shrug one's shoulders", "zh": "耸肩"},
+        {"en": "shrug off", "zh": "对…不以为意"}
+      ],
+      "ex": [
+        {"en": "He simply shrugged his shoulders and said nothing about the mistake.",
+         "zh": "他只是耸了耸肩，对那个错误什么也没说。"}
+      ],
+      "note": "shrug off 表示轻视、不当回事，比 ignore 更口语。"
+    },
+    {
+      "word": "arena",
+      "phr": [
+        {"en": "a sports arena", "zh": "体育场馆"},
+        {"en": "enter the political arena", "zh": "进入政坛"}
+      ],
+      "ex": [
+        {"en": "Thousands of fans filled the arena long before the game started.",
+         "zh": "比赛开始前很久，数千名球迷就坐满了场馆。"}
+      ],
+      "note": "arena 本义竞技场，引申为“活动舞台、角逐场所”。"
+    },
+    {
+      "word": "independence",
+      "phr": [
+        {"en": "declare independence", "zh": "宣布独立"},
+        {"en": "economic independence", "zh": "经济独立"}
+      ],
+      "ex": [
+        {"en": "Moving out gave her a sense of independence she had never had.",
+         "zh": "搬出去住给了她从未有过的独立感。"}
+      ],
+      "note": "in（不）+depend（依赖）+ence；形容词是 independent。"
+    },
+    {
+      "word": "shrub",
+      "phr": [
+        {"en": "a flowering shrub", "zh": "开花的灌木"},
+        {"en": "plant shrubs", "zh": "种植灌木"}
+      ],
+      "ex": [
+        {"en": "They planted low shrubs along the path to mark the border.",
+         "zh": "他们沿小路种了低矮灌木来标示边界。"}
+      ],
+      "note": "shrub 是矮小木本植物；bush 更口语，tree 指乔木。"
+    },
+    {
+      "word": "presentation",
+      "phr": [
+        {"en": "give a presentation", "zh": "做报告"},
+        {"en": "a slide presentation", "zh": "幻灯片演示"}
+      ],
+      "ex": [
+        {"en": "She gave a clear presentation on the new marketing plan.",
+         "zh": "她清晰地介绍了新的营销计划。"}
+      ],
+      "note": "give/make a presentation 均可；“做报告”不用 do。"
+    },
+    {
+      "word": "nominate",
+      "phr": [
+        {"en": "nominate a candidate", "zh": "提名候选人"},
+        {"en": "be nominated for an award", "zh": "获…奖提名"}
+      ],
+      "ex": [
+        {"en": "The committee nominated her for the award after reviewing her work.",
+         "zh": "委员会在审阅她的工作后提名她获奖。"}
+      ],
+      "note": "nominate sb for sth 提名为某奖项；appoint 是直接任命。"
+    },
+    {
+      "word": "loom",
+      "phr": [
+        {"en": "loom large", "zh": "显得突出、逼近"},
+        {"en": "loom over", "zh": "逼近；笼罩"}
+      ],
+      "ex": [
+        {"en": "A financial crisis was looming, and few people seemed to notice.",
+         "zh": "一场金融危机正在逼近，似乎很少有人注意到。"}
+      ],
+      "note": "loom 指庞大事物隐现或事件逼近，常与 large、over 连用。"
+    },
+    {
+      "word": "stationary",
+      "phr": [
+        {"en": "remain stationary", "zh": "保持静止"},
+        {"en": "a stationary vehicle", "zh": "停着的车辆"}
+      ],
+      "ex": [
+        {"en": "The bus remained stationary for ten minutes at the empty crossing.",
+         "zh": "公交车在空无一人的路口停了十分钟。"}
+      ],
+      "note": "stationary 静止的；stationery 是文具，拼写易混。"
+    },
+    {
+      "word": "restrain",
+      "phr": [
+        {"en": "restrain oneself", "zh": "克制自己"},
+        {"en": "restrain one's anger", "zh": "抑制怒火"}
+      ],
+      "ex": [
+        {"en": "She could hardly restrain her anger when she heard the news.",
+         "zh": "听到这个消息时，她几乎无法克制愤怒。"}
+      ],
+      "note": "restrain 强调忍住、控制；refrain 只接 from doing。"
+    },
+    {
+      "word": "awkward",
+      "phr": [
+        {"en": "an awkward silence", "zh": "尴尬的沉默"},
+        {"en": "feel awkward", "zh": "感到尴尬"}
+      ],
+      "ex": [
+        {"en": "There was an awkward silence after he asked about her former husband.",
+         "zh": "他问起她前夫之后，出现了尴尬的沉默。"}
+      ],
+      "note": "awkward 既指尴尬，也指动作笨拙或使用不便。"
+    },
+    {
+      "word": "ruin",
+      "phr": [
+        {"en": "ruin one's reputation", "zh": "毁掉名声"},
+        {"en": "fall into ruin", "zh": "破败；荒废"}
+      ],
+      "ex": [
+        {"en": "The scandal ruined his career and he left the city for good.",
+         "zh": "丑闻毁了他的事业，他永远离开了这座城市。"}
+      ],
+      "note": "ruin 作动词指彻底毁掉；作名词常用复数 ruins 指废墟。"
+    },
+    {
+      "word": "beforehand",
+      "phr": [
+        {"en": "plan beforehand", "zh": "事先计划"},
+        {"en": "a few days beforehand", "zh": "提前几天"}
+      ],
+      "ex": [
+        {"en": "You should book the tickets beforehand, as the show sells out fast.",
+         "zh": "你应该提前订票，因为演出票卖得很快。"}
+      ],
+      "note": "beforehand 是副词，不能作定语；in advance 意思相近。"
+    },
+    {
+      "word": "formidable",
+      "phr": [
+        {"en": "a formidable opponent", "zh": "难对付的对手"},
+        {"en": "a formidable task", "zh": "艰巨的任务"}
+      ],
+      "ex": [
+        {"en": "Rebuilding the bridge turned out to be a formidable task for the town.",
+         "zh": "重建这座桥对小镇来说是项艰巨的任务。"}
+      ],
+      "note": "formid（恐惧）+able；指因强大而令人敬畏或难对付。"
+    },
+    {
+      "word": "impatient",
+      "phr": [
+        {"en": "be impatient with", "zh": "对…不耐烦"},
+        {"en": "grow impatient", "zh": "变得不耐烦"}
+      ],
+      "ex": [
+        {"en": "Passengers grew impatient as the delay stretched into a second hour.",
+         "zh": "延误进入第二小时，乘客们变得不耐烦。"}
+      ],
+      "note": "impatient 后接 with 对人，接 for 或 to do 表急切盼望。"
+    }
+  ]
+}

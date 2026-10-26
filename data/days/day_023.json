@@ -1,0 +1,246 @@
+{
+ "day": 23,
+ "date": null,
+ "words": [
+  {
+   "id": 661,
+   "word": "wretched",
+   "uk": "/ˈretʃɪd/",
+   "us": "/ˈrɛtʃɪd/",
+   "pos": "adj.",
+   "cn": "极不愉快的；难受的；可怜的；令人苦恼的；讨厌的；拙劣的"
+  },
+  {
+   "id": 662,
+   "word": "absurd",
+   "uk": "/əbˈsɜːd/",
+   "us": "/əbˈsɝ​d/",
+   "pos": "adj.",
+   "cn": "荒谬的；荒唐的"
+  },
+  {
+   "id": 663,
+   "word": "modesty",
+   "uk": "/ˈmɒdəsti/",
+   "us": "/ˈmɑdəsti/",
+   "pos": "n.",
+   "cn": "谦虚"
+  },
+  {
+   "id": 664,
+   "word": "considerate",
+   "uk": "/kənˈsɪdərət/",
+   "us": "/kənˈsɪdərɪt/",
+   "pos": "adj.",
+   "cn": "考虑周到的；体贴的；体谅的"
+  },
+  {
+   "id": 665,
+   "word": "glamor",
+   "uk": "/ˈglæmə/",
+   "us": "/ˈglæmɚ/",
+   "pos": "n.",
+   "cn": "魅力；诱惑力"
+  },
+  {
+   "id": 666,
+   "word": "clue",
+   "uk": "/kluː/",
+   "us": "/klʊ/",
+   "pos": "n.",
+   "cn": "线索；暗示；提示"
+  },
+  {
+   "id": 667,
+   "word": "bracket",
+   "uk": "/ˈbrækɪt/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "括号；等级段；档次；壁架；托架；把…置于括号内；把…归入同一类"
+  },
+  {
+   "id": 668,
+   "word": "legal",
+   "uk": "/ˈliːgl/",
+   "us": "/ˈligl/",
+   "pos": "adj.",
+   "cn": "法律的；合法的"
+  },
+  {
+   "id": 669,
+   "word": "midst",
+   "uk": "/ˈmɪdst/",
+   "us": "/mɪdst/",
+   "pos": "n.",
+   "cn": "中部；中间；当中"
+  },
+  {
+   "id": 670,
+   "word": "trait",
+   "uk": "/treɪt/",
+   "us": "/tret/",
+   "pos": "n.",
+   "cn": "特征；特点；特性"
+  },
+  {
+   "id": 671,
+   "word": "radius",
+   "uk": "/ˈreɪdiəs/",
+   "us": "/ˈredɪəs/",
+   "pos": "n.",
+   "cn": "半径；半径范围"
+  },
+  {
+   "id": 672,
+   "word": "disintegration",
+   "uk": "/dɪsˌɪntɪˈgreɪʃn/",
+   "us": "/dɪs,ɪntəˈgreʃən/",
+   "pos": "n.",
+   "cn": "破裂；分裂；瓦解"
+  },
+  {
+   "id": 673,
+   "word": "signal",
+   "uk": "/ˈsɪgnəl/",
+   "us": "/ˈsɪgnl/",
+   "pos": "adj.,n.,vt.",
+   "cn": "显著的；重大的；信号；暗号；标志；表示；发信号；标志着"
+  },
+  {
+   "id": 674,
+   "word": "impair",
+   "uk": "/ɪmˈpeə/",
+   "us": "/ɪmˈpɛr/",
+   "pos": "vt.",
+   "cn": "损害；损伤；削弱"
+  },
+  {
+   "id": 675,
+   "word": "dolphin",
+   "uk": "/ˈdɒlfɪn/",
+   "us": "/ˈdɑlfɪn/",
+   "pos": "n.",
+   "cn": "海豚"
+  },
+  {
+   "id": 676,
+   "word": "sightseeing",
+   "uk": "/ˈsaɪtˌsiːɪŋ/",
+   "us": "/ˈsaɪtsiɪŋ/",
+   "pos": "n.",
+   "cn": "观光；游览"
+  },
+  {
+   "id": 677,
+   "word": "stray",
+   "uk": "/streɪ/",
+   "us": "/stre/",
+   "pos": "vi.,adj.,n.",
+   "cn": "走失；迷路；分心；走神；离题；迷路的；走失的；孤立的；零星的；走失的家畜"
+  },
+  {
+   "id": 678,
+   "word": "planet",
+   "uk": "/ˈplænɪt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "行星"
+  },
+  {
+   "id": 679,
+   "word": "exhaust",
+   "uk": "/ɪgˈzɔːst/",
+   "us": "/ɪɡˈzɔst/",
+   "pos": "vt.,n.",
+   "cn": "使筋疲力尽；用尽；详尽论述；排气装置；废气"
+  },
+  {
+   "id": 680,
+   "word": "thereafter",
+   "uk": "/ˌðeərˈɑːftə/",
+   "us": "/,ðɛrˈæftɚ/",
+   "pos": "adv.",
+   "cn": "之后；以后"
+  },
+  {
+   "id": 681,
+   "word": "soluble",
+   "uk": "/ˈsɒljəbl/",
+   "us": "/ˈsɑljəbl/",
+   "pos": "adj.",
+   "cn": "可溶的；可解决的"
+  },
+  {
+   "id": 682,
+   "word": "feast",
+   "uk": "/fiːst/",
+   "us": "/fist/",
+   "pos": "vi.,n.",
+   "cn": "尽情地吃；宴饮；参加宴会；盛宴；筵席；节日"
+  },
+  {
+   "id": 683,
+   "word": "vision",
+   "uk": "/ˈvɪʒn/",
+   "us": "/ˈvɪʒən/",
+   "pos": "n.",
+   "cn": "想象力；梦幻；视力；视觉"
+  },
+  {
+   "id": 684,
+   "word": "accompany",
+   "uk": "/əˈkʌmpəni/",
+   "us": "",
+   "pos": "v.",
+   "cn": "陪同；伴随；为…伴奏"
+  },
+  {
+   "id": 685,
+   "word": "armor",
+   "uk": "/ˈɑːmə/",
+   "us": "/ˈɑrmɚ/",
+   "pos": "n.",
+   "cn": "盔甲；装甲；保护物"
+  },
+  {
+   "id": 686,
+   "word": "acceptance",
+   "uk": "/əkˈseptəns/",
+   "us": "/əkˈsɛptəns/",
+   "pos": "n.",
+   "cn": "接受；承认；容忍"
+  },
+  {
+   "id": 687,
+   "word": "beneficial",
+   "uk": "/ˌbenɪˈfɪʃl/",
+   "us": "/,bɛnɪˈfɪʃl/",
+   "pos": "adj.",
+   "cn": "有利的；有益的"
+  },
+  {
+   "id": 688,
+   "word": "paradise",
+   "uk": "/ˈpærədaɪs/",
+   "us": "/ˈpærəˈdaɪs/",
+   "pos": "n.",
+   "cn": "天堂；乐园"
+  },
+  {
+   "id": 689,
+   "word": "tackle",
+   "uk": "/ˈtækl/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "对付；处理；与…交涉；阻截；擒抱；阻截；擒抱；用具；钓具；辘轳；滑车"
+  },
+  {
+   "id": 690,
+   "word": "reckon",
+   "uk": "/ˈrekən/",
+   "us": "/ˈrɛkən/",
+   "pos": "vt.",
+   "cn": "认为；估计；指望；盼望；测算；测量"
+  }
+ ]
+}

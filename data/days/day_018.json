@@ -1,0 +1,246 @@
+{
+ "day": 18,
+ "date": null,
+ "words": [
+  {
+   "id": 511,
+   "word": "consistent",
+   "uk": "/kənˈsɪstənt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "坚持的；一贯的；一致的；符合的"
+  },
+  {
+   "id": 512,
+   "word": "dole",
+   "uk": "/dəul/",
+   "us": "/dol/",
+   "pos": "n.,vt.",
+   "cn": "救济；救济金；发放；发给"
+  },
+  {
+   "id": 513,
+   "word": "reverse",
+   "uk": "/rɪˈvɜːs/",
+   "us": "/rɪˈvɝs/",
+   "pos": "vi.,adj.,vt.,n.",
+   "cn": "反向；倒转；反向的；相反的；颠倒的；撤销；废除；使完全相反；彻底转变；使反转；使次序颠倒；相反情况；对立面；反面；背面；后面；损失；倒退"
+  },
+  {
+   "id": 514,
+   "word": "barren",
+   "uk": "/ˈbærən/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "贫瘠的；荒芜的；不结果实的；不育的；无益的；没有结果的"
+  },
+  {
+   "id": 515,
+   "word": "eternal",
+   "uk": "/ɪˈtɜːnl/",
+   "us": "/ɪˈtɝnl/",
+   "pos": "adj.",
+   "cn": "永久的；永世的；无休止的；永恒的；永不改变的"
+  },
+  {
+   "id": 516,
+   "word": "permanent",
+   "uk": "/ˈpɜːmənənt/",
+   "us": "/ˈpɝmənənt/",
+   "pos": "adj.",
+   "cn": "永久的；固定的"
+  },
+  {
+   "id": 517,
+   "word": "foster",
+   "uk": "/ˈfɒstə/",
+   "us": "/ˈfɔstɚ/",
+   "pos": "adj.,vt.",
+   "cn": "收养的；收养；养育；培养；促进"
+  },
+  {
+   "id": 518,
+   "word": "barely",
+   "uk": "/ˈbeəli/",
+   "us": "/ˈbɛrli/",
+   "pos": "adv.",
+   "cn": "仅仅；只不过；几乎不"
+  },
+  {
+   "id": 519,
+   "word": "prevalent",
+   "uk": "/ˈprevələnt/",
+   "us": "/ˈprɛvələnt/",
+   "pos": "adj.",
+   "cn": "流行的；普遍的"
+  },
+  {
+   "id": 520,
+   "word": "cling",
+   "uk": "/klɪŋ/",
+   "us": "",
+   "pos": "vi.",
+   "cn": "紧紧抓住；黏着；挨近；依附；依恋；坚持；墨守；忠实于"
+  },
+  {
+   "id": 521,
+   "word": "incidence",
+   "uk": "/ˈɪnsɪdəns/",
+   "us": "",
+   "pos": "n.",
+   "cn": "发生率"
+  },
+  {
+   "id": 522,
+   "word": "clip",
+   "uk": "/klɪp/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "夹子；回形针；别针；弹夹；弹仓；剪；修剪；剪报；电影片断；夹住；扣住；剪；修剪"
+  },
+  {
+   "id": 523,
+   "word": "beam",
+   "uk": "/biːm/",
+   "us": "/bim/",
+   "pos": "v.,n.",
+   "cn": "面露喜色；定向发出；播送；梁；横梁；束；柱；笑容；喜色"
+  },
+  {
+   "id": 524,
+   "word": "compact",
+   "uk": "/kəmˈpækt/",
+   "us": "/ˈkɑmpækt/",
+   "pos": "adj.,vt.,n.",
+   "cn": "紧凑的；小巧的；坚实的；把…压实；使坚实['kɔmpækt]；契约；合同"
+  },
+  {
+   "id": 525,
+   "word": "alliance",
+   "uk": "/əˈlaɪəns/",
+   "us": "",
+   "pos": "n.",
+   "cn": "结盟；联盟"
+  },
+  {
+   "id": 526,
+   "word": "invaluable",
+   "uk": "/ɪnˈvæljuəbl/",
+   "us": "/ɪnˈvæljʊəbl/",
+   "pos": "adj.",
+   "cn": "非常宝贵的；极为贵重的；无价的"
+  },
+  {
+   "id": 527,
+   "word": "fiction",
+   "uk": "/ˈfɪkʃn/",
+   "us": "/ˈfɪkʃən/",
+   "pos": "n.",
+   "cn": "小说；虚构；杜撰"
+  },
+  {
+   "id": 528,
+   "word": "doom",
+   "uk": "/duːm/",
+   "us": "/dʊm/",
+   "pos": "vt.,n.",
+   "cn": "注定；命定；厄运；劫数"
+  },
+  {
+   "id": 529,
+   "word": "cucumber",
+   "uk": "/ˈkjuːkʌmbə/",
+   "us": "/ˈkjʊ,kʌmbɚ/",
+   "pos": "n.",
+   "cn": "黄瓜"
+  },
+  {
+   "id": 530,
+   "word": "aviation",
+   "uk": "/ˌeɪviˈeɪʃn/",
+   "us": "/,evɪˈeʃən/",
+   "pos": "n.",
+   "cn": "航空；航空学；飞机制造业"
+  },
+  {
+   "id": 531,
+   "word": "pessimistic",
+   "uk": "/ˌpesɪˈmɪstɪk/",
+   "us": "/,pɛsɪˈmɪstɪk/",
+   "pos": "adj.",
+   "cn": "悲观的"
+  },
+  {
+   "id": 532,
+   "word": "denote",
+   "uk": "/dɪˈnəut/",
+   "us": "/dɪˈnot/",
+   "pos": "vt.",
+   "cn": "意思是；表示；是…的标志"
+  },
+  {
+   "id": 533,
+   "word": "emphasis",
+   "uk": "/ˈemfəsɪs/",
+   "us": "/ˈɛmfəsɪs/",
+   "pos": "n.",
+   "cn": "强调；重视；重要性"
+  },
+  {
+   "id": 534,
+   "word": "interrupt",
+   "uk": "/ˌɪntəˈrʌpt/",
+   "us": "/ˈɪntəˈrʌpt/",
+   "pos": "v.",
+   "cn": "打断；中止；打扰"
+  },
+  {
+   "id": 535,
+   "word": "propagate",
+   "uk": "/ˈprɒpəgeɪt/",
+   "us": "/ˈprɑpəˈget/",
+   "pos": "v.",
+   "cn": "繁殖；增殖；传播；宣传；普及"
+  },
+  {
+   "id": 536,
+   "word": "feasible",
+   "uk": "/ˈfiːzəbl/",
+   "us": "/ˈfizəbl/",
+   "pos": "adj.",
+   "cn": "可行的；可能的"
+  },
+  {
+   "id": 537,
+   "word": "majesty",
+   "uk": "/ˈmædʒəsti/",
+   "us": "",
+   "pos": "n.",
+   "cn": "陛下；雄伟；壮丽；庄严"
+  },
+  {
+   "id": 538,
+   "word": "flatter",
+   "uk": "/ˈflætə/",
+   "us": "/ˈflætɚ/",
+   "pos": "vt.",
+   "cn": "向…谄媚；奉承；使满意；使感到荣幸；使显得好看；使显得突出"
+  },
+  {
+   "id": 539,
+   "word": "potential",
+   "uk": "/pəˈtenʃl/",
+   "us": "/pəˈtɛnʃl/",
+   "pos": "adj.,n.",
+   "cn": "潜在的；可能的；潜力；潜能"
+  },
+  {
+   "id": 540,
+   "word": "necessitate",
+   "uk": "/nəˈsesɪteɪt/",
+   "us": "/nəˈsɛsɪtet/",
+   "pos": "vt.",
+   "cn": "成为必要；需要"
+  }
+ ]
+}

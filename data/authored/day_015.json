@@ -1,0 +1,365 @@
+{
+  "day": 15,
+  "words": [
+    {
+      "word": "ozone",
+      "phr": [
+        {"en": "the ozone layer", "zh": "臭氧层"},
+        {"en": "ozone depletion", "zh": "臭氧消耗"}
+      ],
+      "ex": [
+        {"en": "Scientists warn that the ozone layer is recovering more slowly than expected.",
+         "zh": "科学家警告，臭氧层的恢复速度比预期更慢。"}
+      ],
+      "note": "ozone layer 指臭氧层；亦见 ozone depletion 臭氧消耗。"
+    },
+    {
+      "word": "indefinite",
+      "phr": [
+        {"en": "an indefinite period", "zh": "无限期"},
+        {"en": "an indefinite answer", "zh": "含糊的回答"}
+      ],
+      "ex": [
+        {"en": "The project was postponed for an indefinite period because of the funding cuts.",
+         "zh": "由于资金削减，该项目被无限期推迟。"}
+      ],
+      "note": "in-（不）+ definite（确定的）→ 不确定的；副词 indefinitely。"
+    },
+    {
+      "word": "disaster",
+      "phr": [
+        {"en": "natural disaster", "zh": "自然灾害"},
+        {"en": "disaster relief", "zh": "救灾"}
+      ],
+      "ex": [
+        {"en": "The government sent troops to help the victims of the natural disaster.",
+         "zh": "政府派兵帮助这场自然灾害的受灾民众。"}
+      ],
+      "note": "常与 natural 连用；形容词 disastrous 表「灾难性的」。"
+    },
+    {
+      "word": "ecology",
+      "phr": [
+        {"en": "marine ecology", "zh": "海洋生态"},
+        {"en": "the local ecology", "zh": "当地生态"}
+      ],
+      "ex": [
+        {"en": "Building the dam may damage the ecology of the whole river valley.",
+         "zh": "修建大坝可能破坏整个河谷的生态。"}
+      ],
+      "note": "eco-（生态）+ -logy（学科）→ 生态学；形容词 ecological。"
+    },
+    {
+      "word": "minimal",
+      "phr": [
+        {"en": "minimal cost", "zh": "最低成本"},
+        {"en": "minimal damage", "zh": "最小损害"}
+      ],
+      "ex": [
+        {"en": "The factory was rebuilt with minimal cost and almost no delay.",
+         "zh": "工厂以最低成本重建，几乎没有延误。"}
+      ],
+      "note": "minimal 强调「最低限度」；minimum 多指最低值，反义 maximal。"
+    },
+    {
+      "word": "cocktail",
+      "phr": [
+        {"en": "a cocktail party", "zh": "鸡尾酒会"},
+        {"en": "a cocktail of drugs", "zh": "混合药剂"}
+      ],
+      "ex": [
+        {"en": "They held a small cocktail party to celebrate the new contract.",
+         "zh": "他们举办了一个小型鸡尾酒会庆祝新合同。"}
+      ],
+      "note": "cocktail 除「鸡尾酒」外还指混合物，如 a cocktail of drugs。"
+    },
+    {
+      "word": "enhance",
+      "phr": [
+        {"en": "enhance the quality", "zh": "提高质量"},
+        {"en": "enhance one's reputation", "zh": "提升声誉"}
+      ],
+      "ex": [
+        {"en": "Adding fresh herbs can greatly enhance the flavour of the soup.",
+         "zh": "加入新鲜香草能大大提升汤的风味。"}
+      ],
+      "note": "enhance 强调提升品质或价值，不用于人；名词 enhancement。"
+    },
+    {
+      "word": "convention",
+      "phr": [
+        {"en": "by convention", "zh": "按照惯例"},
+        {"en": "social conventions", "zh": "社会习俗"}
+      ],
+      "ex": [
+        {"en": "By convention the chairman opens the meeting with a short speech.",
+         "zh": "按照惯例，主席以简短发言宣布会议开始。"}
+      ],
+      "note": "表「会议」时可数；表「惯例」时常用复数 conventions。"
+    },
+    {
+      "word": "disease",
+      "phr": [
+        {"en": "heart disease", "zh": "心脏病"},
+        {"en": "contract a disease", "zh": "染上疾病"}
+      ],
+      "ex": [
+        {"en": "Regular exercise lowers the risk of heart disease and diabetes.",
+         "zh": "经常锻炼可降低患心脏病和糖尿病的风险。"}
+      ],
+      "note": "指具体疾病；染上疾病说 contract 或 catch a disease。"
+    },
+    {
+      "word": "calcium",
+      "phr": [
+        {"en": "calcium intake", "zh": "钙摄入量"},
+        {"en": "calcium deficiency", "zh": "缺钙"}
+      ],
+      "ex": [
+        {"en": "Milk and green vegetables are rich sources of calcium.",
+         "zh": "牛奶和绿色蔬菜是钙的丰富来源。"}
+      ],
+      "note": "常用 rich in calcium 表「富含钙」，deficiency 指缺乏。"
+    },
+    {
+      "word": "notwithstanding",
+      "phr": [
+        {"en": "notwithstanding the difficulties", "zh": "尽管有困难"},
+        {"en": "notwithstanding this", "zh": "尽管如此"}
+      ],
+      "ex": [
+        {"en": "Notwithstanding the bad weather, the outdoor concert went ahead as planned.",
+         "zh": "尽管天气恶劣，露天音乐会仍按计划举行。"}
+      ],
+      "note": "较正式，可作介词或副词，相当于 despite / in spite of。"
+    },
+    {
+      "word": "suspicion",
+      "phr": [
+        {"en": "on suspicion of", "zh": "因涉嫌"},
+        {"en": "arouse suspicion", "zh": "引起怀疑"}
+      ],
+      "ex": [
+        {"en": "The guard stopped the man on suspicion of stealing from the shop.",
+         "zh": "保安因该男子涉嫌在店内行窃而拦住了他。"}
+      ],
+      "note": "常见搭配 arouse/raise suspicion；形容词 suspicious。"
+    },
+    {
+      "word": "purchase",
+      "phr": [
+        {"en": "make a purchase", "zh": "购买"},
+        {"en": "purchase price", "zh": "购买价"}
+      ],
+      "ex": [
+        {"en": "Customers can return any purchase within thirty days of delivery.",
+         "zh": "顾客可在收货后三十天内退回任何所购商品。"}
+      ],
+      "note": "作名词指「所购之物」，比 buy 正式；purchasing power 指购买力。"
+    },
+    {
+      "word": "refusal",
+      "phr": [
+        {"en": "a flat refusal", "zh": "断然拒绝"},
+        {"en": "refusal to cooperate", "zh": "拒绝合作"}
+      ],
+      "ex": [
+        {"en": "His refusal to sign the contract surprised everyone in the room.",
+         "zh": "他拒绝签署合同，这让在场的人都很惊讶。"}
+      ],
+      "note": "refusal 后接 to do，不接 of doing；动词 refuse 用法相同。"
+    },
+    {
+      "word": "disposable",
+      "phr": [
+        {"en": "disposable income", "zh": "可支配收入"},
+        {"en": "disposable cups", "zh": "一次性杯子"}
+      ],
+      "ex": [
+        {"en": "The cafe now uses disposable cups made of recycled paper.",
+         "zh": "这家咖啡馆现在使用再生纸制的一次性杯子。"}
+      ],
+      "note": "disposable income 指扣除税费后的可支配收入，经济类高频。"
+    },
+    {
+      "word": "bypass",
+      "phr": [
+        {"en": "build a bypass", "zh": "修一条旁道"},
+        {"en": "bypass the problem", "zh": "绕过问题"}
+      ],
+      "ex": [
+        {"en": "A new road was built to bypass the crowded town centre.",
+         "zh": "新修了一条路以绕过拥挤的市中心。"}
+      ],
+      "note": "可作名词「旁道」；作动词表「绕过」，如 bypass the rules。"
+    },
+    {
+      "word": "silicon",
+      "phr": [
+        {"en": "silicon chip", "zh": "硅芯片"},
+        {"en": "silicon wafer", "zh": "硅片"}
+      ],
+      "ex": [
+        {"en": "Most computer chips are made from thin layers of silicon.",
+         "zh": "大多数计算机芯片由薄薄的硅层制成。"}
+      ],
+      "note": "silicon 是元素「硅」；silicon chip 指硅芯片，科技话题高频。"
+    },
+    {
+      "word": "clarity",
+      "phr": [
+        {"en": "with clarity", "zh": "清晰地"},
+        {"en": "clarity of thought", "zh": "思路清晰"}
+      ],
+      "ex": [
+        {"en": "The professor explained the theory with great clarity and patience.",
+         "zh": "教授以极大的清晰度和耐心讲解了这个理论。"}
+      ],
+      "note": "形容词 clear 的名词形式；with clarity 相当于 clearly，更正式。"
+    },
+    {
+      "word": "fund",
+      "phr": [
+        {"en": "raise funds", "zh": "筹集资金"},
+        {"en": "a research fund", "zh": "研究基金"}
+      ],
+      "ex": [
+        {"en": "The charity raised enough funds to rebuild the village school.",
+         "zh": "这家慈善机构筹到足够资金重建村里的学校。"}
+      ],
+      "note": "funds 复数表「资金」；作动词表「资助」，如 fund the project。"
+    },
+    {
+      "word": "typical",
+      "phr": [
+        {"en": "be typical of", "zh": "是…的典型"},
+        {"en": "a typical example", "zh": "典型例子"}
+      ],
+      "ex": [
+        {"en": "It is typical of him to arrive late without calling.",
+         "zh": "不打电话就迟到，这是他的典型做法。"}
+      ],
+      "note": "be typical of sb/sth 表「具有…的典型特征」；名词 type。"
+    },
+    {
+      "word": "recipient",
+      "phr": [
+        {"en": "the recipient of", "zh": "…的接受者"},
+        {"en": "email recipient", "zh": "邮件收件人"}
+      ],
+      "ex": [
+        {"en": "She was the first recipient of the award for young scientists.",
+         "zh": "她是该青年科学家奖的首位获得者。"}
+      ],
+      "note": "常与 donor（捐赠者）相对，指「接受者、受赠者」。"
+    },
+    {
+      "word": "commonwealth",
+      "phr": [
+        {"en": "the Commonwealth countries", "zh": "英联邦国家"},
+        {"en": "a commonwealth of nations", "zh": "国家联合体"}
+      ],
+      "ex": [
+        {"en": "Many Commonwealth countries share English as an official language.",
+         "zh": "许多英联邦国家把英语作为官方语言之一。"}
+      ],
+      "note": "common（共同）+ wealth（财富）；首字母大写常指英联邦。"
+    },
+    {
+      "word": "watt",
+      "phr": [
+        {"en": "a 60-watt bulb", "zh": "60瓦灯泡"},
+        {"en": "watts of power", "zh": "瓦数功率"}
+      ],
+      "ex": [
+        {"en": "This energy-saving lamp uses only nine watts of electricity.",
+         "zh": "这种节能灯只消耗九瓦电。"}
+      ],
+      "note": "功率单位，符号 W；kilowatt-hour 即日常说的「度」。"
+    },
+    {
+      "word": "buzz",
+      "phr": [
+        {"en": "the buzz of conversation", "zh": "谈话的嗡嗡声"},
+        {"en": "buzz with activity", "zh": "一片繁忙"}
+      ],
+      "ex": [
+        {"en": "The classroom buzzed with excitement before the holiday began.",
+         "zh": "假期开始前，教室里一片兴奋的嗡嗡声。"}
+      ],
+      "note": "拟声词，指蜜蜂般的嗡嗡声；give sb a buzz 口语指打电话。"
+    },
+    {
+      "word": "finance",
+      "phr": [
+        {"en": "public finance", "zh": "公共财政"},
+        {"en": "finance a project", "zh": "为项目提供资金"}
+      ],
+      "ex": [
+        {"en": "The city plans to finance the new library through private donations.",
+         "zh": "该市计划通过私人捐款为新图书馆提供资金。"}
+      ],
+      "note": "作名词指财政金融，作动词表「为…筹资」；形容词 financial。"
+    },
+    {
+      "word": "incur",
+      "phr": [
+        {"en": "incur a loss", "zh": "蒙受损失"},
+        {"en": "incur debts", "zh": "负债"}
+      ],
+      "ex": [
+        {"en": "The company incurred heavy losses after the factory closed.",
+         "zh": "工厂关闭后，公司蒙受了严重损失。"}
+      ],
+      "note": "incur 后多接 loss、cost、debt 等，表「招致、蒙受」。"
+    },
+    {
+      "word": "notorious",
+      "phr": [
+        {"en": "be notorious for", "zh": "因…臭名昭著"},
+        {"en": "a notorious criminal", "zh": "臭名昭著的罪犯"}
+      ],
+      "ex": [
+        {"en": "The road is notorious for accidents during the rainy season.",
+         "zh": "这条路因雨季事故频发而臭名昭著。"}
+      ],
+      "note": "be notorious for sth；带贬义，与褒义的 famous 相对。"
+    },
+    {
+      "word": "assassination",
+      "phr": [
+        {"en": "the assassination of", "zh": "对…的暗杀"},
+        {"en": "an assassination attempt", "zh": "暗杀企图"}
+      ],
+      "ex": [
+        {"en": "The assassination attempt failed when the guard spotted the gunman.",
+         "zh": "警卫发现枪手，暗杀企图失败了。"}
+      ],
+      "note": "assassinate 指暗杀要人；注意双写 s，名词 assassination。"
+    },
+    {
+      "word": "infant",
+      "phr": [
+        {"en": "infant mortality", "zh": "婴儿死亡率"},
+        {"en": "infant formula", "zh": "婴儿配方奶粉"}
+      ],
+      "ex": [
+        {"en": "The clinic offers free check-ups for mothers and their infants.",
+         "zh": "该诊所为母亲和婴儿提供免费体检。"}
+      ],
+      "note": "比 baby 正式；infant mortality 指婴儿死亡率，新闻高频。"
+    },
+    {
+      "word": "gland",
+      "phr": [
+        {"en": "the thyroid gland", "zh": "甲状腺"},
+        {"en": "sweat glands", "zh": "汗腺"}
+      ],
+      "ex": [
+        {"en": "The thyroid gland controls how quickly the body uses energy.",
+         "zh": "甲状腺控制人体消耗能量的速度。"}
+      ],
+      "note": "常与身体部位连用：thyroid gland 甲状腺、sweat gland 汗腺。"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+ "day": 41,
+ "date": null,
+ "words": [
+  {
+   "id": 1201,
+   "word": "bronze",
+   "uk": "/brɒnz/",
+   "us": "/brɑnz/",
+   "pos": "n.",
+   "cn": "青铜；青铜色；古铜色；青铜制品；铜牌"
+  },
+  {
+   "id": 1202,
+   "word": "conception",
+   "uk": "/kənˈsepʃn/",
+   "us": "/kənˈsɛpʃən/",
+   "pos": "n.",
+   "cn": "思想；观念；概念；构想；设想；怀孕"
+  },
+  {
+   "id": 1203,
+   "word": "municipal",
+   "uk": "/mjuːˈnɪsɪpl/",
+   "us": "/mjuˈnɪsɪpl/",
+   "pos": "adj.",
+   "cn": "市的；市政的"
+  },
+  {
+   "id": 1204,
+   "word": "detain",
+   "uk": "/dɪˈteɪn/",
+   "us": "/dɪˈten/",
+   "pos": "vt.",
+   "cn": "拘留；扣留；留住；耽搁"
+  },
+  {
+   "id": 1205,
+   "word": "institute",
+   "uk": "/ˈɪnstɪtjuːt/",
+   "us": "/ˈɪnstɪtut/",
+   "pos": "n.,vt.",
+   "cn": "研究所；学院；建立；设立"
+  },
+  {
+   "id": 1206,
+   "word": "endure",
+   "uk": "/ɪnˈdjuə/",
+   "us": "/ɪnˈdʊr/",
+   "pos": "v.",
+   "cn": "忍受；容忍；持久；持续"
+  },
+  {
+   "id": 1207,
+   "word": "detail",
+   "uk": "/ˈdiːteɪl/",
+   "us": "/dɪˈtel/",
+   "pos": "n.,vt.",
+   "cn": "细节；枝节；零件；详细说明"
+  },
+  {
+   "id": 1208,
+   "word": "subculture",
+   "uk": "/ˈsʌbkʌltʃə/",
+   "us": "/ˈsʌbkʌltʃɚ/",
+   "pos": "n.",
+   "cn": "亚文化"
+  },
+  {
+   "id": 1209,
+   "word": "appropriate",
+   "uk": "/əˈprəupriət/",
+   "us": "/əˈproprɪət;(forv.)əˈproprɪet/",
+   "pos": "adj.,vt.",
+   "cn": "适当的；恰当的；私吞；拨款供专用"
+  },
+  {
+   "id": 1210,
+   "word": "criterion",
+   "uk": "/kraɪˈtɪəriən/",
+   "us": "/kraɪˈtɪriən/",
+   "pos": "n.",
+   "cn": "标准；准则"
+  },
+  {
+   "id": 1211,
+   "word": "essence",
+   "uk": "/ˈesns/",
+   "us": "/ˈɛsns/",
+   "pos": "n.",
+   "cn": "本质；实质；要素；精髓；精华"
+  },
+  {
+   "id": 1212,
+   "word": "pore",
+   "uk": "/pɔː/",
+   "us": "/pɔr/",
+   "pos": "vi.,n.",
+   "cn": "仔细阅读；审视；毛孔；细孔"
+  },
+  {
+   "id": 1213,
+   "word": "utility",
+   "uk": "/juːˈtɪləti/",
+   "us": "/juˈtɪləti/",
+   "pos": "n.",
+   "cn": "效用；有用"
+  },
+  {
+   "id": 1214,
+   "word": "manual",
+   "uk": "/ˈmænjuəl/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "用手的；手工做的；手册；指南"
+  },
+  {
+   "id": 1215,
+   "word": "maneuver",
+   "uk": "/məˈnuːvə/",
+   "us": "/məˈnʊvɚ;məˈnjʊvɚ/",
+   "pos": "vi.,n.,vt.",
+   "cn": "设法变动位置；用策略；耍花招；谨慎而熟练的动作；策略；花招；演习；设法使变动位置；操纵；控制"
+  },
+  {
+   "id": 1216,
+   "word": "symphony",
+   "uk": "/ˈsɪmfəni/",
+   "us": "",
+   "pos": "n.",
+   "cn": "交响乐；交响曲；和谐；协调"
+  },
+  {
+   "id": 1217,
+   "word": "eloquent",
+   "uk": "/ˈeləkwənt/",
+   "us": "/ˈɛləkwənt/",
+   "pos": "adj.",
+   "cn": "雄辩的；口才流利的；有说服力的；明白显示出的"
+  },
+  {
+   "id": 1218,
+   "word": "optimistic",
+   "uk": "/ˌɒptɪˈmɪstɪk/",
+   "us": "/,ɑptɪˈmɪstɪk/",
+   "pos": "adj.",
+   "cn": "乐观的；乐观主义的"
+  },
+  {
+   "id": 1219,
+   "word": "dual",
+   "uk": "/ˈdjuːəl/",
+   "us": "/ˈdʊəl/",
+   "pos": "adj.",
+   "cn": "双的；两重的"
+  },
+  {
+   "id": 1220,
+   "word": "submarine",
+   "uk": "/ˌsʌbməˈriːn/",
+   "us": "/,sʌbməˈrin/",
+   "pos": "adj.,n.",
+   "cn": "水底的；海底的；潜水艇"
+  },
+  {
+   "id": 1221,
+   "word": "aspect",
+   "uk": "/ˈæspekt/",
+   "us": "/ˈæspɛkt/",
+   "pos": "n.",
+   "cn": "方面；朝向、 方向；样子；外表"
+  },
+  {
+   "id": 1222,
+   "word": "aggressive",
+   "uk": "/əˈgresɪv/",
+   "us": "/əˈɡrɛsɪv/",
+   "pos": "adj.",
+   "cn": "侵略的；好斗的；敢作敢为的；有进取心的"
+  },
+  {
+   "id": 1223,
+   "word": "stump",
+   "uk": "/stʌmp/",
+   "us": "",
+   "pos": "vi.,n.,vt.",
+   "cn": "脚步沉重地走；树桩；残根；残余部分；把…难住；使为难；在…做巡回演说"
+  },
+  {
+   "id": 1224,
+   "word": "behavior",
+   "uk": "/bɪˈheɪvjə/",
+   "us": "/bɪˈhevjɚ/",
+   "pos": "n.",
+   "cn": "行为；举止；表现"
+  },
+  {
+   "id": 1225,
+   "word": "federation",
+   "uk": "/ˌfedəˈreɪʃn/",
+   "us": "/ˈfɛdəˈreʃən/",
+   "pos": "n.",
+   "cn": "联合会；联邦"
+  },
+  {
+   "id": 1226,
+   "word": "minimize",
+   "uk": "/ˈmɪnɪmaɪz/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "使减少到最低限度；极力贬低；对…作最低估计"
+  },
+  {
+   "id": 1227,
+   "word": "descend",
+   "uk": "/dɪˈsend/",
+   "us": "/dɪˈsɛnd/",
+   "pos": "vi.,vt.",
+   "cn": "下来；下降；走下；爬下"
+  },
+  {
+   "id": 1228,
+   "word": "signify",
+   "uk": "/ˈsɪgnɪfaɪ/",
+   "us": "/ˈsɪɡnɪfaɪ/",
+   "pos": "vi.,vt.",
+   "cn": "有重要性；表示…的意思；意味；预示"
+  },
+  {
+   "id": 1229,
+   "word": "logical",
+   "uk": "/ˈlɒdʒɪkl/",
+   "us": "/ˈlɑdʒɪkl/",
+   "pos": "adj.",
+   "cn": "逻辑的；合乎常理的"
+  },
+  {
+   "id": 1230,
+   "word": "reconciliation",
+   "uk": "/ˌrekənsɪliˈeɪʃn/",
+   "us": "/,rɛkənsɪlɪˈeʃən/",
+   "pos": "n.",
+   "cn": "和解；调和"
+  }
+ ]
+}

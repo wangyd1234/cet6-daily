@@ -1,0 +1,246 @@
+{
+ "day": 20,
+ "date": null,
+ "words": [
+  {
+   "id": 571,
+   "word": "dimension",
+   "uk": "/dɪˈmenʃn/",
+   "us": "/dəˈmɛnʃən,daɪ-/",
+   "pos": "n.",
+   "cn": "尺寸；尺度；面积；方面；特点；面积；规模"
+  },
+  {
+   "id": 572,
+   "word": "deserve",
+   "uk": "/dɪˈzɜːv/",
+   "us": "/dɪˈzɝv/",
+   "pos": "vt.",
+   "cn": "应受；值得"
+  },
+  {
+   "id": 573,
+   "word": "process",
+   "uk": "/ˈprəus3s/",
+   "us": "/proˈsɛs;(forn.)prɑsɛs/",
+   "pos": "n.,vt.",
+   "cn": "过程；制作方法；程序；加工；办理"
+  },
+  {
+   "id": 574,
+   "word": "revenge",
+   "uk": "/rɪˈvendʒ/",
+   "us": "/rɪˈvɛndʒ/",
+   "pos": "n.,vt.",
+   "cn": "报复；报仇；为…报仇；报…之仇"
+  },
+  {
+   "id": 575,
+   "word": "restore",
+   "uk": "/rɪˈstɔː/",
+   "us": "/rɪˈstɔr/",
+   "pos": "vt.",
+   "cn": "恢复；使恢复；修复；整修；归还；交还"
+  },
+  {
+   "id": 576,
+   "word": "subscribe",
+   "uk": "/səbˈskraɪb/",
+   "us": "",
+   "pos": "vi.,vt.",
+   "cn": "订阅；订购；同意；赞成；捐助；赞助"
+  },
+  {
+   "id": 577,
+   "word": "distill",
+   "uk": "/dɪˈstɪl/",
+   "us": "/dɪsˈtɪl/",
+   "pos": "vt.",
+   "cn": "蒸馏；用蒸馏法提取；吸取；提炼"
+  },
+  {
+   "id": 578,
+   "word": "alternative",
+   "uk": "/ɔːlˈtɜːnətɪv/",
+   "us": "/ɔlˈtɝnətɪv/",
+   "pos": "adj.,n.",
+   "cn": "两者选一的；供选择的；另类的；替换物；选择；选择的自由"
+  },
+  {
+   "id": 579,
+   "word": "concentration",
+   "uk": "/ˌkɒnsnˈtreɪʃn/",
+   "us": "/ˈkɑnsnˈtreʃən/",
+   "pos": "n.",
+   "cn": "集中；专注；专心；浓缩；浓度"
+  },
+  {
+   "id": 580,
+   "word": "velocity",
+   "uk": "/vəˈlɒsəti/",
+   "us": "/vəˈlɑsəti/",
+   "pos": "n.",
+   "cn": "速度；速率"
+  },
+  {
+   "id": 581,
+   "word": "encounter",
+   "uk": "/ɪnˈkauntə/",
+   "us": "/ɪnˈkaʊntɚ/",
+   "pos": "vt.,n.",
+   "cn": "遭遇；遇到；遭遇"
+  },
+  {
+   "id": 582,
+   "word": "fellowship",
+   "uk": "/ˈfeləuʃɪp/",
+   "us": "/ˈfɛloʃɪp/",
+   "pos": "n.",
+   "cn": "伙伴关系；交情；友谊；团体；协会；联谊会；奖学金；研究员职位"
+  },
+  {
+   "id": 583,
+   "word": "colleague",
+   "uk": "/ˈkɒliːg/",
+   "us": "/ˈkɑliɡ/",
+   "pos": "n.",
+   "cn": "同事；同僚"
+  },
+  {
+   "id": 584,
+   "word": "approve",
+   "uk": "/əˈpruːv/",
+   "us": "/əˈprʊv/",
+   "pos": "vi.,vt.",
+   "cn": "赞成；称许；赞成；称许；批准"
+  },
+  {
+   "id": 585,
+   "word": "interaction",
+   "uk": "/ˌɪntərˈækʃn/",
+   "us": "/,ɪntəˈrækʃən/",
+   "pos": "n.",
+   "cn": "相互作用"
+  },
+  {
+   "id": 586,
+   "word": "pedestrian",
+   "uk": "/pəˈdestriən/",
+   "us": "/pəˈdɛstrɪən/",
+   "pos": "n.",
+   "cn": "步行者；行人"
+  },
+  {
+   "id": 587,
+   "word": "interfere",
+   "uk": "/ˌɪntəˈfɪə/",
+   "us": "/,ɪntɚˈfɪr/",
+   "pos": "vi.",
+   "cn": "干涉；干预；妨碍"
+  },
+  {
+   "id": 588,
+   "word": "apartment",
+   "uk": "/əˈpɑːtmənt/",
+   "us": "/əˈpɑrtmənt/",
+   "pos": "n.",
+   "cn": "一套公寓房间"
+  },
+  {
+   "id": 589,
+   "word": "account",
+   "uk": "/əˈkaunt/",
+   "us": "/əˈkaʊnt/",
+   "pos": "vi.,n.",
+   "cn": "说明…的原因；占…；记述；解释；账目"
+  },
+  {
+   "id": 590,
+   "word": "fitting",
+   "uk": "/ˈfɪtɪŋ/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "适合的；恰当的；设备；家具；日用器具；配件；附件；零件；试穿；试衣"
+  },
+  {
+   "id": 591,
+   "word": "stack",
+   "uk": "/stæk/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "堆；垛；堆积；堆放于"
+  },
+  {
+   "id": 592,
+   "word": "radioactive",
+   "uk": "/ˌreɪdiəuˈæktɪv/",
+   "us": "/ˈredɪoˈæktɪv/",
+   "pos": "adj.",
+   "cn": "放射性的；有辐射能的"
+  },
+  {
+   "id": 593,
+   "word": "resent",
+   "uk": "/rɪˈzent/",
+   "us": "/rɪˈzɛnt/",
+   "pos": "vt.",
+   "cn": "对…表示愤恨；怨恨"
+  },
+  {
+   "id": 594,
+   "word": "stride",
+   "uk": "/straɪd/",
+   "us": "",
+   "pos": "vi.,n.",
+   "cn": "大踏步走；大步；步法；步态；进展；进步"
+  },
+  {
+   "id": 595,
+   "word": "ambiguous",
+   "uk": "/æmˈbɪgjuəs/",
+   "us": "/æmˈbɪɡjuəs/",
+   "pos": "adj.",
+   "cn": "引起歧义的；模棱两可的；含糊不清的"
+  },
+  {
+   "id": 596,
+   "word": "impulsive",
+   "uk": "/ɪmˈpʌlsɪv/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "冲动的"
+  },
+  {
+   "id": 597,
+   "word": "qualitative",
+   "uk": "/ˈkwɒlɪtətɪv/",
+   "us": "/ˈkwɑlətetɪv/",
+   "pos": "adj.",
+   "cn": "性质的；定性的"
+  },
+  {
+   "id": 598,
+   "word": "diverse",
+   "uk": "/daɪˈvɜːs/",
+   "us": "/daɪˈvɝs/",
+   "pos": "adj.",
+   "cn": "不一样的；相异的；多种多样的"
+  },
+  {
+   "id": 599,
+   "word": "crisp",
+   "uk": "/krɪsp/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "脆的；鲜脆的；挺括的；清新的；干冷的；简明扼要的；利落的；油炸土豆片"
+  },
+  {
+   "id": 600,
+   "word": "prime",
+   "uk": "/praɪm/",
+   "us": "",
+   "pos": "adj.,n.,vt.",
+   "cn": "首要的；最好的；青春；全盛时期；使准备好"
+  }
+ ]
+}

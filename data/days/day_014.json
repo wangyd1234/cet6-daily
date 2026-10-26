@@ -1,0 +1,246 @@
+{
+ "day": 14,
+ "date": null,
+ "words": [
+  {
+   "id": 391,
+   "word": "locomotive",
+   "uk": "/ˌləukəˈməutɪv/",
+   "us": "/,lokəˈmotɪv/",
+   "pos": "n.",
+   "cn": "机车"
+  },
+  {
+   "id": 392,
+   "word": "tile",
+   "uk": "/taɪl/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "瓦；瓷砖；铺瓦于；贴瓷砖于"
+  },
+  {
+   "id": 393,
+   "word": "donation",
+   "uk": "/dəuˈneɪʃn/",
+   "us": "/doˈneʃən/",
+   "pos": "n.",
+   "cn": "捐款；捐赠物；捐赠；赠送"
+  },
+  {
+   "id": 394,
+   "word": "immense",
+   "uk": "/ɪˈmens/",
+   "us": "/ɪˈmɛns/",
+   "pos": "adj.",
+   "cn": "广大的；巨大的；无限的"
+  },
+  {
+   "id": 395,
+   "word": "inherent",
+   "uk": "/ɪnˈhɪərənt/",
+   "us": "/ɪnˈhɪrənt/",
+   "pos": "adj.",
+   "cn": "内在的；固有的；生来就有的"
+  },
+  {
+   "id": 396,
+   "word": "stability",
+   "uk": "/stəˈbɪləti/",
+   "us": "",
+   "pos": "n.",
+   "cn": "稳定；稳固"
+  },
+  {
+   "id": 397,
+   "word": "budget",
+   "uk": "/ˈbʌdʒɪt/",
+   "us": "",
+   "pos": "v.,adj.,n.",
+   "cn": "规划；安排；编预算；低廉的；收费公道的；预算；预算拨款"
+  },
+  {
+   "id": 398,
+   "word": "radiate",
+   "uk": "/ˈreɪdieɪt/",
+   "us": "/ˈredɪet/",
+   "pos": "v.",
+   "cn": "发出；辐射；流露；显示"
+  },
+  {
+   "id": 399,
+   "word": "given",
+   "uk": "/ˈgɪvn/",
+   "us": "/ˈɡɪvn/",
+   "pos": "adj.,prep.",
+   "cn": "规定的；特定的；假设的；已知的；有癖好的；有倾向的；考虑到"
+  },
+  {
+   "id": 400,
+   "word": "perish",
+   "uk": "/ˈperɪʃ/",
+   "us": "/ˈpɛrɪʃ/",
+   "pos": "vi.",
+   "cn": "丧生；毁灭；消亡；失去弹性；老化"
+  },
+  {
+   "id": 401,
+   "word": "pastime",
+   "uk": "/ˈpɑːstaɪm/",
+   "us": "/ˈpæstaɪm/",
+   "pos": "n.",
+   "cn": "消遣；娱乐"
+  },
+  {
+   "id": 402,
+   "word": "ultimate",
+   "uk": "/ˈʌltɪmət/",
+   "us": "/ˈʌltəmɪt/",
+   "pos": "adj.,n.",
+   "cn": "最后的；最终的；终极；顶点"
+  },
+  {
+   "id": 403,
+   "word": "adapt",
+   "uk": "/əˈdæpt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "使适应；改编"
+  },
+  {
+   "id": 404,
+   "word": "prosecute",
+   "uk": "/ˈprɒsɪkjuːt/",
+   "us": "/ˈprɑsɪˈkjʊt/",
+   "pos": "vi.,vt.",
+   "cn": "起诉；告发；对…提起公诉；告发；检举；继续从事"
+  },
+  {
+   "id": 405,
+   "word": "batch",
+   "uk": "/bætʃ/",
+   "us": "",
+   "pos": "n.",
+   "cn": "一批；一组；一群；一批生产量"
+  },
+  {
+   "id": 406,
+   "word": "merit",
+   "uk": "/ˈmerɪt/",
+   "us": "/ˈmɛrɪt/",
+   "pos": "n.,vt.",
+   "cn": "长处；优点；价值；功劳；成绩；值得；应受"
+  },
+  {
+   "id": 407,
+   "word": "verbal",
+   "uk": "/ˈvɜːbl/",
+   "us": "/ˈvɝbl/",
+   "pos": "adj.",
+   "cn": "口头的；用言辞的；用文字的；动词的"
+  },
+  {
+   "id": 408,
+   "word": "solicitor",
+   "uk": "/səˈlɪsɪtə/",
+   "us": "/səˈlɪsɪtɚ/",
+   "pos": "n.",
+   "cn": "初级律师；事务律师"
+  },
+  {
+   "id": 409,
+   "word": "intrinsic",
+   "uk": "/ɪnˈtrɪnsɪk/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "固有的；本质的；内在的"
+  },
+  {
+   "id": 410,
+   "word": "proximity",
+   "uk": "/prɒkˈsɪməti/",
+   "us": "/prɑkˈsɪməti/",
+   "pos": "n.",
+   "cn": "接近；邻近"
+  },
+  {
+   "id": 411,
+   "word": "luminous",
+   "uk": "/ˈluːmɪnəs/",
+   "us": "/ˈlʊmənəs/",
+   "pos": "adj.",
+   "cn": "发光的；发亮的；光明的"
+  },
+  {
+   "id": 412,
+   "word": "lash",
+   "uk": "/læʃ/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "将系牢；鞭打；抽打；猛烈打击；猛烈抨击；严厉斥责；鞭打；假睫毛；鞭梢"
+  },
+  {
+   "id": 413,
+   "word": "receipt",
+   "uk": "/rɪˈsiːt/",
+   "us": "/rɪˈsit/",
+   "pos": "n.",
+   "cn": "发票；收据；收入；进款；收到；接到"
+  },
+  {
+   "id": 414,
+   "word": "assume",
+   "uk": "/əˈsjuːm/",
+   "us": "/əˈsum/",
+   "pos": "vt.",
+   "cn": "假定；假设；臆断；承担；担任；呈现"
+  },
+  {
+   "id": 415,
+   "word": "predestine",
+   "uk": "/priːˈdestɪn/",
+   "us": "/pri:ˈdestin/",
+   "pos": "vt.",
+   "cn": "预先确定；注定"
+  },
+  {
+   "id": 416,
+   "word": "chant",
+   "uk": "/tʃɑːnt/",
+   "us": "/tʃænt/",
+   "pos": "vt.,n.",
+   "cn": "反复有节奏地喊叫；吟诵；咏唱；反复有节奏的喊叫；赞美诗；圣歌"
+  },
+  {
+   "id": 417,
+   "word": "destiny",
+   "uk": "/ˈdestəni/",
+   "us": "/ˈdɛstəni/",
+   "pos": "n.",
+   "cn": "命运；定数；天命"
+  },
+  {
+   "id": 418,
+   "word": "capsule",
+   "uk": "/ˈkæpsjuːl/",
+   "us": "/ˈkæpsl;/",
+   "pos": "n.",
+   "cn": "胶囊；航天舱；密封舱"
+  },
+  {
+   "id": 419,
+   "word": "concept",
+   "uk": "/ˈkɒnsept/",
+   "us": "/ˈkɑnsɛpt/",
+   "pos": "n.",
+   "cn": "概念；观念；设想"
+  },
+  {
+   "id": 420,
+   "word": "resistant",
+   "uk": "/rɪˈzɪstənt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "抵抗的；抗…的；耐…的"
+  }
+ ]
+}

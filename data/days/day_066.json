@@ -1,0 +1,246 @@
+{
+ "day": 66,
+ "date": null,
+ "words": [
+  {
+   "id": 1951,
+   "word": "prejudice",
+   "uk": "/ˈpredʒudɪs/",
+   "us": "/ˈprɛdʒədɪs/",
+   "pos": "n.,vt.",
+   "cn": "偏见；成见；使有偏见；对…不利；损害"
+  },
+  {
+   "id": 1952,
+   "word": "clearance",
+   "uk": "/ˈklɪərəns/",
+   "us": "/ˈklɪrəns/",
+   "pos": "n.",
+   "cn": "净空；余隙；许可；批准；票据交换；清算；清除；清理；出空"
+  },
+  {
+   "id": 1953,
+   "word": "customary",
+   "uk": "/ˈkʌstəməri/",
+   "us": "/ˈkʌstəˈmɛri/",
+   "pos": "adj.",
+   "cn": "习惯上的；惯常的；合乎习俗的"
+  },
+  {
+   "id": 1954,
+   "word": "immigrant",
+   "uk": "/ˈɪmɪgrənt/",
+   "us": "/ˈɪmɪɡrənt/",
+   "pos": "n.",
+   "cn": "移民；侨民"
+  },
+  {
+   "id": 1955,
+   "word": "guardian",
+   "uk": "/ˈgɑːdiən/",
+   "us": "/ˈɡɑrdɪən/",
+   "pos": "n.",
+   "cn": "监护人；守卫者；保护者"
+  },
+  {
+   "id": 1956,
+   "word": "veto",
+   "uk": "/ˈviːtəu/",
+   "us": "/ˈvito/",
+   "pos": "vt.,n.",
+   "cn": "否决"
+  },
+  {
+   "id": 1957,
+   "word": "thorn",
+   "uk": "/θɔːn/",
+   "us": "/θɔrn/",
+   "pos": "n.",
+   "cn": "刺；荆棘；带刺小灌木"
+  },
+  {
+   "id": 1958,
+   "word": "disposition",
+   "uk": "/ˌdɪspəˈzɪʃn/",
+   "us": "/ˈdɪspəˈzɪʃən/",
+   "pos": "n.",
+   "cn": "性情；性格；意向；倾向；排列；部署"
+  },
+  {
+   "id": 1959,
+   "word": "corporate",
+   "uk": "/ˈkɔːpərɪət/",
+   "us": "/ˈkɔːrpərət/",
+   "pos": "adj.",
+   "cn": "法人团体的；公司的；全体的；共同的"
+  },
+  {
+   "id": 1960,
+   "word": "stabilize",
+   "uk": "/ˈsteɪbəlaɪz/",
+   "us": "/ˈstebəlaɪz/",
+   "pos": "v.",
+   "cn": "稳定；稳固"
+  },
+  {
+   "id": 1961,
+   "word": "compensate",
+   "uk": "/ˈkɒmpenseɪt/",
+   "us": "/ˈkɑmpɛnset/",
+   "pos": "v.",
+   "cn": "补偿；弥补；抵消"
+  },
+  {
+   "id": 1962,
+   "word": "conscious",
+   "uk": "/ˈkɒnʃəs/",
+   "us": "/ˈkɑnʃəs/",
+   "pos": "adj.",
+   "cn": "意识到的；自觉的；神志清醒的；有意的；存心的"
+  },
+  {
+   "id": 1963,
+   "word": "transaction",
+   "uk": "/trænˈzækʃn/",
+   "us": "/trænˈzækʃən/",
+   "pos": "n.",
+   "cn": "交易；业务"
+  },
+  {
+   "id": 1964,
+   "word": "constant",
+   "uk": "/ˈkɒnstənt/",
+   "us": "/ˈkɑnstənt/",
+   "pos": "adj.,n.",
+   "cn": "经常的；不断的；连续发生的；永恒的；忠实的；忠诚的；常数；恒量"
+  },
+  {
+   "id": 1965,
+   "word": "bribe",
+   "uk": "/braɪb/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "向…贿赂；买通；贿赂；行贿物"
+  },
+  {
+   "id": 1966,
+   "word": "certify",
+   "uk": "/ˈsɜːtɪfaɪ/",
+   "us": "/ˈsɝtəˈfai/",
+   "pos": "vt.",
+   "cn": "证明；证实；发证书给"
+  },
+  {
+   "id": 1967,
+   "word": "intermittent",
+   "uk": "/ˌɪntəˈmɪtənt/",
+   "us": "/,ɪntɚˈmɪtənt/",
+   "pos": "adj.",
+   "cn": "间歇的；断断续续的"
+  },
+  {
+   "id": 1968,
+   "word": "outrage",
+   "uk": "/ˈautreɪdʒ/",
+   "us": "/ˈaʊtredʒ/",
+   "pos": "n.,vt.",
+   "cn": "义愤；愤慨；暴行；骇人听闻的事件；激起…的义愤；激怒"
+  },
+  {
+   "id": 1969,
+   "word": "solitary",
+   "uk": "/ˈsɒlətri/",
+   "us": "/ˈsɑlətɛri/",
+   "pos": "adj.",
+   "cn": "单独的；独自的；单个的；唯一的；孤独的；隐居的"
+  },
+  {
+   "id": 1970,
+   "word": "diffuse",
+   "uk": "/dɪˈfjuːz/",
+   "us": "/dɪˈfjus/",
+   "pos": "v.,adj.",
+   "cn": "扩散；弥漫；传播；散布；冗长的；漫无边际的；四散的；弥漫的"
+  },
+  {
+   "id": 1971,
+   "word": "scramble",
+   "uk": "/ˈskræmbl/",
+   "us": "",
+   "pos": "vi.,vt.,n.",
+   "cn": "攀登；爬；争夺；抢夺；扰乱；搞乱；攀登；爬行；争夺；抢夺"
+  },
+  {
+   "id": 1972,
+   "word": "orchestra",
+   "uk": "/ˈɔːkɪstrə/",
+   "us": "/ˈɔrkɪstrə/",
+   "pos": "n.",
+   "cn": "管弦乐队"
+  },
+  {
+   "id": 1973,
+   "word": "immerse",
+   "uk": "/ɪˈmɜːs/",
+   "us": "/ɪˈmɝs/",
+   "pos": "vt.",
+   "cn": "使浸没；使沉浸在；使专心于"
+  },
+  {
+   "id": 1974,
+   "word": "sufficient",
+   "uk": "/səˈfɪʃnt/",
+   "us": "/səˈfɪʃənt/",
+   "pos": "adj.",
+   "cn": "足够的；充分的"
+  },
+  {
+   "id": 1975,
+   "word": "marshal",
+   "uk": "/ˈmɑːʃl/",
+   "us": "/ˈmɑrʃəl/",
+   "pos": "n.,vt.",
+   "cn": "元帅；最高指挥官；总指挥；司仪；执法官；警察局长；消防队长；整理；排列；集结"
+  },
+  {
+   "id": 1976,
+   "word": "champagne",
+   "uk": "/ʃæmˈpeɪn/",
+   "us": "/ʃæmˈpen/",
+   "pos": "n.",
+   "cn": "香槟酒"
+  },
+  {
+   "id": 1977,
+   "word": "claim",
+   "uk": "/kleɪm/",
+   "us": "/klem/",
+   "pos": "vt.,n.",
+   "cn": "声称；主张；对…提出要求；索取；使失踪或死亡；需要；值得；要求；认领；索赔；声称；断言"
+  },
+  {
+   "id": 1978,
+   "word": "widespread",
+   "uk": "/ˈwaɪdspred/",
+   "us": "/ˈwʌɪdsprɛd/",
+   "pos": "adj.",
+   "cn": "分布广泛的；普遍的"
+  },
+  {
+   "id": 1979,
+   "word": "antique",
+   "uk": "/ænˈtiːk/",
+   "us": "/ænˈtik/",
+   "pos": "adj.,n.",
+   "cn": "古时的；古老的；古物；古玩；古董"
+  },
+  {
+   "id": 1980,
+   "word": "communication",
+   "uk": "/kəˌmjuːnɪˈkeɪʃn/",
+   "us": "/kə,mjunɪˈkeʃən/",
+   "pos": "n.",
+   "cn": "通讯；交流；交际；通信工具；交通联系"
+  }
+ ]
+}

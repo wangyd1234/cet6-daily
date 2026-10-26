@@ -1,0 +1,246 @@
+{
+ "day": 19,
+ "date": null,
+ "words": [
+  {
+   "id": 541,
+   "word": "orthodox",
+   "uk": "/ˈɔːθədɒks/",
+   "us": "/ˈɔrθədɑks/",
+   "pos": "adj.",
+   "cn": "传统的；正统的；正宗的"
+  },
+  {
+   "id": 542,
+   "word": "accustomed",
+   "uk": "/əˈkʌstəmd/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "惯常的；习惯的"
+  },
+  {
+   "id": 543,
+   "word": "combination",
+   "uk": "/ˌkɒmbɪˈneɪʃn/",
+   "us": "/,kɑmbɪˈneʃən/",
+   "pos": "n.",
+   "cn": "结合；联合；化合"
+  },
+  {
+   "id": 544,
+   "word": "obtain",
+   "uk": "/əbˈteɪn/",
+   "us": "/əbˈten/",
+   "pos": "vi.,vt.",
+   "cn": "通用；流行；存在；获得"
+  },
+  {
+   "id": 545,
+   "word": "statesman",
+   "uk": "/ˈsteɪtsmən/",
+   "us": "/ˈstetsmən/",
+   "pos": "n.",
+   "cn": "国务活动家；政治家"
+  },
+  {
+   "id": 546,
+   "word": "tack",
+   "uk": "/tæk/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "平头钉；大头钉；行动方向；方针；用平头钉钉；附加；增补"
+  },
+  {
+   "id": 547,
+   "word": "gross",
+   "uk": "/grəus/",
+   "us": "/ɡros/",
+   "pos": "adj.",
+   "cn": "总的；严重的；粗俗的；臃肿的"
+  },
+  {
+   "id": 548,
+   "word": "lounge",
+   "uk": "/laundʒ/",
+   "us": "/laʊndʒ/",
+   "pos": "vi.,n.",
+   "cn": "倚；躺；闲逛；闲荡；休息厅；休息室"
+  },
+  {
+   "id": 549,
+   "word": "porch",
+   "uk": "/pɔːtʃ/",
+   "us": "/pɔrtʃ/",
+   "pos": "n.",
+   "cn": "门廊"
+  },
+  {
+   "id": 550,
+   "word": "workshop",
+   "uk": "/ˈwɜːkʃɒp/",
+   "us": "/ˈwɝkʃɑp/",
+   "pos": "n.",
+   "cn": "车间；工场；专题讨论会"
+  },
+  {
+   "id": 551,
+   "word": "format",
+   "uk": "/ˈfɔːmæt/",
+   "us": "/ˈfɔrmæt/",
+   "pos": "n.,vt.",
+   "cn": "设计；安排；格式；样式；版式；使格式化"
+  },
+  {
+   "id": 552,
+   "word": "sacrifice",
+   "uk": "/ˈsækrɪfaɪs/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "牺牲；舍身；献祭；供奉；祭品"
+  },
+  {
+   "id": 553,
+   "word": "illegal",
+   "uk": "/ɪˈliːgl/",
+   "us": "/ɪˈligl/",
+   "pos": "adj.",
+   "cn": "不合法的；非法的"
+  },
+  {
+   "id": 554,
+   "word": "corps",
+   "uk": "/kɔː/",
+   "us": "/kɔrz/",
+   "pos": "n.",
+   "cn": "队；部队；一组"
+  },
+  {
+   "id": 555,
+   "word": "eclipse",
+   "uk": "/ɪkˈlɪps/",
+   "us": "/ɪˈklɪps/",
+   "pos": "n.,vt.",
+   "cn": "食；消失；黯然失色；食；遮掩光；使暗淡；使失色；使相形见绌"
+  },
+  {
+   "id": 556,
+   "word": "formal",
+   "uk": "/ˈfɔːml/",
+   "us": "/ˈfɔrml/",
+   "pos": "adj.",
+   "cn": "正式的；礼仪上的"
+  },
+  {
+   "id": 557,
+   "word": "correlate",
+   "uk": "/ˈkɒrəleɪt/",
+   "us": "/ˈkɔrəlet/",
+   "pos": "vi.,vt.",
+   "cn": "相关；关联；使相互关联"
+  },
+  {
+   "id": 558,
+   "word": "soar",
+   "uk": "/sɔː/",
+   "us": "/sɔr/",
+   "pos": "vi.",
+   "cn": "猛增；剧增；高飞；升腾；高涨；高耸；屹立"
+  },
+  {
+   "id": 559,
+   "word": "commute",
+   "uk": "/kəˈmjuːt/",
+   "us": "/kəˈmjʊt/",
+   "pos": "vi.,vt.",
+   "cn": "乘公交车上下班；经常乘车往返于两地；减；折合；折偿；上下班交通"
+  },
+  {
+   "id": 560,
+   "word": "sustain",
+   "uk": "/səˈsteɪn/",
+   "us": "/səˈsten/",
+   "pos": "vt.",
+   "cn": "保持；使持续下去；供养；维持；支持；支撑；经受；遭受"
+  },
+  {
+   "id": 561,
+   "word": "critical",
+   "uk": "/ˈkrɪtɪkl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "决定性的；批评的"
+  },
+  {
+   "id": 562,
+   "word": "shepherd",
+   "uk": "/ˈʃepəd/",
+   "us": "/ˈʃɛpɚd/",
+   "pos": "n.,vt.",
+   "cn": "牧羊人；羊倌；带领；引导"
+  },
+  {
+   "id": 563,
+   "word": "outcry",
+   "uk": "/ˈautkraɪ/",
+   "us": "/ˈaʊtkraɪ/",
+   "pos": "n.",
+   "cn": "大声疾呼；呐喊；强烈抗议"
+  },
+  {
+   "id": 564,
+   "word": "radiant",
+   "uk": "/ˈreɪdiənt/",
+   "us": "/ˈredɪənt/",
+   "pos": "adj.",
+   "cn": "容光焕发的；喜形于色的；光芒四射的；光辉灿烂的；辐射的"
+  },
+  {
+   "id": 565,
+   "word": "principal",
+   "uk": "/ˈprɪnsəpl/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "最重要的；主要的；负责人；校长；资本；本金；主要演员；主角"
+  },
+  {
+   "id": 566,
+   "word": "exceedingly",
+   "uk": "/ɪkˈsiːdɪŋli/",
+   "us": "/ɪkˈsidɪŋli/",
+   "pos": "adv.",
+   "cn": "极端地；非常"
+  },
+  {
+   "id": 567,
+   "word": "uphold",
+   "uk": "/ˌʌpˈhəuld/",
+   "us": "/ʌpˈhoʊld/",
+   "pos": "vt.",
+   "cn": "支持；维护"
+  },
+  {
+   "id": 568,
+   "word": "exotic",
+   "uk": "/ɪgˈzɒtɪk/",
+   "us": "/ɪɡˈzɑtɪk/",
+   "pos": "adj.",
+   "cn": "外来的；异国情调的；奇异的"
+  },
+  {
+   "id": 569,
+   "word": "relief",
+   "uk": "/rɪˈliːf/",
+   "us": "/rɪˈlif/",
+   "pos": "n.",
+   "cn": "轻松；宽慰；缓解；减轻；解除；使得到调剂；接替；替下"
+  },
+  {
+   "id": 570,
+   "word": "boycott",
+   "uk": "/ˈbɔɪkɒt/",
+   "us": "/ˈbɔɪkɑt/",
+   "pos": "vt.,n.",
+   "cn": "抵制；拒绝参与"
+  }
+ ]
+}

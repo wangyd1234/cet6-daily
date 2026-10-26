@@ -1,0 +1,246 @@
+{
+ "day": 64,
+ "date": null,
+ "words": [
+  {
+   "id": 1891,
+   "word": "conserve",
+   "uk": "/kənˈsɜːv/",
+   "us": "/kənˈsɝv/",
+   "pos": "vt.",
+   "cn": "保护；保藏；保存"
+  },
+  {
+   "id": 1892,
+   "word": "stroke",
+   "uk": "/strəuk/",
+   "us": "/strok/",
+   "pos": "n.,vt.",
+   "cn": "中风；一举；一次努力；划桨；划水；击；敲；报时的钟声；笔画；一笔；抚摸；抚摸"
+  },
+  {
+   "id": 1893,
+   "word": "breed",
+   "uk": "/briːd/",
+   "us": "/brid/",
+   "pos": "v.,n.",
+   "cn": "繁殖；养育；培育；酿成；产生；品种"
+  },
+  {
+   "id": 1894,
+   "word": "tease",
+   "uk": "/tiːz/",
+   "us": "/tiz/",
+   "pos": "vt.",
+   "cn": "戏弄；取笑；挑逗；撩拨"
+  },
+  {
+   "id": 1895,
+   "word": "rash",
+   "uk": "/ræʃ/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "轻率的；鲁莽的；疹；皮疹；爆发的一连串"
+  },
+  {
+   "id": 1896,
+   "word": "fragrance",
+   "uk": "/ˈfreɪgrəns/",
+   "us": "/ˈfregrəns/",
+   "pos": "n.",
+   "cn": "芳香；香味；香水"
+  },
+  {
+   "id": 1897,
+   "word": "management",
+   "uk": "/ˈmænɪdʒmənt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "管理；处理；管理部门；管理人员"
+  },
+  {
+   "id": 1898,
+   "word": "cylinder",
+   "uk": "/ˈsɪlɪndə/",
+   "us": "/ˈsɪlɪndɚ/",
+   "pos": "n.",
+   "cn": "圆柱体；圆筒；气缸；泵体"
+  },
+  {
+   "id": 1899,
+   "word": "fort",
+   "uk": "/fɔːt/",
+   "us": "/fɔrt/",
+   "pos": "n.",
+   "cn": "堡垒；城堡"
+  },
+  {
+   "id": 1900,
+   "word": "avoid",
+   "uk": "/əˈvɔɪd/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "避免；躲开；撤销"
+  },
+  {
+   "id": 1901,
+   "word": "comprehensive",
+   "uk": "/ˌkɒmprɪˈhensɪv/",
+   "us": "/ˌkɑːmprɪˈhensɪv/",
+   "pos": "adj.",
+   "cn": "广泛的；综合的；理解的"
+  },
+  {
+   "id": 1902,
+   "word": "tunnel",
+   "uk": "/ˈtʌnl/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "挖；开；隧道；坑道；地道"
+  },
+  {
+   "id": 1903,
+   "word": "assign",
+   "uk": "/əˈsaɪn/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "指派；分配；布置；指定"
+  },
+  {
+   "id": 1904,
+   "word": "withdraw",
+   "uk": "/wɪðˈdrɔː/",
+   "us": "/wɪðˈdrɔ/",
+   "pos": "v.",
+   "cn": "收回；撤回；撤退"
+  },
+  {
+   "id": 1905,
+   "word": "straightforward",
+   "uk": "/ˌstreɪtˈfɔːwəd/",
+   "us": "/,stretˈfɔrwɚd/",
+   "pos": "adj.",
+   "cn": "正直的；坦率的；易懂的；简单的"
+  },
+  {
+   "id": 1906,
+   "word": "elaborate",
+   "uk": "/ɪˈlæb(ə)rət/",
+   "us": "/ɪˈlæbəret/",
+   "pos": "adj.,v.",
+   "cn": "复杂的；精心制作的；详述；详细制定"
+  },
+  {
+   "id": 1907,
+   "word": "expert",
+   "uk": "/ˈekspɜːt/",
+   "us": "/ˈɛkspɝt;(foradj.,also)ɛksˈpɝt;ɪkˈspɝt/",
+   "pos": "adj.,n.",
+   "cn": "熟练的；专家"
+  },
+  {
+   "id": 1908,
+   "word": "decade",
+   "uk": "/ˈdekeɪd/",
+   "us": "/ˈdɛked/",
+   "pos": "n.",
+   "cn": "十年；十年期"
+  },
+  {
+   "id": 1909,
+   "word": "fulfill",
+   "uk": "/fulˈfɪl/",
+   "us": "/fulˈfil/",
+   "pos": "vt.",
+   "cn": "履行；实现；完成；满足；使满意"
+  },
+  {
+   "id": 1910,
+   "word": "crowd",
+   "uk": "/kraud/",
+   "us": "/kraʊd/",
+   "pos": "vi.,n.,vt.",
+   "cn": "聚集；挤；涌；群；一批；挤；挤满"
+  },
+  {
+   "id": 1911,
+   "word": "congress",
+   "uk": "/ˈkɒŋgres/",
+   "us": "/ˈkɑŋɡrəs/",
+   "pos": "n.",
+   "cn": "代表大会；国会；议会"
+  },
+  {
+   "id": 1912,
+   "word": "mechanical",
+   "uk": "/məˈkænɪkl/",
+   "us": "/mɪˈkænɪkəl/",
+   "pos": "adj.",
+   "cn": "机械的；机械制造的；机械学的；力学的；呆板的"
+  },
+  {
+   "id": 1913,
+   "word": "divine",
+   "uk": "/dɪˈvaɪn/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "神的；神授的；天赐的；极好的；极美的"
+  },
+  {
+   "id": 1914,
+   "word": "slaughter",
+   "uk": "/ˈslɔːtə/",
+   "us": "/ˈslɔtɚ/",
+   "pos": "vt.,n.",
+   "cn": "屠杀；杀戮；屠宰"
+  },
+  {
+   "id": 1915,
+   "word": "foul",
+   "uk": "/faul/",
+   "us": "/faʊl/",
+   "pos": "adj.,vt.,n.",
+   "cn": "难闻的；发臭的；令人不愉快的；糟透了的；污浊的；肮脏的；下流的；辱骂性的；恶劣的；有暴风雨的；邪恶的；罪恶的；对…犯规；弄脏；弄污；犯规"
+  },
+  {
+   "id": 1916,
+   "word": "output",
+   "uk": "/ˈautput/",
+   "us": "/ˈaʊtpʊt/",
+   "pos": "n.,vt.",
+   "cn": "产量；输出；输出功率；输出"
+  },
+  {
+   "id": 1917,
+   "word": "intricate",
+   "uk": "/ˈɪntrɪkət/",
+   "us": "/ˈɪntrəkət/",
+   "pos": "adj.",
+   "cn": "错综复杂的；复杂精细的"
+  },
+  {
+   "id": 1918,
+   "word": "fatigue",
+   "uk": "/fəˈtiːg/",
+   "us": "/fəˈtig/",
+   "pos": "v.,n.",
+   "cn": "疲劳；疲劳；劳累"
+  },
+  {
+   "id": 1919,
+   "word": "agony",
+   "uk": "/ˈægəni/",
+   "us": "/ˈæɡəni/",
+   "pos": "n.",
+   "cn": "痛苦；苦恼"
+  },
+  {
+   "id": 1920,
+   "word": "contemplate",
+   "uk": "/ˈkɒntempleɪt/",
+   "us": "/ˈkɑntəmplet/",
+   "pos": "vt.",
+   "cn": "盘算；计议；思量；对…周密考虑；注视；凝视"
+  }
+ ]
+}

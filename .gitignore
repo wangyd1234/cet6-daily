@@ -1,0 +1,11 @@
+# 私密配置：Server酱 SendKey 等，绝对不要提交
+config.local.json
+
+# 本地工具（便携版 Git 等，体积大，不提交）
+.tools/
+*.7z.exe
+
+# Python 缓存
+__pycache__/
+*.pyc
+.venv/

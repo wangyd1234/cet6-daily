@@ -1,0 +1,335 @@
+{
+  "day": 28,
+  "words": [
+    {
+      "word": "revenue",
+      "phr": [
+        {"en": "tax revenue", "zh": "税收"},
+        {"en": "annual revenue", "zh": "年收入"}
+      ],
+      "ex": [
+        {"en": "The company's annual revenue rose by twelve percent last year.", "zh": "该公司去年的年收入增长了百分之十二。"}
+      ],
+      "note": "revenue 指企业收入或政府税收，常用 tax revenue。"
+    },
+    {
+      "word": "solution",
+      "phr": [
+        {"en": "a solution to", "zh": "解决…的办法"},
+        {"en": "find a solution", "zh": "找到解决办法"}
+      ],
+      "ex": [
+        {"en": "Experts are still searching for a practical solution to the traffic problem.", "zh": "专家们仍在寻找解决交通问题的切实可行的办法。"}
+      ],
+      "note": "solution 后接介词 to，不接 of；另有“溶液”义。"
+    },
+    {
+      "word": "monopoly",
+      "phr": [
+        {"en": "a monopoly on", "zh": "对…的垄断"},
+        {"en": "break a monopoly", "zh": "打破垄断"}
+      ],
+      "ex": [
+        {"en": "The company held a virtual monopoly on software for personal computers.", "zh": "该公司在个人电脑软件上几乎处于垄断地位。"}
+      ],
+      "note": "monopoly 常与 hold 连用，后接 on 或 over。"
+    },
+    {
+      "word": "opponent",
+      "phr": [
+        {"en": "a political opponent", "zh": "政治对手"},
+        {"en": "defeat an opponent", "zh": "击败对手"}
+      ],
+      "ex": [
+        {"en": "She defeated her opponent in three straight sets.", "zh": "她连赢三盘击败了对手。"}
+      ],
+      "note": "opponent 指比赛或政治中的对手；objection 才是反对。"
+    },
+    {
+      "word": "accelerate",
+      "phr": [
+        {"en": "accelerate growth", "zh": "加快增长"},
+        {"en": "accelerate the process", "zh": "加速进程"}
+      ],
+      "ex": [
+        {"en": "The government cut taxes to accelerate economic growth.", "zh": "政府减税以加快经济增长。"}
+      ],
+      "note": "accelerate 指加速，名词为 acceleration。"
+    },
+    {
+      "word": "supplementary",
+      "phr": [
+        {"en": "supplementary materials", "zh": "补充材料"},
+        {"en": "supplementary budget", "zh": "追加预算"}
+      ],
+      "ex": [
+        {"en": "The teacher handed out supplementary materials to help students review.", "zh": "老师发了补充材料帮助学生复习。"}
+      ],
+      "note": "supplementary 指“补充的”，常用 materials/budget。"
+    },
+    {
+      "word": "grain",
+      "phr": [
+        {"en": "a grain of salt", "zh": "一撮盐；半信半疑"},
+        {"en": "whole grains", "zh": "全谷物"}
+      ],
+      "ex": [
+        {"en": "You should take his advice with a grain of salt.", "zh": "对他的建议你应该持保留态度。"}
+      ],
+      "note": "grain 指谷粒；a grain of salt 意为半信半疑。"
+    },
+    {
+      "word": "credit",
+      "phr": [
+        {"en": "take credit for", "zh": "把…归功于自己"},
+        {"en": "credit card", "zh": "信用卡"}
+      ],
+      "ex": [
+        {"en": "She took credit for the team's success although others did most of the work.", "zh": "她把团队的成功归功于自己，尽管大部分工作都是别人做的。"}
+      ],
+      "note": "credit 表“赞扬、学分”；take credit for 指揽功。"
+    },
+    {
+      "word": "oxygen",
+      "phr": [
+        {"en": "oxygen supply", "zh": "氧气供应"},
+        {"en": "lack of oxygen", "zh": "缺氧"}
+      ],
+      "ex": [
+        {"en": "Climbers at high altitude often carry extra oxygen in tanks.", "zh": "高海拔的登山者常携带罐装氧气。"}
+      ],
+      "note": "oxygen 不可数；化学符号为 O，常用 oxygen supply。"
+    },
+    {
+      "word": "intensive",
+      "phr": [
+        {"en": "intensive care", "zh": "重症监护"},
+        {"en": "intensive training", "zh": "强化训练"}
+      ],
+      "ex": [
+        {"en": "The injured driver was rushed to the intensive care unit.", "zh": "受伤的司机被紧急送往重症监护室。"}
+      ],
+      "note": "intensive 表“密集的、强化的”，与 extensive 易混。"
+    },
+    {
+      "word": "alter",
+      "phr": [
+        {"en": "alter a plan", "zh": "改变计划"},
+        {"en": "alter the course of history", "zh": "改变历史进程"}
+      ],
+      "ex": [
+        {"en": "The discovery altered the course of medical research.", "zh": "这一发现改变了医学研究的进程。"}
+      ],
+      "note": "alter 指局部改动，改衣服常用 alter。"
+    },
+    {
+      "word": "combine",
+      "phr": [
+        {"en": "combine A with B", "zh": "把A与B结合"},
+        {"en": "combined efforts", "zh": "共同努力"}
+      ],
+      "ex": [
+        {"en": "The course combines online lessons with weekly face-to-face seminars.", "zh": "这门课程把线上课程与每周的面授研讨结合起来。"}
+      ],
+      "note": "combine 常与 with 连用；名词 combination。"
+    },
+    {
+      "word": "ideal",
+      "phr": [
+        {"en": "ideal for", "zh": "非常适合"},
+        {"en": "an ideal candidate", "zh": "理想人选"}
+      ],
+      "ex": [
+        {"en": "This quiet cafe is ideal for studying on a rainy afternoon.", "zh": "这家安静的咖啡馆很适合在雨天下午学习。"}
+      ],
+      "note": "ideal 后接 for 表“对…很理想”；名词指“理想”。"
+    },
+    {
+      "word": "occur",
+      "phr": [
+        {"en": "occur to sb", "zh": "想到"},
+        {"en": "occur naturally", "zh": "自然发生"}
+      ],
+      "ex": [
+        {"en": "It never occurred to me that he might be telling the truth.", "zh": "我从没想到他可能说的是真话。"}
+      ],
+      "note": "occur to sb 表“某人想到”，occur 无被动语态。"
+    },
+    {
+      "word": "illustrate",
+      "phr": [
+        {"en": "illustrate a point", "zh": "说明观点"},
+        {"en": "as illustrated by", "zh": "如…所示"}
+      ],
+      "ex": [
+        {"en": "The chart clearly illustrates how prices have changed over ten years.", "zh": "这张图表清楚地说明了十年来价格的变化。"}
+      ],
+      "note": "illustrate 指用例子或图表说明，名词为 illustration。"
+    },
+    {
+      "word": "hose",
+      "phr": [
+        {"en": "a garden hose", "zh": "花园水管"},
+        {"en": "hose down", "zh": "用水管冲洗"}
+      ],
+      "ex": [
+        {"en": "He used the hose to water the flowers in the garden.", "zh": "他用水管给花园里的花浇水。"}
+      ],
+      "note": "hose 作名词指软管，hose down 表示用水冲洗。"
+    },
+    {
+      "word": "definitive",
+      "phr": [
+        {"en": "a definitive answer", "zh": "确切的答案"},
+        {"en": "definitive proof", "zh": "确凿证据"}
+      ],
+      "ex": [
+        {"en": "Scientists have not yet found definitive proof that the diet works.", "zh": "科学家尚未找到这种饮食有效的确凿证据。"}
+      ],
+      "note": "definitive 指“决定性的、权威的”，勿与 definite 混。"
+    },
+    {
+      "word": "streak",
+      "phr": [
+        {"en": "a streak of", "zh": "一连串"},
+        {"en": "on a winning streak", "zh": "处于连胜中"}
+      ],
+      "ex": [
+        {"en": "The team is on a five-game winning streak this season.", "zh": "这支球队本赛季已经连胜五场。"}
+      ],
+      "note": "streak 指“一连串、一段时期”，如 winning streak。"
+    },
+    {
+      "word": "pressure",
+      "phr": [
+        {"en": "under pressure", "zh": "在压力下"},
+        {"en": "put pressure on", "zh": "对…施压"}
+      ],
+      "ex": [
+        {"en": "Students often feel under great pressure before the final exams.", "zh": "学生在期末考试前常感到压力很大。"}
+      ],
+      "note": "pressure 常搭配 under pressure，动词义为“施压”。"
+    },
+    {
+      "word": "dentist",
+      "phr": [
+        {"en": "see a dentist", "zh": "看牙医"},
+        {"en": "a dentist appointment", "zh": "牙医预约"}
+      ],
+      "ex": [
+        {"en": "I have to see the dentist about a pain in my back tooth.", "zh": "我后牙疼，得去看牙医。"}
+      ],
+      "note": "dentist 指牙医；看牙医说 see a dentist。"
+    },
+    {
+      "word": "brood",
+      "phr": [
+        {"en": "brood over", "zh": "对…苦思"},
+        {"en": "a brood of chicks", "zh": "一窝小鸡"}
+      ],
+      "ex": [
+        {"en": "She sat by the window, brooding over what he had said.", "zh": "她坐在窗边，反复思量他说过的话。"}
+      ],
+      "note": "brood 作动词常接 over/on，指闷闷地反复想。"
+    },
+    {
+      "word": "literacy",
+      "phr": [
+        {"en": "literacy rate", "zh": "识字率"},
+        {"en": "digital literacy", "zh": "数字素养"}
+      ],
+      "ex": [
+        {"en": "The country's literacy rate has risen sharply in the past twenty years.", "zh": "过去二十年该国的识字率大幅上升。"}
+      ],
+      "note": "literacy 指读写能力，引申为某领域素养。"
+    },
+    {
+      "word": "originate",
+      "phr": [
+        {"en": "originate from", "zh": "源自"},
+        {"en": "originate in", "zh": "起源于"}
+      ],
+      "ex": [
+        {"en": "The custom is thought to originate from an ancient harvest festival.", "zh": "人们认为这一习俗源自古老的丰收节。"}
+      ],
+      "note": "originate from 强调来源，originate in 强调起源地。"
+    },
+    {
+      "word": "specialist",
+      "phr": [
+        {"en": "a specialist in", "zh": "专攻…的专家"},
+        {"en": "consult a specialist", "zh": "咨询专家"}
+      ],
+      "ex": [
+        {"en": "Her doctor sent her to a specialist in heart disease.", "zh": "她的医生把她转诊给一位心脏病专家。"}
+      ],
+      "note": "specialist 后接 in 表示专长领域，动词 specialize 同。"
+    },
+    {
+      "word": "background",
+      "phr": [
+        {"en": "family background", "zh": "家庭背景"},
+        {"en": "in the background", "zh": "在背景中"}
+      ],
+      "ex": [
+        {"en": "The study looks at how family background affects children's grades.", "zh": "这项研究考察家庭背景如何影响孩子的成绩。"}
+      ],
+      "note": "background 指背景、经历；in the background 表在幕后。"
+    },
+    {
+      "word": "millionaire",
+      "phr": [
+        {"en": "a self-made millionaire", "zh": "白手起家的富翁"},
+        {"en": "become a millionaire", "zh": "成为百万富翁"}
+      ],
+      "ex": [
+        {"en": "He became a millionaire by selling software he wrote in college.", "zh": "他靠卖大学时编写的软件成了百万富翁。"}
+      ],
+      "note": "millionaire 由 million+aire 构成，指百万富翁。"
+    },
+    {
+      "word": "transit",
+      "phr": [
+        {"en": "in transit", "zh": "在运输途中"},
+        {"en": "public transit", "zh": "公共交通"}
+      ],
+      "ex": [
+        {"en": "The package was damaged while in transit between the two cities.", "zh": "包裹在两座城市之间运输途中受损。"}
+      ],
+      "note": "in transit 表“在途中”；public transit 指公共交通。"
+    },
+    {
+      "word": "adolescent",
+      "phr": [
+        {"en": "adolescent behaviour", "zh": "青少年行为"},
+        {"en": "an adolescent boy", "zh": "青春期男孩"}
+      ],
+      "ex": [
+        {"en": "Many adolescent boys struggle with sudden changes in mood.", "zh": "许多青春期男孩会因情绪的突然变化而苦恼。"}
+      ],
+      "note": "adolescent 作名词指青少年，名词形式为 adolescence。"
+    },
+    {
+      "word": "nonetheless",
+      "phr": [
+        {"en": "but nonetheless", "zh": "然而仍然"},
+        {"en": "nonetheless important", "zh": "仍然重要"}
+      ],
+      "ex": [
+        {"en": "The task was difficult; nonetheless, they finished it on time.", "zh": "任务很艰巨，但他们仍然按时完成了。"}
+      ],
+      "note": "nonetheless 是副词，可置句首或句中，同 nevertheless。"
+    },
+    {
+      "word": "dispose",
+      "phr": [
+        {"en": "dispose of", "zh": "处理；丢弃"},
+        {"en": "be disposed to", "zh": "倾向于"}
+      ],
+      "ex": [
+        {"en": "Old batteries must be disposed of at special collection points.", "zh": "旧电池必须在专门的回收点处理。"}
+      ],
+      "note": "dispose of 表“处理、丢弃”；be disposed to do 表倾向。"
+    }
+  ]
+}

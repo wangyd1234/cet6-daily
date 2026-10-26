@@ -1,0 +1,246 @@
+{
+ "day": 50,
+ "date": null,
+ "words": [
+  {
+   "id": 1471,
+   "word": "erect",
+   "uk": "/ɪˈrekt/",
+   "us": "/ɪˈrɛkt/",
+   "pos": "adj.,vt.",
+   "cn": "竖直的；挺直的；建造；使竖立"
+  },
+  {
+   "id": 1472,
+   "word": "professional",
+   "uk": "/prəˈfeʃənl/",
+   "us": "/prəˈfɛʃənl/",
+   "pos": "adj.,n.",
+   "cn": "职业的；专业的；专门的；自由职业者；专业人员"
+  },
+  {
+   "id": 1473,
+   "word": "nil",
+   "uk": "/nɪl/",
+   "us": "",
+   "pos": "n.",
+   "cn": "无；零"
+  },
+  {
+   "id": 1474,
+   "word": "identification",
+   "uk": "/aɪˌdentɪfɪˈkeɪʃn/",
+   "us": "/aɪˌdentɪfɪˈkeʃn/",
+   "pos": "n.",
+   "cn": "身份证明；鉴定；验明；认出；认同"
+  },
+  {
+   "id": 1475,
+   "word": "migrant",
+   "uk": "/ˈmaɪgrənt/",
+   "us": "/ˈmaɪɡrənt/",
+   "pos": "n.",
+   "cn": "移居者；移民；候鸟；迁移动物"
+  },
+  {
+   "id": 1476,
+   "word": "protein",
+   "uk": "/ˈprəutiːn/",
+   "us": "/ˈprotin/",
+   "pos": "n.",
+   "cn": "蛋白质"
+  },
+  {
+   "id": 1477,
+   "word": "annual",
+   "uk": "/ˈænjuəl/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "每年的；一年一次的；年报；年鉴；一年生的植物"
+  },
+  {
+   "id": 1478,
+   "word": "exclusive",
+   "uk": "/ɪkˈskluːsɪv/",
+   "us": "/ɪkˈsklusɪv/",
+   "pos": "adj.,n.",
+   "cn": "奢华的；高级的；独有的；排斥的；不包括…的；独家新闻"
+  },
+  {
+   "id": 1479,
+   "word": "repertoire",
+   "uk": "/ˈrepətwɑː/",
+   "us": "/ˈrɛpɚˈtwɑr/",
+   "pos": "n.",
+   "cn": "全部节目"
+  },
+  {
+   "id": 1480,
+   "word": "poverty",
+   "uk": "/ˈpɒvəti/",
+   "us": "/ˈpɑvɚti/",
+   "pos": "n.",
+   "cn": "贫穷；贫困"
+  },
+  {
+   "id": 1481,
+   "word": "resort",
+   "uk": "/rɪˈzɔːt/",
+   "us": "/rɪˈzɔrt/",
+   "pos": "vi.,n.",
+   "cn": "求助；凭借；诉诸；求助；凭借；诉诸；求助的对象；采用的手段；常去之地；胜地"
+  },
+  {
+   "id": 1482,
+   "word": "testify",
+   "uk": "/ˈtestɪfaɪ/",
+   "us": "/ˈtɛstɪfaɪ/",
+   "pos": "vi.,vt.",
+   "cn": "作证；证明；表明；说明；作证；证明"
+  },
+  {
+   "id": 1483,
+   "word": "pearl",
+   "uk": "/pɜːl/",
+   "us": "/pɝl/",
+   "pos": "n.",
+   "cn": "珍珠；珠状物；珍品"
+  },
+  {
+   "id": 1484,
+   "word": "conclusive",
+   "uk": "/kənˈkluːsɪv/",
+   "us": "/kənˈklusɪv/",
+   "pos": "adj.",
+   "cn": "确实的；最后的；决定性的"
+  },
+  {
+   "id": 1485,
+   "word": "margin",
+   "uk": "/ˈmɑːdʒɪn/",
+   "us": "/ˈmɑrdʒən/",
+   "pos": "n.",
+   "cn": "页边空白；差数；差额；余地；边缘"
+  },
+  {
+   "id": 1486,
+   "word": "apt",
+   "uk": "/æpt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "易于…的；有…倾向的；恰当的；适宜的；聪明的；反应敏捷的"
+  },
+  {
+   "id": 1487,
+   "word": "remain",
+   "uk": "/rɪˈmeɪn/",
+   "us": "/rɪˈmen/",
+   "pos": "vi.,n.",
+   "cn": "剩下；余留；保持；仍然是；残余；残骸；遗迹"
+  },
+  {
+   "id": 1488,
+   "word": "pregnancy",
+   "uk": "/ˈpregnənsi/",
+   "us": "/ˈprɛgnənsi/",
+   "pos": "n.",
+   "cn": "怀孕"
+  },
+  {
+   "id": 1489,
+   "word": "shabby",
+   "uk": "/ˈʃæbi/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "破旧的；衣衫褴褛的；卑鄙的；不公正的"
+  },
+  {
+   "id": 1490,
+   "word": "toss",
+   "uk": "/tɒs/",
+   "us": "/tɔs/",
+   "pos": "vi.,vt.,n.",
+   "cn": "掷钱币来决定；翻来覆去；扔；抛；掷；猛抬；拌；掷；使摇动；使颠簸；掷钱币来决定；猛抬头"
+  },
+  {
+   "id": 1491,
+   "word": "demand",
+   "uk": "/dɪˈmɑːnd/",
+   "us": "/dɪˈmænd/",
+   "pos": "vt.,n.",
+   "cn": "要求；需要；询问；要求；需要"
+  },
+  {
+   "id": 1492,
+   "word": "reel",
+   "uk": "/riːl/",
+   "us": "/ril/",
+   "pos": "vi.,n.,vt.",
+   "cn": "摇摇晃晃地移动；蹒跚；眩晕；发昏；卷轴；卷筒；卷盘；卷；绕"
+  },
+  {
+   "id": 1493,
+   "word": "pathetic",
+   "uk": "/pəˈθetɪk/",
+   "us": "/pəˈθɛtɪk/",
+   "pos": "adj.",
+   "cn": "差劲的；令人生厌的；引起怜悯的；可怜的；可悲的"
+  },
+  {
+   "id": 1494,
+   "word": "dissipate",
+   "uk": "/ˈdɪsɪpeɪt/",
+   "us": "/ˈdɪsɪpet/",
+   "pos": "vi.,vt.",
+   "cn": "消散；消失；使消散；使消失；浪费；挥霍"
+  },
+  {
+   "id": 1495,
+   "word": "flask",
+   "uk": "/flɑːsk/",
+   "us": "/flæsk/",
+   "pos": "n.",
+   "cn": "长颈瓶；酒瓶；烧瓶"
+  },
+  {
+   "id": 1496,
+   "word": "accuse",
+   "uk": "/əˈkjuːz/",
+   "us": "/əˈkjuz/",
+   "pos": "vt.",
+   "cn": "指责；归咎于"
+  },
+  {
+   "id": 1497,
+   "word": "disturbance",
+   "uk": "/dɪˈstɜːbəns/",
+   "us": "/dɪˈstɝbəns/",
+   "pos": "n.",
+   "cn": "扰乱；打扰；骚乱；混乱；心神不安；烦恼"
+  },
+  {
+   "id": 1498,
+   "word": "visceral",
+   "uk": "/ˈvɪsərəl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "内脏的；腑脏的；出自内心的；发自肺腑的"
+  },
+  {
+   "id": 1499,
+   "word": "simultaneous",
+   "uk": "/ˌsɪmlˈteɪniəs/",
+   "us": "/,saɪmlˈtenɪəs/",
+   "pos": "adj.",
+   "cn": "同时发生的；同时存在的；同步的；一齐的"
+  },
+  {
+   "id": 1500,
+   "word": "instructional",
+   "uk": "/ɪnˈstrʌkʃənl/",
+   "us": "/inˈstrʌkʃənəl/",
+   "pos": "adj.",
+   "cn": "指导的；教育的"
+  }
+ ]
+}

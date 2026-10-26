@@ -1,0 +1,365 @@
+{
+  "day": 63,
+  "words": [
+    {
+      "word": "clash",
+      "phr": [
+        {"en": "clash with the police", "zh": "与警察发生冲突"},
+        {"en": "a clash of interests", "zh": "利益冲突"}
+      ],
+      "ex": [
+        {"en": "Student protesters clashed with police outside the city hall yesterday morning.",
+         "zh": "昨天上午，抗议学生在市政厅外与警察发生冲突。"}
+      ],
+      "note": "多指意见、利益冲突，也指双方人马相撞。"
+    },
+    {
+      "word": "overturn",
+      "phr": [
+        {"en": "overturn a decision", "zh": "推翻一项决定"},
+        {"en": "overturn a verdict", "zh": "推翻判决"}
+      ],
+      "ex": [
+        {"en": "The appeal court overturned the original verdict after reviewing new evidence.",
+         "zh": "上诉法院在审查新证据后推翻了原判决。"}
+      ],
+      "note": "本义是翻转，引申为推翻判决、决定或政权。"
+    },
+    {
+      "word": "compel",
+      "phr": [
+        {"en": "compel sb to do sth", "zh": "迫使某人做某事"},
+        {"en": "be compelled to leave", "zh": "被迫离开"}
+      ],
+      "ex": [
+        {"en": "Bad weather compelled the airline to cancel several flights this morning.",
+         "zh": "恶劣天气迫使航空公司取消了今天上午的多趟航班。"}
+      ],
+      "note": "用法是 compel sb to do sth，被动表被迫。"
+    },
+    {
+      "word": "depress",
+      "phr": [
+        {"en": "feel depressed", "zh": "感到沮丧"},
+        {"en": "depress the brake pedal", "zh": "踩下刹车踏板"}
+      ],
+      "ex": [
+        {"en": "The steady rise in prices has depressed consumer spending across the country.",
+         "zh": "物价持续上涨压低了全国的消费支出。"}
+      ],
+      "note": "de-(向下)加 press(压)：压下、使沮丧、使不景气。"
+    },
+    {
+      "word": "capable",
+      "phr": [
+        {"en": "be capable of doing sth", "zh": "有能力做某事"},
+        {"en": "a capable manager", "zh": "能干的经理"}
+      ],
+      "ex": [
+        {"en": "She is perfectly capable of handling the project on her own.",
+         "zh": "她完全有能力独自处理这个项目。"}
+      ],
+      "note": "常用 be capable of doing，比 able 更强调能力。"
+    },
+    {
+      "word": "burden",
+      "phr": [
+        {"en": "a heavy burden", "zh": "沉重的负担"},
+        {"en": "ease the burden", "zh": "减轻负担"}
+      ],
+      "ex": [
+        {"en": "Rising rents have become a heavy burden on young families in big cities.",
+         "zh": "不断上涨的房租已成为大城市年轻家庭的沉重负担。"}
+      ],
+      "note": "可数名词，常用 a burden on sb；动词表使负担。"
+    },
+    {
+      "word": "salute",
+      "phr": [
+        {"en": "salute the national flag", "zh": "向国旗敬礼"},
+        {"en": "return a salute", "zh": "回礼"}
+      ],
+      "ex": [
+        {"en": "The soldiers saluted the flag as the national anthem began to play.",
+         "zh": "国歌奏响时，士兵们向国旗敬礼。"}
+      ],
+      "note": "指军队敬礼或公开赞扬，salute sb for sth 表赞扬。"
+    },
+    {
+      "word": "clasp",
+      "phr": [
+        {"en": "clasp one's hands", "zh": "双手交握"},
+        {"en": "the clasp on a necklace", "zh": "项链的搭扣"}
+      ],
+      "ex": [
+        {"en": "She clasped the letter tightly in her hands and began to cry.",
+         "zh": "她把信紧紧握在手里，哭了起来。"}
+      ],
+      "note": "作名词指搭扣，作动词指紧握、抱紧。"
+    },
+    {
+      "word": "symposium",
+      "phr": [
+        {"en": "attend a symposium", "zh": "参加研讨会"},
+        {"en": "hold a symposium on", "zh": "举办关于…的研讨会"}
+      ],
+      "ex": [
+        {"en": "The university will hold a symposium on climate change next month.",
+         "zh": "这所大学下个月将举办一场关于气候变化的研讨会。"}
+      ],
+      "note": "指学术性研讨会，比 meeting 更专、规模更小。"
+    },
+    {
+      "word": "hover",
+      "phr": [
+        {"en": "hover over the city", "zh": "在城市上空盘旋"},
+        {"en": "hover around", "zh": "在附近徘徊"}
+      ],
+      "ex": [
+        {"en": "A helicopter hovered over the stadium during the whole match.",
+         "zh": "整场比赛期间，一架直升机在体育场上空盘旋。"}
+      ],
+      "note": "指鸟或飞机在空中盘旋，也指人在近处徘徊。"
+    },
+    {
+      "word": "random",
+      "phr": [
+        {"en": "at random", "zh": "随机地"},
+        {"en": "a random sample", "zh": "随机样本"}
+      ],
+      "ex": [
+        {"en": "Officers stopped drivers at random to check their licences.",
+         "zh": "执法人员随机拦下司机检查驾照。"}
+      ],
+      "note": "at random 表随机地，random 一般无比较级。"
+    },
+    {
+      "word": "dine",
+      "phr": [
+        {"en": "dine out", "zh": "外出用餐"},
+        {"en": "dine with sb", "zh": "与某人共进晚餐"}
+      ],
+      "ex": [
+        {"en": "We dined at a small restaurant near the river last night.",
+         "zh": "昨晚我们在河边一家小餐馆用餐。"}
+      ],
+      "note": "dine out 指外出用餐，dine with sb 与某人共餐。"
+    },
+    {
+      "word": "personality",
+      "phr": [
+        {"en": "a strong personality", "zh": "个性很强"},
+        {"en": "personality traits", "zh": "性格特征"}
+      ],
+      "ex": [
+        {"en": "Her warm personality makes her popular with both clients and colleagues.",
+         "zh": "她热情的性格使她深受客户和同事的欢迎。"}
+      ],
+      "note": "指个人稳定的性格，也可指名人；作名词可数。"
+    },
+    {
+      "word": "sanction",
+      "phr": [
+        {"en": "impose sanctions on", "zh": "对…实施制裁"},
+        {"en": "economic sanctions", "zh": "经济制裁"}
+      ],
+      "ex": [
+        {"en": "The government imposed sanctions on several companies for breaking trade rules.",
+         "zh": "政府因多家公司违反贸易规定而对其实施制裁。"}
+      ],
+      "note": "作制裁义常用复数 sanctions，作批准义表许可。"
+    },
+    {
+      "word": "alert",
+      "phr": [
+        {"en": "stay alert", "zh": "保持警惕"},
+        {"en": "be on full alert", "zh": "处于全面戒备"}
+      ],
+      "ex": [
+        {"en": "Drivers should stay alert when the road is covered with ice.",
+         "zh": "路面结冰时，司机应保持警惕。"}
+      ],
+      "note": "stay alert 保持警惕，be on alert 处于戒备状态。"
+    },
+    {
+      "word": "deduce",
+      "phr": [
+        {"en": "deduce from the evidence", "zh": "从证据中推断"},
+        {"en": "deduce the cause", "zh": "推断原因"}
+      ],
+      "ex": [
+        {"en": "From these clues the detective deduced who had entered the room.",
+         "zh": "侦探根据这些线索推断出谁进过这个房间。"}
+      ],
+      "note": "de-(出)加 duce(引导)：把结论引出来，即推断。"
+    },
+    {
+      "word": "oak",
+      "phr": [
+        {"en": "an oak tree", "zh": "一棵橡树"},
+        {"en": "a solid oak table", "zh": "实心橡木桌"}
+      ],
+      "ex": [
+        {"en": "An old oak tree still stands in the middle of the village.",
+         "zh": "村子中央仍矗立着一棵老橡树。"}
+      ],
+      "note": "指栎树或橡木；作树木可数，作木材不可数。"
+    },
+    {
+      "word": "client",
+      "phr": [
+        {"en": "a regular client", "zh": "老客户"},
+        {"en": "meet a client", "zh": "会见客户"}
+      ],
+      "ex": [
+        {"en": "The lawyer met her client to discuss the details of the case.",
+         "zh": "律师与当事人会面，讨论案件的细节。"}
+      ],
+      "note": "指律师、银行的客户或委托人，一般不指普通顾客。"
+    },
+    {
+      "word": "sip",
+      "phr": [
+        {"en": "take a sip", "zh": "喝一小口"},
+        {"en": "sip at one's coffee", "zh": "小口啜饮咖啡"}
+      ],
+      "ex": [
+        {"en": "She sipped her tea slowly while reading the morning paper.",
+         "zh": "她一边看晨报，一边慢慢啜着茶。"}
+      ],
+      "note": "指小口地喝，take a sip 即喝一小口。"
+    },
+    {
+      "word": "dutiful",
+      "phr": [
+        {"en": "a dutiful son", "zh": "孝顺的儿子"},
+        {"en": "a dutiful citizen", "zh": "尽责的公民"}
+      ],
+      "ex": [
+        {"en": "He was a dutiful son who visited his parents every weekend.",
+         "zh": "他是个孝顺的儿子，每个周末都去看望父母。"}
+      ],
+      "note": "由 duty(责任)加 -ful 构成：尽职的、恭顺的。"
+    },
+    {
+      "word": "contend",
+      "phr": [
+        {"en": "contend with difficulties", "zh": "应对困难"},
+        {"en": "contend for the title", "zh": "争夺冠军"}
+      ],
+      "ex": [
+        {"en": "Critics contend that the new law will hurt small businesses.",
+         "zh": "批评者认为新法将损害小企业。"}
+      ],
+      "note": "contend with 应对困难，contend that 主张、声称。"
+    },
+    {
+      "word": "conversion",
+      "phr": [
+        {"en": "currency conversion", "zh": "货币兑换"},
+        {"en": "the conversion of A into B", "zh": "把A转变成B"}
+      ],
+      "ex": [
+        {"en": "The conversion of the old factory into apartments took three years.",
+         "zh": "把旧工厂改造成公寓花了三年时间。"}
+      ],
+      "note": "con-(完全)加 vert(转)：彻底转变，也指皈依。"
+    },
+    {
+      "word": "brilliant",
+      "phr": [
+        {"en": "a brilliant idea", "zh": "妙主意"},
+        {"en": "a brilliant performance", "zh": "精彩的表演"}
+      ],
+      "ex": [
+        {"en": "She came up with a brilliant idea for cutting production costs.",
+         "zh": "她想出了一个降低生产成本的妙主意。"}
+      ],
+      "note": "强调才华出众或光线明亮，口语里也表很棒。"
+    },
+    {
+      "word": "gamble",
+      "phr": [
+        {"en": "gamble on sth", "zh": "在…上冒险"},
+        {"en": "take a gamble", "zh": "冒险一试"}
+      ],
+      "ex": [
+        {"en": "Investing all his savings in one company was a huge gamble.",
+         "zh": "把所有积蓄投进一家公司是一场巨大的赌博。"}
+      ],
+      "note": "gamble on 表冒险押注，take a gamble 冒险一试。"
+    },
+    {
+      "word": "bound",
+      "phr": [
+        {"en": "be bound to do sth", "zh": "必定会做某事"},
+        {"en": "be bound by a promise", "zh": "受承诺约束"}
+      ],
+      "ex": [
+        {"en": "Prices are bound to rise if the drought continues another month.",
+         "zh": "如果干旱再持续一个月，价格必然上涨。"}
+      ],
+      "note": "be bound to do 表必定，be bound by 表受约束。"
+    },
+    {
+      "word": "specification",
+      "phr": [
+        {"en": "meet the specifications", "zh": "符合规格"},
+        {"en": "technical specifications", "zh": "技术规格"}
+      ],
+      "ex": [
+        {"en": "The parts were rejected because they did not meet the specifications.",
+         "zh": "这些零件因不符合规格而被退回。"}
+      ],
+      "note": "常用复数，meet the specifications 指符合规格。"
+    },
+    {
+      "word": "deport",
+      "phr": [
+        {"en": "deport illegal immigrants", "zh": "驱逐非法移民"},
+        {"en": "be deported from the country", "zh": "被驱逐出境"}
+      ],
+      "ex": [
+        {"en": "Two foreign workers were deported for entering the country illegally.",
+         "zh": "两名外籍工人因非法入境被驱逐出境。"}
+      ],
+      "note": "指把外国人驱逐出境，deport sb from a country。"
+    },
+    {
+      "word": "counter",
+      "phr": [
+        {"en": "at the ticket counter", "zh": "在售票柜台"},
+        {"en": "behind the counter", "zh": "在柜台后面"}
+      ],
+      "ex": [
+        {"en": "She bought two tickets at the counter near the entrance.",
+         "zh": "她在入口附近的柜台买了两张票。"}
+      ],
+      "note": "指柜台或计数器，over the counter 指非处方。"
+    },
+    {
+      "word": "rhythm",
+      "phr": [
+        {"en": "the rhythm of the music", "zh": "音乐的节奏"},
+        {"en": "a sense of rhythm", "zh": "节奏感"}
+      ],
+      "ex": [
+        {"en": "The drummer kept a steady rhythm throughout the whole song.",
+         "zh": "鼓手在整首歌中保持了稳定的节奏。"}
+      ],
+      "note": "指节奏、韵律，重音在首音节，拼写注意 th。"
+    },
+    {
+      "word": "layman",
+      "phr": [
+        {"en": "in layman's terms", "zh": "用通俗的话说"},
+        {"en": "a layman in this field", "zh": "该领域的外行"}
+      ],
+      "ex": [
+        {"en": "The doctor explained the operation in layman's terms so the family could understand.",
+         "zh": "医生用通俗的话解释手术，好让家属听懂。"}
+      ],
+      "note": "in layman's terms 指用外行也听得懂的话说。"
+    }
+  ]
+}

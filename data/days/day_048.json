@@ -1,0 +1,246 @@
+{
+ "day": 48,
+ "date": null,
+ "words": [
+  {
+   "id": 1411,
+   "word": "expense",
+   "uk": "/ɪkˈspens/",
+   "us": "/ɪkˈspɛns/",
+   "pos": "n.",
+   "cn": "花费；消费；费用；开支；业务费用"
+  },
+  {
+   "id": 1412,
+   "word": "traverse",
+   "uk": "/trəˈvɜːs/",
+   "us": "/trəˈvɝs/",
+   "pos": "vt.",
+   "cn": "横渡；横越"
+  },
+  {
+   "id": 1413,
+   "word": "rigorous",
+   "uk": "/ˈrɪgərəs/",
+   "us": "/ˈrɪɡərəs/",
+   "pos": "adj.",
+   "cn": "严密的；缜密的；严格的；严厉的"
+  },
+  {
+   "id": 1414,
+   "word": "yell",
+   "uk": "/jel/",
+   "us": "/jɛl/",
+   "pos": "vi.,n.",
+   "cn": "号叫；叫喊"
+  },
+  {
+   "id": 1415,
+   "word": "contemporary",
+   "uk": "/kənˈtemprəri/",
+   "us": "/kənˈtɛmpərɛri/",
+   "pos": "adj.",
+   "cn": "现代的；当代的；同时代的"
+  },
+  {
+   "id": 1416,
+   "word": "tribe",
+   "uk": "/traɪb/",
+   "us": "",
+   "pos": "n.",
+   "cn": "部落；族"
+  },
+  {
+   "id": 1417,
+   "word": "activate",
+   "uk": "/ˈæktɪveɪt/",
+   "us": "/ˈæktəˈvet/",
+   "pos": "vt.",
+   "cn": "使活动起来；使开始作用"
+  },
+  {
+   "id": 1418,
+   "word": "mobilize",
+   "uk": "/ˈməubəlaɪz/",
+   "us": "/ˈmobəlaɪz/",
+   "pos": "vi.,vt.",
+   "cn": "动员起来；动员；调动；鼓动起"
+  },
+  {
+   "id": 1419,
+   "word": "mock",
+   "uk": "/mɒk/",
+   "us": "/mɑk/",
+   "pos": "vi.,adj.,vt.",
+   "cn": "嘲笑；嘲弄；模拟的；演习的；假的；假装的；嘲笑；嘲弄；模仿"
+  },
+  {
+   "id": 1420,
+   "word": "minibus",
+   "uk": "/ˈmɪnibʌs/",
+   "us": "/ˈmɪnɪbʌs/",
+   "pos": "n.",
+   "cn": "小型公共汽车"
+  },
+  {
+   "id": 1421,
+   "word": "repetitive",
+   "uk": "/rɪˈpetətɪv/",
+   "us": "/rɪˈpɛtətɪv/",
+   "pos": "adj.",
+   "cn": "重复的；反复性的"
+  },
+  {
+   "id": 1422,
+   "word": "gear",
+   "uk": "/gɪə/",
+   "us": "/ɡɪr/",
+   "pos": "n.,vt.",
+   "cn": "齿轮；传动装置；挡；用具；设备；衣服；使适应；使适合"
+  },
+  {
+   "id": 1423,
+   "word": "facilitate",
+   "uk": "/fəˈsɪlɪteɪt/",
+   "us": "/fəˈsɪləˈtet/",
+   "pos": "vt.",
+   "cn": "使…变得容易；使便利"
+  },
+  {
+   "id": 1424,
+   "word": "precipitate",
+   "uk": "/prɪˈsɪpɪteɪt/",
+   "us": "/prɪˈsɪpɪtet/",
+   "pos": "v.",
+   "cn": "使突然发生；猛然抛下；使沉淀"
+  },
+  {
+   "id": 1425,
+   "word": "endow",
+   "uk": "/ɪnˈdau/",
+   "us": "/ɪnˈdaʊ/",
+   "pos": "vt.",
+   "cn": "资助；捐赠；给予；赋予；认为…具有某种特质"
+  },
+  {
+   "id": 1426,
+   "word": "financial",
+   "uk": "/faɪˈnænʃl/",
+   "us": "/faɪˈnænʃəl;fəˈnæ-/",
+   "pos": "adj.",
+   "cn": "财政的；金融的"
+  },
+  {
+   "id": 1427,
+   "word": "respective",
+   "uk": "/rɪˈspektɪv/",
+   "us": "/rɪˈspɛktɪv/",
+   "pos": "adj.",
+   "cn": "各自的；各个的；分别的"
+  },
+  {
+   "id": 1428,
+   "word": "quiver",
+   "uk": "/ˈkwɪvə/",
+   "us": "/ˈkwɪvɚ/",
+   "pos": "vi.,n.",
+   "cn": "颤抖；发抖；抖动；颤抖；抖动；颤声"
+  },
+  {
+   "id": 1429,
+   "word": "slot",
+   "uk": "/slɒt/",
+   "us": "/slɑt/",
+   "pos": "n.,vt.",
+   "cn": "狭缝；狭槽；位置；空位；把…放入狭长开口中；把…纳入其中；使有位置"
+  },
+  {
+   "id": 1430,
+   "word": "harden",
+   "uk": "/ˈhɑːdn/",
+   "us": "/ˈhɑrdn/",
+   "pos": "v.",
+   "cn": "变硬"
+  },
+  {
+   "id": 1431,
+   "word": "rot",
+   "uk": "/rɒt/",
+   "us": "/rɑt/",
+   "pos": "v.,n.",
+   "cn": "腐烂；腐朽"
+  },
+  {
+   "id": 1432,
+   "word": "define",
+   "uk": "/dɪˈfaɪn/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "给…下定义；限定"
+  },
+  {
+   "id": 1433,
+   "word": "predict",
+   "uk": "/prɪˈdɪkt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "预言；预告；预测"
+  },
+  {
+   "id": 1434,
+   "word": "dictate",
+   "uk": "/dɪkˈteɪt/",
+   "us": "/ˈdɪktet/",
+   "pos": "v.,n.",
+   "cn": "['dIkteIt]；口授；命令；规定；要求"
+  },
+  {
+   "id": 1435,
+   "word": "memorize",
+   "uk": "/ˈmeməraɪz/",
+   "us": "/ˈmɛməˈraɪz/",
+   "pos": "vt.",
+   "cn": "记住；熟记"
+  },
+  {
+   "id": 1436,
+   "word": "render",
+   "uk": "/ˈrendə/",
+   "us": "/ˈrɛndɚ/",
+   "pos": "vt.",
+   "cn": "使得；致使；给予；提供；翻译"
+  },
+  {
+   "id": 1437,
+   "word": "undermine",
+   "uk": "/ˌʌndəˈmaɪn/",
+   "us": "/ˈʌndɚˈmaɪn/",
+   "pos": "vt.",
+   "cn": "暗中破坏；逐渐削弱；侵蚀…的基础"
+  },
+  {
+   "id": 1438,
+   "word": "subjective",
+   "uk": "/səbˈdʒektɪv/",
+   "us": "/səbˈdʒɛktɪv/",
+   "pos": "adj.",
+   "cn": "主观的；个人的"
+  },
+  {
+   "id": 1439,
+   "word": "blossom",
+   "uk": "/ˈblɒsəm/",
+   "us": "/ˈblɑsəm/",
+   "pos": "vi.,n.",
+   "cn": "开花；发展；长成；花"
+  },
+  {
+   "id": 1440,
+   "word": "radical",
+   "uk": "/ˈrædɪkl/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "根本的；基本的；激进的；激进派的；激进分子"
+  }
+ ]
+}

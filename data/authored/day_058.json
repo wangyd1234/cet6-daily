@@ -1,0 +1,335 @@
+{
+  "day": 58,
+  "words": [
+    {
+      "word": "embarrass",
+      "phr": [
+        {"en": "be embarrassed by", "zh": "因…感到难堪"},
+        {"en": "an embarrassing situation", "zh": "尴尬的局面"}
+      ],
+      "ex": [
+        {"en": "He was embarrassed by his mistake in front of the whole class.", "zh": "他在全班同学面前因自己的错误而难堪。"}
+      ],
+      "note": "embarrass 常用被动式；embarrassing 多修饰事物。"
+    },
+    {
+      "word": "erroneous",
+      "phr": [
+        {"en": "an erroneous belief", "zh": "错误的信念"},
+        {"en": "erroneous information", "zh": "错误的信息"}
+      ],
+      "ex": [
+        {"en": "The report was based on erroneous information and had to be withdrawn.", "zh": "该报道依据错误信息写成，只好撤下。"}
+      ],
+      "note": "erroneous 比 wrong 正式，多修饰 information 等。"
+    },
+    {
+      "word": "option",
+      "phr": [
+        {"en": "have no option but to", "zh": "别无选择只能"},
+        {"en": "keep one's options open", "zh": "保留选择余地"}
+      ],
+      "ex": [
+        {"en": "We have no option but to cancel the trip.", "zh": "我们别无选择，只能取消这次旅行。"}
+      ],
+      "note": "have no option but to do 为固定搭配，意为别无选择。"
+    },
+    {
+      "word": "acute",
+      "phr": [
+        {"en": "acute pain", "zh": "剧烈的疼痛"},
+        {"en": "an acute shortage", "zh": "严重短缺"}
+      ],
+      "ex": [
+        {"en": "The city faces an acute shortage of clean water.", "zh": "这座城市面临清洁用水的严重短缺。"}
+      ],
+      "note": "acute 指急剧严重的，如 acute pain；反义词为 chronic。"
+    },
+    {
+      "word": "limitation",
+      "phr": [
+        {"en": "impose limitations on", "zh": "对…加以限制"},
+        {"en": "know one's limitations", "zh": "认清自身局限"}
+      ],
+      "ex": [
+        {"en": "Every method has its limitations, so we should combine several.", "zh": "每种方法都有局限，所以应几种结合使用。"}
+      ],
+      "note": "limitation 指局限，与 limit（界限）用法有别。"
+    },
+    {
+      "word": "jog",
+      "phr": [
+        {"en": "go jogging", "zh": "去慢跑"},
+        {"en": "jog one's memory", "zh": "唤起记忆"}
+      ],
+      "ex": [
+        {"en": "She jogs in the park for half an hour every morning.", "zh": "她每天早上在公园慢跑半小时。"}
+      ],
+      "note": "jog 指慢跑锻炼，常用 go jogging 表示去慢跑。"
+    },
+    {
+      "word": "terrify",
+      "phr": [
+        {"en": "be terrified of", "zh": "非常害怕"},
+        {"en": "terrify sb into doing", "zh": "恐吓某人做某事"}
+      ],
+      "ex": [
+        {"en": "The child was terrified of the dark and refused to sleep alone.", "zh": "孩子怕黑，不肯独自睡觉。"}
+      ],
+      "note": "terrify 语气强于 frighten，常用 be terrified of。"
+    },
+    {
+      "word": "handbook",
+      "phr": [
+        {"en": "student handbook", "zh": "学生手册"},
+        {"en": "employee handbook", "zh": "员工手册"}
+      ],
+      "ex": [
+        {"en": "Please read the student handbook before you register for courses.", "zh": "选课前请先阅读学生手册。"}
+      ],
+      "note": "handbook 指供查阅的手册，常用 student handbook。"
+    },
+    {
+      "word": "ascertain",
+      "phr": [
+        {"en": "ascertain the facts", "zh": "查明事实"},
+        {"en": "ascertain whether", "zh": "确定是否"}
+      ],
+      "ex": [
+        {"en": "The police are trying to ascertain the cause of the fire.", "zh": "警方正设法查明起火原因。"}
+      ],
+      "note": "ascertain 为正式用词，意为查明、确定。"
+    },
+    {
+      "word": "crucial",
+      "phr": [
+        {"en": "play a crucial role in", "zh": "在…中起关键作用"},
+        {"en": "be crucial to", "zh": "对…至关重要"}
+      ],
+      "ex": [
+        {"en": "Early diagnosis plays a crucial role in the treatment of cancer.", "zh": "早期诊断在癌症治疗中起关键作用。"}
+      ],
+      "note": "crucial 常搭配 role、factor，be crucial to 表关键。"
+    },
+    {
+      "word": "contribute",
+      "phr": [
+        {"en": "contribute to", "zh": "有助于；促成"},
+        {"en": "contribute money to", "zh": "向…捐钱"}
+      ],
+      "ex": [
+        {"en": "Regular exercise contributes to better sleep and lower stress.", "zh": "规律运动有助于改善睡眠、减轻压力。"}
+      ],
+      "note": "contribute to 中 to 为介词，后接名词或动名词。"
+    },
+    {
+      "word": "insert",
+      "phr": [
+        {"en": "insert a coin", "zh": "投入硬币"},
+        {"en": "insert into", "zh": "插入…之中"}
+      ],
+      "ex": [
+        {"en": "Insert the card into the slot and wait for the light to turn green.", "zh": "把卡插入卡槽，等灯变绿。"}
+      ],
+      "note": "insert 常用 insert A into B，名词为 insertion。"
+    },
+    {
+      "word": "faith",
+      "phr": [
+        {"en": "have faith in", "zh": "信任；对…有信心"},
+        {"en": "lose faith in", "zh": "对…失去信心"}
+      ],
+      "ex": [
+        {"en": "She never lost faith in her son's ability to succeed.", "zh": "她从未对儿子取得成功的能力失去信心。"}
+      ],
+      "note": "faith 常与 in 搭配，have faith in 表示信任。"
+    },
+    {
+      "word": "inspiration",
+      "phr": [
+        {"en": "draw inspiration from", "zh": "从…汲取灵感"},
+        {"en": "a source of inspiration", "zh": "灵感来源"}
+      ],
+      "ex": [
+        {"en": "The painter drew inspiration from the colours of the desert.", "zh": "这位画家从沙漠的色彩中汲取灵感。"}
+      ],
+      "note": "inspiration 常用 draw inspiration from 表汲取灵感。"
+    },
+    {
+      "word": "endurance",
+      "phr": [
+        {"en": "physical endurance", "zh": "体力耐力"},
+        {"en": "beyond endurance", "zh": "无法忍受"}
+      ],
+      "ex": [
+        {"en": "The marathon tested the runners' endurance to the limit.", "zh": "这场马拉松把选手的耐力考到了极限。"}
+      ],
+      "note": "endurance 指忍耐力，常用 test one's endurance。"
+    },
+    {
+      "word": "highlight",
+      "phr": [
+        {"en": "highlight the importance of", "zh": "强调…的重要性"},
+        {"en": "the highlight of", "zh": "…最精彩的部分"}
+      ],
+      "ex": [
+        {"en": "The report highlights the importance of early screening.", "zh": "报告强调了早期筛查的重要性。"}
+      ],
+      "note": "highlight 作名词指最精彩部分，常用 the highlight of。"
+    },
+    {
+      "word": "candidate",
+      "phr": [
+        {"en": "a candidate for", "zh": "…的候选人"},
+        {"en": "a strong candidate", "zh": "有力的竞争者"}
+      ],
+      "ex": [
+        {"en": "She is the strongest candidate for the position of manager.", "zh": "她是经理一职最有力的竞争者。"}
+      ],
+      "note": "candidate 后接 for 表示职位或考试。"
+    },
+    {
+      "word": "strive",
+      "phr": [
+        {"en": "strive for", "zh": "争取；追求"},
+        {"en": "strive to do", "zh": "努力做"}
+      ],
+      "ex": [
+        {"en": "We must strive to reduce waste in every part of the process.", "zh": "我们必须努力减少流程各环节的浪费。"}
+      ],
+      "note": "strive 过去式为 strove，常用 strive for sth。"
+    },
+    {
+      "word": "database",
+      "phr": [
+        {"en": "build a database", "zh": "建立数据库"},
+        {"en": "database management", "zh": "数据库管理"}
+      ],
+      "ex": [
+        {"en": "All customer records are stored in a secure database.", "zh": "所有客户记录都存放在安全的数据库中。"}
+      ],
+      "note": "database 由 data 加 base 构成，常与 store 连用。"
+    },
+    {
+      "word": "intelligible",
+      "phr": [
+        {"en": "make oneself intelligible", "zh": "使自己被听懂"},
+        {"en": "intelligible to", "zh": "对…是可理解的"}
+      ],
+      "ex": [
+        {"en": "His lecture was clear and intelligible even to beginners.", "zh": "他的讲座清楚易懂，连初学者也能听明白。"}
+      ],
+      "note": "intelligible 指可听懂的，与 intelligent 形近。"
+    },
+    {
+      "word": "parallel",
+      "phr": [
+        {"en": "parallel to", "zh": "与…平行"},
+        {"en": "draw a parallel between", "zh": "将…作类比"}
+      ],
+      "ex": [
+        {"en": "The new road runs parallel to the river for several miles.", "zh": "新修的路有几英里与河平行。"}
+      ],
+      "note": "parallel to 表平行；draw a parallel between 指类比。"
+    },
+    {
+      "word": "reject",
+      "phr": [
+        {"en": "reject an offer", "zh": "拒绝提议"},
+        {"en": "reject a proposal", "zh": "否决提案"}
+      ],
+      "ex": [
+        {"en": "The committee rejected the proposal because of the high cost.", "zh": "因成本过高，委员会否决了该提案。"}
+      ],
+      "note": "reject 语气强于 refuse，常接 offer、proposal。"
+    },
+    {
+      "word": "hospitality",
+      "phr": [
+        {"en": "warm hospitality", "zh": "热情的款待"},
+        {"en": "the hospitality industry", "zh": "酒店服务业"}
+      ],
+      "ex": [
+        {"en": "We thanked our hosts for their warm hospitality.", "zh": "我们感谢主人一家的热情款待。"}
+      ],
+      "note": "hospitality 指热情款待，形容词为 hospitable。"
+    },
+    {
+      "word": "sheer",
+      "phr": [
+        {"en": "sheer luck", "zh": "纯属运气"},
+        {"en": "sheer size", "zh": "巨大的规模"}
+      ],
+      "ex": [
+        {"en": "We won the game by sheer luck, not by skill.", "zh": "我们赢下比赛纯靠运气，而非技术。"}
+      ],
+      "note": "sheer 表纯粹的、十足的，如 sheer luck。"
+    },
+    {
+      "word": "imitation",
+      "phr": [
+        {"en": "in imitation of", "zh": "模仿…"},
+        {"en": "imitation leather", "zh": "人造皮革"}
+      ],
+      "ex": [
+        {"en": "Her style of painting is an imitation of her teacher's.", "zh": "她的画风是对老师的模仿。"}
+      ],
+      "note": "imitation 前可加 in 表模仿，也可作定语。"
+    },
+    {
+      "word": "compliment",
+      "phr": [
+        {"en": "pay sb a compliment", "zh": "赞美某人"},
+        {"en": "compliment sb on", "zh": "就…称赞某人"}
+      ],
+      "ex": [
+        {"en": "The teacher complimented her on the clear structure of her essay.", "zh": "老师称赞她文章结构清晰。"}
+      ],
+      "note": "compliment 指赞美，与 complement（补充）形近。"
+    },
+    {
+      "word": "blunder",
+      "phr": [
+        {"en": "make a blunder", "zh": "犯大错"},
+        {"en": "blunder into", "zh": "误入；莽撞地陷入"}
+      ],
+      "ex": [
+        {"en": "The government made a serious blunder in handling the crisis.", "zh": "政府在处理这场危机时犯了大错。"}
+      ],
+      "note": "blunder 指粗心犯的大错，比 mistake 语气重。"
+    },
+    {
+      "word": "breach",
+      "phr": [
+        {"en": "breach of contract", "zh": "违约"},
+        {"en": "a breach of security", "zh": "安全漏洞"}
+      ],
+      "ex": [
+        {"en": "The company was sued for breach of contract.", "zh": "该公司因违约被起诉。"}
+      ],
+      "note": "breach 常搭配 of，breach of contract 表违约。"
+    },
+    {
+      "word": "original",
+      "phr": [
+        {"en": "an original idea", "zh": "独到的想法"},
+        {"en": "the original document", "zh": "文件原件"}
+      ],
+      "ex": [
+        {"en": "Please bring the original document and a photocopy of it.", "zh": "请带上文件原件及其复印件。"}
+      ],
+      "note": "original 既指最初的，也指新颖独创的。"
+    },
+    {
+      "word": "comply",
+      "phr": [
+        {"en": "comply with", "zh": "遵守；服从"},
+        {"en": "refuse to comply", "zh": "拒绝服从"}
+      ],
+      "ex": [
+        {"en": "All factories must comply with the new safety standards.", "zh": "所有工厂都必须遵守新的安全标准。"}
+      ],
+      "note": "comply 为不及物动词，必须搭配 with。"
+    }
+  ]
+}

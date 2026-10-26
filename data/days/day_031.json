@@ -1,0 +1,246 @@
+{
+ "day": 31,
+ "date": null,
+ "words": [
+  {
+   "id": 901,
+   "word": "setback",
+   "uk": "/ˈsetbæk/",
+   "us": "/ˈsɛtbæk/",
+   "pos": "n.",
+   "cn": "挫折；倒退；失败"
+  },
+  {
+   "id": 902,
+   "word": "resident",
+   "uk": "/ˈrezɪdənt/",
+   "us": "/ˈrɛzɪdənt/",
+   "pos": "adj.,n.",
+   "cn": "居住的；定居的；住校的；住院的；居民；定居者；住院医生"
+  },
+  {
+   "id": 903,
+   "word": "symbolic",
+   "uk": "/sɪmˈbɒlɪk/",
+   "us": "/sɪmˈbɑlɪk/",
+   "pos": "adj.",
+   "cn": "符号的；象征性的"
+  },
+  {
+   "id": 904,
+   "word": "distinguish",
+   "uk": "/dɪˈstɪŋgwɪʃ/",
+   "us": "/dɪˈstɪŋɡwɪʃ/",
+   "pos": "vt.",
+   "cn": "区别；辨别；识别；使杰出；使著名"
+  },
+  {
+   "id": 905,
+   "word": "mall",
+   "uk": "/mɔːl/",
+   "us": "/mɔl/",
+   "pos": "n.",
+   "cn": "购物中心"
+  },
+  {
+   "id": 906,
+   "word": "module",
+   "uk": "/ˈmɒdjuːl/",
+   "us": "/ˈmɑdʒul/",
+   "pos": "n.",
+   "cn": "组件；模块；模件；舱"
+  },
+  {
+   "id": 907,
+   "word": "howl",
+   "uk": "/haul/",
+   "us": "/haʊl/",
+   "pos": "vi.,n.",
+   "cn": "嗥叫；呼啸；吼叫；哀号"
+  },
+  {
+   "id": 908,
+   "word": "execute",
+   "uk": "/ˈeksɪkjuːt/",
+   "us": "/ˈɛksɪkjut/",
+   "pos": "vt.",
+   "cn": "将…处死；实施"
+  },
+  {
+   "id": 909,
+   "word": "substantial",
+   "uk": "/səbˈstænʃl/",
+   "us": "/səbˈstænʃəl/",
+   "pos": "adj.",
+   "cn": "可观的；大量的；物质的；坚固的；实质的；真实的"
+  },
+  {
+   "id": 910,
+   "word": "benefit",
+   "uk": "/ˈbenɪfɪt/",
+   "us": "/ˈbɛnɪfɪt/",
+   "pos": "vi.,n.,vt.",
+   "cn": "得益；利益；恩惠；救济金；保险金；津贴；有益于"
+  },
+  {
+   "id": 911,
+   "word": "booth",
+   "uk": "/buːð/",
+   "us": "/bʊθ/",
+   "pos": "n.",
+   "cn": "小房间；公用电话亭；岗亭；售货棚；货摊"
+  },
+  {
+   "id": 912,
+   "word": "enthusiastic",
+   "uk": "/ɪnˌθjuːziˈæstɪk/",
+   "us": "/ɪn,θuzɪˈæstɪk/",
+   "pos": "adj.",
+   "cn": "满腔热情的；热心的；极感兴趣的"
+  },
+  {
+   "id": 913,
+   "word": "disastrous",
+   "uk": "/dɪˈzɑːstrəs/",
+   "us": "/dɪˈzæstrəs/",
+   "pos": "adj.",
+   "cn": "灾难性的；造成灾害的；极坏的；很糟的"
+  },
+  {
+   "id": 914,
+   "word": "unique",
+   "uk": "/juˈniːk/",
+   "us": "/jʊˈnik/",
+   "pos": "adj.",
+   "cn": "唯一的；独一无二的；极不寻常的；极好的"
+  },
+  {
+   "id": 915,
+   "word": "processing",
+   "uk": "/prəuˈsesɪŋ/",
+   "us": "/proˈsɛsɪŋ/",
+   "pos": "n.",
+   "cn": "处理"
+  },
+  {
+   "id": 916,
+   "word": "boost",
+   "uk": "/buːst/",
+   "us": "/bʊst/",
+   "pos": "v.,n.",
+   "cn": "推动；促进；激励；替…做广告；宣扬；提高；使增长；提高；增长；推动；激励"
+  },
+  {
+   "id": 917,
+   "word": "impulse",
+   "uk": "/ˈɪmpʌls/",
+   "us": "",
+   "pos": "n.",
+   "cn": "冲动；一时的念头；推动；驱使；脉冲"
+  },
+  {
+   "id": 918,
+   "word": "sober",
+   "uk": "/ˈsəubə/",
+   "us": "/ˈsobɚ/",
+   "pos": "adj.,v.",
+   "cn": "未醉的；有节制的；严肃的；持重的；素淡的；暗淡的；醒酒；清醒"
+  },
+  {
+   "id": 919,
+   "word": "crystallize",
+   "uk": "/ˈkrɪstəlaɪz/",
+   "us": "/ˈkrɪstəˈlaɪz/",
+   "pos": "v.",
+   "cn": "结晶；变得清晰而明确；使具体化"
+  },
+  {
+   "id": 920,
+   "word": "religious",
+   "uk": "/rɪˈlɪdʒəs/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "宗教的；笃信宗教的；虔诚的"
+  },
+  {
+   "id": 921,
+   "word": "infectious",
+   "uk": "/ɪnˈfekʃəs/",
+   "us": "/ɪnˈfɛkʃəs/",
+   "pos": "adj.",
+   "cn": "传染的；有传染性的；有感染力的"
+  },
+  {
+   "id": 922,
+   "word": "shelter",
+   "uk": "/ˈʃeltə/",
+   "us": "/ˈʃɛltɚ/",
+   "pos": "v.,n.",
+   "cn": "掩蔽；躲避；庇护；掩蔽处；躲避处；掩蔽；保护"
+  },
+  {
+   "id": 923,
+   "word": "prominent",
+   "uk": "/ˈprɒmɪnənt/",
+   "us": "/ˈprɑmɪnənt/",
+   "pos": "adj.",
+   "cn": "突出的；杰出的；突起的；凸出的"
+  },
+  {
+   "id": 924,
+   "word": "expel",
+   "uk": "/ɪkˈspel/",
+   "us": "/ɪkˈspɛl/",
+   "pos": "vt.",
+   "cn": "把…除名；把…开除；驱逐；赶走；放逐；排出；喷出"
+  },
+  {
+   "id": 925,
+   "word": "superiority",
+   "uk": "/suːˌpɪəriˈɒrəti/",
+   "us": "/su,pɪrɪˈɔrəti/",
+   "pos": "n.",
+   "cn": "优越；优等"
+  },
+  {
+   "id": 926,
+   "word": "outset",
+   "uk": "/ˈautset/",
+   "us": "/ˈaʊtsɛt/",
+   "pos": "n.",
+   "cn": "开始；开端"
+  },
+  {
+   "id": 927,
+   "word": "latitude",
+   "uk": "/ˈlætɪtjuːd/",
+   "us": "/ˈlætɪtud/",
+   "pos": "n.",
+   "cn": "纬度；纬度地区；回旋余地；自由"
+  },
+  {
+   "id": 928,
+   "word": "scan",
+   "uk": "/skæn/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "细看；审视；浏览；扫描"
+  },
+  {
+   "id": 929,
+   "word": "association",
+   "uk": "/əˌsəusiˈeɪʃn/",
+   "us": "/ə,soʃɪˈeʃən/",
+   "pos": "n.",
+   "cn": "协会；团体；联合；交往"
+  },
+  {
+   "id": 930,
+   "word": "fundamental",
+   "uk": "/ˌfʌndəˈmentl/",
+   "us": "/,fʌndəˈmɛntl/",
+   "pos": "adj.,n.",
+   "cn": "基础的；基本的；基本原则"
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+  "day": 19,
+  "words": [
+    {
+      "word": "orthodox",
+      "phr": [
+        {"en": "the orthodox view", "zh": "传统观点"},
+        {"en": "orthodox medicine", "zh": "正统医学"}
+      ],
+      "ex": [
+        {"en": "Her approach differs from the orthodox view of language teaching.",
+         "zh": "她的方法不同于语言教学的传统观点。"}
+      ],
+      "note": "反义为 unorthodox；常修饰 view、method 等词。"
+    },
+    {
+      "word": "accustomed",
+      "phr": [
+        {"en": "be accustomed to", "zh": "习惯于"},
+        {"en": "become accustomed to", "zh": "逐渐习惯"}
+      ],
+      "ex": [
+        {"en": "She soon became accustomed to the cold winters in the north.",
+         "zh": "她很快适应了北方寒冷的冬天。"}
+      ],
+      "note": "be accustomed to 后接名词或动名词；与 used to 结构相近。"
+    },
+    {
+      "word": "combination",
+      "phr": [
+        {"en": "a combination of", "zh": "…的结合"},
+        {"en": "in combination with", "zh": "与…配合"}
+      ],
+      "ex": [
+        {"en": "The dish is a combination of sweet and sour flavors.",
+         "zh": "这道菜是酸甜口味的结合。"}
+      ],
+      "note": "常与 of 连用；in combination with 表「与…配合」。"
+    },
+    {
+      "word": "obtain",
+      "phr": [
+        {"en": "obtain permission", "zh": "获得许可"},
+        {"en": "obtain information", "zh": "获取信息"}
+      ],
+      "ex": [
+        {"en": "Students must obtain permission before using the laboratory equipment.",
+         "zh": "学生使用实验室设备前必须获得许可。"}
+      ],
+      "note": "obtain 比 get 正式，多用于信息、许可、学位等。"
+    },
+    {
+      "word": "statesman",
+      "phr": [
+        {"en": "an elder statesman", "zh": "德高望重的老政治家"},
+        {"en": "a great statesman", "zh": "伟大的政治家"}
+      ],
+      "ex": [
+        {"en": "He was respected as a great statesman who kept his promises.",
+         "zh": "他作为信守承诺的伟大政治家而受人尊敬。"}
+      ],
+      "note": "statesman 含敬意，politician 常带贬义，注意褒贬色彩。"
+    },
+    {
+      "word": "tack",
+      "phr": [
+        {"en": "change tack", "zh": "改变方针"},
+        {"en": "tack on", "zh": "附加；增补"}
+      ],
+      "ex": [
+        {"en": "When sales fell, the company changed tack and targeted younger buyers.",
+         "zh": "销量下滑后，公司改变策略，把目标转向年轻买家。"}
+      ],
+      "note": "change tack 原为航海术语，指转舵换向，引申为改变方针。"
+    },
+    {
+      "word": "gross",
+      "phr": [
+        {"en": "gross domestic product", "zh": "国内生产总值"},
+        {"en": "gross income", "zh": "总收入"}
+      ],
+      "ex": [
+        {"en": "The country's gross domestic product grew by three percent last year.",
+         "zh": "该国国内生产总值去年增长了百分之三。"}
+      ],
+      "note": "gross 表「总的、毛的」，net 是「净的」；也指粗俗的。"
+    },
+    {
+      "word": "lounge",
+      "phr": [
+        {"en": "the departure lounge", "zh": "候机室"},
+        {"en": "lounge around", "zh": "闲混；懒散打发时间"}
+      ],
+      "ex": [
+        {"en": "We waited in the departure lounge for nearly three hours.",
+         "zh": "我们在候机室等了将近三个小时。"}
+      ],
+      "note": "lounge 作名词指机场、酒店的休息厅；lounge around 指闲混。"
+    },
+    {
+      "word": "porch",
+      "phr": [
+        {"en": "on the porch", "zh": "在门廊上"},
+        {"en": "a front porch", "zh": "前门廊"}
+      ],
+      "ex": [
+        {"en": "They sat on the porch and watched the children play in the yard.",
+         "zh": "他们坐在门廊上，看着孩子们在院子里玩。"}
+      ],
+      "note": "porch 指房屋入口带顶的门廊；美式常用 front porch。"
+    },
+    {
+      "word": "workshop",
+      "phr": [
+        {"en": "a writing workshop", "zh": "写作研讨班"},
+        {"en": "attend a workshop", "zh": "参加研讨班"}
+      ],
+      "ex": [
+        {"en": "She attended a two-day workshop on how to write a research proposal.",
+         "zh": "她参加了一个为期两天的研讨班，学习如何撰写研究计划。"}
+      ],
+      "note": "workshop 除「车间」外，常指短期专题研讨班。"
+    },
+    {
+      "word": "format",
+      "phr": [
+        {"en": "a digital format", "zh": "数字格式"},
+        {"en": "change the format", "zh": "改变格式"}
+      ],
+      "ex": [
+        {"en": "Please save the file in a digital format that everyone can open.",
+         "zh": "请把文件保存成所有人都能打开的电子格式。"}
+      ],
+      "note": "format 可指版式或数据格式，动词表「格式化」。"
+    },
+    {
+      "word": "sacrifice",
+      "phr": [
+        {"en": "make sacrifices", "zh": "做出牺牲"},
+        {"en": "at the sacrifice of", "zh": "以牺牲…为代价"}
+      ],
+      "ex": [
+        {"en": "Many parents make sacrifices so that their children can study abroad.",
+         "zh": "许多父母为了让孩子出国留学而做出牺牲。"}
+      ],
+      "note": "make sacrifices for 表为…做出牺牲；也可指祭品。"
+    },
+    {
+      "word": "illegal",
+      "phr": [
+        {"en": "an illegal act", "zh": "违法行为"},
+        {"en": "illegal immigration", "zh": "非法移民"}
+      ],
+      "ex": [
+        {"en": "It is illegal to park your car on this side of the street.",
+         "zh": "把车停在街道这一侧是违法的。"}
+      ],
+      "note": "il- 为 in- 的变体表否定；反义词 legal。"
+    },
+    {
+      "word": "corps",
+      "phr": [
+        {"en": "the press corps", "zh": "记者团"},
+        {"en": "the Marine Corps", "zh": "海军陆战队"}
+      ],
+      "ex": [
+        {"en": "The press corps followed the president throughout the tour.",
+         "zh": "记者团在整个访问期间跟随总统。"}
+      ],
+      "note": "corps 单复数同形，词尾 s 不发音，指部队或团体。"
+    },
+    {
+      "word": "eclipse",
+      "phr": [
+        {"en": "a solar eclipse", "zh": "日食"},
+        {"en": "be eclipsed by", "zh": "被…比下去"}
+      ],
+      "ex": [
+        {"en": "Thousands gathered on the hill to watch the solar eclipse.",
+         "zh": "数千人聚集在山上观看日食。"}
+      ],
+      "note": "solar eclipse 为日食，lunar eclipse 为月食；也指使失色。"
+    },
+    {
+      "word": "formal",
+      "phr": [
+        {"en": "a formal letter", "zh": "正式信函"},
+        {"en": "formal education", "zh": "正规教育"}
+      ],
+      "ex": [
+        {"en": "You should write a formal letter when applying for the position.",
+         "zh": "申请这个职位时你应写一封正式信函。"}
+      ],
+      "note": "formal 反义为 informal；formal dress 指礼服。"
+    },
+    {
+      "word": "correlate",
+      "phr": [
+        {"en": "correlate with", "zh": "与…相关"},
+        {"en": "highly correlated", "zh": "高度相关"}
+      ],
+      "ex": [
+        {"en": "Researchers found that income does not always correlate with happiness.",
+         "zh": "研究人员发现，收入与幸福感并不总是相关。"}
+      ],
+      "note": "correlate 常与 with 连用；名词形式为 correlation。"
+    },
+    {
+      "word": "soar",
+      "phr": [
+        {"en": "prices soar", "zh": "物价飞涨"},
+        {"en": "soaring prices", "zh": "飞涨的物价"}
+      ],
+      "ex": [
+        {"en": "House prices in the city have soared over the past five years.",
+         "zh": "过去五年里，这座城市的房价飞涨。"}
+      ],
+      "note": "soar 多指价格、气温急速上升；与 sore（疼痛）勿混。"
+    },
+    {
+      "word": "commute",
+      "phr": [
+        {"en": "commute to work", "zh": "通勤上班"},
+        {"en": "a long commute", "zh": "漫长的通勤"}
+      ],
+      "ex": [
+        {"en": "He commutes to work by train, which takes about an hour.",
+         "zh": "他乘火车通勤上班，大约要一小时。"}
+      ],
+      "note": "commute 指上下班往返；commuter 指通勤者。"
+    },
+    {
+      "word": "sustain",
+      "phr": [
+        {"en": "sustain economic growth", "zh": "保持经济增长"},
+        {"en": "sustain an injury", "zh": "受伤"}
+      ],
+      "ex": [
+        {"en": "The economy needs new industries to sustain long-term growth.",
+         "zh": "经济需要新产业来维持长期增长。"}
+      ],
+      "note": "sustain 表「维持」也表「遭受（伤害）」。"
+    },
+    {
+      "word": "critical",
+      "phr": [
+        {"en": "be critical of", "zh": "对…持批评态度"},
+        {"en": "a critical moment", "zh": "关键时刻"}
+      ],
+      "ex": [
+        {"en": "The next few weeks will be critical to the success of the plan.",
+         "zh": "接下来几周对该计划的成功至关重要。"}
+      ],
+      "note": "be critical of 表「批评」；critical 也表「至关重要的」。"
+    },
+    {
+      "word": "shepherd",
+      "phr": [
+        {"en": "shepherd a group", "zh": "带领一群人"},
+        {"en": "shepherd the crowd", "zh": "引导人群"}
+      ],
+      "ex": [
+        {"en": "A young guide shepherded the visitors through the narrow streets of the old town.",
+         "zh": "一位年轻导游带领游客穿过老城的窄街。"}
+      ],
+      "note": "shepherd 作动词指「带领、引导」，含照顾意味。"
+    },
+    {
+      "word": "outcry",
+      "phr": [
+        {"en": "public outcry", "zh": "公众强烈抗议"},
+        {"en": "an outcry over", "zh": "对…的抗议"}
+      ],
+      "ex": [
+        {"en": "The plan to close the library caused a public outcry.",
+         "zh": "关闭图书馆的计划引发了公众的强烈抗议。"}
+      ],
+      "note": "outcry 多与 public 连用，后接 over 或 about。"
+    },
+    {
+      "word": "radiant",
+      "phr": [
+        {"en": "a radiant smile", "zh": "灿烂的笑容"},
+        {"en": "radiant with joy", "zh": "喜气洋洋"}
+      ],
+      "ex": [
+        {"en": "She came back from the trip with a radiant smile on her face.",
+         "zh": "旅行归来时，她脸上挂着灿烂的笑容。"}
+      ],
+      "note": "radiant 由 radiate 而来，指发光，也形容人容光焕发。"
+    },
+    {
+      "word": "principal",
+      "phr": [
+        {"en": "the principal reason", "zh": "主要原因"},
+        {"en": "a school principal", "zh": "校长"}
+      ],
+      "ex": [
+        {"en": "The principal reason for the delay was a shortage of materials.",
+         "zh": "延误的主要原因是材料短缺。"}
+      ],
+      "note": "principal 作名词指校长、本金；principle 是原则，勿混。"
+    },
+    {
+      "word": "exceedingly",
+      "phr": [
+        {"en": "exceedingly difficult", "zh": "极其困难"},
+        {"en": "exceedingly rare", "zh": "极为罕见"}
+      ],
+      "ex": [
+        {"en": "The instructions were exceedingly difficult to follow for a beginner.",
+         "zh": "对初学者来说，这些说明极难照做。"}
+      ],
+      "note": "exceedingly 修饰形容词或副词，比 very 更书面。"
+    },
+    {
+      "word": "uphold",
+      "phr": [
+        {"en": "uphold the law", "zh": "维护法律"},
+        {"en": "uphold a decision", "zh": "维持裁决"}
+      ],
+      "ex": [
+        {"en": "The court decided to uphold the original decision and rejected the appeal.",
+         "zh": "法院决定维持原判，驳回了上诉。"}
+      ],
+      "note": "uphold 常用于法律语境：uphold a ruling 维持裁决。"
+    },
+    {
+      "word": "exotic",
+      "phr": [
+        {"en": "exotic plants", "zh": "奇异的植物"},
+        {"en": "an exotic location", "zh": "有异国风情的地方"}
+      ],
+      "ex": [
+        {"en": "The garden is full of exotic plants from South America.",
+         "zh": "这座花园里满是来自南美洲的奇异植物。"}
+      ],
+      "note": "exotic 指外来的、有异国风情，常修饰 plant、food。"
+    },
+    {
+      "word": "relief",
+      "phr": [
+        {"en": "to my relief", "zh": "让我松了一口气"},
+        {"en": "pain relief", "zh": "止痛"}
+      ],
+      "ex": [
+        {"en": "To my great relief, the exam results arrived earlier than expected.",
+         "zh": "令我大为宽慰的是，考试成绩比预期更早到达。"}
+      ],
+      "note": "to one's relief 表令某人宽慰的是；relieve 是动词。"
+    },
+    {
+      "word": "boycott",
+      "phr": [
+        {"en": "call for a boycott", "zh": "呼吁抵制"},
+        {"en": "boycott a product", "zh": "抵制某产品"}
+      ],
+      "ex": [
+        {"en": "Consumers threatened to boycott the brand after the scandal.",
+         "zh": "丑闻之后，消费者威胁要抵制这个品牌。"}
+      ],
+      "note": "boycott 源自人名，可作名词和动词，常与 call for 连用。"
+    }
+  ]
+}

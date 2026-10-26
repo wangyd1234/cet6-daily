@@ -1,0 +1,365 @@
+{
+  "day": 53,
+  "words": [
+    {
+      "word": "volunteer",
+      "phr": [
+        {"en": "volunteer to do", "zh": "自愿做"},
+        {"en": "volunteer work", "zh": "志愿工作"}
+      ],
+      "ex": [
+        {"en": "She volunteered to help organize the charity concert.",
+         "zh": "她自愿帮忙筹办慈善音乐会。"}
+      ],
+      "note": "volunteer 后接 to do 或 for sth，一般不用动名词。"
+    },
+    {
+      "word": "overlap",
+      "phr": [
+        {"en": "overlap with", "zh": "与…重叠"},
+        {"en": "an overlap between", "zh": "两者间的重叠"}
+      ],
+      "ex": [
+        {"en": "Our two projects overlap in several areas, so we share resources.",
+         "zh": "我们两个项目在几方面重叠，因此共享资源。"}
+      ],
+      "note": "overlap 可作动词和名词，常与 with 连用。"
+    },
+    {
+      "word": "materialism",
+      "phr": [
+        {"en": "historical materialism", "zh": "历史唯物主义"},
+        {"en": "a culture of materialism", "zh": "物质主义文化"}
+      ],
+      "ex": [
+        {"en": "Critics say advertising encourages a shallow materialism among young people.",
+         "zh": "批评者认为广告助长了年轻人的浅薄物质主义。"}
+      ],
+      "note": "materialism 兼指哲学唯物主义和追求物质的价值观。"
+    },
+    {
+      "word": "installment",
+      "phr": [
+        {"en": "pay in installments", "zh": "分期付款"},
+        {"en": "the first installment", "zh": "首期款"}
+      ],
+      "ex": [
+        {"en": "They paid for the car in monthly installments over two years.",
+         "zh": "他们用两年时间按月分期付清了车款。"}
+      ],
+      "note": "英式拼作 instalment；in installments 为常用搭配。"
+    },
+    {
+      "word": "mourn",
+      "phr": [
+        {"en": "mourn for", "zh": "为…哀悼"},
+        {"en": "mourn the death of", "zh": "悼念…的去世"}
+      ],
+      "ex": [
+        {"en": "The whole nation mourned the death of the scientist.",
+         "zh": "全国上下都为这位科学家的去世而哀悼。"}
+      ],
+      "note": "mourn 可作及物动词；mourn for sb 更强调哀悼对象。"
+    },
+    {
+      "word": "cane",
+      "phr": [
+        {"en": "walk with a cane", "zh": "拄着拐杖走路"},
+        {"en": "sugar cane", "zh": "甘蔗"}
+      ],
+      "ex": [
+        {"en": "After the operation, he walked with a cane for several months.",
+         "zh": "手术后他拄了几个月手杖。"}
+      ],
+      "note": "cane 指手杖或植物的茎；sugar cane 为甘蔗。"
+    },
+    {
+      "word": "trifle",
+      "phr": [
+        {"en": "trifle with someone's feelings", "zh": "玩弄某人感情"},
+        {"en": "a mere trifle", "zh": "区区小事"}
+      ],
+      "ex": [
+        {"en": "Don't trifle with other people's feelings just for fun.",
+         "zh": "不要为了好玩而玩弄别人的感情。"}
+      ],
+      "note": "a trifle 等于 a little；trifle with 表不当回事。"
+    },
+    {
+      "word": "migrate",
+      "phr": [
+        {"en": "migrate to", "zh": "迁徙到"},
+        {"en": "migrate south", "zh": "南迁"}
+      ],
+      "ex": [
+        {"en": "Thousands of birds migrate south before the cold season begins.",
+         "zh": "数以千计的鸟在寒冷季节来临前南迁。"}
+      ],
+      "note": "migrate 指人或动物迁移；emigrate 移出，immigrate 移入。"
+    },
+    {
+      "word": "Easter",
+      "phr": [
+        {"en": "Easter Sunday", "zh": "复活节星期日"},
+        {"en": "the Easter holiday", "zh": "复活节假期"}
+      ],
+      "ex": [
+        {"en": "Many families gather for a special meal on Easter Sunday.",
+         "zh": "许多家庭在复活节星期日团聚享用特别的一餐。"}
+      ],
+      "note": "Easter 前用介词 at，如 at Easter；注意首字母大写。"
+    },
+    {
+      "word": "submit",
+      "phr": [
+        {"en": "submit an application", "zh": "提交申请"},
+        {"en": "submit to", "zh": "屈服于"}
+      ],
+      "ex": [
+        {"en": "Students must submit their essays by Friday afternoon.",
+         "zh": "学生必须在周五下午之前提交论文。"}
+      ],
+      "note": "submit sth to sb 表提交；submit to 表屈服听从。"
+    },
+    {
+      "word": "novelty",
+      "phr": [
+        {"en": "the novelty of", "zh": "…的新鲜感"},
+        {"en": "novelty goods", "zh": "新奇商品"}
+      ],
+      "ex": [
+        {"en": "The novelty of city life soon wore off for the newcomer.",
+         "zh": "对这位新来者而言，城市生活的新鲜感很快就消失了。"}
+      ],
+      "note": "novelty 指新奇感或新奇物品；novel 作形容词表新颖的。"
+    },
+    {
+      "word": "occupy",
+      "phr": [
+        {"en": "occupy oneself with", "zh": "忙于"},
+        {"en": "be occupied with", "zh": "忙于…"}
+      ],
+      "ex": [
+        {"en": "The museum occupies a whole block in the city center.",
+         "zh": "这座博物馆占了市中心整整一个街区。"}
+      ],
+      "note": "occupy 表占空间或时间；be occupied 表忙碌。"
+    },
+    {
+      "word": "string",
+      "phr": [
+        {"en": "a string of", "zh": "一连串"},
+        {"en": "a piece of string", "zh": "一根绳子"}
+      ],
+      "ex": [
+        {"en": "The team has won a string of victories this season.",
+         "zh": "这支球队本赛季取得了一连串胜利。"}
+      ],
+      "note": "a string of 后接可数名词复数，表一连串事物。"
+    },
+    {
+      "word": "boom",
+      "phr": [
+        {"en": "a boom in", "zh": "…的繁荣"},
+        {"en": "an economic boom", "zh": "经济繁荣"}
+      ],
+      "ex": [
+        {"en": "The town's economy boomed after the new railway opened.",
+         "zh": "新铁路开通后，小镇经济繁荣起来。"}
+      ],
+      "note": "boom 可指经济繁荣或隆隆声；也说 a boom in prices。"
+    },
+    {
+      "word": "absence",
+      "phr": [
+        {"en": "in the absence of", "zh": "在缺乏…时"},
+        {"en": "absence from", "zh": "缺席"}
+      ],
+      "ex": [
+        {"en": "In the absence of clear evidence, the police dropped the case.",
+         "zh": "由于缺乏明确证据，警方撤销了此案。"}
+      ],
+      "note": "in the absence of 表缺少…；同源词 absent 是形容词。"
+    },
+    {
+      "word": "abolish",
+      "phr": [
+        {"en": "abolish slavery", "zh": "废除奴隶制"},
+        {"en": "abolish a law", "zh": "废除法律"}
+      ],
+      "ex": [
+        {"en": "The country abolished the death penalty more than twenty years ago.",
+         "zh": "这个国家二十多年前就废除了死刑。"}
+      ],
+      "note": "abolish 只用于制度、法律等抽象事物，不用于具体物品。"
+    },
+    {
+      "word": "attract",
+      "phr": [
+        {"en": "attract attention", "zh": "引起注意"},
+        {"en": "attract investment", "zh": "吸引投资"}
+      ],
+      "ex": [
+        {"en": "The new policy is expected to attract foreign investment.",
+         "zh": "新政策有望吸引外国投资。"}
+      ],
+      "note": "attract 直接接宾语，不说 attract to sb attention。"
+    },
+    {
+      "word": "cautious",
+      "phr": [
+        {"en": "be cautious about", "zh": "对…谨慎"},
+        {"en": "a cautious approach", "zh": "谨慎的做法"}
+      ],
+      "ex": [
+        {"en": "Investors remain cautious about putting money into new markets.",
+         "zh": "投资者对向新市场投钱仍持谨慎态度。"}
+      ],
+      "note": "be cautious about doing 是常用搭配；名词是 caution。"
+    },
+    {
+      "word": "snatch",
+      "phr": [
+        {"en": "snatch up", "zh": "抓起"},
+        {"en": "snatch at", "zh": "抓住（机会）"}
+      ],
+      "ex": [
+        {"en": "A thief snatched her bag and ran off down the street.",
+         "zh": "小偷抢走她的手提包，沿街跑掉了。"}
+      ],
+      "note": "snatch 指突然抢夺；snatch at 表急切抓住机会。"
+    },
+    {
+      "word": "blink",
+      "phr": [
+        {"en": "blink back tears", "zh": "强忍泪水"},
+        {"en": "in the blink of an eye", "zh": "眨眼之间"}
+      ],
+      "ex": [
+        {"en": "She blinked back tears and forced a smile for the camera.",
+         "zh": "她强忍泪水，对着镜头挤出一个微笑。"}
+      ],
+      "note": "in the blink of an eye 表瞬间；blink 指眨眼。"
+    },
+    {
+      "word": "summit",
+      "phr": [
+        {"en": "reach the summit", "zh": "登顶"},
+        {"en": "a summit meeting", "zh": "峰会"}
+      ],
+      "ex": [
+        {"en": "They reached the summit just before the sun went down.",
+         "zh": "他们赶在日落前登上了峰顶。"}
+      ],
+      "note": "summit 指山顶，也指最高级会议，需按语境理解。"
+    },
+    {
+      "word": "perfume",
+      "phr": [
+        {"en": "a bottle of perfume", "zh": "一瓶香水"},
+        {"en": "wear perfume", "zh": "喷香水"}
+      ],
+      "ex": [
+        {"en": "The air was filled with the perfume of the garden flowers.",
+         "zh": "空气里弥漫着花园花卉的芬芳。"}
+      ],
+      "note": "perfume 可指香水也可指香气；动词表使散发香气。"
+    },
+    {
+      "word": "magnify",
+      "phr": [
+        {"en": "magnify an image", "zh": "放大图像"},
+        {"en": "magnify a problem", "zh": "夸大问题"}
+      ],
+      "ex": [
+        {"en": "The lenses magnify the tiny insects so students can see them clearly.",
+         "zh": "透镜把微小的昆虫放大，学生能看得更清楚。"}
+      ],
+      "note": "magnify 表放大或夸大；magnifying glass 是放大镜。"
+    },
+    {
+      "word": "redundant",
+      "phr": [
+        {"en": "redundant words", "zh": "多余的词"},
+        {"en": "be made redundant", "zh": "被裁员"}
+      ],
+      "ex": [
+        {"en": "The editor removed several redundant words from the sentence.",
+         "zh": "编辑删去了句子中几个多余的词。"}
+      ],
+      "note": "英式 be made redundant 表被裁员，美式多用 laid off。"
+    },
+    {
+      "word": "situated",
+      "phr": [
+        {"en": "be situated in", "zh": "位于"},
+        {"en": "conveniently situated", "zh": "位置便利"}
+      ],
+      "ex": [
+        {"en": "The hotel is situated in a quiet street near the station.",
+         "zh": "酒店位于车站附近一条安静的街上。"}
+      ],
+      "note": "situated 常与 in、on、near 连用，也可指处于某种境地。"
+    },
+    {
+      "word": "recession",
+      "phr": [
+        {"en": "an economic recession", "zh": "经济衰退"},
+        {"en": "fall into recession", "zh": "陷入衰退"}
+      ],
+      "ex": [
+        {"en": "Many small businesses closed during the long recession.",
+         "zh": "长期衰退中，许多小企业倒闭了。"}
+      ],
+      "note": "recession 指经济衰退，别与 recess（休息）混淆。"
+    },
+    {
+      "word": "doubtless",
+      "phr": [
+        {"en": "doubtless true", "zh": "无疑是真的"},
+        {"en": "doubtless the best choice", "zh": "无疑是最佳选择"}
+      ],
+      "ex": [
+        {"en": "He will doubtless be disappointed, but the decision is final.",
+         "zh": "他无疑会失望，但决定已不可更改。"}
+      ],
+      "note": "doubtless 作副词等于 undoubtedly，多放动词前或句首。"
+    },
+    {
+      "word": "negative",
+      "phr": [
+        {"en": "a negative effect", "zh": "负面影响"},
+        {"en": "negative feedback", "zh": "负面反馈"}
+      ],
+      "ex": [
+        {"en": "Lack of sleep has a negative effect on memory and mood.",
+         "zh": "睡眠不足对记忆和情绪有负面影响。"}
+      ],
+      "note": "negative 与 positive 相对；也可指检测结果呈阴性。"
+    },
+    {
+      "word": "impose",
+      "phr": [
+        {"en": "impose a burden on", "zh": "把负担强加于"},
+        {"en": "impose a tax", "zh": "征税"}
+      ],
+      "ex": [
+        {"en": "The government imposed new taxes on luxury imports.",
+         "zh": "政府对进口奢侈品征收新税。"}
+      ],
+      "note": "impose sth on sb 是固定搭配；名词是 imposition。"
+    },
+    {
+      "word": "statement",
+      "phr": [
+        {"en": "make a statement", "zh": "发表声明"},
+        {"en": "a bank statement", "zh": "银行对账单"}
+      ],
+      "ex": [
+        {"en": "The company issued a brief statement denying the rumors.",
+         "zh": "公司发表简短声明，否认了谣言。"}
+      ],
+      "note": "statement 指正式的陈述或书面单据，如 bank statement。"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "day": 55,
+  "words": [
+    {
+      "word": "electron",
+      "phr": [
+        {"en": "an electron microscope", "zh": "电子显微镜"},
+        {"en": "an electron beam", "zh": "电子束"}
+      ],
+      "ex": [
+        {"en": "The electron carries a negative charge and moves around the nucleus.",
+         "zh": "电子带负电，围绕原子核运动。"}
+      ],
+      "note": "electron 由 electric 加 -on 构成，形容词为 electronic。"
+    },
+    {
+      "word": "embed",
+      "phr": [
+        {"en": "be embedded in", "zh": "嵌入…之中"},
+        {"en": "embed a video", "zh": "嵌入视频"}
+      ],
+      "ex": [
+        {"en": "The bullet was embedded deeply in the wall of the old house.",
+         "zh": "子弹深深嵌在旧屋的墙里。"}
+      ],
+      "note": "embed 常用被动 be embedded in，过去式双写 d。"
+    },
+    {
+      "word": "incline",
+      "phr": [
+        {"en": "be inclined to", "zh": "倾向于"},
+        {"en": "a steep incline", "zh": "陡坡"}
+      ],
+      "ex": [
+        {"en": "I am inclined to agree with you on this point.",
+         "zh": "在这一点上我倾向于同意你的看法。"}
+      ],
+      "note": "be inclined to 意为倾向于，比 want to 更正式。"
+    },
+    {
+      "word": "elevate",
+      "phr": [
+        {"en": "elevate the status of", "zh": "提升…的地位"},
+        {"en": "elevate the risk of", "zh": "增加…的风险"}
+      ],
+      "ex": [
+        {"en": "The new policy aims to elevate the status of rural teachers.",
+         "zh": "新政策旨在提升农村教师的地位。"}
+      ],
+      "note": "elevate 指位置或地位上升，也可指提高风险等。"
+    },
+    {
+      "word": "designate",
+      "phr": [
+        {"en": "be designated as", "zh": "被指定为"},
+        {"en": "a designated area", "zh": "指定区域"}
+      ],
+      "ex": [
+        {"en": "The area was designated as a nature reserve twenty years ago.",
+         "zh": "这片区域二十年前被指定为自然保护区。"}
+      ],
+      "note": "designate 常用 be designated as 结构。"
+    },
+    {
+      "word": "promising",
+      "phr": [
+        {"en": "a promising student", "zh": "有前途的学生"},
+        {"en": "a promising start", "zh": "良好的开端"}
+      ],
+      "ex": [
+        {"en": "She is one of the most promising young researchers in her field.",
+         "zh": "她是本领域最有前途的年轻研究者之一。"}
+      ],
+      "note": "promising 由 promise 加 -ing 而来，指有希望的。"
+    },
+    {
+      "word": "slick",
+      "phr": [
+        {"en": "a slick performance", "zh": "娴熟的表演"},
+        {"en": "a slick answer", "zh": "圆滑的回答"}
+      ],
+      "ex": [
+        {"en": "The company's slick advertising made the product seem better than it was.",
+         "zh": "公司圆滑的广告让产品显得比实际更好。"}
+      ],
+      "note": "slick 褒义指娴熟利落，贬义指油滑、华而不实。"
+    },
+    {
+      "word": "practicable",
+      "phr": [
+        {"en": "a practicable plan", "zh": "可行的计划"},
+        {"en": "a practicable measure", "zh": "可行的措施"}
+      ],
+      "ex": [
+        {"en": "The committee decided that the plan was not practicable at this stage.",
+         "zh": "委员会认定该计划现阶段不可行。"}
+      ],
+      "note": "practicable 指方案可实施；practical 多指实用的。"
+    },
+    {
+      "word": "item",
+      "phr": [
+        {"en": "an item on the agenda", "zh": "议程上的一项"},
+        {"en": "a news item", "zh": "一条新闻"}
+      ],
+      "ex": [
+        {"en": "The first item on the agenda is the budget for next year.",
+         "zh": "议程第一项是明年的预算。"}
+      ],
+      "note": "item 指清单中的一项；新闻一条常说 a news item。"
+    },
+    {
+      "word": "counsel",
+      "phr": [
+        {"en": "legal counsel", "zh": "法律顾问"},
+        {"en": "seek counsel from sb", "zh": "向某人征求意见"}
+      ],
+      "ex": [
+        {"en": "The company hired legal counsel to review the contract before signing.",
+         "zh": "公司在签约前聘请法律顾问审阅合同。"}
+      ],
+      "note": "counsel 作忠告时不可数，作律师指法律顾问。"
+    },
+    {
+      "word": "canvas",
+      "phr": [
+        {"en": "on canvas", "zh": "在画布上"},
+        {"en": "a canvas bag", "zh": "帆布包"}
+      ],
+      "ex": [
+        {"en": "The artist spent two weeks painting the mountains on canvas.",
+         "zh": "那位艺术家花了两周时间在画布上画这些山。"}
+      ],
+      "note": "canvas 与 canvass（拉票）形近，勿混。"
+    },
+    {
+      "word": "superintendent",
+      "phr": [
+        {"en": "the apartment superintendent", "zh": "公寓管理员"},
+        {"en": "a police superintendent", "zh": "警长"}
+      ],
+      "ex": [
+        {"en": "The superintendent of the building fixed the broken elevator within an hour.",
+         "zh": "楼宇管理员一小时内修好了坏掉的电梯。"}
+      ],
+      "note": "superintendent 由 super- 加 intendent 构成，指监管人。"
+    },
+    {
+      "word": "probability",
+      "phr": [
+        {"en": "in all probability", "zh": "很可能"},
+        {"en": "the probability of", "zh": "…的可能性"}
+      ],
+      "ex": [
+        {"en": "In all probability, the meeting will be postponed until next week.",
+         "zh": "会议很可能推迟到下周。"}
+      ],
+      "note": "in all probability 意为十有八九；形容词是 probable。"
+    },
+    {
+      "word": "contention",
+      "phr": [
+        {"en": "a point of contention", "zh": "争论的焦点"},
+        {"en": "a bone of contention", "zh": "争端根源"}
+      ],
+      "ex": [
+        {"en": "The main point of contention was how to share the additional costs.",
+         "zh": "争论的焦点是如何分摊额外费用。"}
+      ],
+      "note": "contention 指争论或论点；in contention 意为有胜算。"
+    },
+    {
+      "word": "lofty",
+      "phr": [
+        {"en": "lofty goals", "zh": "崇高的目标"},
+        {"en": "lofty mountains", "zh": "高耸的山"}
+      ],
+      "ex": [
+        {"en": "He left the company to pursue his lofty goal of teaching in the countryside.",
+         "zh": "他离开公司去实现去乡村教书的崇高目标。"}
+      ],
+      "note": "lofty 可指崇高的，也可指高傲的，感情色彩看语境。"
+    },
+    {
+      "word": "explicit",
+      "phr": [
+        {"en": "explicit instructions", "zh": "明确的指示"},
+        {"en": "be explicit about", "zh": "对…明确表态"}
+      ],
+      "ex": [
+        {"en": "The teacher gave explicit instructions about how to format the report.",
+         "zh": "老师就如何排版报告给出了明确指示。"}
+      ],
+      "note": "explicit 与 implicit 相对，指明确说出、不含糊。"
+    },
+    {
+      "word": "rely",
+      "phr": [
+        {"en": "rely on", "zh": "依靠"},
+        {"en": "rely heavily on", "zh": "严重依赖"}
+      ],
+      "ex": [
+        {"en": "You can rely on him to keep the schedule as planned.",
+         "zh": "你可以指望他按计划推进日程。"}
+      ],
+      "note": "rely 是不及物动词，必须接 on 或 upon。"
+    },
+    {
+      "word": "slide",
+      "phr": [
+        {"en": "slide into", "zh": "陷入"},
+        {"en": "a slide show", "zh": "幻灯片演示"}
+      ],
+      "ex": [
+        {"en": "Prices began to slide after the report on falling demand came out.",
+         "zh": "需求下降的报告发布后，价格开始下滑。"}
+      ],
+      "note": "slide 的过去式是 slid；slide into 指不知不觉陷入。"
+    },
+    {
+      "word": "utilize",
+      "phr": [
+        {"en": "utilize resources", "zh": "利用资源"},
+        {"en": "fully utilize", "zh": "充分利用"}
+      ],
+      "ex": [
+        {"en": "The factory now utilizes solar energy to run most of its machines.",
+         "zh": "工厂如今利用太阳能驱动大部分机器。"}
+      ],
+      "note": "utilize 比 use 正式，强调有效利用资源或机会。"
+    },
+    {
+      "word": "sticky",
+      "phr": [
+        {"en": "a sticky situation", "zh": "棘手的处境"},
+        {"en": "sticky rice", "zh": "糯米"}
+      ],
+      "ex": [
+        {"en": "We found ourselves in a sticky situation when the car broke down.",
+         "zh": "汽车抛锚时我们陷入了一个棘手的处境。"}
+      ],
+      "note": "sticky 除黏的外，口语可指棘手、难办的。"
+    },
+    {
+      "word": "prevail",
+      "phr": [
+        {"en": "prevail over", "zh": "战胜；压倒"},
+        {"en": "prevail in", "zh": "在…中盛行"}
+      ],
+      "ex": [
+        {"en": "This custom still prevails in some remote villages of the province.",
+         "zh": "这一风俗在该省一些偏远村庄仍然盛行。"}
+      ],
+      "note": "prevail 指盛行或获胜；prevail over 强调占上风。"
+    },
+    {
+      "word": "excessive",
+      "phr": [
+        {"en": "excessive noise", "zh": "过大的噪音"},
+        {"en": "excessive spending", "zh": "过度花费"}
+      ],
+      "ex": [
+        {"en": "Excessive noise at night can seriously affect people's health.",
+         "zh": "夜间过大的噪音会严重影响人们的健康。"}
+      ],
+      "note": "excessive 带贬义，指超出合理限度；名词为 excess。"
+    },
+    {
+      "word": "denial",
+      "phr": [
+        {"en": "in denial", "zh": "拒绝面对事实"},
+        {"en": "a denial of", "zh": "对…的否认"}
+      ],
+      "ex": [
+        {"en": "The company issued a firm denial of the rumors about layoffs.",
+         "zh": "公司坚决否认了有关裁员的传言。"}
+      ],
+      "note": "in denial 指拒绝面对事实；动词为 deny。"
+    },
+    {
+      "word": "assault",
+      "phr": [
+        {"en": "an assault on", "zh": "对…的攻击"},
+        {"en": "carry out an assault", "zh": "发动攻击"}
+      ],
+      "ex": [
+        {"en": "The soldiers carried out an assault on the enemy camp before dawn.",
+         "zh": "士兵们在黎明前对敌营发动了攻击。"}
+      ],
+      "note": "assault 常与 on 连用，指人身攻击或猛烈批评。"
+    },
+    {
+      "word": "implicit",
+      "phr": [
+        {"en": "implicit trust", "zh": "完全的信任"},
+        {"en": "be implicit in", "zh": "隐含在…中"}
+      ],
+      "ex": [
+        {"en": "There is an implicit warning in the way she phrased the question.",
+         "zh": "她提问的方式中含有一种隐含的警告。"}
+      ],
+      "note": "implicit 与 explicit 相反，指含蓄的、不言明的。"
+    },
+    {
+      "word": "intensify",
+      "phr": [
+        {"en": "intensify efforts", "zh": "加大力度"},
+        {"en": "intensify the conflict", "zh": "加剧冲突"}
+      ],
+      "ex": [
+        {"en": "The government has promised to intensify efforts to reduce air pollution.",
+         "zh": "政府承诺加大力度减少空气污染。"}
+      ],
+      "note": "intensify 由 intense 加 -ify 构成，表示使更强。"
+    },
+    {
+      "word": "feminine",
+      "phr": [
+        {"en": "feminine beauty", "zh": "女性美"},
+        {"en": "a feminine voice", "zh": "女性化的嗓音"}
+      ],
+      "ex": [
+        {"en": "The room was decorated in soft colors with a feminine touch.",
+         "zh": "房间用柔和色彩装饰，带有女性气息。"}
+      ],
+      "note": "feminine 指女性特质；female 只指性别，注意区分。"
+    },
+    {
+      "word": "purity",
+      "phr": [
+        {"en": "the purity of", "zh": "…的纯净"},
+        {"en": "high purity", "zh": "高纯度"}
+      ],
+      "ex": [
+        {"en": "Tests showed that the purity of the local water had improved.",
+         "zh": "检测显示当地水的纯净度有所提高。"}
+      ],
+      "note": "purity 由 pure 加 -ity 构成，指纯净或纯洁。"
+    },
+    {
+      "word": "pattern",
+      "phr": [
+        {"en": "a pattern of behavior", "zh": "行为模式"},
+        {"en": "follow a pattern", "zh": "照模式做"}
+      ],
+      "ex": [
+        {"en": "His sleep pattern changed completely after he started working nights.",
+         "zh": "开始上夜班后，他的睡眠规律完全变了。"}
+      ],
+      "note": "pattern 后常接 of，如 a pattern of change；也指图案。"
+    },
+    {
+      "word": "settle",
+      "phr": [
+        {"en": "settle down", "zh": "安顿下来"},
+        {"en": "settle a dispute", "zh": "解决争端"}
+      ],
+      "ex": [
+        {"en": "The two companies finally settled the dispute out of court.",
+         "zh": "两家公司最终在庭外解决了争端。"}
+      ],
+      "note": "settle 可指安家、解决或支付；settle down 指安定下来。"
+    }
+  ]
+}

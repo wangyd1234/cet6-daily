@@ -1,0 +1,246 @@
+{
+ "day": 28,
+ "date": null,
+ "words": [
+  {
+   "id": 811,
+   "word": "revenue",
+   "uk": "/ˈrevənjuː/",
+   "us": "/ˈrɛvənu/",
+   "pos": "n.",
+   "cn": "收入；收益；税收；岁入"
+  },
+  {
+   "id": 812,
+   "word": "solution",
+   "uk": "/səˈluːʃn/",
+   "us": "/səˈluʃən/",
+   "pos": "n.",
+   "cn": "解决；解决办法；溶液"
+  },
+  {
+   "id": 813,
+   "word": "monopoly",
+   "uk": "/məˈnɒpəli/",
+   "us": "/məˈnɑpəli/",
+   "pos": "n.",
+   "cn": "垄断；专卖；垄断物；垄断商品；专卖商品"
+  },
+  {
+   "id": 814,
+   "word": "opponent",
+   "uk": "/əˈpəunənt/",
+   "us": "/əˈponənt/",
+   "pos": "n.",
+   "cn": "对手；敌手；对抗者"
+  },
+  {
+   "id": 815,
+   "word": "accelerate",
+   "uk": "/əkˈseləreɪt/",
+   "us": "/əkˈsɛləˌret/",
+   "pos": "vt.",
+   "cn": "使加快；使增速"
+  },
+  {
+   "id": 816,
+   "word": "supplementary",
+   "uk": "/ˌsʌplɪˈmentri/",
+   "us": "/,sʌplɪˈmɛntri/",
+   "pos": "adj.",
+   "cn": "增补的；补充的"
+  },
+  {
+   "id": 817,
+   "word": "grain",
+   "uk": "/greɪn/",
+   "us": "/ɡren/",
+   "pos": "n.",
+   "cn": "谷物；谷粒；颗粒；少量；微量"
+  },
+  {
+   "id": 818,
+   "word": "credit",
+   "uk": "/ˈkredɪt/",
+   "us": "/ˈkrɛdɪt/",
+   "pos": "n.,vt.",
+   "cn": "信贷；赊欠；赞扬；荣誉；学分；信任；相信；把…记入贷方；把…归于"
+  },
+  {
+   "id": 819,
+   "word": "oxygen",
+   "uk": "/ˈɒksɪdʒən/",
+   "us": "/ˈɑksɪdʒən/",
+   "pos": "n.",
+   "cn": "氧；氧气"
+  },
+  {
+   "id": 820,
+   "word": "intensive",
+   "uk": "/ɪnˈtensɪv/",
+   "us": "/ɪnˈtɛnsɪv/",
+   "pos": "adj.",
+   "cn": "加强的；精耕细作的"
+  },
+  {
+   "id": 821,
+   "word": "alter",
+   "uk": "/ˈɔːltə/",
+   "us": "/ˈɔltɚ/",
+   "pos": "vt.",
+   "cn": "改变；变更；变动"
+  },
+  {
+   "id": 822,
+   "word": "combine",
+   "uk": "/kəmˈbaɪn/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "结合；联合；化合；联合企业；联合收割机"
+  },
+  {
+   "id": 823,
+   "word": "ideal",
+   "uk": "/aɪˈdiːəl/",
+   "us": "/aɪˈdiəl/",
+   "pos": "adj.,n.",
+   "cn": "理想的；观念的；空想的；理想；理想的东西"
+  },
+  {
+   "id": 824,
+   "word": "occur",
+   "uk": "/əˈkɜː/",
+   "us": "/əˈkɝ/",
+   "pos": "vi.",
+   "cn": "发生；出现；存在；被想起；被想到"
+  },
+  {
+   "id": 825,
+   "word": "illustrate",
+   "uk": "/ˈɪləstreɪt/",
+   "us": "/ˈɪləstret/",
+   "pos": "vt.",
+   "cn": "说明"
+  },
+  {
+   "id": 826,
+   "word": "hose",
+   "uk": "/həuz/",
+   "us": "/hoz/",
+   "pos": "n.,vt.",
+   "cn": "软管；水龙带；用软管淋浇"
+  },
+  {
+   "id": 827,
+   "word": "definitive",
+   "uk": "/dɪˈfɪnətɪv/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "最可靠的；权威性的；决定性的"
+  },
+  {
+   "id": 828,
+   "word": "streak",
+   "uk": "/striːk/",
+   "us": "/strik/",
+   "pos": "vi.,n.,vt.",
+   "cn": "飞跑；疾驶；条纹；条痕；个性特征；一阵子；一连串；在…上加条纹"
+  },
+  {
+   "id": 829,
+   "word": "pressure",
+   "uk": "/ˈpreʃə/",
+   "us": "/ˈprɛʃɚ/",
+   "pos": "n.,vt.",
+   "cn": "压；压强；压迫；对…施加压力；迫使；说服"
+  },
+  {
+   "id": 830,
+   "word": "dentist",
+   "uk": "/ˈdentɪst/",
+   "us": "/ˈdɛntɪst/",
+   "pos": "n.",
+   "cn": "牙科医生"
+  },
+  {
+   "id": 831,
+   "word": "brood",
+   "uk": "/bruːd/",
+   "us": "/brud/",
+   "pos": "vi.,n.",
+   "cn": "沉思；考虑；孵蛋；一窝；全体孩子"
+  },
+  {
+   "id": 832,
+   "word": "literacy",
+   "uk": "/ˈlɪtərəsi/",
+   "us": "",
+   "pos": "n.",
+   "cn": "识字；有文化；读写能力"
+  },
+  {
+   "id": 833,
+   "word": "originate",
+   "uk": "/əˈrɪdʒɪneɪt/",
+   "us": "/əˈrɪdʒəˌnet/",
+   "pos": "vi.,vt.",
+   "cn": "起源于；来自；产生；创造；创始；开创"
+  },
+  {
+   "id": 834,
+   "word": "specialist",
+   "uk": "/ˈspeʃəlɪst/",
+   "us": "/ˈspɛʃəlɪst/",
+   "pos": "n.",
+   "cn": "专家"
+  },
+  {
+   "id": 835,
+   "word": "background",
+   "uk": "/ˈbækgraund/",
+   "us": "/ˈbækɡraʊnd/",
+   "pos": "n.",
+   "cn": "出身背景；经历；背景资料；背景；底子"
+  },
+  {
+   "id": 836,
+   "word": "millionaire",
+   "uk": "/ˌmɪljəˈneə/",
+   "us": "/,mɪljəˈnɛr/",
+   "pos": "n.",
+   "cn": "百万富翁；大富翁"
+  },
+  {
+   "id": 837,
+   "word": "transit",
+   "uk": "/ˈtrænzɪt/",
+   "us": "/ˈtræzɪt/",
+   "pos": "n.",
+   "cn": "运输；载运"
+  },
+  {
+   "id": 838,
+   "word": "adolescent",
+   "uk": "/ˌædəˈlesnt/",
+   "us": "/,ædəˈlɛsnt/",
+   "pos": "adj.,n.",
+   "cn": "青春期的；青少年的；青少年"
+  },
+  {
+   "id": 839,
+   "word": "nonetheless",
+   "uk": "/ˌnʌnðəˈles/",
+   "us": "/ˈnʌnðəˈlɛs/",
+   "pos": "adv.",
+   "cn": "尽管如此；依然；然而"
+  },
+  {
+   "id": 840,
+   "word": "dispose",
+   "uk": "/dɪˈspəuz/",
+   "us": "/dɪˈspoz/",
+   "pos": "v.",
+   "cn": "去掉；销毁；处理；解决；使倾向于"
+  }
+ ]
+}

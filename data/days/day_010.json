@@ -1,0 +1,246 @@
+{
+ "day": 10,
+ "date": null,
+ "words": [
+  {
+   "id": 271,
+   "word": "automatic",
+   "uk": "/ˌɔːtəˈmætɪk/",
+   "us": "/ˈɔtəˈmætɪk/",
+   "pos": "adj.,n.",
+   "cn": "自动的；必然发生的；无意识的；自动机械"
+  },
+  {
+   "id": 272,
+   "word": "despite",
+   "uk": "/dɪˈspaɪt/",
+   "us": "",
+   "pos": "prep.",
+   "cn": "不管；不顾"
+  },
+  {
+   "id": 273,
+   "word": "consecutive",
+   "uk": "/kənˈsekjətɪv/",
+   "us": "/kənˈsɛkjətɪv/",
+   "pos": "adj.",
+   "cn": "连续的；连贯的"
+  },
+  {
+   "id": 274,
+   "word": "probe",
+   "uk": "/prəub/",
+   "us": "/prob/",
+   "pos": "v.,n.",
+   "cn": "探索；查究；调查；用探针探查；探测；探针；探测器；探索；调查"
+  },
+  {
+   "id": 275,
+   "word": "assimilation",
+   "uk": "/əˌsɪməˈleɪʃn/",
+   "us": "/əˌsɪməˈleʃən/",
+   "pos": "n.",
+   "cn": "同化；同化作用；消化"
+  },
+  {
+   "id": 276,
+   "word": "groan",
+   "uk": "/grəun/",
+   "us": "/ɡron/",
+   "pos": "vi.,n.",
+   "cn": "呻吟；抱怨；发出呻吟般的声音；呻吟；抱怨；呻吟般的声音"
+  },
+  {
+   "id": 277,
+   "word": "industrial",
+   "uk": "/ɪnˈdʌstriəl/",
+   "us": "/ɪnˈdʌstrɪəl/",
+   "pos": "adj.",
+   "cn": "工业的；产业的"
+  },
+  {
+   "id": 278,
+   "word": "conduct",
+   "uk": "/ˈkɒndʌkt/",
+   "us": "/kənˈdʌkt/",
+   "pos": "n.,vt.",
+   "cn": "举止；行为；指导；管理；实施\t[kən'dʌkt]；进行；管理；指挥；引导；传输；传导"
+  },
+  {
+   "id": 279,
+   "word": "velvet",
+   "uk": "/ˈvelvɪt/",
+   "us": "/ˈvɛlvɪt/",
+   "pos": "n.",
+   "cn": "天鹅绒；丝绒"
+  },
+  {
+   "id": 280,
+   "word": "quantitative",
+   "uk": "/ˈkwɒntɪtətɪv/",
+   "us": "/ˈkwɑntətetɪv/",
+   "pos": "adj.",
+   "cn": "量的；定量的"
+  },
+  {
+   "id": 281,
+   "word": "stable",
+   "uk": "/ˈsteɪbl/",
+   "us": "/ˈstebl/",
+   "pos": "adj.,n.",
+   "cn": "稳定的；不变的；沉稳的；持重的；厩；马厩；牛棚"
+  },
+  {
+   "id": 282,
+   "word": "reunion",
+   "uk": "/riːˈjuːniən/",
+   "us": "",
+   "pos": "n.",
+   "cn": "重聚；团聚；聚会；联谊活动"
+  },
+  {
+   "id": 283,
+   "word": "fantastic",
+   "uk": "/fænˈtæstɪk/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "极好的；极出色的；了不起的；极大的；难以相信的；异想天开的；不实际的；奇异的；古怪的"
+  },
+  {
+   "id": 284,
+   "word": "drainage",
+   "uk": "/ˈdreɪnɪdʒ/",
+   "us": "/ˈdrenɪdʒ/",
+   "pos": "n.",
+   "cn": "排水系统；下水道；排水；放水"
+  },
+  {
+   "id": 285,
+   "word": "respond",
+   "uk": "/rɪˈspɒnd/",
+   "us": "/rɪˈspɑnd/",
+   "pos": "vi.",
+   "cn": "回答；答复；作出反应；响应"
+  },
+  {
+   "id": 286,
+   "word": "incident",
+   "uk": "/ˈɪnsɪdənt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "发生的事；事件"
+  },
+  {
+   "id": 287,
+   "word": "lame",
+   "uk": "/leɪm/",
+   "us": "/lem/",
+   "pos": "adj.",
+   "cn": "跛的；瘸的；站不住脚的；差劲的；蹩脚的"
+  },
+  {
+   "id": 288,
+   "word": "tub",
+   "uk": "/tʌb/",
+   "us": "",
+   "pos": "n.",
+   "cn": "桶；塑料杯；纸杯；盆；洗澡盆；浴缸"
+  },
+  {
+   "id": 289,
+   "word": "cluster",
+   "uk": "/ˈklʌstə/",
+   "us": "/ˈklʌstɚ/",
+   "pos": "vi.,n.,vt.",
+   "cn": "群集；丛生；串；簇；群；组；使群集；集中"
+  },
+  {
+   "id": 290,
+   "word": "prey",
+   "uk": "/preɪ/",
+   "us": "/pre/",
+   "pos": "vi.,n.",
+   "cn": "捕食；折磨；使烦恼；被捕食的动物；捕获物；受害者"
+  },
+  {
+   "id": 291,
+   "word": "apparatus",
+   "uk": "/ˌæpəˈreɪtəs/",
+   "us": "/ˌæpəˈrætəs/",
+   "pos": "n.",
+   "cn": "器械；器具；仪器；机构；组织"
+  },
+  {
+   "id": 292,
+   "word": "lieutenant",
+   "uk": "/lefˈtenənt/",
+   "us": "/luˈtɛnənt/",
+   "pos": "n.",
+   "cn": "陆军中尉；海军上尉"
+  },
+  {
+   "id": 293,
+   "word": "tug",
+   "uk": "/tʌg/",
+   "us": "/tʌɡ/",
+   "pos": "v.,n.",
+   "cn": "用力拖；拖船；猛拉；牵引"
+  },
+  {
+   "id": 294,
+   "word": "expedition",
+   "uk": "/ˌekspəˈdɪʃn/",
+   "us": "/,ɛkspəˈdɪʃən/",
+   "pos": "n.",
+   "cn": "旅行；远征；远征队；探险队；考察队；迅速；动作敏捷"
+  },
+  {
+   "id": 295,
+   "word": "decay",
+   "uk": "/dɪˈkeɪ/",
+   "us": "/dɪˈke/",
+   "pos": "vi.,n.",
+   "cn": "腐烂；衰败；腐烂；衰败状态"
+  },
+  {
+   "id": 296,
+   "word": "grieve",
+   "uk": "/griːv/",
+   "us": "/griv/",
+   "pos": "vi.,vt.",
+   "cn": "感到悲痛；伤心；使伤心；为…而伤心"
+  },
+  {
+   "id": 297,
+   "word": "absorb",
+   "uk": "/əbˈsɔːb/",
+   "us": "/æbˈsɔrb;æbˈzɔrb;əbˈsɔrb/",
+   "pos": "vt.",
+   "cn": "吸收；吸引…的注意；使全神贯注；把…并入；同化"
+  },
+  {
+   "id": 298,
+   "word": "concern",
+   "uk": "/kənˈsɜːn/",
+   "us": "/kənˈsɝn/",
+   "pos": "n.,vt.",
+   "cn": "关切的事；有关的事；关心；挂念；关系；关联；公司；企业；涉及；有关；使关心；使担心"
+  },
+  {
+   "id": 299,
+   "word": "fracture",
+   "uk": "/ˈfræktʃə/",
+   "us": "/ˈfræktʃɚ/",
+   "pos": "v.,n.",
+   "cn": "断裂；折断；裂缝；裂痕；折断"
+  },
+  {
+   "id": 300,
+   "word": "rectify",
+   "uk": "/ˈrektɪfaɪ/",
+   "us": "/ˈrɛktɪfaɪ/",
+   "pos": "vt.",
+   "cn": "纠正；修复"
+  }
+ ]
+}

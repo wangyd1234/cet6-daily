@@ -1,0 +1,246 @@
+{
+ "day": 13,
+ "date": null,
+ "words": [
+  {
+   "id": 361,
+   "word": "shove",
+   "uk": "/ʃʌv/",
+   "us": "",
+   "pos": "vi.,vt.,n.",
+   "cn": "用力推；挤；乱推；挤；乱塞；随意放；猛推"
+  },
+  {
+   "id": 362,
+   "word": "theft",
+   "uk": "/θeft/",
+   "us": "/θɛft/",
+   "pos": "n.",
+   "cn": "偷窃；失窃"
+  },
+  {
+   "id": 363,
+   "word": "disclose",
+   "uk": "/dɪsˈkləuz/",
+   "us": "/dɪsˈkloz/",
+   "pos": "vt.",
+   "cn": "揭露；泄露；透露"
+  },
+  {
+   "id": 364,
+   "word": "religion",
+   "uk": "/rɪˈlɪdʒən/",
+   "us": "",
+   "pos": "n.",
+   "cn": "宗教；宗教信仰"
+  },
+  {
+   "id": 365,
+   "word": "yacht",
+   "uk": "/jɒt/",
+   "us": "/jɑt/",
+   "pos": "n.",
+   "cn": "快艇；帆船；游艇"
+  },
+  {
+   "id": 366,
+   "word": "mistress",
+   "uk": "/ˈmɪstrəs/",
+   "us": "",
+   "pos": "n.",
+   "cn": "情妇；主妇；女主人"
+  },
+  {
+   "id": 367,
+   "word": "oxide",
+   "uk": "/ˈɒksaɪd/",
+   "us": "/ˈɑksaɪd/",
+   "pos": "n.",
+   "cn": "氧化物"
+  },
+  {
+   "id": 368,
+   "word": "miniature",
+   "uk": "/ˈmɪnətʃə/",
+   "us": "/ˈmɪniətʃɚ;ˈmɪnɪtʃɚ/",
+   "pos": "adj.,n.",
+   "cn": "小型的；微小的；微小的模型；缩影；微型画；微型人物像"
+  },
+  {
+   "id": 369,
+   "word": "clan",
+   "uk": "/klæn/",
+   "us": "",
+   "pos": "n.",
+   "cn": "宗族；家族"
+  },
+  {
+   "id": 370,
+   "word": "economical",
+   "uk": "/ˌiːkəˈnɒmɪkl/",
+   "us": "/,ɛkəˈnɑmɪkl/",
+   "pos": "adj.",
+   "cn": "节约的；经济学的"
+  },
+  {
+   "id": 371,
+   "word": "prosperous",
+   "uk": "/ˈprɒspərəs/",
+   "us": "/ˈprɑspərəs/",
+   "pos": "adj.",
+   "cn": "繁荣的；兴旺的"
+  },
+  {
+   "id": 372,
+   "word": "polish",
+   "uk": "/ˈpɒlɪʃ/",
+   "us": "/ˈpɑlɪʃ/",
+   "pos": "vt.,n.",
+   "cn": "磨光；修改；润色；使优美；擦光剂"
+  },
+  {
+   "id": 373,
+   "word": "reassess",
+   "uk": "/ˌriːəˈses/",
+   "us": "/ˈriəˈsɛs/",
+   "pos": "vt.",
+   "cn": "再评价"
+  },
+  {
+   "id": 374,
+   "word": "cabinet",
+   "uk": "/ˈkæbɪnət/",
+   "us": "",
+   "pos": "n.",
+   "cn": "橱；柜；内阁"
+  },
+  {
+   "id": 375,
+   "word": "optical",
+   "uk": "/ˈɒptɪkl/",
+   "us": "/ˈɑptɪkl/",
+   "pos": "adj.",
+   "cn": "眼的；视觉的；光学的"
+  },
+  {
+   "id": 376,
+   "word": "evoke",
+   "uk": "/ɪˈvəuk/",
+   "us": "/ɪˈvok/",
+   "pos": "vt.",
+   "cn": "唤起；引起；使人想起"
+  },
+  {
+   "id": 377,
+   "word": "insurance",
+   "uk": "/ɪnˈʃuərəns/",
+   "us": "/ɪnˈʃʊrəns/",
+   "pos": "n.",
+   "cn": "保险；保险费"
+  },
+  {
+   "id": 378,
+   "word": "dazzle",
+   "uk": "/ˈdæzl/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "使眩目；耀；使赞叹不已；使倾倒；耀眼的光；令人赞叹的东西"
+  },
+  {
+   "id": 379,
+   "word": "principle",
+   "uk": "/ˈprɪnsəpl/",
+   "us": "",
+   "pos": "n.",
+   "cn": "原则；原理；道义；基本信念；信条"
+  },
+  {
+   "id": 380,
+   "word": "thigh",
+   "uk": "/θaɪ/",
+   "us": "",
+   "pos": "n.",
+   "cn": "大腿"
+  },
+  {
+   "id": 381,
+   "word": "tedious",
+   "uk": "/ˈtiːdiəs/",
+   "us": "/ˈtidɪəs/",
+   "pos": "adj.",
+   "cn": "冗长乏味的；沉闷的"
+  },
+  {
+   "id": 382,
+   "word": "tilt",
+   "uk": "/tɪlt/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "倾斜；倾侧"
+  },
+  {
+   "id": 383,
+   "word": "inferiority",
+   "uk": "/ɪnˌfɪəriˈɒrəti/",
+   "us": "/ɪn,fɪrɪˈɔrəti/",
+   "pos": "n.",
+   "cn": "自卑；次等"
+  },
+  {
+   "id": 384,
+   "word": "participant",
+   "uk": "/pɑːˈtɪsɪpənt/",
+   "us": "/pɑrˈtɪsəpənt/",
+   "pos": "n.",
+   "cn": "参加者；参与者"
+  },
+  {
+   "id": 385,
+   "word": "initiate",
+   "uk": "/ɪˈnɪʃɪeɪt/",
+   "us": "/ɪˈnɪʃɪet/",
+   "pos": "vt.,n.",
+   "cn": "开始；创造；发起；使初步了解；接纳；让…加入；新加入组织的人"
+  },
+  {
+   "id": 386,
+   "word": "domestic",
+   "uk": "/dəˈmestɪk/",
+   "us": "/dəˈmɛstɪk/",
+   "pos": "adj.",
+   "cn": "本国的；家庭的；驯养的"
+  },
+  {
+   "id": 387,
+   "word": "glare",
+   "uk": "/gleə/",
+   "us": "/ɡlɛr/",
+   "pos": "vi.,n.",
+   "cn": "怒目而视；发射强光；发出刺眼的光线；强光；怒视；瞪眼；炫耀；张扬"
+  },
+  {
+   "id": 388,
+   "word": "irrigation",
+   "uk": "/ˌɪrɪˈgeɪʃn/",
+   "us": "/ˌɪrɪˈɡeʃn/",
+   "pos": "n.",
+   "cn": "灌溉"
+  },
+  {
+   "id": 389,
+   "word": "compile",
+   "uk": "/kəmˈpaɪl/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "汇编；编制；编纂"
+  },
+  {
+   "id": 390,
+   "word": "vitality",
+   "uk": "/vaɪˈtæləti/",
+   "us": "",
+   "pos": "n.",
+   "cn": "活力；生机；元气"
+  }
+ ]
+}

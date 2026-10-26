@@ -1,0 +1,246 @@
+{
+ "day": 3,
+ "date": null,
+ "words": [
+  {
+   "id": 61,
+   "word": "resume",
+   "uk": "/rɪˈzjuːm;ˈrɛzjʊmeɪ/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "重新开始；继续；恢复；摘要；概要；简历"
+  },
+  {
+   "id": 62,
+   "word": "provocative",
+   "uk": "/prəˈvɒkətɪv/",
+   "us": "/prəˈvɑkətɪv/",
+   "pos": "adj.",
+   "cn": "挑衅的；煽动的；刺激的；挑逗的"
+  },
+  {
+   "id": 63,
+   "word": "committee",
+   "uk": "/kəˈmɪti/",
+   "us": "",
+   "pos": "n.",
+   "cn": "委员会；全体委员"
+  },
+  {
+   "id": 64,
+   "word": "posture",
+   "uk": "/ˈpɒstʃə/",
+   "us": "/ˈpɑstʃɚ/",
+   "pos": "vi.,n.",
+   "cn": "摆出姿势；装模作样；姿势；姿态；看法；态度"
+  },
+  {
+   "id": 65,
+   "word": "spiral",
+   "uk": "/ˈspaɪrəl/",
+   "us": "",
+   "pos": "vi.,adj.,n.",
+   "cn": "盘旋上升；不断急剧地上升；螺旋的；螺旋；螺旋式的上升"
+  },
+  {
+   "id": 66,
+   "word": "subtle",
+   "uk": "/ˈsʌtl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "微妙的；难以捉摸的；诡秘的；狡诈的；隐约的"
+  },
+  {
+   "id": 67,
+   "word": "component",
+   "uk": "/kəmˈpəunənt/",
+   "us": "/kəmˈponənt/",
+   "pos": "adj.,n.",
+   "cn": "组成的；构成的；组成部分；部件；组件"
+  },
+  {
+   "id": 68,
+   "word": "overwhelm",
+   "uk": "/ˌəuvəˈwelm/",
+   "us": "/ovɚˈhwɛlm/",
+   "pos": "vt.",
+   "cn": "使受不了；使不知所措；征服；制服"
+  },
+  {
+   "id": 69,
+   "word": "suite",
+   "uk": "/swiːt/",
+   "us": "/sut;swit/",
+   "pos": "n.",
+   "cn": "套间；一套家具；套；组；系列"
+  },
+  {
+   "id": 70,
+   "word": "consultant",
+   "uk": "/kənˈsʌltənt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "顾问；会诊医师；专科医生"
+  },
+  {
+   "id": 71,
+   "word": "disguise",
+   "uk": "/dɪsˈgaɪz/",
+   "us": "/dɪsˈɡaɪz/",
+   "pos": "vt.,n.",
+   "cn": "假扮；化装；伪装；掩盖；掩饰；用来伪装的东西；伪装；掩饰"
+  },
+  {
+   "id": 72,
+   "word": "imperial",
+   "uk": "/ɪmˈpɪəriəl/",
+   "us": "/ɪmˈpɪrɪəl/",
+   "pos": "adj.",
+   "cn": "帝国的；帝王的；英制的"
+  },
+  {
+   "id": 73,
+   "word": "facet",
+   "uk": "/ˈfæsɪt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "一个方面；面"
+  },
+  {
+   "id": 74,
+   "word": "liberal",
+   "uk": "/ˈlɪbərəl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "心胸宽大的；慷慨的；自由的；自由主义的"
+  },
+  {
+   "id": 75,
+   "word": "surgery",
+   "uk": "/ˈsɜːdʒəri/",
+   "us": "/ˈsɝdʒəri/",
+   "pos": "n.",
+   "cn": "外科；外科手术；手术室"
+  },
+  {
+   "id": 76,
+   "word": "harmony",
+   "uk": "/ˈhɑːməni/",
+   "us": "/ˈhɑrməni/",
+   "pos": "n.",
+   "cn": "调和；协调；和谐"
+  },
+  {
+   "id": 77,
+   "word": "violent",
+   "uk": "/ˈvaɪələnt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "暴力引起的；强暴的；猛烈的；剧烈的"
+  },
+  {
+   "id": 78,
+   "word": "resolve",
+   "uk": "/rɪˈzɒlv/",
+   "us": "/rɪˈzɑlv/",
+   "pos": "v.,n.",
+   "cn": "决定；解决；分解；决心"
+  },
+  {
+   "id": 79,
+   "word": "cozy",
+   "uk": "/ˈkəuzi/",
+   "us": "/ˈkozi/",
+   "pos": "adj.",
+   "cn": "舒适的；亲切友好的"
+  },
+  {
+   "id": 80,
+   "word": "confront",
+   "uk": "/kənˈfrʌnt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "迎面遇到；遭遇；勇敢地面对；正视；使对质；使当面对证"
+  },
+  {
+   "id": 81,
+   "word": "dominate",
+   "uk": "/ˈdɒmɪneɪt/",
+   "us": "/ˈdɑmɪnet/",
+   "pos": "v.",
+   "cn": "在…中占首要地位；支配；统治；耸立于；俯视；拥有优势"
+  },
+  {
+   "id": 82,
+   "word": "imitate",
+   "uk": "/ˈɪmɪteɪt/",
+   "us": "/ˈɪmɪtet/",
+   "pos": "vt.",
+   "cn": "模仿；仿效；仿制"
+  },
+  {
+   "id": 83,
+   "word": "deadly",
+   "uk": "/ˈdedli/",
+   "us": "/ˈdɛdli/",
+   "pos": "adv.,adj.",
+   "cn": "非常；极度地；致死的；致命的；不共戴天的；极度的；十足的"
+  },
+  {
+   "id": 84,
+   "word": "compute",
+   "uk": "/kəmˈpjuːt/",
+   "us": "/kəmˈpjʊt/",
+   "pos": "v.",
+   "cn": "计算；估算"
+  },
+  {
+   "id": 85,
+   "word": "institution",
+   "uk": "/ˌɪnstɪˈtjuːʃn/",
+   "us": "/,ɪnstɪˈtuʃən/",
+   "pos": "n.",
+   "cn": "协会；制度；习俗"
+  },
+  {
+   "id": 86,
+   "word": "huddle",
+   "uk": "/ˈhʌdl/",
+   "us": "",
+   "pos": "vi.,vt.,n.",
+   "cn": "聚集在一起；挤作一团；把身子蜷成一团；蜷缩；使聚集在一起；挤在一起的人；一堆杂乱的东西"
+  },
+  {
+   "id": 87,
+   "word": "skeleton",
+   "uk": "/ˈskelɪtn/",
+   "us": "/ˈskɛlɪtn/",
+   "pos": "n.",
+   "cn": "骨骼；框架；骨干；梗概；提要"
+  },
+  {
+   "id": 88,
+   "word": "ambition",
+   "uk": "/æmˈbɪʃn/",
+   "us": "/æmˈbɪʃən/",
+   "pos": "n.",
+   "cn": "雄心；抱负；野心；期望得到的东西"
+  },
+  {
+   "id": 89,
+   "word": "intersection",
+   "uk": "/ˌɪntəˈsekʃn/",
+   "us": "/,ɪntɚˈsɛkʃən/",
+   "pos": "n.",
+   "cn": "道路交叉口；交点"
+  },
+  {
+   "id": 90,
+   "word": "exceed",
+   "uk": "/ɪkˈsɪːd/",
+   "us": "/ɪkˈsid/",
+   "pos": "vt.",
+   "cn": "超过；胜过；超出"
+  }
+ ]
+}

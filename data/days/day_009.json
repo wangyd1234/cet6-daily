@@ -1,0 +1,246 @@
+{
+ "day": 9,
+ "date": null,
+ "words": [
+  {
+   "id": 241,
+   "word": "hawk",
+   "uk": "/hɔːk/",
+   "us": "/hɔk/",
+   "pos": "n.,vt.",
+   "cn": "鹰；隼；“鹰派”人物；叫卖；兜售"
+  },
+  {
+   "id": 242,
+   "word": "twist",
+   "uk": "/twɪst/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "缠绕；盘绕；转动；旋动；捻；搓；歪曲；曲解；扭歪；扭伤；曲折前进；转身；扭弯；转折；转变；弯曲；曲折处"
+  },
+  {
+   "id": 243,
+   "word": "forthcoming",
+   "uk": "/ˌfɔːθˈkʌmɪŋ/",
+   "us": "/,fɔrθˈkʌmɪŋ/",
+   "pos": "adj.",
+   "cn": "即将到来的；可得到的；乐于提供消息的"
+  },
+  {
+   "id": 244,
+   "word": "patriotic",
+   "uk": "/ˌpeɪtriˈɒtɪk/",
+   "us": "/ˌpetrɪˈɑtɪk/",
+   "pos": "adj.",
+   "cn": "爱国的；有爱国心的；显示爱国精神的"
+  },
+  {
+   "id": 245,
+   "word": "complication",
+   "uk": "/ˌkɒmplɪˈkeɪʃn/",
+   "us": "/,kɑmplɪˈkeʃən/",
+   "pos": "n.",
+   "cn": "困难；难题；并发症"
+  },
+  {
+   "id": 246,
+   "word": "perplex",
+   "uk": "/pəˈpleks/",
+   "us": "/pɚˈplɛks/",
+   "pos": "vt.",
+   "cn": "使困惑；使费解；使复杂化"
+  },
+  {
+   "id": 247,
+   "word": "combat",
+   "uk": "/ˈkɒmbæt/",
+   "us": "/ˈkɑmbæt/",
+   "pos": "n.,vt.",
+   "cn": "战争；斗争；格斗；与…斗争；与…战斗"
+  },
+  {
+   "id": 248,
+   "word": "despise",
+   "uk": "/dɪˈspaɪz/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "鄙视；看不起"
+  },
+  {
+   "id": 249,
+   "word": "levy",
+   "uk": "/ˈlevi/",
+   "us": "/ˈlɛvi/",
+   "pos": "vt.,n.",
+   "cn": "征收；征税；税款"
+  },
+  {
+   "id": 250,
+   "word": "indulge",
+   "uk": "/ɪnˈdʌldʒ/",
+   "us": "",
+   "pos": "vi.,vt.",
+   "cn": "沉溺；纵容自己；肆意从事；使沉溺于；满足；纵容；迁就"
+  },
+  {
+   "id": 251,
+   "word": "intimidate",
+   "uk": "/ɪnˈtɪmɪdeɪt/",
+   "us": "/ɪnˈtɪmɪdet/",
+   "pos": "vt.",
+   "cn": "恐吓；威胁"
+  },
+  {
+   "id": 252,
+   "word": "effective",
+   "uk": "/ɪˈfektɪv/",
+   "us": "/ɪˈfɛktɪv/",
+   "pos": "adj.",
+   "cn": "有效的；有影响的"
+  },
+  {
+   "id": 253,
+   "word": "unity",
+   "uk": "/ˈjuːnəti/",
+   "us": "/ˈjunəti/",
+   "pos": "n.",
+   "cn": "单一；统一；团结；和睦；协调"
+  },
+  {
+   "id": 254,
+   "word": "pursue",
+   "uk": "/pəˈsjuː/",
+   "us": "/pəˈsʊ/",
+   "pos": "vt.",
+   "cn": "继续；从事；追赶；追踪；追求"
+  },
+  {
+   "id": 255,
+   "word": "vulgar",
+   "uk": "/ˈvʌlgə/",
+   "us": "/ˈvʌlɡɚ/",
+   "pos": "adj.",
+   "cn": "粗野的；下流的；庸俗的；粗俗的"
+  },
+  {
+   "id": 256,
+   "word": "catastrophe",
+   "uk": "/kəˈtæstrəfi/",
+   "us": "",
+   "pos": "n.",
+   "cn": "大灾难；灾祸"
+  },
+  {
+   "id": 257,
+   "word": "convey",
+   "uk": "/kənˈveɪ/",
+   "us": "/kənˈve/",
+   "pos": "vt.",
+   "cn": "表达；传递；运送；输送"
+  },
+  {
+   "id": 258,
+   "word": "design",
+   "uk": "/dɪˈzaɪn/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "设计；预定；指定；设计；构想；图样；企图"
+  },
+  {
+   "id": 259,
+   "word": "generous",
+   "uk": "/ˈdʒenərəs/",
+   "us": "/ˈdʒɛnərəs/",
+   "pos": "adj.",
+   "cn": "慷慨的；宽厚的；大量的"
+  },
+  {
+   "id": 260,
+   "word": "coincidence",
+   "uk": "/kəuˈɪnsɪdəns/",
+   "us": "/koˈɪnsɪdəns/",
+   "pos": "n.",
+   "cn": "巧合；巧事；一致；符合"
+  },
+  {
+   "id": 261,
+   "word": "victim",
+   "uk": "/ˈvɪktɪm/",
+   "us": "",
+   "pos": "n.",
+   "cn": "牺牲者；受害者"
+  },
+  {
+   "id": 262,
+   "word": "bust",
+   "uk": "/bʌst/",
+   "us": "",
+   "pos": "vi.,vt.,n.",
+   "cn": "爆裂；坏掉；打破；打碎；胸像；半身像；胸部；胸围"
+  },
+  {
+   "id": 263,
+   "word": "skull",
+   "uk": "/skʌl/",
+   "us": "",
+   "pos": "n.",
+   "cn": "颅骨；脑壳"
+  },
+  {
+   "id": 264,
+   "word": "hysterical",
+   "uk": "/hɪˈsterɪkl/",
+   "us": "/hɪˈstɛrɪkl/",
+   "pos": "adj.",
+   "cn": "情绪异常激动的；歇斯底里般的"
+  },
+  {
+   "id": 265,
+   "word": "lane",
+   "uk": "/leɪn/",
+   "us": "/len/",
+   "pos": "n.",
+   "cn": "小路；跑道；航道；航线"
+  },
+  {
+   "id": 266,
+   "word": "contaminate",
+   "uk": "/kənˈtæmɪneɪt/",
+   "us": "/kənˈtæmɪnet/",
+   "pos": "vt.",
+   "cn": "弄脏；污染"
+  },
+  {
+   "id": 267,
+   "word": "ammunition",
+   "uk": "/ˌæmjuˈnɪʃn/",
+   "us": "/,æmjuˈnɪʃən/",
+   "pos": "n.",
+   "cn": "弹药；军火"
+  },
+  {
+   "id": 268,
+   "word": "chief",
+   "uk": "/tʃiːf/",
+   "us": "/tʃif/",
+   "pos": "adj.,n.",
+   "cn": "主要的；为首的；总的；首领；长官；酋长；族长"
+  },
+  {
+   "id": 269,
+   "word": "accord",
+   "uk": "/əˈkɔːd/",
+   "us": "/əˈkɔrd/",
+   "pos": "v.,n.",
+   "cn": "相符合；相一致；相和谐；授予；赠与；给予；一致；符合；谅解；协议"
+  },
+  {
+   "id": 270,
+   "word": "foremost",
+   "uk": "/ˈfɔːməust/",
+   "us": "/ˈfɔrˈmost/",
+   "pos": "adj.",
+   "cn": "最好的；最著名的；最重要的"
+  }
+ ]
+}

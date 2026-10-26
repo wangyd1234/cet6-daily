@@ -1,0 +1,246 @@
+{
+ "day": 68,
+ "date": null,
+ "words": [
+  {
+   "id": 2011,
+   "word": "proposition",
+   "uk": "/ˌprɒpəˈzɪʃn/",
+   "us": "/,prɑpəˈzɪʃən/",
+   "pos": "n.",
+   "cn": "论点；主张；建议；提案；命题"
+  },
+  {
+   "id": 2012,
+   "word": "reserve",
+   "uk": "/rɪˈzɜːv/",
+   "us": "/rɪˈzɝv/",
+   "pos": "vt.,n.",
+   "cn": "保留；留存；预订；储备；保留；拘谨；矜持；替补队员；后备部队；自然保护区"
+  },
+  {
+   "id": 2013,
+   "word": "savage",
+   "uk": "/ˈsævɪdʒ/",
+   "us": "",
+   "pos": "adj.,n.,vt.",
+   "cn": "残暴的；凶猛的；粗鲁的；未开化的；野蛮的；野蛮人；粗鲁的人；乱咬；激烈抨击"
+  },
+  {
+   "id": 2014,
+   "word": "heap",
+   "uk": "/hiːp/",
+   "us": "/hip/",
+   "pos": "n.",
+   "cn": "堆；大量"
+  },
+  {
+   "id": 2015,
+   "word": "sympathy",
+   "uk": "/ˈsɪmpəθi/",
+   "us": "",
+   "pos": "n.",
+   "cn": "同情；一致；支持；赞同"
+  },
+  {
+   "id": 2016,
+   "word": "consumer",
+   "uk": "/kənˈsjuːmə/",
+   "us": "/kənˈsumɚ/",
+   "pos": "n.",
+   "cn": "消费者；用户；消耗者"
+  },
+  {
+   "id": 2017,
+   "word": "cripple",
+   "uk": "/ˈkrɪpl/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "跛子；伤残人；使跛；使受伤致残；严重削弱；使陷入瘫痪"
+  },
+  {
+   "id": 2018,
+   "word": "brief",
+   "uk": "/briːf/",
+   "us": "/brif/",
+   "pos": "adj.,vt.,n.",
+   "cn": "简短的；短暂的；向…介绍基本情况；做…的提要；概要；摘要"
+  },
+  {
+   "id": 2019,
+   "word": "console",
+   "uk": "/kənˈsəul/",
+   "us": "/ˈkɑnsol/",
+   "pos": "vt.,n.",
+   "cn": "安慰；慰问；控制台；操纵台"
+  },
+  {
+   "id": 2020,
+   "word": "initiative",
+   "uk": "/ɪˈnɪʃətɪv/",
+   "us": "",
+   "pos": "n.",
+   "cn": "主动性；首创精神；主动的行动；倡议；主动权"
+  },
+  {
+   "id": 2021,
+   "word": "recover",
+   "uk": "/ˌriːˈkʌvə/",
+   "us": "/rɪˈkʌvɚ/",
+   "pos": "v.",
+   "cn": "重新获得；挽回；恢复"
+  },
+  {
+   "id": 2022,
+   "word": "clockwise",
+   "uk": "/ˈklɒkwaɪz/",
+   "us": "/ˈklɑkˈwaɪz/",
+   "pos": "adv.",
+   "cn": "顺时针方向地"
+  },
+  {
+   "id": 2023,
+   "word": "embark",
+   "uk": "/ɪmˈbɑːk/",
+   "us": "/ɪmˈbɑrk/",
+   "pos": "vi.",
+   "cn": "上船；着手；开始工作"
+  },
+  {
+   "id": 2024,
+   "word": "medication",
+   "uk": "/ˌmedɪˈkeɪʃn/",
+   "us": "/ˈmɛdɪˈkeʃən/",
+   "pos": "n.",
+   "cn": "药物治疗；药物"
+  },
+  {
+   "id": 2025,
+   "word": "drill",
+   "uk": "/drɪl/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "钻；打；训练；钻头；操练；训练"
+  },
+  {
+   "id": 2026,
+   "word": "friction",
+   "uk": "/ˈfrɪkʃn/",
+   "us": "/ˈfrɪkʃən/",
+   "pos": "n.",
+   "cn": "不和；抵触；摩擦"
+  },
+  {
+   "id": 2027,
+   "word": "confer",
+   "uk": "/kənˈfɜː/",
+   "us": "/kənˈfɝ/",
+   "pos": "vi.,vt.",
+   "cn": "商谈；商议；授予；赋予"
+  },
+  {
+   "id": 2028,
+   "word": "intelligent",
+   "uk": "/ɪnˈtelɪdʒənt/",
+   "us": "/ɪnˈtɛlɪdʒənt/",
+   "pos": "adj.",
+   "cn": "聪明的；理智的"
+  },
+  {
+   "id": 2029,
+   "word": "clerk",
+   "uk": "/klɑːk/",
+   "us": "/klɝk/",
+   "pos": "n.",
+   "cn": "店员；办事员；职员"
+  },
+  {
+   "id": 2030,
+   "word": "acknowledge",
+   "uk": "/əkˈnɒlɪdʒ/",
+   "us": "/əkˈnɑlɪdʒ/",
+   "pos": "vt.",
+   "cn": "承认；承认…的权威；告知收到；确认；对…表示谢意；报偿"
+  },
+  {
+   "id": 2031,
+   "word": "equip",
+   "uk": "/ɪˈkwɪp/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "装备；配备；使有准备"
+  },
+  {
+   "id": 2032,
+   "word": "deferential",
+   "uk": "/ˌdefəˈrenʃl/",
+   "us": "/ˌdefəˈrɛnʃl/",
+   "pos": "adj.",
+   "cn": "恭敬的；恭顺的"
+  },
+  {
+   "id": 2033,
+   "word": "manuscript",
+   "uk": "/ˈmænjuskrɪpt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "手稿；原稿；底稿；手写本"
+  },
+  {
+   "id": 2034,
+   "word": "luxury",
+   "uk": "/ˈlʌkʃəri/",
+   "us": "/ˈlʌɡʒəri/",
+   "pos": "n.",
+   "cn": "奢侈；奢侈品"
+  },
+  {
+   "id": 2035,
+   "word": "overthrow",
+   "uk": "/ˌəuvəˈθrəu/",
+   "us": "/,ovɚˈθro/",
+   "pos": "vt.,n.",
+   "cn": "推翻；打倒；使终止；摒弃；推翻；终止；结束"
+  },
+  {
+   "id": 2036,
+   "word": "knit",
+   "uk": "/nɪt/",
+   "us": "",
+   "pos": "vi.,vt.",
+   "cn": "编结；编织；愈合；编结；编织；使紧密地结合；使紧凑；皱紧；皱"
+  },
+  {
+   "id": 2037,
+   "word": "inflict",
+   "uk": "/ɪnˈflɪkt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "把…强加给；使…遭受；使…承担"
+  },
+  {
+   "id": 2038,
+   "word": "worthwhile",
+   "uk": "/ˌwɜːθˈwaɪl/",
+   "us": "/ˈwɝθˈwaɪl/",
+   "pos": "adj.",
+   "cn": "值得花时间做的"
+  },
+  {
+   "id": 2039,
+   "word": "inland",
+   "uk": "/ˈɪnlənd;-lænd/",
+   "us": "/,ɪnˈlænd/",
+   "pos": "adv.,adj.",
+   "cn": "在内地；向内地；内陆的；内地的"
+  },
+  {
+   "id": 2040,
+   "word": "stumble",
+   "uk": "/ˈstʌmbl/",
+   "us": "",
+   "pos": "vi.",
+   "cn": "绊脚；绊倒；跌跌撞撞地走；结结巴巴"
+  }
+ ]
+}

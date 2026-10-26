@@ -1,0 +1,605 @@
+{
+  "day": 36,
+  "words": [
+    {
+      "word": "compatible",
+      "phr": [
+        {
+          "en": "be compatible with",
+          "zh": "与…兼容"
+        },
+        {
+          "en": "mutually compatible",
+          "zh": "相互兼容"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The new software is not compatible with older operating systems.",
+          "zh": "这款新软件与旧操作系统不兼容。"
+        }
+      ],
+      "note": "compatible 多与 with 连用；作「合得来」解时也接 with sb。"
+    },
+    {
+      "word": "incentive",
+      "phr": [
+        {
+          "en": "financial incentive",
+          "zh": "经济激励"
+        },
+        {
+          "en": "provide an incentive",
+          "zh": "提供激励"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The company offers a cash bonus as an incentive to work harder.",
+          "zh": "公司提供现金奖金，激励员工更努力工作。"
+        }
+      ],
+      "note": "incentive 后常接 to do 或 for 短语。"
+    },
+    {
+      "word": "critic",
+      "phr": [
+        {
+          "en": "a film critic",
+          "zh": "影评人"
+        },
+        {
+          "en": "a harsh critic",
+          "zh": "严厉的批评者"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The film won praise from critics but failed at the box office.",
+          "zh": "这部电影获得影评人称赞，但票房惨败。"
+        }
+      ],
+      "note": "critic 指批评者本人；criticism 指批评，critical 是形容词。"
+    },
+    {
+      "word": "preliminary",
+      "phr": [
+        {
+          "en": "preliminary results",
+          "zh": "初步结果"
+        },
+        {
+          "en": "a preliminary study",
+          "zh": "初步研究"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Preliminary results suggest that the treatment is safe and effective.",
+          "zh": "初步结果表明这种治疗安全有效。"
+        }
+      ],
+      "note": "pre 表「前」，preliminary 指正式行动前的初步阶段。"
+    },
+    {
+      "word": "obstacle",
+      "phr": [
+        {
+          "en": "overcome an obstacle",
+          "zh": "克服障碍"
+        },
+        {
+          "en": "a major obstacle to",
+          "zh": "…的主要障碍"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Lack of funding remains the biggest obstacle to the project.",
+          "zh": "资金不足仍是该项目最大的障碍。"
+        }
+      ],
+      "note": "obstacle 后接 to 加名词或动名词。"
+    },
+    {
+      "word": "profession",
+      "phr": [
+        {
+          "en": "the teaching profession",
+          "zh": "教师行业"
+        },
+        {
+          "en": "by profession",
+          "zh": "就职业而言"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She is a lawyer by profession but writes poetry in her spare time.",
+          "zh": "她职业是律师，业余时间写诗。"
+        }
+      ],
+      "note": "profession 指需专门训练的行业，比 job 正式。"
+    },
+    {
+      "word": "van",
+      "phr": [
+        {
+          "en": "a delivery van",
+          "zh": "送货车"
+        },
+        {
+          "en": "a moving van",
+          "zh": "搬家货车"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The delivery van broke down halfway, so the parcels arrived late.",
+          "zh": "送货车半路抛锚，所以包裹到得很晚。"
+        }
+      ],
+      "note": "van 指厢式货车或面包车；lorry 是英式大卡车，truck 为美式。"
+    },
+    {
+      "word": "dizzy",
+      "phr": [
+        {
+          "en": "feel dizzy",
+          "zh": "感到头晕"
+        },
+        {
+          "en": "a dizzy height",
+          "zh": "令人眩晕的高度"
+        }
+      ],
+      "ex": [
+        {
+          "en": "I felt dizzy after standing up too quickly in the hot room.",
+          "zh": "在闷热的房间里站起太快，我感到头晕。"
+        }
+      ],
+      "note": "feel dizzy 是「感到头晕」，dizzy 为形容词。"
+    },
+    {
+      "word": "resemblance",
+      "phr": [
+        {
+          "en": "bear a resemblance to",
+          "zh": "与…相似"
+        },
+        {
+          "en": "a strong resemblance",
+          "zh": "极大的相似"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The boy bears a striking resemblance to his grandfather.",
+          "zh": "这个男孩和他祖父长得极为相似。"
+        }
+      ],
+      "note": "动词 resemble 是及物动词，直接接宾语，不加 to。"
+    },
+    {
+      "word": "exceptional",
+      "phr": [
+        {
+          "en": "exceptional talent",
+          "zh": "非凡的才能"
+        },
+        {
+          "en": "in exceptional circumstances",
+          "zh": "在特殊情况下"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She showed exceptional talent for languages at an early age.",
+          "zh": "她从小就表现出非凡的语言天赋。"
+        }
+      ],
+      "note": "exceptional 兼有「极好」与「例外」两义，看语境判断。"
+    },
+    {
+      "word": "constitute",
+      "phr": [
+        {
+          "en": "constitute a threat",
+          "zh": "构成威胁"
+        },
+        {
+          "en": "constitute a majority",
+          "zh": "占多数"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Women now constitute nearly half of the students in this department.",
+          "zh": "女性如今占该系学生的近一半。"
+        }
+      ],
+      "note": "constitute 是及物动词，直接接宾语；表「由…组成」用 consist of。"
+    },
+    {
+      "word": "cherish",
+      "phr": [
+        {
+          "en": "cherish a memory",
+          "zh": "珍藏记忆"
+        },
+        {
+          "en": "cherish the hope",
+          "zh": "抱有希望"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She still cherishes the letters her grandmother wrote to her.",
+          "zh": "她仍珍藏着祖母写给她的那些信。"
+        }
+      ],
+      "note": "cherish 既指珍惜感情、记忆，也指怀有希望或想法。"
+    },
+    {
+      "word": "discrepancy",
+      "phr": [
+        {
+          "en": "a discrepancy between",
+          "zh": "…之间的差异"
+        },
+        {
+          "en": "account for the discrepancy",
+          "zh": "解释这一差异"
+        }
+      ],
+      "ex": [
+        {
+          "en": "There is a clear discrepancy between the two reports of the accident.",
+          "zh": "关于这起事故的两份报告存在明显出入。"
+        }
+      ],
+      "note": "discrepancy 指数据或说法对不上，常与 between、in 搭配。"
+    },
+    {
+      "word": "spectrum",
+      "phr": [
+        {
+          "en": "a broad spectrum of",
+          "zh": "广泛的…"
+        },
+        {
+          "en": "the political spectrum",
+          "zh": "政治光谱"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The course attracts students from a broad spectrum of backgrounds.",
+          "zh": "这门课程吸引背景各异的学生。"
+        }
+      ],
+      "note": "spectrum 表「范围」时用 a spectrum of；复数为 spectra。"
+    },
+    {
+      "word": "convince",
+      "phr": [
+        {
+          "en": "convince sb of sth",
+          "zh": "使某人相信某事"
+        },
+        {
+          "en": "be convinced that",
+          "zh": "确信"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The evidence finally convinced him that he had been wrong.",
+          "zh": "证据终于使他确信自己错了。"
+        }
+      ],
+      "note": "convince 后接 of 短语或 that 从句。"
+    },
+    {
+      "word": "prolong",
+      "phr": [
+        {
+          "en": "prolong life",
+          "zh": "延长寿命"
+        },
+        {
+          "en": "prolong a visit",
+          "zh": "延长访问"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Modern medicine can prolong life but cannot always improve its quality.",
+          "zh": "现代医学能延长寿命，却未必能提高生命质量。"
+        }
+      ],
+      "note": "prolong 常含「不必要地拖长」意味，中性延长多用 extend。"
+    },
+    {
+      "word": "missionary",
+      "phr": [
+        {
+          "en": "a missionary in Africa",
+          "zh": "在非洲的传教士"
+        },
+        {
+          "en": "missionary work",
+          "zh": "传教工作"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The missionary spent thirty years teaching and building schools in the region.",
+          "zh": "这位传教士在该地区教书建校三十年。"
+        }
+      ],
+      "note": "源自 mission（使命），missionary 指受派遣传教的人。"
+    },
+    {
+      "word": "terminate",
+      "phr": [
+        {
+          "en": "terminate a contract",
+          "zh": "终止合同"
+        },
+        {
+          "en": "terminate employment",
+          "zh": "解除雇佣关系"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The company may terminate the contract if the work is not finished on time.",
+          "zh": "如果工程未按时完工，公司可以终止合同。"
+        }
+      ],
+      "note": "terminate 比 end 正式，多用于合同、雇佣关系；名词 termination。"
+    },
+    {
+      "word": "valve",
+      "phr": [
+        {
+          "en": "a heart valve",
+          "zh": "心脏瓣膜"
+        },
+        {
+          "en": "close the valve",
+          "zh": "关闭阀门"
+        }
+      ],
+      "ex": [
+        {
+          "en": "A faulty valve caused the water to leak into the basement.",
+          "zh": "一个故障阀门导致水漏进了地下室。"
+        }
+      ],
+      "note": "valve 指控制流体的阀门，也指心脏瓣膜，注意与 tube 区分。"
+    },
+    {
+      "word": "refund",
+      "phr": [
+        {
+          "en": "a full refund",
+          "zh": "全额退款"
+        },
+        {
+          "en": "claim a refund",
+          "zh": "要求退款"
+        }
+      ],
+      "ex": [
+        {
+          "en": "If the goods are damaged, you can ask for a full refund.",
+          "zh": "如果商品有损坏，你可以要求全额退款。"
+        }
+      ],
+      "note": "名词读 /ˈriːfʌnd/，动词读 /rɪˈfʌnd/，重音位置不同。"
+    },
+    {
+      "word": "remnant",
+      "phr": [
+        {
+          "en": "a remnant of",
+          "zh": "…的残余"
+        },
+        {
+          "en": "the remnants of",
+          "zh": "…的残骸"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The remnants of the old city wall can still be seen today.",
+          "zh": "老城墙的残迹至今仍能看到。"
+        }
+      ],
+      "note": "多用复数 remnants，指残存部分；形容词 remaining 表「剩下的」。"
+    },
+    {
+      "word": "internal",
+      "phr": [
+        {
+          "en": "internal organs",
+          "zh": "内脏"
+        },
+        {
+          "en": "internal affairs",
+          "zh": "内政"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The report is for internal use only and must not be shared outside.",
+          "zh": "这份报告仅供内部使用，不得外传。"
+        }
+      ],
+      "note": "internal 与 external（外部的）相对。"
+    },
+    {
+      "word": "literary",
+      "phr": [
+        {
+          "en": "literary criticism",
+          "zh": "文学批评"
+        },
+        {
+          "en": "a literary magazine",
+          "zh": "文学杂志"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Her essays on literary criticism are widely read by college students.",
+          "zh": "她的文学批评文章被大学生广泛阅读。"
+        }
+      ],
+      "note": "literary 与 literal（字面的）、literate（识字的）易混，注意区分。"
+    },
+    {
+      "word": "classical",
+      "phr": [
+        {
+          "en": "classical music",
+          "zh": "古典音乐"
+        },
+        {
+          "en": "classical literature",
+          "zh": "古典文学"
+        }
+      ],
+      "ex": [
+        {
+          "en": "He grew up listening to classical music but now plays jazz.",
+          "zh": "他听着古典音乐长大，如今却演奏爵士乐。"
+        }
+      ],
+      "note": "classical 指古希腊罗马传统或古典音乐；classic 指经典、一流的。"
+    },
+    {
+      "word": "privilege",
+      "phr": [
+        {
+          "en": "a special privilege",
+          "zh": "特权"
+        },
+        {
+          "en": "have the privilege of",
+          "zh": "有幸…"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Members enjoy the privilege of using the library after midnight.",
+          "zh": "会员享有午夜后使用图书馆的特权。"
+        }
+      ],
+      "note": "privilege 是可数名词，常与 of doing 连用。"
+    },
+    {
+      "word": "substitute",
+      "phr": [
+        {
+          "en": "substitute A for B",
+          "zh": "用A代替B"
+        },
+        {
+          "en": "a substitute teacher",
+          "zh": "代课老师"
+        }
+      ],
+      "ex": [
+        {
+          "en": "You can substitute honey for sugar in this recipe.",
+          "zh": "在这个食谱里你可以用蜂蜜代替糖。"
+        }
+      ],
+      "note": "substitute A for B 是用 A 换掉 B，方向不能颠倒。"
+    },
+    {
+      "word": "mortgage",
+      "phr": [
+        {
+          "en": "pay off the mortgage",
+          "zh": "还清抵押贷款"
+        },
+        {
+          "en": "take out a mortgage",
+          "zh": "申请抵押贷款"
+        }
+      ],
+      "ex": [
+        {
+          "en": "They took out a thirty-year mortgage to buy their first house.",
+          "zh": "他们办了三十年期的抵押贷款买第一套房。"
+        }
+      ],
+      "note": "mortgage 常与 pay off、take out 搭配。"
+    },
+    {
+      "word": "blaze",
+      "phr": [
+        {
+          "en": "a blaze of light",
+          "zh": "一片强光"
+        },
+        {
+          "en": "fight the blaze",
+          "zh": "扑救大火"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Firefighters worked all night to control the blaze in the warehouse.",
+          "zh": "消防员整夜奋战以控制仓库的大火。"
+        }
+      ],
+      "note": "blaze 指大火或强光；in a blaze of glory 表「辉煌地」。"
+    },
+    {
+      "word": "moreover",
+      "phr": [
+        {
+          "en": "moreover, the cost is rising",
+          "zh": "此外，成本在上升"
+        },
+        {
+          "en": "and moreover",
+          "zh": "而且，再者"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The rent is high; moreover, the flat is far from the station.",
+          "zh": "房租很高，而且这套公寓离车站很远。"
+        }
+      ],
+      "note": "moreover 用于句首，后加逗号，比 also 正式，多用于书面论证。"
+    },
+    {
+      "word": "scatter",
+      "phr": [
+        {
+          "en": "scatter seeds",
+          "zh": "撒种"
+        },
+        {
+          "en": "scatter the crowd",
+          "zh": "驱散人群"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The wind scattered the leaves all over the garden.",
+          "zh": "风把树叶吹散到花园各处。"
+        }
+      ],
+      "note": "scatter 强调向四处散开；be scattered across 表「散布在…」。"
+    }
+  ]
+}

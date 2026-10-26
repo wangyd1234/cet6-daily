@@ -1,0 +1,365 @@
+{
+  "day": 73,
+  "words": [
+    {
+      "word": "reciprocal",
+      "phr": [
+        {"en": "a reciprocal agreement", "zh": "互惠协议"},
+        {"en": "a reciprocal relationship", "zh": "相互关系"}
+      ],
+      "ex": [
+        {"en": "The two schools signed a reciprocal agreement on student exchange.",
+         "zh": "两所学校签署了学生交换的互惠协议。"}
+      ],
+      "note": "强调双方对等互惠；名词形式是 reciprocity。"
+    },
+    {
+      "word": "vertical",
+      "phr": [
+        {"en": "a vertical line", "zh": "垂直线"},
+        {"en": "the vertical axis", "zh": "纵轴"}
+      ],
+      "ex": [
+        {"en": "Draw a vertical line from the top of the page to the bottom.",
+         "zh": "从页面顶端到底部画一条垂直线。"}
+      ],
+      "note": "与 horizontal（水平的）相对；副词是 vertically。"
+    },
+    {
+      "word": "inventory",
+      "phr": [
+        {"en": "take inventory", "zh": "盘点存货"},
+        {"en": "inventory control", "zh": "库存管理"}
+      ],
+      "ex": [
+        {"en": "The store checks its inventory at the end of every month.",
+         "zh": "这家店每月末核对库存。"}
+      ],
+      "note": "take inventory 指盘点；也可指详细目录、清单。"
+    },
+    {
+      "word": "vivid",
+      "phr": [
+        {"en": "a vivid memory", "zh": "清晰的记忆"},
+        {"en": "vivid colours", "zh": "鲜艳的颜色"}
+      ],
+      "ex": [
+        {"en": "She still has a vivid memory of her first day at school.",
+         "zh": "她对上学第一天仍记忆犹新。"}
+      ],
+      "note": "指色彩鲜艳或描述生动；副词 vividly，如 vividly remember。"
+    },
+    {
+      "word": "flush",
+      "phr": [
+        {"en": "flush with embarrassment", "zh": "窘得脸红"},
+        {"en": "be flush with the wall", "zh": "与墙齐平"}
+      ],
+      "ex": [
+        {"en": "Her cheeks flushed with embarrassment when she heard her name.",
+         "zh": "听到自己的名字时，她窘得脸都红了。"}
+      ],
+      "note": "表“脸红”常接 with；flush 也指表面齐平。"
+    },
+    {
+      "word": "heir",
+      "phr": [
+        {"en": "the heir to the throne", "zh": "王位继承人"},
+        {"en": "a legal heir", "zh": "法定继承人"}
+      ],
+      "ex": [
+        {"en": "As the only child, he is the sole heir to the family business.",
+         "zh": "作为独子，他是家族企业的唯一继承人。"}
+      ],
+      "note": "heir 后接介词 to；h 不发音，冠词用 an heir。"
+    },
+    {
+      "word": "screw",
+      "phr": [
+        {"en": "screw in", "zh": "拧进去"},
+        {"en": "tighten the screw", "zh": "拧紧螺丝"}
+      ],
+      "ex": [
+        {"en": "He screwed the shelf firmly to the wall so it would not fall.",
+         "zh": "他把架子牢牢拧在墙上，以免掉落。"}
+      ],
+      "note": "作动词指用螺钉固定；screw up 口语指搞糟。"
+    },
+    {
+      "word": "kit",
+      "phr": [
+        {"en": "a first-aid kit", "zh": "急救包"},
+        {"en": "a tool kit", "zh": "工具箱"}
+      ],
+      "ex": [
+        {"en": "Every car should carry a first-aid kit and a spare tyre.",
+         "zh": "每辆车都应备有急救包和一个备用轮胎。"}
+      ],
+      "note": "指成套工具或装备；kit out 表配备装备。"
+    },
+    {
+      "word": "virtue",
+      "phr": [
+        {"en": "by virtue of", "zh": "凭借；由于"},
+        {"en": "a man of virtue", "zh": "有德之人"}
+      ],
+      "ex": [
+        {"en": "He got the job by virtue of his long experience in teaching.",
+         "zh": "他凭借长期的教学经验得到了这份工作。"}
+      ],
+      "note": "by virtue of 是固定短语表“凭借、由于”，很常考。"
+    },
+    {
+      "word": "emphasize",
+      "phr": [
+        {"en": "emphasize the importance of", "zh": "强调…的重要性"},
+        {"en": "emphasize that", "zh": "强调说"}
+      ],
+      "ex": [
+        {"en": "The doctor emphasized the importance of regular exercise and sleep.",
+         "zh": "医生强调了规律运动和睡眠的重要性。"}
+      ],
+      "note": "名词形式是 emphasis，短语 put emphasis on。"
+    },
+    {
+      "word": "turnover",
+      "phr": [
+        {"en": "annual turnover", "zh": "年营业额"},
+        {"en": "staff turnover", "zh": "员工流动率"}
+      ],
+      "ex": [
+        {"en": "The company's annual turnover rose by ten percent last year.",
+         "zh": "公司去年的年营业额增长了百分之十。"}
+      ],
+      "note": "可指营业额，也可指人员更替率，要看语境。"
+    },
+    {
+      "word": "mortal",
+      "phr": [
+        {"en": "a mortal enemy", "zh": "不共戴天的敌人"},
+        {"en": "mortal danger", "zh": "生命危险"}
+      ],
+      "ex": [
+        {"en": "All human beings are mortal, so we should value our time.",
+         "zh": "人终有一死，所以我们应当珍惜时间。"}
+      ],
+      "note": "与 immortal（不朽的）相对；mortal enemy 指死敌。"
+    },
+    {
+      "word": "coverage",
+      "phr": [
+        {"en": "media coverage", "zh": "媒体报道"},
+        {"en": "news coverage", "zh": "新闻报道"}
+      ],
+      "ex": [
+        {"en": "The trial received wide media coverage across the country.",
+         "zh": "这场审判在全国获得了广泛的媒体报道。"}
+      ],
+      "note": "指新闻报道的覆盖，也可指保险的保障范围。"
+    },
+    {
+      "word": "figure",
+      "phr": [
+        {"en": "figure out", "zh": "弄明白；算出"},
+        {"en": "a public figure", "zh": "公众人物"}
+      ],
+      "ex": [
+        {"en": "It took me a while to figure out how the machine worked.",
+         "zh": "我花了一会儿才弄明白这台机器怎么运作。"}
+      ],
+      "note": "figure out 表“弄懂、算出”；figure 还可指数字、身材。"
+    },
+    {
+      "word": "brutal",
+      "phr": [
+        {"en": "a brutal attack", "zh": "残忍的袭击"},
+        {"en": "brutal honesty", "zh": "直言不讳"}
+      ],
+      "ex": [
+        {"en": "The film describes the brutal reality of life during the war.",
+         "zh": "这部影片描写了战争期间生活的残酷现实。"}
+      ],
+      "note": "语气比 cruel 更强，强调无情、野兽般；名词 brutality。"
+    },
+    {
+      "word": "slight",
+      "phr": [
+        {"en": "a slight change", "zh": "细微的变化"},
+        {"en": "not in the slightest", "zh": "一点也不"}
+      ],
+      "ex": [
+        {"en": "There has been a slight improvement in his condition since yesterday.",
+         "zh": "从昨天起他的病情略有好转。"}
+      ],
+      "note": "not in the slightest 表“一点也不”；动词义“轻视”少用。"
+    },
+    {
+      "word": "ore",
+      "phr": [
+        {"en": "iron ore", "zh": "铁矿石"},
+        {"en": "ore deposits", "zh": "矿床"}
+      ],
+      "ex": [
+        {"en": "The region is rich in iron ore and other minerals.",
+         "zh": "这个地区富含铁矿石和其他矿物。"}
+      ],
+      "note": "多与金属名搭配，如 iron ore、copper ore，通常不可数。"
+    },
+    {
+      "word": "corrupt",
+      "phr": [
+        {"en": "corrupt officials", "zh": "贪官"},
+        {"en": "corrupt sb's mind", "zh": "腐蚀某人的思想"}
+      ],
+      "ex": [
+        {"en": "Several corrupt officials were removed from office after the investigation.",
+         "zh": "调查之后，几名贪官被免职。"}
+      ],
+      "note": "兼指“腐败的”和“使腐化”；名词是 corruption。"
+    },
+    {
+      "word": "preclude",
+      "phr": [
+        {"en": "preclude the possibility of", "zh": "排除…的可能性"},
+        {"en": "preclude sb from doing", "zh": "使某人不能做"}
+      ],
+      "ex": [
+        {"en": "Bad weather precluded us from finishing the work on time.",
+         "zh": "恶劣天气使我们无法按时完成工作。"}
+      ],
+      "note": "preclude sb from doing 表使不能；较正式，近义 prevent。"
+    },
+    {
+      "word": "previous",
+      "phr": [
+        {"en": "the previous day", "zh": "前一天"},
+        {"en": "previous experience", "zh": "以往的经验"}
+      ],
+      "ex": [
+        {"en": "She had no previous experience, but she learned the job quickly.",
+         "zh": "她此前没有经验，但很快就学会了这份工作。"}
+      ],
+      "note": "指紧接的前一个；previous to 表“在…之前”。"
+    },
+    {
+      "word": "regime",
+      "phr": [
+        {"en": "a military regime", "zh": "军人政权"},
+        {"en": "a strict regime", "zh": "严格的制度"}
+      ],
+      "ex": [
+        {"en": "The new regime promised to improve education and health care.",
+         "zh": "新政权承诺改善教育和医疗。"}
+      ],
+      "note": "指政权或制度；也可指饮食、训练等固定制度。"
+    },
+    {
+      "word": "transmit",
+      "phr": [
+        {"en": "transmit a disease", "zh": "传播疾病"},
+        {"en": "transmit signals", "zh": "传送信号"}
+      ],
+      "ex": [
+        {"en": "The disease can be transmitted through close contact with animals.",
+         "zh": "这种病可通过与动物密切接触传播。"}
+      ],
+      "note": "指传送、传播；名词是 transmission。"
+    },
+    {
+      "word": "commemorate",
+      "phr": [
+        {"en": "commemorate the anniversary", "zh": "纪念周年"},
+        {"en": "commemorate the victims", "zh": "纪念死难者"}
+      ],
+      "ex": [
+        {"en": "A ceremony was held to commemorate the soldiers who died in battle.",
+         "zh": "人们举行仪式纪念阵亡的士兵。"}
+      ],
+      "note": "指用仪式或纪念物纪念；名词是 commemoration。"
+    },
+    {
+      "word": "argue",
+      "phr": [
+        {"en": "argue with sb", "zh": "与某人争吵"},
+        {"en": "argue that", "zh": "主张认为"}
+      ],
+      "ex": [
+        {"en": "Some experts argue that online learning is as effective as classrooms.",
+         "zh": "一些专家认为线上学习与课堂学习同样有效。"}
+      ],
+      "note": "argue with sb about sth 争吵；argue for 表支持。"
+    },
+    {
+      "word": "consumption",
+      "phr": [
+        {"en": "energy consumption", "zh": "能源消耗"},
+        {"en": "reduce consumption", "zh": "减少消耗"}
+      ],
+      "ex": [
+        {"en": "Rising energy consumption has become a serious problem for the city.",
+         "zh": "不断上升的能源消耗已成为这座城市的严重问题。"}
+      ],
+      "note": "指消耗、消费；动词是 consume，consumer 指消费者。"
+    },
+    {
+      "word": "premature",
+      "phr": [
+        {"en": "premature death", "zh": "过早死亡"},
+        {"en": "a premature decision", "zh": "仓促的决定"}
+      ],
+      "ex": [
+        {"en": "It is premature to draw any conclusion before all the data arrive.",
+         "zh": "在全部数据到达之前就下结论为时过早。"}
+      ],
+      "note": "pre- 加 mature，指过早、仓促，常与 decision 连用。"
+    },
+    {
+      "word": "superior",
+      "phr": [
+        {"en": "be superior to", "zh": "优于"},
+        {"en": "one's superior", "zh": "某人的上级"}
+      ],
+      "ex": [
+        {"en": "This model is clearly superior to the one we bought last year.",
+         "zh": "这个型号明显优于我们去年买的那个。"}
+      ],
+      "note": "比较时用 to 不用 than；反义词是 inferior。"
+    },
+    {
+      "word": "drought",
+      "phr": [
+        {"en": "a severe drought", "zh": "严重干旱"},
+        {"en": "suffer from drought", "zh": "遭受旱灾"}
+      ],
+      "ex": [
+        {"en": "The long drought has destroyed most of the crops in the area.",
+         "zh": "长期干旱毁掉了该地区大部分庄稼。"}
+      ],
+      "note": "常与 severe、long 搭配；gh 不发音，读作 /draʊt/。"
+    },
+    {
+      "word": "periodical",
+      "phr": [
+        {"en": "a periodical publication", "zh": "定期刊物"},
+        {"en": "periodical checks", "zh": "定期检查"}
+      ],
+      "ex": [
+        {"en": "The library subscribes to several academic periodicals every year.",
+         "zh": "图书馆每年订阅几种学术期刊。"}
+      ],
+      "note": "作名词指期刊；形容词指定期的，近义 periodic。"
+    },
+    {
+      "word": "leaflet",
+      "phr": [
+        {"en": "hand out leaflets", "zh": "散发传单"},
+        {"en": "an information leaflet", "zh": "说明单页"}
+      ],
+      "ex": [
+        {"en": "Volunteers handed out leaflets about saving water in the square.",
+         "zh": "志愿者在广场上散发了节水的传单。"}
+      ],
+      "note": "leaf 加 -let（小），指散页印刷品；作动词指散发传单。"
+    }
+  ]
+}

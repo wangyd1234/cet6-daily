@@ -1,0 +1,365 @@
+{
+  "day": 62,
+  "words": [
+    {
+      "word": "differentiate",
+      "phr": [
+        {"en": "differentiate between", "zh": "区分两者"},
+        {"en": "differentiate A from B", "zh": "把A与B区分开"}
+      ],
+      "ex": [
+        {"en": "Young children cannot always differentiate between fact and fantasy.",
+         "zh": "幼儿并不总能区分事实与幻想。"}
+      ],
+      "note": "differentiate 后接 between 或 from，表区分。"
+    },
+    {
+      "word": "contact",
+      "phr": [
+        {"en": "keep in contact with", "zh": "与…保持联系"},
+        {"en": "contact details", "zh": "联系方式"}
+      ],
+      "ex": [
+        {"en": "Please contact the office if your address changes.",
+         "zh": "如果你的地址有变，请联系办公室。"}
+      ],
+      "note": "contact 作动词不接 to，直接 contact sb。"
+    },
+    {
+      "word": "garment",
+      "phr": [
+        {"en": "a cotton garment", "zh": "棉质衣物"},
+        {"en": "protective garment", "zh": "防护服"}
+      ],
+      "ex": [
+        {"en": "Workers in the factory must wear protective garments at all times.",
+         "zh": "工厂工人必须始终穿着防护服。"}
+      ],
+      "note": "garment 是正式用词，指单件衣物。"
+    },
+    {
+      "word": "discharge",
+      "phr": [
+        {"en": "discharge waste into", "zh": "向…排放废物"},
+        {"en": "be discharged from hospital", "zh": "出院"}
+      ],
+      "ex": [
+        {"en": "The factory was fined for discharging waste into the river.",
+         "zh": "这家工厂因向河中排放废物被罚款。"}
+      ],
+      "note": "discharge 指排放或释放，也可指出院。"
+    },
+    {
+      "word": "exclude",
+      "phr": [
+        {"en": "exclude sb from", "zh": "把某人排除在外"},
+        {"en": "exclude the possibility", "zh": "排除可能性"}
+      ],
+      "ex": [
+        {"en": "Nobody should be excluded from the club because of their background.",
+         "zh": "不应因背景而把任何人排除在俱乐部之外。"}
+      ],
+      "note": "exclude 反义词 include，名词 exclusion。"
+    },
+    {
+      "word": "scary",
+      "phr": [
+        {"en": "a scary movie", "zh": "恐怖片"},
+        {"en": "a scary thought", "zh": "可怕的想法"}
+      ],
+      "ex": [
+        {"en": "Walking home alone at night can be scary for young people.",
+         "zh": "夜里独自步行回家对年轻人来说可能很可怕。"}
+      ],
+      "note": "scary 多用于口语，书面可用 frightening。"
+    },
+    {
+      "word": "criticism",
+      "phr": [
+        {"en": "draw criticism", "zh": "招致批评"},
+        {"en": "constructive criticism", "zh": "建设性批评"}
+      ],
+      "ex": [
+        {"en": "The plan drew sharp criticism from local residents.",
+         "zh": "该计划招致当地居民的尖锐批评。"}
+      ],
+      "note": "criticism 后接 of，动词是 criticize。"
+    },
+    {
+      "word": "enlighten",
+      "phr": [
+        {"en": "enlighten sb about sth", "zh": "使某人了解某事"},
+        {"en": "an enlightening talk", "zh": "富有启发的谈话"}
+      ],
+      "ex": [
+        {"en": "The lecture enlightened us about the causes of climate change.",
+         "zh": "这场讲座让我们了解了气候变化的成因。"}
+      ],
+      "note": "enlighten sb on/about sth 表使某人明白。"
+    },
+    {
+      "word": "utmost",
+      "phr": [
+        {"en": "of the utmost importance", "zh": "极其重要"},
+        {"en": "do one's utmost", "zh": "竭尽全力"}
+      ],
+      "ex": [
+        {"en": "Safety is of the utmost importance when working at heights.",
+         "zh": "高空作业时，安全至关重要。"}
+      ],
+      "note": "do one's utmost to do 表竭尽全力。"
+    },
+    {
+      "word": "prospective",
+      "phr": [
+        {"en": "prospective buyers", "zh": "潜在买家"},
+        {"en": "prospective students", "zh": "潜在学生"}
+      ],
+      "ex": [
+        {"en": "The house was shown to prospective buyers over the weekend.",
+         "zh": "周末带潜在买家看了这套房子。"}
+      ],
+      "note": "prospective 指未来可能的，如潜在买家。"
+    },
+    {
+      "word": "deduct",
+      "phr": [
+        {"en": "deduct sth from sth", "zh": "从…中扣除…"},
+        {"en": "deduct the cost", "zh": "扣除费用"}
+      ],
+      "ex": [
+        {"en": "A small amount is deducted from your salary each month for insurance.",
+         "zh": "每月从你工资中扣除一小笔钱用于保险。"}
+      ],
+      "note": "deduct 常搭 from；名词 deduction。"
+    },
+    {
+      "word": "plaster",
+      "phr": [
+        {"en": "a plaster cast", "zh": "石膏绷带"},
+        {"en": "put on a plaster", "zh": "贴上创可贴"}
+      ],
+      "ex": [
+        {"en": "He broke his wrist and had to wear a plaster cast for six weeks.",
+         "zh": "他手腕骨折，打了六周石膏。"}
+      ],
+      "note": "英式 plaster 指创可贴；plaster cast 是石膏。"
+    },
+    {
+      "word": "consultancy",
+      "phr": [
+        {"en": "a management consultancy", "zh": "管理咨询公司"},
+        {"en": "consultancy work", "zh": "咨询工作"}
+      ],
+      "ex": [
+        {"en": "She left the bank to join a small management consultancy.",
+         "zh": "她离开银行，加入一家小型管理咨询公司。"}
+      ],
+      "note": "consultancy 指咨询公司或服务，consultant 是顾问。"
+    },
+    {
+      "word": "metropolitan",
+      "phr": [
+        {"en": "the metropolitan area", "zh": "大都市区"},
+        {"en": "metropolitan life", "zh": "都市生活"}
+      ],
+      "ex": [
+        {"en": "House prices in the metropolitan area have risen sharply.",
+         "zh": "大都市区的房价大幅上涨。"}
+      ],
+      "note": "metropolitan 指大城市的，名词 metropolis。"
+    },
+    {
+      "word": "portray",
+      "phr": [
+        {"en": "portray sb as", "zh": "把某人描绘成"},
+        {"en": "portray a character", "zh": "扮演角色"}
+      ],
+      "ex": [
+        {"en": "The film portrays the scientist as a lonely but brilliant man.",
+         "zh": "影片把这位科学家描绘成一个孤独而杰出的人。"}
+      ],
+      "note": "portray sb as 表把某人描绘成。"
+    },
+    {
+      "word": "garbage",
+      "phr": [
+        {"en": "take out the garbage", "zh": "倒垃圾"},
+        {"en": "garbage collection", "zh": "垃圾收集"}
+      ],
+      "ex": [
+        {"en": "Someone has to take out the garbage before the truck arrives.",
+         "zh": "得有人赶在垃圾车来之前把垃圾拿出去。"}
+      ],
+      "note": "garbage 是美式用词，英式多用 rubbish。"
+    },
+    {
+      "word": "suspicious",
+      "phr": [
+        {"en": "be suspicious of", "zh": "怀疑…"},
+        {"en": "a suspicious look", "zh": "怀疑的目光"}
+      ],
+      "ex": [
+        {"en": "The guards became suspicious of the man standing by the gate.",
+         "zh": "警卫对站在门口的那个男人起了疑心。"}
+      ],
+      "note": "be suspicious of sb 表怀疑某人。"
+    },
+    {
+      "word": "scrub",
+      "phr": [
+        {"en": "scrub the floor", "zh": "擦洗地板"},
+        {"en": "scrub sth clean", "zh": "把…擦干净"}
+      ],
+      "ex": [
+        {"en": "She spent the morning scrubbing the kitchen floor by hand.",
+         "zh": "她一上午都在用手擦洗厨房地板。"}
+      ],
+      "note": "scrub 指用力刷洗，也指取消计划。"
+    },
+    {
+      "word": "complain",
+      "phr": [
+        {"en": "complain about", "zh": "抱怨…"},
+        {"en": "complain to sb", "zh": "向某人投诉"}
+      ],
+      "ex": [
+        {"en": "Several guests complained about the noise from the street.",
+         "zh": "几位客人抱怨街上的噪音。"}
+      ],
+      "note": "complain about sth；向某人投诉用 to sb。"
+    },
+    {
+      "word": "homogeneous",
+      "phr": [
+        {"en": "a homogeneous group", "zh": "同类群体"},
+        {"en": "a homogeneous mixture", "zh": "均匀混合物"}
+      ],
+      "ex": [
+        {"en": "The population of the town is small and fairly homogeneous.",
+         "zh": "这个镇的人口不多，且相当单一。"}
+      ],
+      "note": "homogeneous 反义 heterogeneous，homo 表相同。"
+    },
+    {
+      "word": "affirm",
+      "phr": [
+        {"en": "affirm the importance of", "zh": "强调…的重要性"},
+        {"en": "affirm one's support", "zh": "明确表示支持"}
+      ],
+      "ex": [
+        {"en": "The report affirms the importance of early education for children.",
+         "zh": "报告肯定了幼儿早期教育的重要性。"}
+      ],
+      "note": "affirm 指明确肯定，名词 affirmation。"
+    },
+    {
+      "word": "profound",
+      "phr": [
+        {"en": "a profound effect", "zh": "深远的影响"},
+        {"en": "a profound change", "zh": "深刻的变化"}
+      ],
+      "ex": [
+        {"en": "The invention of printing had a profound effect on European society.",
+         "zh": "印刷术的发明对欧洲社会产生了深远影响。"}
+      ],
+      "note": "profound 指影响深远或见解深刻，比 deep 正式。"
+    },
+    {
+      "word": "marble",
+      "phr": [
+        {"en": "a marble floor", "zh": "大理石地面"},
+        {"en": "play marbles", "zh": "玩弹珠"}
+      ],
+      "ex": [
+        {"en": "The hall has a marble floor and a high painted ceiling.",
+         "zh": "大厅铺着大理石地面，有高高的彩绘天花板。"}
+      ],
+      "note": "marble 作材料不可数，作弹珠可数 marbles。"
+    },
+    {
+      "word": "anxiety",
+      "phr": [
+        {"en": "suffer from anxiety", "zh": "患焦虑症"},
+        {"en": "anxiety about", "zh": "对…的焦虑"}
+      ],
+      "ex": [
+        {"en": "Many students feel anxiety about finding a job after graduation.",
+         "zh": "许多学生对毕业后找工作感到焦虑。"}
+      ],
+      "note": "anxiety 后接 about/over，形容词 anxious。"
+    },
+    {
+      "word": "adjust",
+      "phr": [
+        {"en": "adjust to", "zh": "适应"},
+        {"en": "adjust the settings", "zh": "调整设置"}
+      ],
+      "ex": [
+        {"en": "It took her a few weeks to adjust to the new climate.",
+         "zh": "她花了几周时间才适应新气候。"}
+      ],
+      "note": "adjust to sth 表适应；adjust sth 表调节。"
+    },
+    {
+      "word": "aspiration",
+      "phr": [
+        {"en": "career aspirations", "zh": "职业志向"},
+        {"en": "have aspirations to do", "zh": "有做某事的抱负"}
+      ],
+      "ex": [
+        {"en": "Her aspiration is to become a doctor in her home village.",
+         "zh": "她的志向是在家乡当一名医生。"}
+      ],
+      "note": "aspiration 常用复数表志向，后接 to do。"
+    },
+    {
+      "word": "vigorous",
+      "phr": [
+        {"en": "vigorous exercise", "zh": "剧烈运动"},
+        {"en": "a vigorous debate", "zh": "激烈的辩论"}
+      ],
+      "ex": [
+        {"en": "Doctors recommend at least thirty minutes of vigorous exercise daily.",
+         "zh": "医生建议每天至少进行三十分钟的剧烈运动。"}
+      ],
+      "note": "vigorous 指有力或精力充沛，名词 vigour。"
+    },
+    {
+      "word": "vocal",
+      "phr": [
+        {"en": "a vocal critic", "zh": "直言不讳的批评者"},
+        {"en": "vocal cords", "zh": "声带"}
+      ],
+      "ex": [
+        {"en": "She has been a vocal critic of the plan since it was announced.",
+         "zh": "该计划公布以来，她一直是直言不讳的批评者。"}
+      ],
+      "note": "vocal 也指敢于直言的；vocal cords 指声带。"
+    },
+    {
+      "word": "deem",
+      "phr": [
+        {"en": "be deemed to be", "zh": "被认为…"},
+        {"en": "deem it necessary", "zh": "认为有必要"}
+      ],
+      "ex": [
+        {"en": "The building was deemed unsafe and closed to the public.",
+         "zh": "该建筑被认为不安全，已对公众关闭。"}
+      ],
+      "note": "deem 是正式用词，常用 deem sth + adj.。"
+    },
+    {
+      "word": "origin",
+      "phr": [
+        {"en": "the origin of", "zh": "…的起源"},
+        {"en": "of humble origin", "zh": "出身卑微"}
+      ],
+      "ex": [
+        {"en": "The book traces the origin of the ancient festival.",
+         "zh": "这本书追溯了这个古老节日的起源。"}
+      ],
+      "note": "origin 常与 of 连用；original 指最初的。"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "day": 24,
+  "words": [
+    {
+      "word": "confusion",
+      "phr": [
+        {"en": "in confusion", "zh": "困惑地；混乱中"},
+        {"en": "cause confusion", "zh": "引起混乱"}
+      ],
+      "ex": [
+        {"en": "The sudden change of rules caused great confusion among the staff.",
+         "zh": "规则的突然改变在员工中引起了极大困惑。"}
+      ],
+      "note": "confuse 是动词，confusing 令人困惑，confused 感到困惑。"
+    },
+    {
+      "word": "distract",
+      "phr": [
+        {"en": "distract sb from sth", "zh": "使某人分心"},
+        {"en": "distract attention", "zh": "转移注意力"}
+      ],
+      "ex": [
+        {"en": "Loud music can distract students from their homework.",
+         "zh": "吵闹的音乐会使学生无法专心做作业。"}
+      ],
+      "note": "常用 distract sb from (doing) sth，介词 from 不能省。"
+    },
+    {
+      "word": "hinge",
+      "phr": [
+        {"en": "hinge on", "zh": "取决于"},
+        {"en": "a door hinge", "zh": "门的铰链"}
+      ],
+      "ex": [
+        {"en": "The whole plan hinges on whether the bank agrees to lend the money.",
+         "zh": "整个计划取决于银行是否同意贷款。"}
+      ],
+      "note": "hinge on 意为「取决于」，比 depend on 更书面。"
+    },
+    {
+      "word": "virtual",
+      "phr": [
+        {"en": "virtual reality", "zh": "虚拟现实"},
+        {"en": "a virtual necessity", "zh": "几乎是必需品"}
+      ],
+      "ex": [
+        {"en": "A smartphone has become a virtual necessity for most young people.",
+         "zh": "对多数年轻人来说，智能手机几乎成了必需品。"}
+      ],
+      "note": "virtual 除「虚拟的」外还表「实际上的」，语气比 actual 弱。"
+    },
+    {
+      "word": "squeeze",
+      "phr": [
+        {"en": "squeeze out", "zh": "挤出；排挤"},
+        {"en": "squeeze through", "zh": "勉强挤过去"}
+      ],
+      "ex": [
+        {"en": "She squeezed through the crowd to reach the exit.",
+         "zh": "她挤过人群才走到出口。"}
+      ],
+      "note": "squeeze 也常用 squeeze sth out of sb，意为「从某人处榨取」。"
+    },
+    {
+      "word": "blank",
+      "phr": [
+        {"en": "fill in the blanks", "zh": "填空"},
+        {"en": "a blank look", "zh": "茫然的表情"}
+      ],
+      "ex": [
+        {"en": "He gave me a blank look when I asked about the report.",
+         "zh": "我问起那份报告时，他一脸茫然。"}
+      ],
+      "note": "blank 指「空白的、茫然的」；blanket 是「毯子」，注意区分。"
+    },
+    {
+      "word": "additional",
+      "phr": [
+        {"en": "additional costs", "zh": "额外费用"},
+        {"en": "additional information", "zh": "补充信息"}
+      ],
+      "ex": [
+        {"en": "The airline charges additional fees for extra luggage.",
+         "zh": "航空公司对额外行李收取附加费用。"}
+      ],
+      "note": "additional 通常只作定语，放在名词之前，如 additional costs。"
+    },
+    {
+      "word": "worthy",
+      "phr": [
+        {"en": "worthy of", "zh": "值得…的"},
+        {"en": "a worthy cause", "zh": "崇高的事业"}
+      ],
+      "ex": [
+        {"en": "Her efforts to help the poor are worthy of respect.",
+         "zh": "她帮助穷人的努力值得尊敬。"}
+      ],
+      "note": "be worthy of 接名词；worth 后接动名词，如 worth doing。"
+    },
+    {
+      "word": "primarily",
+      "phr": [
+        {"en": "primarily because", "zh": "主要是因为"},
+        {"en": "be primarily responsible", "zh": "负主要责任"}
+      ],
+      "ex": [
+        {"en": "The delay was primarily caused by the heavy snow.",
+         "zh": "延误主要是由大雪造成的。"}
+      ],
+      "note": "primarily 来自 primary，强调「首要地」，多修饰原因或责任。"
+    },
+    {
+      "word": "telecommunications",
+      "phr": [
+        {"en": "the telecommunications industry", "zh": "电信业"},
+        {"en": "a telecommunications network", "zh": "电信网络"}
+      ],
+      "ex": [
+        {"en": "The telecommunications industry has changed enormously over the past decade.",
+         "zh": "过去十年电信业发生了巨大变化。"}
+      ],
+      "note": "该词恒为复数形式，常作定语修饰 industry、network 等。"
+    },
+    {
+      "word": "ferry",
+      "phr": [
+        {"en": "take a ferry", "zh": "乘渡船"},
+        {"en": "ferry passengers", "zh": "运送乘客"}
+      ],
+      "ex": [
+        {"en": "We took a ferry across the river to visit the old town.",
+         "zh": "我们乘渡船过河去参观老城。"}
+      ],
+      "note": "ferry 作名词指「渡船」，作动词指「渡运、运送」。"
+    },
+    {
+      "word": "ignore",
+      "phr": [
+        {"en": "ignore the warning", "zh": "无视警告"},
+        {"en": "ignore sb's advice", "zh": "不理会某人的建议"}
+      ],
+      "ex": [
+        {"en": "He ignored the doctor's advice and kept working late.",
+         "zh": "他不听医生的劝告，仍旧熬夜工作。"}
+      ],
+      "note": "ignore 是故意「不理」；neglect 是「疏忽、未照料」，二者勿混。"
+    },
+    {
+      "word": "hemisphere",
+      "phr": [
+        {"en": "the Northern Hemisphere", "zh": "北半球"},
+        {"en": "the left hemisphere", "zh": "左脑半球"}
+      ],
+      "ex": [
+        {"en": "The Northern Hemisphere gets more sunlight during the summer months.",
+         "zh": "夏季北半球获得的阳光更多。"}
+      ],
+      "note": "hemi-(半)+sphere(球) 构成；left hemisphere 指左脑。"
+    },
+    {
+      "word": "reception",
+      "phr": [
+        {"en": "a warm reception", "zh": "热情的接待"},
+        {"en": "the reception desk", "zh": "前台"}
+      ],
+      "ex": [
+        {"en": "The new novel received a warm reception from the critics.",
+         "zh": "这部新小说受到评论家的好评。"}
+      ],
+      "note": "reception 指接待、反响或接收效果；receipt 是「收据」。"
+    },
+    {
+      "word": "applaud",
+      "phr": [
+        {"en": "applaud sb for sth", "zh": "因某事称赞某人"},
+        {"en": "applaud the decision", "zh": "赞成这一决定"}
+      ],
+      "ex": [
+        {"en": "The audience applauded loudly at the end of the concert.",
+         "zh": "音乐会结束时观众热烈鼓掌。"}
+      ],
+      "note": "applaud 除「鼓掌」外，还表「称赞、赞成」，后者更正式。"
+    },
+    {
+      "word": "outward",
+      "phr": [
+        {"en": "outward appearance", "zh": "外表"},
+        {"en": "an outward journey", "zh": "去程；外出旅程"}
+      ],
+      "ex": [
+        {"en": "Despite his calm outward appearance, he was extremely nervous.",
+         "zh": "尽管外表平静，他内心非常紧张。"}
+      ],
+      "note": "outward 是形容词「外表的」；outwards 是副词「向外」。"
+    },
+    {
+      "word": "lunar",
+      "phr": [
+        {"en": "the lunar calendar", "zh": "农历"},
+        {"en": "a lunar eclipse", "zh": "月食"}
+      ],
+      "ex": [
+        {"en": "Many traditional festivals in China follow the lunar calendar.",
+         "zh": "中国许多传统节日按农历计算。"}
+      ],
+      "note": "lunar 源于 luna(月亮)；solar 意为「太阳的」，二者对照记忆。"
+    },
+    {
+      "word": "poetry",
+      "phr": [
+        {"en": "write poetry", "zh": "写诗"},
+        {"en": "classical poetry", "zh": "古典诗歌"}
+      ],
+      "ex": [
+        {"en": "She has been writing poetry since she was a child.",
+         "zh": "她从小就写诗。"}
+      ],
+      "note": "poetry 是不可数名词，统称「诗歌」；一首诗要说 a poem。"
+    },
+    {
+      "word": "jury",
+      "phr": [
+        {"en": "serve on a jury", "zh": "担任陪审员"},
+        {"en": "the jury's verdict", "zh": "陪审团的裁决"}
+      ],
+      "ex": [
+        {"en": "The jury found the defendant not guilty after two hours of discussion.",
+         "zh": "经过两小时讨论，陪审团裁定被告无罪。"}
+      ],
+      "note": "jury 是集体名词，英式英语中谓语动词常用复数。"
+    },
+    {
+      "word": "arrogant",
+      "phr": [
+        {"en": "an arrogant attitude", "zh": "傲慢的态度"},
+        {"en": "arrogant behaviour", "zh": "傲慢的行为"}
+      ],
+      "ex": [
+        {"en": "His arrogant attitude made it hard for colleagues to work with him.",
+         "zh": "他傲慢的态度让同事很难与他合作。"}
+      ],
+      "note": "arrogant 含贬义；proud 可褒可贬，要看具体语境。"
+    },
+    {
+      "word": "idiot",
+      "phr": [
+        {"en": "act like an idiot", "zh": "表现得像个傻子"},
+        {"en": "feel like an idiot", "zh": "觉得自己像个傻瓜"}
+      ],
+      "ex": [
+        {"en": "I felt like an idiot when I realized I had dialled the wrong number.",
+         "zh": "发现自己拨错号码时，我觉得自己像个傻瓜。"}
+      ],
+      "note": "idiot 是可数名词，指「傻瓜」；别与 idiom(习语) 混淆。"
+    },
+    {
+      "word": "relay",
+      "phr": [
+        {"en": "a relay race", "zh": "接力赛"},
+        {"en": "relay information", "zh": "传递信息"}
+      ],
+      "ex": [
+        {"en": "She ran the last leg of the relay race and won the gold medal.",
+         "zh": "她跑接力赛最后一棒，赢得了金牌。"}
+      ],
+      "note": "作名词时重音在前 /ˈriːleɪ/；作动词时常读 /rɪˈleɪ/。"
+    },
+    {
+      "word": "priest",
+      "phr": [
+        {"en": "a Catholic priest", "zh": "天主教神父"},
+        {"en": "a parish priest", "zh": "堂区神父"}
+      ],
+      "ex": [
+        {"en": "The old priest has served the village church for thirty years.",
+         "zh": "这位老神父在村里教堂服务了三十年。"}
+      ],
+      "note": "priest 多指天主教神父；新教牧师常用 minister 或 pastor。"
+    },
+    {
+      "word": "monitor",
+      "phr": [
+        {"en": "monitor progress", "zh": "监测进展"},
+        {"en": "a heart monitor", "zh": "心脏监护仪"}
+      ],
+      "ex": [
+        {"en": "Doctors monitored her heart rate closely after the operation.",
+         "zh": "手术后医生密切监测她的心率。"}
+      ],
+      "note": "monitor 作名词指班长、显示器、监测器；作动词指「监测」。"
+    },
+    {
+      "word": "solo",
+      "phr": [
+        {"en": "fly solo", "zh": "单飞；独自行动"},
+        {"en": "a solo performance", "zh": "独奏（唱）表演"}
+      ],
+      "ex": [
+        {"en": "She gave her first solo performance at the age of ten.",
+         "zh": "她十岁时第一次独奏演出。"}
+      ],
+      "note": "solo 可作形容词、副词和名词；soloist 指独唱或独奏者。"
+    },
+    {
+      "word": "tuition",
+      "phr": [
+        {"en": "tuition fees", "zh": "学费"},
+        {"en": "private tuition", "zh": "私人辅导"}
+      ],
+      "ex": [
+        {"en": "Many families struggle to pay the rising university tuition.",
+         "zh": "许多家庭难以负担不断上涨的大学学费。"}
+      ],
+      "note": "美式英语中 tuition 多指「学费」，英式常指「辅导、教学」。"
+    },
+    {
+      "word": "permeate",
+      "phr": [
+        {"en": "permeate through", "zh": "渗透；弥漫"},
+        {"en": "permeate society", "zh": "渗入社会"}
+      ],
+      "ex": [
+        {"en": "A sense of hope permeated the whole community after the election.",
+         "zh": "选举之后，一种希望感弥漫整个社区。"}
+      ],
+      "note": "permeate 多用于气味、情感等抽象事物，表「弥漫、渗透」。"
+    },
+    {
+      "word": "utopian",
+      "phr": [
+        {"en": "a utopian ideal", "zh": "乌托邦式的理想"},
+        {"en": "a utopian vision", "zh": "空想的愿景"}
+      ],
+      "ex": [
+        {"en": "The plan to end all poverty was dismissed as a utopian dream.",
+         "zh": "消除一切贫困的计划被视为空想。"}
+      ],
+      "note": "utopian 源自 Utopia(乌托邦)，常含「不切实际」的意味。"
+    },
+    {
+      "word": "schedule",
+      "phr": [
+        {"en": "on schedule", "zh": "按计划；准时"},
+        {"en": "a tight schedule", "zh": "紧凑的日程"}
+      ],
+      "ex": [
+        {"en": "The train left on schedule despite the heavy rain.",
+         "zh": "尽管下着大雨，火车仍准时开出了。"}
+      ],
+      "note": "on schedule 是固定搭配；behind schedule 表延后。"
+    },
+    {
+      "word": "tame",
+      "phr": [
+        {"en": "a tame animal", "zh": "驯服的动物"},
+        {"en": "tame a horse", "zh": "驯马"}
+      ],
+      "ex": [
+        {"en": "It took him several months to tame the young horse.",
+         "zh": "他花了几个月才驯服那匹小马。"}
+      ],
+      "note": "tame 作动词指「驯服」，也可引申为「控制、驾驭」。"
+    }
+  ]
+}

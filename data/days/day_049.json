@@ -1,0 +1,246 @@
+{
+ "day": 49,
+ "date": null,
+ "words": [
+  {
+   "id": 1441,
+   "word": "manifest",
+   "uk": "/ˈmænɪfest/",
+   "us": "/ˈmænɪfɛst/",
+   "pos": "adj.,vt.",
+   "cn": "明显的；显然的；明了的；显示；表明；证明；使显现；使显露"
+  },
+  {
+   "id": 1442,
+   "word": "blunt",
+   "uk": "/blʌnt/",
+   "us": "",
+   "pos": "adj.,vt.",
+   "cn": "钝的；率直的；直言不讳的；使迟钝；使减弱；使钝"
+  },
+  {
+   "id": 1443,
+   "word": "endeavor",
+   "uk": "/ɪnˈdevə/",
+   "us": "/ɪnˈdɛvɚ/",
+   "pos": "n.,vi.",
+   "cn": "努力；尽力；尝试"
+  },
+  {
+   "id": 1444,
+   "word": "relieve",
+   "uk": "/rɪˈliːv/",
+   "us": "/rɪˈliv/",
+   "pos": "vt.",
+   "cn": "使轻松；使宽慰；缓解；减轻；解除；使得到调剂；接替；替下"
+  },
+  {
+   "id": 1445,
+   "word": "quartz",
+   "uk": "/kwɔːts/",
+   "us": "/kwɔrts/",
+   "pos": "n.",
+   "cn": "石英"
+  },
+  {
+   "id": 1446,
+   "word": "air-conditioning",
+   "uk": "/ˈeəkənˌdɪʃənɪŋ/",
+   "us": "/ˈeəkən,diʃθniŋ/",
+   "pos": "n.",
+   "cn": "空调设备；空调系统"
+  },
+  {
+   "id": 1447,
+   "word": "adjacent",
+   "uk": "/əˈdʒeɪsnt/",
+   "us": "/əˈdʒesnt/",
+   "pos": "adj.",
+   "cn": "邻近的；毗连的"
+  },
+  {
+   "id": 1448,
+   "word": "employment",
+   "uk": "/ɪmˈplɔɪmənt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "工作；雇用；使用"
+  },
+  {
+   "id": 1449,
+   "word": "transport",
+   "uk": "/trænˈspɔːt/",
+   "us": "/ˈtrænspɔrt/",
+   "pos": "vt.,n.",
+   "cn": "运输；运输；运输工具"
+  },
+  {
+   "id": 1450,
+   "word": "specific",
+   "uk": "/spəˈsɪfɪk/",
+   "us": "/spɪˈsɪfɪk/",
+   "pos": "adj.,n.",
+   "cn": "特有的；明确的；具体的；详情；细节"
+  },
+  {
+   "id": 1451,
+   "word": "analogy",
+   "uk": "/əˈnælədʒi/",
+   "us": "",
+   "pos": "n.",
+   "cn": "比拟；类比；类推"
+  },
+  {
+   "id": 1452,
+   "word": "application",
+   "uk": "/ˌæplɪˈkeɪʃn/",
+   "us": "/ˌæpləˈkeʃən/",
+   "pos": "n.",
+   "cn": "申请；申请书；施用；涂抹；应用；实施；实用性"
+  },
+  {
+   "id": 1453,
+   "word": "productive",
+   "uk": "/prəˈdʌktɪv/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "多产的；富饶的；富有成效的"
+  },
+  {
+   "id": 1454,
+   "word": "prune",
+   "uk": "/pruːn/",
+   "us": "/prun/",
+   "pos": "vt.",
+   "cn": "修剪；修整；删除；削减"
+  },
+  {
+   "id": 1455,
+   "word": "engage",
+   "uk": "/ɪnˈgeɪdʒ/",
+   "us": "/ɪnˈɡedʒ/",
+   "pos": "vt.",
+   "cn": "使从事于；聘用；吸引；占用；使订婚"
+  },
+  {
+   "id": 1456,
+   "word": "chord",
+   "uk": "/kɔːd/",
+   "us": "/kɔrd/",
+   "pos": "n.",
+   "cn": "和弦；和音；弦；心弦"
+  },
+  {
+   "id": 1457,
+   "word": "semester",
+   "uk": "/sɪˈmestə/",
+   "us": "/səˈmɛstɚ/",
+   "pos": "n.",
+   "cn": "学期"
+  },
+  {
+   "id": 1458,
+   "word": "strategy",
+   "uk": "/ˈstrætədʒi/",
+   "us": "",
+   "pos": "n.",
+   "cn": "战略；策略"
+  },
+  {
+   "id": 1459,
+   "word": "remainder",
+   "uk": "/rɪˈmeɪndə/",
+   "us": "/rɪˈmendɚ/",
+   "pos": "n.",
+   "cn": "余下的部分；剩下的人数"
+  },
+  {
+   "id": 1460,
+   "word": "hypothesis",
+   "uk": "/haɪˈpɒθəsɪs/",
+   "us": "/haɪˈpɑθəsɪs/",
+   "pos": "n.",
+   "cn": "假设；假说；前提"
+  },
+  {
+   "id": 1461,
+   "word": "revolve",
+   "uk": "/rɪˈvɒlv/",
+   "us": "/rɪˈvɔlv/",
+   "pos": "vi.",
+   "cn": "旋转"
+  },
+  {
+   "id": 1462,
+   "word": "collapse",
+   "uk": "/kəˈlæps/",
+   "us": "",
+   "pos": "vi.,n.",
+   "cn": "倒坍；瓦解；崩溃；突然失败"
+  },
+  {
+   "id": 1463,
+   "word": "territory",
+   "uk": "/ˈterətri/",
+   "us": "/ˈtɛrətɔri/",
+   "pos": "n.",
+   "cn": "领土；版图；领域"
+  },
+  {
+   "id": 1464,
+   "word": "summon",
+   "uk": "/ˈsʌmən/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "召唤；传唤；鼓起；振作；召集；召开"
+  },
+  {
+   "id": 1465,
+   "word": "flare",
+   "uk": "/fleə/",
+   "us": "/flɛr/",
+   "pos": "vi.,n.",
+   "cn": "闪耀；烧旺；突发；突然发怒；闪光信号；照明弹"
+  },
+  {
+   "id": 1466,
+   "word": "accurate",
+   "uk": "/ˈækjərət/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "准确的；正确无误的"
+  },
+  {
+   "id": 1467,
+   "word": "legend",
+   "uk": "/ˈledʒənd/",
+   "us": "/ˈlɛdʒənd/",
+   "pos": "n.",
+   "cn": "传说；传奇故事；传奇人物"
+  },
+  {
+   "id": 1468,
+   "word": "maintain",
+   "uk": "/meɪnˈteɪn/",
+   "us": "/menˈten/",
+   "pos": "vt.",
+   "cn": "维持；维修；保养；主张；赡养"
+  },
+  {
+   "id": 1469,
+   "word": "expertise",
+   "uk": "/ˌekspɜːˈtiːz/",
+   "us": "/ˈɛkspɝˈtiz/",
+   "pos": "n.",
+   "cn": "专门知识；专长"
+  },
+  {
+   "id": 1470,
+   "word": "bargain",
+   "uk": "/ˈbɑːgən/",
+   "us": "/ˈbɑrɡɪn/",
+   "pos": "vi.,n.",
+   "cn": "讨价还价；特价商品；协议；交易"
+  }
+ ]
+}

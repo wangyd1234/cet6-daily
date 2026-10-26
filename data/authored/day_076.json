@@ -1,0 +1,365 @@
+{
+  "day": 76,
+  "words": [
+    {
+      "word": "contrive",
+      "phr": [
+        {"en": "contrive to do sth", "zh": "设法做到"},
+        {"en": "contrive a plan", "zh": "设计计划"}
+      ],
+      "ex": [
+        {"en": "Somehow she contrived to finish the report before the deadline.",
+         "zh": "她不知怎么设法在截止前完成了报告。"}
+      ],
+      "note": "常接 to do，含费力设法之意；也可指策划、设计。"
+    },
+    {
+      "word": "inhabitant",
+      "phr": [
+        {"en": "local inhabitants", "zh": "当地居民"},
+        {"en": "the inhabitants of the island", "zh": "岛上居民"}
+      ],
+      "ex": [
+        {"en": "The island has only a few hundred permanent inhabitants.",
+         "zh": "这个岛只有几百名常住居民。"}
+      ],
+      "note": "由 inhabit 加 -ant 构成；搭配 inhabitant of。"
+    },
+    {
+      "word": "fraction",
+      "phr": [
+        {"en": "a fraction of", "zh": "一小部分"},
+        {"en": "a fraction of a second", "zh": "一瞬间"}
+      ],
+      "ex": [
+        {"en": "Only a small fraction of the students passed the final test.",
+         "zh": "只有一小部分学生通过了期末考试。"}
+      ],
+      "note": "表小部分用 a fraction of；数学中表分数。"
+    },
+    {
+      "word": "token",
+      "phr": [
+        {"en": "a token of thanks", "zh": "表示谢意的心意"},
+        {"en": "by the same token", "zh": "同样地"}
+      ],
+      "ex": [
+        {"en": "He gave her flowers as a token of his appreciation.",
+         "zh": "他送她鲜花以表谢意。"}
+      ],
+      "note": "a token of sth 指…的象征；by the same token 表同理。"
+    },
+    {
+      "word": "emotion",
+      "phr": [
+        {"en": "control one's emotions", "zh": "控制情绪"},
+        {"en": "with emotion", "zh": "激动地"}
+      ],
+      "ex": [
+        {"en": "She spoke with great emotion about her years in the village.",
+         "zh": "她满怀感情地谈起在村里的那些年。"}
+      ],
+      "note": "可数不可数皆可；with emotion 指带着感情。"
+    },
+    {
+      "word": "massive",
+      "phr": [
+        {"en": "a massive increase", "zh": "大幅增长"},
+        {"en": "massive support", "zh": "大力支持"}
+      ],
+      "ex": [
+        {"en": "The campaign attracted massive support from young voters.",
+         "zh": "这项运动得到了年轻选民的大力支持。"}
+      ],
+      "note": "语气比 big 强，表巨大；副词 massively。"
+    },
+    {
+      "word": "assess",
+      "phr": [
+        {"en": "assess the damage", "zh": "评估损失"},
+        {"en": "assess the risk", "zh": "评估风险"}
+      ],
+      "ex": [
+        {"en": "Officials are still trying to assess the damage caused by the flood.",
+         "zh": "官员们仍在设法评估洪水造成的损失。"}
+      ],
+      "note": "名词 assessment；强调评估价值或程度。"
+    },
+    {
+      "word": "mingle",
+      "phr": [
+        {"en": "mingle with the crowd", "zh": "混在人群中"},
+        {"en": "mingle with the guests", "zh": "与宾客交谈"}
+      ],
+      "ex": [
+        {"en": "At the school party the students mingle with guests from several countries.",
+         "zh": "在学校聚会上，学生们与几个国家的宾客交谈。"}
+      ],
+      "note": "常与 with 连用，指混合或与人交往。"
+    },
+    {
+      "word": "prescription",
+      "phr": [
+        {"en": "write out a prescription", "zh": "开处方"},
+        {"en": "prescription drugs", "zh": "处方药"}
+      ],
+      "ex": [
+        {"en": "The doctor wrote out a prescription for painkillers.",
+         "zh": "医生开了一张止痛药处方。"}
+      ],
+      "note": "动词 prescribe 指开药；prescription drugs 指处方药。"
+    },
+    {
+      "word": "spectator",
+      "phr": [
+        {"en": "a crowd of spectators", "zh": "一群观众"},
+        {"en": "spectator sport", "zh": "观赏性运动"}
+      ],
+      "ex": [
+        {"en": "Thousands of spectators watched the race from the side of the road.",
+         "zh": "数千名观众在路边观看比赛。"}
+      ],
+      "note": "指看比赛的观众；spectator sport 指观赏性运动。"
+    },
+    {
+      "word": "edible",
+      "phr": [
+        {"en": "edible mushrooms", "zh": "可食用的蘑菇"},
+        {"en": "edible oil", "zh": "食用油"}
+      ],
+      "ex": [
+        {"en": "Not all the berries in the forest are edible, so be careful.",
+         "zh": "森林里并非所有浆果都能吃，所以要小心。"}
+      ],
+      "note": "反义 inedible；只表能吃，不表好吃。"
+    },
+    {
+      "word": "prone",
+      "phr": [
+        {"en": "be prone to", "zh": "易于…"},
+        {"en": "be prone to error", "zh": "容易出错"}
+      ],
+      "ex": [
+        {"en": "Children are more prone to colds in winter than in summer.",
+         "zh": "孩子在冬天比夏天更容易感冒。"}
+      ],
+      "note": "be prone to sth；另义俯卧的，如 lie prone。"
+    },
+    {
+      "word": "chorus",
+      "phr": [
+        {"en": "a chorus of", "zh": "齐声的…"},
+        {"en": "in chorus", "zh": "齐声地"}
+      ],
+      "ex": [
+        {"en": "The whole class answered in chorus when the teacher asked.",
+         "zh": "老师提问时全班齐声回答。"}
+      ],
+      "note": "in chorus 表齐声；指副歌也用 chorus。"
+    },
+    {
+      "word": "owe",
+      "phr": [
+        {"en": "owe sth to sb", "zh": "把…归功于某人"},
+        {"en": "owe sb an apology", "zh": "应向某人道歉"}
+      ],
+      "ex": [
+        {"en": "I owe my success to the support of my family.",
+         "zh": "我把成功归功于家人的支持。"}
+      ],
+      "note": "owe sth to sb；既指欠钱也指归功于。"
+    },
+    {
+      "word": "asset",
+      "phr": [
+        {"en": "a valuable asset", "zh": "宝贵的财富"},
+        {"en": "fixed assets", "zh": "固定资产"}
+      ],
+      "ex": [
+        {"en": "Her experience abroad is a valuable asset to the company.",
+         "zh": "她的海外经验是公司的宝贵财富。"}
+      ],
+      "note": "多用于褒义，指有价值的人或物；fixed assets。"
+    },
+    {
+      "word": "exposition",
+      "phr": [
+        {"en": "a clear exposition of the theory", "zh": "对理论的清晰阐述"},
+        {"en": "an international exposition", "zh": "国际博览会"}
+      ],
+      "ex": [
+        {"en": "The book opens with a clear exposition of the main theory.",
+         "zh": "这本书开头清晰地阐述了主要理论。"}
+      ],
+      "note": "指详细阐述；也可指博览会，如 world exposition。"
+    },
+    {
+      "word": "minimum",
+      "phr": [
+        {"en": "the minimum wage", "zh": "最低工资"},
+        {"en": "keep sth to a minimum", "zh": "使…保持在最低限度"}
+      ],
+      "ex": [
+        {"en": "The company raised the minimum wage for new workers.",
+         "zh": "公司提高了新员工的最低工资。"}
+      ],
+      "note": "反义 maximum；keep to a minimum 表尽量减少。"
+    },
+    {
+      "word": "apology",
+      "phr": [
+        {"en": "make an apology", "zh": "道歉"},
+        {"en": "a letter of apology", "zh": "道歉信"}
+      ],
+      "ex": [
+        {"en": "He made a public apology for his rude remarks.",
+         "zh": "他为自己粗鲁的言论公开道歉。"}
+      ],
+      "note": "动词 apologise；apology for sth 指为某事道歉。"
+    },
+    {
+      "word": "reveal",
+      "phr": [
+        {"en": "reveal the truth", "zh": "揭露真相"},
+        {"en": "reveal a secret", "zh": "泄露秘密"}
+      ],
+      "ex": [
+        {"en": "The survey revealed that most workers were unhappy with their pay.",
+         "zh": "调查显示大多数工人对自己的工资不满。"}
+      ],
+      "note": "可接 that 从句；名词 revelation 指揭露。"
+    },
+    {
+      "word": "adequate",
+      "phr": [
+        {"en": "adequate for", "zh": "足以…"},
+        {"en": "adequate supply", "zh": "充足的供应"}
+      ],
+      "ex": [
+        {"en": "The room was small but adequate for a short stay.",
+         "zh": "房间不大，但短暂停留足够用了。"}
+      ],
+      "note": "表足够、可胜任，比 enough 正式。"
+    },
+    {
+      "word": "owl",
+      "phr": [
+        {"en": "a night owl", "zh": "夜猫子"},
+        {"en": "as wise as an owl", "zh": "像猫头鹰一样聪明"}
+      ],
+      "ex": [
+        {"en": "He is a night owl and rarely goes to bed before two.",
+         "zh": "他是个夜猫子，很少两点前睡觉。"}
+      ],
+      "note": "night owl 指熬夜的人；猫头鹰在西方象征智慧。"
+    },
+    {
+      "word": "cork",
+      "phr": [
+        {"en": "a cork mat", "zh": "软木垫"},
+        {"en": "pull out the cork", "zh": "拔出瓶塞"}
+      ],
+      "ex": [
+        {"en": "He pulled the cork out of the bottle and poured the wine.",
+         "zh": "他拔出瓶塞，倒出葡萄酒。"}
+      ],
+      "note": "指软木或瓶塞；作动词指用瓶塞塞住。"
+    },
+    {
+      "word": "tremendous",
+      "phr": [
+        {"en": "tremendous pressure", "zh": "巨大压力"},
+        {"en": "a tremendous amount of", "zh": "大量的"}
+      ],
+      "ex": [
+        {"en": "The team worked under tremendous pressure to meet the deadline.",
+         "zh": "团队在巨大压力下工作以按时完成。"}
+      ],
+      "note": "语气比 great 强；副词 tremendously。"
+    },
+    {
+      "word": "norm",
+      "phr": [
+        {"en": "become the norm", "zh": "成为常态"},
+        {"en": "social norms", "zh": "社会规范"}
+      ],
+      "ex": [
+        {"en": "Working from home has become the norm in many companies.",
+         "zh": "居家办公在许多公司已成为常态。"}
+      ],
+      "note": "表常态常用 the norm；复数 norms 指规范。"
+    },
+    {
+      "word": "condense",
+      "phr": [
+        {"en": "condense sth into", "zh": "把…压缩成"},
+        {"en": "condensed milk", "zh": "炼乳"}
+      ],
+      "ex": [
+        {"en": "She managed to condense the whole report into two pages.",
+         "zh": "她成功地把整份报告压缩成了两页。"}
+      ],
+      "note": "指压缩文字或使冷凝；condensed milk 是炼乳。"
+    },
+    {
+      "word": "impetus",
+      "phr": [
+        {"en": "give impetus to", "zh": "推动；促进"},
+        {"en": "the impetus for change", "zh": "变革的动力"}
+      ],
+      "ex": [
+        {"en": "The report gave fresh impetus to the debate on climate policy.",
+         "zh": "这份报告为气候政策辩论注入了新动力。"}
+      ],
+      "note": "常用 give impetus to sth，或 the impetus for。"
+    },
+    {
+      "word": "indignation",
+      "phr": [
+        {"en": "express indignation", "zh": "表示愤慨"},
+        {"en": "righteous indignation", "zh": "义愤"}
+      ],
+      "ex": [
+        {"en": "The decision to close the library caused great indignation among residents.",
+         "zh": "关闭图书馆的决定引起了居民的极大愤慨。"}
+      ],
+      "note": "比 anger 正式，指因不公而生的义愤。"
+    },
+    {
+      "word": "barrier",
+      "phr": [
+        {"en": "a barrier to", "zh": "…的障碍"},
+        {"en": "break down barriers", "zh": "消除隔阂"}
+      ],
+      "ex": [
+        {"en": "Language can be a serious barrier to communication at work.",
+         "zh": "在工作中，语言可能成为沟通的严重障碍。"}
+      ],
+      "note": "搭配 barrier to sth；break down barriers 指消除隔阂。"
+    },
+    {
+      "word": "realistic",
+      "phr": [
+        {"en": "a realistic goal", "zh": "现实可行的目标"},
+        {"en": "be realistic about", "zh": "对…抱现实态度"}
+      ],
+      "ex": [
+        {"en": "We need to set realistic goals for the coming year.",
+         "zh": "我们需要为来年设定现实可行的目标。"}
+      ],
+      "note": "指现实可行或逼真；反义 unrealistic。"
+    },
+    {
+      "word": "divert",
+      "phr": [
+        {"en": "divert attention from", "zh": "转移对…的注意"},
+        {"en": "divert traffic", "zh": "疏导交通"}
+      ],
+      "ex": [
+        {"en": "The police diverted traffic away from the flooded road.",
+         "zh": "警察把车辆从被淹的道路上引开。"}
+      ],
+      "note": "指改道或转移注意力；divert attention from。"
+    }
+  ]
+}

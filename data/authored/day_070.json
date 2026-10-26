@@ -1,0 +1,365 @@
+{
+  "day": 70,
+  "words": [
+    {
+      "word": "hike",
+      "phr": [
+        {"en": "go hiking", "zh": "去徒步"},
+        {"en": "a price hike", "zh": "涨价"}
+      ],
+      "ex": [
+        {"en": "We plan to hike up the mountain early tomorrow morning.",
+         "zh": "我们打算明天清早上山徒步。"}
+      ],
+      "note": "hike 作名词可指徒步，也可指价格上调，如 a price hike。"
+    },
+    {
+      "word": "ancient",
+      "phr": [
+        {"en": "ancient times", "zh": "古代"},
+        {"en": "ancient civilization", "zh": "古代文明"}
+      ],
+      "ex": [
+        {"en": "The museum displays pottery from an ancient civilization in the region.",
+         "zh": "博物馆展出了该地区一个古代文明的陶器。"}
+      ],
+      "note": "ancient 多作定语，修饰历史久远的事物。"
+    },
+    {
+      "word": "mission",
+      "phr": [
+        {"en": "on a mission", "zh": "执行任务"},
+        {"en": "a rescue mission", "zh": "救援任务"}
+      ],
+      "ex": [
+        {"en": "The team was sent on a mission to rescue the trapped climbers.",
+         "zh": "这支队伍被派去执行营救被困登山者的任务。"}
+      ],
+      "note": "mission 指使命、任务；on a mission 表正在执行任务。"
+    },
+    {
+      "word": "cognitive",
+      "phr": [
+        {"en": "cognitive skills", "zh": "认知能力"},
+        {"en": "cognitive science", "zh": "认知科学"}
+      ],
+      "ex": [
+        {"en": "Reading aloud helps children develop their cognitive skills.",
+         "zh": "朗读有助于儿童发展认知能力。"}
+      ],
+      "note": "来自拉丁语 cognoscere（认识），常修饰 skills、process。"
+    },
+    {
+      "word": "adopt",
+      "phr": [
+        {"en": "adopt a child", "zh": "收养孩子"},
+        {"en": "adopt a policy", "zh": "采取政策"}
+      ],
+      "ex": [
+        {"en": "The council adopted a new policy on waste sorting last month.",
+         "zh": "议会上个月通过了一项垃圾分类新政策。"}
+      ],
+      "note": "adopt 是采用、收养；adapt 是适应、改编，勿混。"
+    },
+    {
+      "word": "expire",
+      "phr": [
+        {"en": "expire next month", "zh": "下月到期"},
+        {"en": "an expired passport", "zh": "过期的护照"}
+      ],
+      "ex": [
+        {"en": "My passport will expire next March, so I need to renew it.",
+         "zh": "我的护照明年三月到期，所以我需要续办。"}
+      ],
+      "note": "指期限终止，多用于证件、合同、会员资格。"
+    },
+    {
+      "word": "smuggle",
+      "phr": [
+        {"en": "smuggle goods", "zh": "走私货物"},
+        {"en": "smuggle sth into", "zh": "把…偷带进"}
+      ],
+      "ex": [
+        {"en": "Customs officers found two men trying to smuggle watches into the country.",
+         "zh": "海关人员发现两名男子正试图把手表走私入境。"}
+      ],
+      "note": "常接 into／out of；smuggler 指走私者。"
+    },
+    {
+      "word": "hustle",
+      "phr": [
+        {"en": "the hustle and bustle", "zh": "熙熙攘攘"},
+        {"en": "hustle to catch a train", "zh": "匆忙赶火车"}
+      ],
+      "ex": [
+        {"en": "We had to hustle to catch the last bus home.",
+         "zh": "我们不得不赶紧去赶最后一班回家的公交车。"}
+      ],
+      "note": "名词常用 the hustle and bustle，指城市的忙碌喧嚣。"
+    },
+    {
+      "word": "oppose",
+      "phr": [
+        {"en": "oppose the plan", "zh": "反对该计划"},
+        {"en": "be opposed to", "zh": "反对"}
+      ],
+      "ex": [
+        {"en": "Many residents oppose the plan to build a factory near the river.",
+         "zh": "许多居民反对在河边建工厂的计划。"}
+      ],
+      "note": "be opposed to 中 to 是介词，后接名词或 doing。"
+    },
+    {
+      "word": "device",
+      "phr": [
+        {"en": "a mobile device", "zh": "移动设备"},
+        {"en": "a safety device", "zh": "安全装置"}
+      ],
+      "ex": [
+        {"en": "This small device can measure the temperature of your coffee.",
+         "zh": "这个小装置能测量咖啡的温度。"}
+      ],
+      "note": "指器械、装置；device 与 devise（设计）形近易混。"
+    },
+    {
+      "word": "commentary",
+      "phr": [
+        {"en": "a running commentary", "zh": "现场解说"},
+        {"en": "provide commentary", "zh": "提供解说"}
+      ],
+      "ex": [
+        {"en": "He provided live commentary on the match for a local radio station.",
+         "zh": "他为当地一家电台解说了这场比赛的实况。"}
+      ],
+      "note": "指实况解说或评论；comment 是较短的意见。"
+    },
+    {
+      "word": "sue",
+      "phr": [
+        {"en": "sue sb for damages", "zh": "起诉要求赔偿"},
+        {"en": "sue for divorce", "zh": "诉请离婚"}
+      ],
+      "ex": [
+        {"en": "The workers decided to sue the company for unfair dismissal.",
+         "zh": "工人们决定以不当解雇为由起诉该公司。"}
+      ],
+      "note": "sue sb for sth 是常用结构，后可接 damages。"
+    },
+    {
+      "word": "conservative",
+      "phr": [
+        {"en": "a conservative estimate", "zh": "保守的估计"},
+        {"en": "conservative views", "zh": "保守的观点"}
+      ],
+      "ex": [
+        {"en": "Even by a conservative estimate, the repairs will cost a fortune.",
+         "zh": "即便按保守估计，维修也要花一大笔钱。"}
+      ],
+      "note": "conservative estimate 指偏低的估计；反义词 liberal。"
+    },
+    {
+      "word": "belly",
+      "phr": [
+        {"en": "a full belly", "zh": "吃饱的肚子"},
+        {"en": "a belly laugh", "zh": "捧腹大笑"}
+      ],
+      "ex": [
+        {"en": "The baby lay on its belly and watched the toy roll away.",
+         "zh": "婴儿俯卧着，看着玩具滚到一边。"}
+      ],
+      "note": "belly 比 stomach 口语化；on one's belly 指俯卧。"
+    },
+    {
+      "word": "access",
+      "phr": [
+        {"en": "have access to", "zh": "有权使用"},
+        {"en": "gain access to", "zh": "获得进入的机会"}
+      ],
+      "ex": [
+        {"en": "Students have free access to the online library all year round.",
+         "zh": "学生全年可免费使用在线图书馆。"}
+      ],
+      "note": "access to 中 to 为介词；accessible 是形容词。"
+    },
+    {
+      "word": "conference",
+      "phr": [
+        {"en": "attend a conference", "zh": "参加会议"},
+        {"en": "a press conference", "zh": "记者招待会"}
+      ],
+      "ex": [
+        {"en": "She will attend an international conference on climate change in June.",
+         "zh": "她将于六月参加一个关于气候变化的国际会议。"}
+      ],
+      "note": "conference 指正式会议；press conference 是记者招待会。"
+    },
+    {
+      "word": "primitive",
+      "phr": [
+        {"en": "primitive society", "zh": "原始社会"},
+        {"en": "primitive tools", "zh": "原始工具"}
+      ],
+      "ex": [
+        {"en": "These primitive tools were made of stone and animal bone.",
+         "zh": "这些原始工具由石头和兽骨制成。"}
+      ],
+      "note": "指原始的、简陋的；prim 词根含「最初」之义。"
+    },
+    {
+      "word": "knob",
+      "phr": [
+        {"en": "turn the knob", "zh": "转动旋钮"},
+        {"en": "the door knob", "zh": "门把手"}
+      ],
+      "ex": [
+        {"en": "She turned the knob slowly and pushed the door open.",
+         "zh": "她慢慢转动门把手，把门推开了。"}
+      ],
+      "note": "指球形把手或旋钮；词首 k 不发音。"
+    },
+    {
+      "word": "advisable",
+      "phr": [
+        {"en": "it is advisable to", "zh": "宜于…"},
+        {"en": "highly advisable", "zh": "非常可取"}
+      ],
+      "ex": [
+        {"en": "It is advisable to book your ticket well before the holiday.",
+         "zh": "最好在假期前提前订好票。"}
+      ],
+      "note": "advisable 常用 It is advisable to do 句型。"
+    },
+    {
+      "word": "overcome",
+      "phr": [
+        {"en": "overcome difficulties", "zh": "克服困难"},
+        {"en": "overcome fear", "zh": "克服恐惧"}
+      ],
+      "ex": [
+        {"en": "She worked hard to overcome her fear of speaking in public.",
+         "zh": "她努力克服在公开场合讲话的恐惧。"}
+      ],
+      "note": "overcome 过去式为 overcame，过去分词为 overcome。"
+    },
+    {
+      "word": "cabin",
+      "phr": [
+        {"en": "a log cabin", "zh": "小木屋"},
+        {"en": "the passenger cabin", "zh": "客舱"}
+      ],
+      "ex": [
+        {"en": "They spent the weekend in a small log cabin by the lake.",
+         "zh": "他们在湖边一间小木屋里度过了周末。"}
+      ],
+      "note": "指小木屋，也指船舱、机舱；cabin crew 指乘务员。"
+    },
+    {
+      "word": "recite",
+      "phr": [
+        {"en": "recite a poem", "zh": "背诵诗歌"},
+        {"en": "recite from memory", "zh": "凭记忆背诵"}
+      ],
+      "ex": [
+        {"en": "Each student had to recite a short poem from memory.",
+         "zh": "每个学生都必须凭记忆背诵一首短诗。"}
+      ],
+      "note": "强调背诵或朗诵；re-（再）+ cit（引用）。"
+    },
+    {
+      "word": "oppress",
+      "phr": [
+        {"en": "oppress the people", "zh": "压迫人民"},
+        {"en": "feel oppressed", "zh": "感到压抑"}
+      ],
+      "ex": [
+        {"en": "The new laws were used to oppress anyone who spoke out.",
+         "zh": "新法律被用来压迫任何敢出声的人。"}
+      ],
+      "note": "oppress 指压迫或使心情沉重；oppression 是名词。"
+    },
+    {
+      "word": "current",
+      "phr": [
+        {"en": "current affairs", "zh": "时事"},
+        {"en": "an electric current", "zh": "电流"}
+      ],
+      "ex": [
+        {"en": "He reads the news every morning to keep up with current affairs.",
+         "zh": "他每天早上看新闻以了解时事。"}
+      ],
+      "note": "作形容词是当前的；作名词指水流、电流、潮流。"
+    },
+    {
+      "word": "heel",
+      "phr": [
+        {"en": "high heels", "zh": "高跟鞋"},
+        {"en": "Achilles' heel", "zh": "致命弱点"}
+      ],
+      "ex": [
+        {"en": "Her new shoes hurt because the heels were too high.",
+         "zh": "她的新鞋磨脚，因为鞋跟太高了。"}
+      ],
+      "note": "指脚后跟、鞋跟；Achilles' heel 喻致命弱点。"
+    },
+    {
+      "word": "gloom",
+      "phr": [
+        {"en": "doom and gloom", "zh": "悲观情绪"},
+        {"en": "in the gloom", "zh": "在昏暗中"}
+      ],
+      "ex": [
+        {"en": "The news of the layoffs cast a gloom over the office.",
+         "zh": "裁员的消息给办公室蒙上了一层阴影。"}
+      ],
+      "note": "gloomy 是形容词；cast a gloom over 指蒙上阴影。"
+    },
+    {
+      "word": "adore",
+      "phr": [
+        {"en": "adore doing sth", "zh": "非常喜欢做某事"},
+        {"en": "absolutely adore", "zh": "极度喜爱"}
+      ],
+      "ex": [
+        {"en": "She adores walking along the beach at sunset.",
+         "zh": "她非常喜欢在日落时沿着海滩散步。"}
+      ],
+      "note": "adore 语气强于 like，后接 doing，也可指敬慕。"
+    },
+    {
+      "word": "persist",
+      "phr": [
+        {"en": "persist in doing sth", "zh": "坚持做某事"},
+        {"en": "persist with", "zh": "坚持进行"}
+      ],
+      "ex": [
+        {"en": "If the pain persists, you should see a doctor at once.",
+         "zh": "如果疼痛持续，你应当立刻去看医生。"}
+      ],
+      "note": "persist in doing sth 指坚持；也可指持续存在。"
+    },
+    {
+      "word": "caution",
+      "phr": [
+        {"en": "with caution", "zh": "小心谨慎地"},
+        {"en": "caution sb against", "zh": "告诫某人不要"}
+      ],
+      "ex": [
+        {"en": "Drivers were told to proceed with caution on the icy road.",
+         "zh": "司机被告知在结冰的路面上要小心行驶。"}
+      ],
+      "note": "with caution 表谨慎地；caution 作动词接 against。"
+    },
+    {
+      "word": "offensive",
+      "phr": [
+        {"en": "offensive language", "zh": "冒犯性的语言"},
+        {"en": "take the offensive", "zh": "采取攻势"}
+      ],
+      "ex": [
+        {"en": "His offensive remarks upset several people at the dinner table.",
+         "zh": "他在餐桌上的无礼言论让好几个人不快。"}
+      ],
+      "note": "出自 offend；take the offensive 指转为攻势。"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+ "day": 32,
+ "date": null,
+ "words": [
+  {
+   "id": 931,
+   "word": "eliminate",
+   "uk": "/ɪˈlɪmɪneɪt/",
+   "us": "/ɪˈlɪmɪnet/",
+   "pos": "vt.",
+   "cn": "消灭；消除；排除；淘汰"
+  },
+  {
+   "id": 932,
+   "word": "cute",
+   "uk": "/kjuːt/",
+   "us": "/kjʊt/",
+   "pos": "adj.",
+   "cn": "漂亮的；娇小可爱的；聪明伶俐的；精明的"
+  },
+  {
+   "id": 933,
+   "word": "entitle",
+   "uk": "/ɪnˈtaɪtl/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "给…权利；给题名"
+  },
+  {
+   "id": 934,
+   "word": "outline",
+   "uk": "/ˈautlaɪn/",
+   "us": "/ˈaʊtlaɪn/",
+   "pos": "n.,vt.",
+   "cn": "提纲；要点；外形；略图；概述；描…的外形"
+  },
+  {
+   "id": 935,
+   "word": "partition",
+   "uk": "/pɑːˈtɪʃn/",
+   "us": "/pɑrˈtɪʃən/",
+   "pos": "n.,vt.",
+   "cn": "分隔物；隔墙；分割；划分；隔开；分割；瓜分"
+  },
+  {
+   "id": 936,
+   "word": "nominal",
+   "uk": "/ˈnɒmɪnl/",
+   "us": "/ˈnɑmɪnl/",
+   "pos": "adj.",
+   "cn": "名义上的；有名无实的；很少的；象征性的；名词性的"
+  },
+  {
+   "id": 937,
+   "word": "excess",
+   "uk": "/ɪkˈses/",
+   "us": "/ˈɛkˈsɛs/",
+   "pos": "adj.,n.",
+   "cn": "过量的；额外的；超越；过量；过度['3ks3s]"
+  },
+  {
+   "id": 938,
+   "word": "glance",
+   "uk": "/glɑːns/",
+   "us": "/ɡlæns/",
+   "pos": "vi.,n.",
+   "cn": "看一下；一瞥"
+  },
+  {
+   "id": 939,
+   "word": "perspective",
+   "uk": "/pəˈspektɪv/",
+   "us": "/pɚˈspɛktɪv/",
+   "pos": "n.",
+   "cn": "视角；观点；远景；景观；透视画法；透视图"
+  },
+  {
+   "id": 940,
+   "word": "galaxy",
+   "uk": "/ˈgæləksi/",
+   "us": "/ˈɡæləksi/",
+   "pos": "n.",
+   "cn": "星系；银河系；银河；一群"
+  },
+  {
+   "id": 941,
+   "word": "equality",
+   "uk": "/iˈkwɒləti/",
+   "us": "/ɪˈkwɑləti/",
+   "pos": "n.",
+   "cn": "等同；平等；相等"
+  },
+  {
+   "id": 942,
+   "word": "destruction",
+   "uk": "/dɪˈstrʌkʃn/",
+   "us": "/dɪˈstrʌkʃən/",
+   "pos": "n.",
+   "cn": "破坏；毁灭；消灭"
+  },
+  {
+   "id": 943,
+   "word": "rebellion",
+   "uk": "/rɪˈbeljən/",
+   "us": "/rɪˈbɛljən/",
+   "pos": "n.",
+   "cn": "反叛；反抗"
+  },
+  {
+   "id": 944,
+   "word": "expression",
+   "uk": "/ɪkˈspreʃn/",
+   "us": "/ɪkˈsprɛʃən/",
+   "pos": "n.",
+   "cn": "词语；表达；表情"
+  },
+  {
+   "id": 945,
+   "word": "reaction",
+   "uk": "/riˈækʃn/",
+   "us": "/rɪˈækʃən/",
+   "pos": "n.",
+   "cn": "反应；反作用"
+  },
+  {
+   "id": 946,
+   "word": "accordance",
+   "uk": "/əˈkɔːdns/",
+   "us": "/əˈkɔrdns/",
+   "pos": "n.",
+   "cn": "一致；和谐；符合"
+  },
+  {
+   "id": 947,
+   "word": "weary",
+   "uk": "/ˈwɪəri/",
+   "us": "/ˈwɪri/",
+   "pos": "vi.,adj.",
+   "cn": "厌烦；不耐烦；疲劳的；疲倦的；使人疲劳的；令人厌倦的"
+  },
+  {
+   "id": 948,
+   "word": "appeal",
+   "uk": "/əˈpiːl/",
+   "us": "/əˈpil/",
+   "pos": "vi.,vt.,n.",
+   "cn": "求助；诉请；要求；有吸引力；控诉；移交上级法院审理；吸引力；呼吁；上诉"
+  },
+  {
+   "id": 949,
+   "word": "swamp",
+   "uk": "/swɒmp/",
+   "us": "/swɑmp/",
+   "pos": "n.,vt.",
+   "cn": "沼泽；淹没；浸没；难倒；压倒"
+  },
+  {
+   "id": 950,
+   "word": "entrepreneur",
+   "uk": "/ˌɒntrəprəˈnɜː/",
+   "us": "/ˌɑntrəprəˈnɝ​/",
+   "pos": "n.",
+   "cn": "企业家"
+  },
+  {
+   "id": 951,
+   "word": "dedicate",
+   "uk": "/ˈdedɪkeɪt/",
+   "us": "/ˈdɛdɪket/",
+   "pos": "vt.",
+   "cn": "题献词于上；把献给；把用于"
+  },
+  {
+   "id": 952,
+   "word": "peninsula",
+   "uk": "/pəˈnɪnsjələ/",
+   "us": "/pəˈnɪnsələ/",
+   "pos": "n.",
+   "cn": "半岛"
+  },
+  {
+   "id": 953,
+   "word": "extensive",
+   "uk": "/ɪkˈstensɪv/",
+   "us": "/ɪkˈstɛnsɪv/",
+   "pos": "adj.",
+   "cn": "广阔的；广泛的"
+  },
+  {
+   "id": 954,
+   "word": "residential",
+   "uk": "/ˌrezɪˈdenʃl/",
+   "us": "/,rɛzɪˈdɛnʃl/",
+   "pos": "adj.",
+   "cn": "居住的；住宅的；寄宿的；住在住所的"
+  },
+  {
+   "id": 955,
+   "word": "definitely",
+   "uk": "/ˈdefɪnətli/",
+   "us": "/ˈdɛfɪnətli/",
+   "pos": "adv.",
+   "cn": "一定地；明确地"
+  },
+  {
+   "id": 956,
+   "word": "stab",
+   "uk": "/stæb/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "刺；戳"
+  },
+  {
+   "id": 957,
+   "word": "abandon",
+   "uk": "/əˈbændən/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "离弃；丢弃；遗弃；抛弃；放弃"
+  },
+  {
+   "id": 958,
+   "word": "collaboration",
+   "uk": "/kəˌlæbəˈreɪʃn/",
+   "us": "/kə,læbəˈreʃən/",
+   "pos": "n.",
+   "cn": "合作；协作；勾结"
+  },
+  {
+   "id": 959,
+   "word": "inspire",
+   "uk": "/ɪnˈspaɪə/",
+   "us": "/ɪnˈspaɪɚ/",
+   "pos": "vt.",
+   "cn": "鼓舞；给…以灵感"
+  },
+  {
+   "id": 960,
+   "word": "impart",
+   "uk": "/ɪmˈpɑːt/",
+   "us": "/ɪmˈpɑrt/",
+   "pos": "vt.",
+   "cn": "告知；透露；赋予；给予"
+  }
+ ]
+}

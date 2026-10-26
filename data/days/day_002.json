@@ -1,0 +1,246 @@
+{
+ "day": 2,
+ "date": null,
+ "words": [
+  {
+   "id": 31,
+   "word": "neutral",
+   "uk": "/ˈnjuːtrəl/",
+   "us": "/ˈnʊtrəl/",
+   "pos": "adj.",
+   "cn": "中立的；中性的"
+  },
+  {
+   "id": 32,
+   "word": "scratch",
+   "uk": "/skrætʃ/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "抓；搔；扒；刮擦；刻划；抓痕；划痕；抓；搔；刮"
+  },
+  {
+   "id": 33,
+   "word": "analysis",
+   "uk": "/əˈnæləsɪs/",
+   "us": "",
+   "pos": "n.",
+   "cn": "分析；分析报告；分解；解析"
+  },
+  {
+   "id": 34,
+   "word": "devise",
+   "uk": "/dɪˈvaɪz/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "设计；发明"
+  },
+  {
+   "id": 35,
+   "word": "cooperative",
+   "uk": "/kəuˈɒpərətɪv/",
+   "us": "/koˈɑpərətɪv/",
+   "pos": "adj.,n.",
+   "cn": "有合作意向的；乐意合作的；合作的；协作的；合作社；合作商店"
+  },
+  {
+   "id": 36,
+   "word": "triple",
+   "uk": "/ˈtrɪpl/",
+   "us": "",
+   "pos": "adj.,v.",
+   "cn": "三部分的；三方的；三倍的；三重的；增至三倍"
+  },
+  {
+   "id": 37,
+   "word": "clutch",
+   "uk": "/klʌtʃ/",
+   "us": "",
+   "pos": "vi.,vt.,n.",
+   "cn": "企图抓住；抓紧；紧握；离合器；掌握；控制；把握；抓紧"
+  },
+  {
+   "id": 38,
+   "word": "temper",
+   "uk": "/ˈtempə/",
+   "us": "/ˈtɛmpɚ/",
+   "pos": "n.,vt.",
+   "cn": "韧度；心情；情绪；调和；使缓和；回火"
+  },
+  {
+   "id": 39,
+   "word": "grope",
+   "uk": "/grəup/",
+   "us": "/ɡrop/",
+   "pos": "vi.,vt.",
+   "cn": "暗中摸索；搜索；探索；搜寻；摸索"
+  },
+  {
+   "id": 40,
+   "word": "rejoice",
+   "uk": "/rɪˈdʒɔɪs/",
+   "us": "",
+   "pos": "vi.",
+   "cn": "感到高兴；充满喜悦"
+  },
+  {
+   "id": 41,
+   "word": "frantic",
+   "uk": "/ˈfræntɪk/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "慌乱不安的；发疯似的；发狂的"
+  },
+  {
+   "id": 42,
+   "word": "tickle",
+   "uk": "/ˈtɪkl/",
+   "us": "",
+   "pos": "vi.,vt.,n.",
+   "cn": "发痒；使发痒；使高兴；逗乐；痒"
+  },
+  {
+   "id": 43,
+   "word": "object",
+   "uk": "/ˈɒbdʒɪkt;-dʒekt/",
+   "us": "/ˈɑbdʒɛkt/",
+   "pos": "vi.,n.",
+   "cn": "反对；不赞成；实物；物体；目的；目标；对象；客体；宾语"
+  },
+  {
+   "id": 44,
+   "word": "humble",
+   "uk": "/ˈhʌmbl/",
+   "us": "",
+   "pos": "adj.,vt.",
+   "cn": "谦逊的；地位低下的；简陋的；使谦恭；使卑下"
+  },
+  {
+   "id": 45,
+   "word": "commodity",
+   "uk": "/kəˈmɒdəti/",
+   "us": "/kəˈmɑdəti/",
+   "pos": "n.",
+   "cn": "商品；货物"
+  },
+  {
+   "id": 46,
+   "word": "cliff",
+   "uk": "/klɪf/",
+   "us": "",
+   "pos": "n.",
+   "cn": "悬崖；峭壁"
+  },
+  {
+   "id": 47,
+   "word": "obedient",
+   "uk": "/əˈbiːdɪənt/",
+   "us": "/oˈbidiənt/",
+   "pos": "adj.",
+   "cn": "服从的；顺从的"
+  },
+  {
+   "id": 48,
+   "word": "infinite",
+   "uk": "/ˈɪnfɪnət/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "无限的；无数的"
+  },
+  {
+   "id": 49,
+   "word": "misery",
+   "uk": "/ˈmɪzəri/",
+   "us": "",
+   "pos": "n.",
+   "cn": "痛苦；苦恼；苦难；悲惨的境遇；贫苦"
+  },
+  {
+   "id": 50,
+   "word": "blur",
+   "uk": "/blɜː/",
+   "us": "/blɝ/",
+   "pos": "v.,n.",
+   "cn": "变模糊；模糊；模糊的东西"
+  },
+  {
+   "id": 51,
+   "word": "suffice",
+   "uk": "/səˈfaɪs/",
+   "us": "",
+   "pos": "vi.",
+   "cn": "足够"
+  },
+  {
+   "id": 52,
+   "word": "concede",
+   "uk": "/kənˈsiːd/",
+   "us": "/kənˈsid/",
+   "pos": "vi.,vt.",
+   "cn": "让步；认输；承认；承认…为真；承认失败；允许；让予"
+  },
+  {
+   "id": 53,
+   "word": "notable",
+   "uk": "/ˈnəutəbl/",
+   "us": "/ˈnotəbl/",
+   "pos": "adj.,n.",
+   "cn": "值得注意的；显著的；著名的；名人；要人"
+  },
+  {
+   "id": 54,
+   "word": "plausible",
+   "uk": "/ˈplɔːzəbl/",
+   "us": "/ˈplɔzəbl/",
+   "pos": "adj.",
+   "cn": "似有道理的；似乎正确的；貌似可信的"
+  },
+  {
+   "id": 55,
+   "word": "equator",
+   "uk": "/ɪˈkweɪtə/",
+   "us": "/ɪˈkwetɚ/",
+   "pos": "n.",
+   "cn": "赤道"
+  },
+  {
+   "id": 56,
+   "word": "commission",
+   "uk": "/kəˈmɪʃn/",
+   "us": "/kəˈmɪʃən/",
+   "pos": "n.,vt.",
+   "cn": "委任状；委员会；佣金；回扣；授权；委托；委任；委托"
+  },
+  {
+   "id": 57,
+   "word": "staircase",
+   "uk": "/ˈsteəkeɪs/",
+   "us": "/ˈstɛrkes/",
+   "pos": "n.",
+   "cn": "楼梯"
+  },
+  {
+   "id": 58,
+   "word": "flip",
+   "uk": "/flɪp/",
+   "us": "",
+   "pos": "adj.,vt.,n.",
+   "cn": "〈口〉无理的；轻率的；轻浮的；快速翻动；转动；捻掷；轻抛；轻拍"
+  },
+  {
+   "id": 59,
+   "word": "rational",
+   "uk": "/ˈræʃnəl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "理性的；理智的；合理的"
+  },
+  {
+   "id": 60,
+   "word": "barricade",
+   "uk": "/ˌbærɪˈkeɪd/",
+   "us": "/ˈbærɪˈked/",
+   "pos": "n.,vt.",
+   "cn": "路障；栅栏；障碍；设路障于；挡住"
+  }
+ ]
+}

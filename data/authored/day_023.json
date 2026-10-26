@@ -1,0 +1,365 @@
+{
+  "day": 23,
+  "words": [
+    {
+      "word": "wretched",
+      "phr": [
+        {"en": "feel wretched", "zh": "感到难受"},
+        {"en": "a wretched life", "zh": "悲惨的生活"}
+      ],
+      "ex": [
+        {"en": "He felt wretched for days after the argument with his closest friend.",
+         "zh": "和最好的朋友吵架后，他难受了好几天。"}
+      ],
+      "note": "wretched 由 wretch 加 -ed 构成，语气强，多指非常难受或恶劣。"
+    },
+    {
+      "word": "absurd",
+      "phr": [
+        {"en": "border on the absurd", "zh": "近乎荒谬"},
+        {"en": "an absurd idea", "zh": "荒唐的想法"}
+      ],
+      "ex": [
+        {"en": "It seems absurd to buy a new car just because the old one is dirty.",
+         "zh": "仅因为旧车脏了就买新车，这似乎很荒唐。"}
+      ],
+      "note": "absurd 比 silly 更正式，语气更强；名词为 absurdity。"
+    },
+    {
+      "word": "modesty",
+      "phr": [
+        {"en": "with modesty", "zh": "谦虚地"},
+        {"en": "false modesty", "zh": "假谦虚"}
+      ],
+      "ex": [
+        {"en": "She accepted the prize with modesty and thanked her whole team.",
+         "zh": "她谦虚地领了奖，并感谢了整个团队。"}
+      ],
+      "note": "modesty 是 modest 的名词；反义为 arrogance。"
+    },
+    {
+      "word": "considerate",
+      "phr": [
+        {"en": "be considerate of", "zh": "体谅"},
+        {"en": "it is considerate of sb", "zh": "某人很体贴"}
+      ],
+      "ex": [
+        {"en": "It was considerate of you to call and tell us you would be late.",
+         "zh": "你打电话告诉我们你会迟到，真是体贴。"}
+      ],
+      "note": "considerate 表体贴的；considerable 表相当大的，注意区分。"
+    },
+    {
+      "word": "glamor",
+      "phr": [
+        {"en": "the glamor of Hollywood", "zh": "好莱坞的魅力"},
+        {"en": "add glamor to", "zh": "为…增添魅力"}
+      ],
+      "ex": [
+        {"en": "The film captures the glamor of the city in the nineteen twenties.",
+         "zh": "影片捕捉到二十年代这座城市的魅力。"}
+      ],
+      "note": "美式拼作 glamor，英式 glamour；形容词是 glamorous。"
+    },
+    {
+      "word": "clue",
+      "phr": [
+        {"en": "a clue to", "zh": "…的线索"},
+        {"en": "have no clue", "zh": "完全不知道"}
+      ],
+      "ex": [
+        {"en": "The police found a clue to the missing car near the old bridge.",
+         "zh": "警方在旧桥附近找到了失踪汽车的线索。"}
+      ],
+      "note": "a clue to sth 用 to 不用 of；have no clue 是口语说法。"
+    },
+    {
+      "word": "bracket",
+      "phr": [
+        {"en": "in brackets", "zh": "在括号内"},
+        {"en": "a tax bracket", "zh": "税率档次"}
+      ],
+      "ex": [
+        {"en": "Put the explanation in brackets so the main sentence stays clear.",
+         "zh": "把解释放在括号里，这样主句依然清晰。"}
+      ],
+      "note": "bracket 指方括号或圆括号；年龄、收入档次也用 bracket。"
+    },
+    {
+      "word": "legal",
+      "phr": [
+        {"en": "legal advice", "zh": "法律建议"},
+        {"en": "take legal action", "zh": "提起诉讼"}
+      ],
+      "ex": [
+        {"en": "The tenants decided to take legal action over the repeated rent increases.",
+         "zh": "租户们决定就多次涨租提起诉讼。"}
+      ],
+      "note": "legal 表合法或与法律有关；lawful 多指符合法律，较正式。"
+    },
+    {
+      "word": "midst",
+      "phr": [
+        {"en": "in the midst of", "zh": "在…当中"},
+        {"en": "in our midst", "zh": "在我们中间"}
+      ],
+      "ex": [
+        {"en": "The company expanded rapidly in the midst of a serious economic downturn.",
+         "zh": "公司在经济严重低迷期间迅速扩张。"}
+      ],
+      "note": "midst 只用于 in the midst of 等固定短语，不单独使用。"
+    },
+    {
+      "word": "trait",
+      "phr": [
+        {"en": "a personality trait", "zh": "性格特征"},
+        {"en": "inherited traits", "zh": "遗传特征"}
+      ],
+      "ex": [
+        {"en": "Patience is a personality trait that can be developed with practice.",
+         "zh": "耐心是一种性格特征，可以通过练习培养。"}
+      ],
+      "note": "trait 指人的性格或遗传特征；feature 泛指事物特点。"
+    },
+    {
+      "word": "radius",
+      "phr": [
+        {"en": "a radius of five kilometres", "zh": "五公里半径"},
+        {"en": "within a radius of", "zh": "在…半径范围内"}
+      ],
+      "ex": [
+        {"en": "Most residents live within a radius of five kilometres from the hospital.",
+         "zh": "多数居民住在距医院五公里的半径范围内。"}
+      ],
+      "note": "radius 复数为 radii；within a radius of 是常见搭配。"
+    },
+    {
+      "word": "disintegration",
+      "phr": [
+        {"en": "the disintegration of", "zh": "…的瓦解"},
+        {"en": "social disintegration", "zh": "社会解体"}
+      ],
+      "ex": [
+        {"en": "The disintegration of the old empire led to decades of local conflict.",
+         "zh": "旧帝国的瓦解导致了数十年的地方冲突。"}
+      ],
+      "note": "dis- 表「分开」，integr 表「整体」；动词为 disintegrate。"
+    },
+    {
+      "word": "signal",
+      "phr": [
+        {"en": "send a signal", "zh": "发出信号"},
+        {"en": "signal a change", "zh": "标志着变化"}
+      ],
+      "ex": [
+        {"en": "The phone signal was too weak to send any message from the valley.",
+         "zh": "山谷里手机信号太弱，发不出任何消息。"}
+      ],
+      "note": "signal 作动词表示意或标志；作形容词表显著的。"
+    },
+    {
+      "word": "impair",
+      "phr": [
+        {"en": "impair the hearing", "zh": "损害听力"},
+        {"en": "impair judgment", "zh": "影响判断力"}
+      ],
+      "ex": [
+        {"en": "Long exposure to loud noise can permanently impair your hearing.",
+         "zh": "长期暴露在噪音中会永久损害听力。"}
+      ],
+      "note": "impair 多指功能受损；名词 impairment 比 damage 正式。"
+    },
+    {
+      "word": "dolphin",
+      "phr": [
+        {"en": "a school of dolphins", "zh": "一群海豚"},
+        {"en": "dolphin watching", "zh": "观赏海豚"}
+      ],
+      "ex": [
+        {"en": "A school of dolphins followed the boat for more than a mile.",
+         "zh": "一群海豚跟着船游了一英里多。"}
+      ],
+      "note": "dolphin 群体用 a school of；它是哺乳动物，不是鱼。"
+    },
+    {
+      "word": "sightseeing",
+      "phr": [
+        {"en": "go sightseeing", "zh": "去观光"},
+        {"en": "a sightseeing tour", "zh": "观光游览"}
+      ],
+      "ex": [
+        {"en": "We spent the morning sightseeing in the old town before the rain came.",
+         "zh": "下雨前我们在老城区观光了一个上午。"}
+      ],
+      "note": "sightseeing 不可数；固定说法 go sightseeing，不加冠词。"
+    },
+    {
+      "word": "stray",
+      "phr": [
+        {"en": "stray from", "zh": "偏离"},
+        {"en": "a stray dog", "zh": "流浪狗"}
+      ],
+      "ex": [
+        {"en": "A stray dog followed the children home from the market.",
+         "zh": "一只流浪狗跟着孩子们从市场回了家。"}
+      ],
+      "note": "stray from the point 表离题；stray dog 指走失的狗。"
+    },
+    {
+      "word": "planet",
+      "phr": [
+        {"en": "save the planet", "zh": "保护地球"},
+        {"en": "on the planet", "zh": "在地球上"}
+      ],
+      "ex": [
+        {"en": "Scientists search the sky for planets that might support life.",
+         "zh": "科学家在天空中寻找可能支持生命的行星。"}
+      ],
+      "note": "planet 指行星，star 指恒星；地球作天体名常写作 Earth。"
+    },
+    {
+      "word": "exhaust",
+      "phr": [
+        {"en": "exhaust one's energy", "zh": "耗尽精力"},
+        {"en": "car exhaust", "zh": "汽车尾气"}
+      ],
+      "ex": [
+        {"en": "The long climb exhausted everyone in the group except the guide.",
+         "zh": "长途攀登让除向导外的所有人都筋疲力尽。"}
+      ],
+      "note": "be exhausted 表筋疲力尽；作名词 exhaust 指排出的废气。"
+    },
+    {
+      "word": "thereafter",
+      "phr": [
+        {"en": "shortly thereafter", "zh": "此后不久"},
+        {"en": "for years thereafter", "zh": "此后多年"}
+      ],
+      "ex": [
+        {"en": "The company moved to Shanghai in 2010 and grew quickly thereafter.",
+         "zh": "公司于2010年迁至上海，此后迅速发展。"}
+      ],
+      "note": "thereafter 相当于 after that，正式书面语，口语少用。"
+    },
+    {
+      "word": "soluble",
+      "phr": [
+        {"en": "soluble in water", "zh": "溶于水"},
+        {"en": "a soluble problem", "zh": "可解决的问题"}
+      ],
+      "ex": [
+        {"en": "This powder is fully soluble in cold water, so it mixes quickly.",
+         "zh": "这种粉末可完全溶于冷水，因此很容易混合。"}
+      ],
+      "note": "soluble 反义为 insoluble；solute 指溶质。"
+    },
+    {
+      "word": "feast",
+      "phr": [
+        {"en": "a feast for the eyes", "zh": "视觉盛宴"},
+        {"en": "feast on", "zh": "尽情享用"}
+      ],
+      "ex": [
+        {"en": "The whole village gathered for a feast at the end of the harvest.",
+         "zh": "秋收结束时全村聚在一起享用盛宴。"}
+      ],
+      "note": "feast on sth 表尽情吃；a feast for the eyes 指视觉盛宴。"
+    },
+    {
+      "word": "vision",
+      "phr": [
+        {"en": "a clear vision of", "zh": "对…的清晰愿景"},
+        {"en": "blurred vision", "zh": "视力模糊"}
+      ],
+      "ex": [
+        {"en": "The director has a clear vision of what the museum should become.",
+         "zh": "馆长对博物馆的未来有清晰的愿景。"}
+      ],
+      "note": "vision 既指视力也指眼光、愿景；形容词为 visual。"
+    },
+    {
+      "word": "accompany",
+      "phr": [
+        {"en": "accompany sb to", "zh": "陪某人去"},
+        {"en": "accompany sb on the piano", "zh": "为某人钢琴伴奏"}
+      ],
+      "ex": [
+        {"en": "Two teachers will accompany the students on the trip to the museum.",
+         "zh": "两位老师将陪学生一起参观博物馆。"}
+      ],
+      "note": "accompany 是及物动词，不加 with；被动用 by 引出。"
+    },
+    {
+      "word": "armor",
+      "phr": [
+        {"en": "a suit of armor", "zh": "一套盔甲"},
+        {"en": "body armor", "zh": "防弹衣"}
+      ],
+      "ex": [
+        {"en": "The museum displays a complete suit of armor from the fifteenth century.",
+         "zh": "博物馆展出一套十五世纪的完整盔甲。"}
+      ],
+      "note": "美式拼作 armor，英式 armour；a suit of armor 是固定说法。"
+    },
+    {
+      "word": "acceptance",
+      "phr": [
+        {"en": "gain acceptance", "zh": "获得认可"},
+        {"en": "an acceptance letter", "zh": "录取通知书"}
+      ],
+      "ex": [
+        {"en": "She received an acceptance letter from the university she had hoped for.",
+         "zh": "她收到了心仪大学的录取通知书。"}
+      ],
+      "note": "acceptance 是 accept 的名词；gain acceptance 表认可。"
+    },
+    {
+      "word": "beneficial",
+      "phr": [
+        {"en": "be beneficial to", "zh": "对…有益"},
+        {"en": "mutually beneficial", "zh": "互利的"}
+      ],
+      "ex": [
+        {"en": "Moderate exercise is beneficial to both physical and mental health.",
+         "zh": "适度运动对身心健康都有益。"}
+      ],
+      "note": "be beneficial to 后接对象；benefit 可作名词或动词。"
+    },
+    {
+      "word": "paradise",
+      "phr": [
+        {"en": "a tropical paradise", "zh": "热带天堂"},
+        {"en": "a shoppers' paradise", "zh": "购物天堂"}
+      ],
+      "ex": [
+        {"en": "The island has become a tropical paradise for divers and birdwatchers.",
+         "zh": "这座岛已成为潜水者和观鸟者的热带天堂。"}
+      ],
+      "note": "paradise 指天堂或乐园；常与 tropical、shoppers 等搭配。"
+    },
+    {
+      "word": "tackle",
+      "phr": [
+        {"en": "tackle a problem", "zh": "处理问题"},
+        {"en": "tackle sb about sth", "zh": "就某事与某人交涉"}
+      ],
+      "ex": [
+        {"en": "The city has finally begun to tackle the problem of air pollution.",
+         "zh": "该市终于开始着手处理空气污染问题。"}
+      ],
+      "note": "tackle 常接 problem、issue 等；也可表与某人交涉。"
+    },
+    {
+      "word": "reckon",
+      "phr": [
+        {"en": "reckon on", "zh": "指望"},
+        {"en": "reckon with", "zh": "应对；考虑到"}
+      ],
+      "ex": [
+        {"en": "I reckon it will take about three hours to finish the report.",
+         "zh": "我估计完成这份报告大约要三个小时。"}
+      ],
+      "note": "reckon 口语表认为、估计；reckon on 表指望。"
+    }
+  ]
+}

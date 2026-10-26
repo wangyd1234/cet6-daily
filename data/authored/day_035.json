@@ -1,0 +1,365 @@
+{
+  "day": 35,
+  "words": [
+    {
+      "word": "nickel",
+      "phr": [
+        {"en": "nickel alloy", "zh": "镍合金"},
+        {"en": "not worth a nickel", "zh": "一文不值"}
+      ],
+      "ex": [
+        {"en": "The old coin is made of nickel and has worn smooth.",
+         "zh": "这枚旧硬币由镍制成，已经磨损得光滑了。"}
+      ],
+      "note": "镍的化学符号是 Ni；美语中 nickel 也指五分硬币。"
+    },
+    {
+      "word": "patron",
+      "phr": [
+        {"en": "a patron of the arts", "zh": "艺术赞助人"},
+        {"en": "a regular patron", "zh": "老主顾"}
+      ],
+      "ex": [
+        {"en": "She has been a generous patron of the arts for thirty years.",
+         "zh": "三十年来她一直是慷慨的艺术赞助人。"}
+      ],
+      "note": "patron 资助文艺事业或指常客；patron saint 是守护圣徒。"
+    },
+    {
+      "word": "entail",
+      "phr": [
+        {"en": "entail a risk", "zh": "意味着风险"},
+        {"en": "entail a lot of work", "zh": "需要大量工作"}
+      ],
+      "ex": [
+        {"en": "Taking the job would entail moving to another city.",
+         "zh": "接受这份工作意味着要搬到另一个城市。"}
+      ],
+      "note": "entail 后接名词或动名词，表“必然带来、需要”。"
+    },
+    {
+      "word": "inferior",
+      "phr": [
+        {"en": "be inferior to", "zh": "比…差"},
+        {"en": "inferior goods", "zh": "劣质商品"}
+      ],
+      "ex": [
+        {"en": "Their new model is clearly inferior to the one we bought.",
+         "zh": "他们的新型号明显不如我们买的那个。"}
+      ],
+      "note": "inferior to 表比较，本身已含“更差”，不加 more。"
+    },
+    {
+      "word": "apply",
+      "phr": [
+        {"en": "apply for a job", "zh": "申请工作"},
+        {"en": "apply to", "zh": "适用于"}
+      ],
+      "ex": [
+        {"en": "She applied for the scholarship three weeks before the deadline.",
+         "zh": "她在截止日期前三周申请了奖学金。"}
+      ],
+      "note": "apply for 申请具体事物；apply to 适用于或向某处申请。"
+    },
+    {
+      "word": "propaganda",
+      "phr": [
+        {"en": "political propaganda", "zh": "政治宣传"},
+        {"en": "spread propaganda", "zh": "散布宣传"}
+      ],
+      "ex": [
+        {"en": "Wartime posters were used as propaganda to encourage saving.",
+         "zh": "战时海报被用作鼓励储蓄的宣传工具。"}
+      ],
+      "note": "propaganda 含贬义，常指片面或虚假的宣传。"
+    },
+    {
+      "word": "overlook",
+      "phr": [
+        {"en": "overlook a mistake", "zh": "忽视错误"},
+        {"en": "overlook the sea", "zh": "俯瞰大海"}
+      ],
+      "ex": [
+        {"en": "The editor overlooked a spelling mistake on the front page.",
+         "zh": "编辑漏掉了头版的一个拼写错误。"}
+      ],
+      "note": "overlook 既指俯瞰，也指忽略、未注意到，注意别只用前者。"
+    },
+    {
+      "word": "refuge",
+      "phr": [
+        {"en": "take refuge", "zh": "避难"},
+        {"en": "a wildlife refuge", "zh": "野生动物保护区"}
+      ],
+      "ex": [
+        {"en": "The family took refuge in a church during the storm.",
+         "zh": "暴风雨中一家人到教堂里避难。"}
+      ],
+      "note": "refuge 指避难所；seek/take refuge 后常接 from 或 in。"
+    },
+    {
+      "word": "dramatic",
+      "phr": [
+        {"en": "a dramatic change", "zh": "巨大变化"},
+        {"en": "a dramatic effect", "zh": "戏剧性的效果"}
+      ],
+      "ex": [
+        {"en": "There has been a dramatic rise in online shopping this year.",
+         "zh": "今年网络购物出现大幅增长。"}
+      ],
+      "note": "dramatic 常指变化幅度大得惊人，不限于“戏剧”。"
+    },
+    {
+      "word": "incredible",
+      "phr": [
+        {"en": "an incredible story", "zh": "难以置信的故事"},
+        {"en": "incredible speed", "zh": "惊人的速度"}
+      ],
+      "ex": [
+        {"en": "It is incredible how quickly the children learned the new song.",
+         "zh": "孩子们学新歌的速度快得令人难以置信。"}
+      ],
+      "note": "in（不）+cred（相信）+ible → 难以置信的，也可表“极好的”。"
+    },
+    {
+      "word": "certainty",
+      "phr": [
+        {"en": "with certainty", "zh": "肯定地"},
+        {"en": "absolute certainty", "zh": "完全确定"}
+      ],
+      "ex": [
+        {"en": "No one can say with certainty what caused the accident.",
+         "zh": "没人能确定事故的原因。"}
+      ],
+      "note": "certainty 是 certain 的名词；with certainty 表“确知”。"
+    },
+    {
+      "word": "corrode",
+      "phr": [
+        {"en": "corrode the metal", "zh": "腐蚀金属"},
+        {"en": "corrode away", "zh": "腐蚀掉"}
+      ],
+      "ex": [
+        {"en": "Salt water will corrode the metal frame within a few years.",
+         "zh": "海水会在几年内腐蚀这个金属框架。"}
+      ],
+      "note": "corrode 指化学腐蚀；erode 多指风雨、水流侵蚀。"
+    },
+    {
+      "word": "spine",
+      "phr": [
+        {"en": "the spine of the book", "zh": "书脊"},
+        {"en": "the base of the spine", "zh": "脊柱底部"}
+      ],
+      "ex": [
+        {"en": "He injured his spine in a fall and could not walk for months.",
+         "zh": "他摔伤脊椎，几个月不能走路。"}
+      ],
+      "note": "spine 指脊柱，也指书脊、刺；形容词是 spinal。"
+    },
+    {
+      "word": "commend",
+      "phr": [
+        {"en": "commend good work", "zh": "表扬出色的工作"},
+        {"en": "be highly commended", "zh": "受到高度赞扬"}
+      ],
+      "ex": [
+        {"en": "The teacher commended her for helping a classmate during the exam.",
+         "zh": "老师表扬她在考试中帮助同学。"}
+      ],
+      "note": "commend sb for sth 因某事表扬；recommend 是“推荐”。"
+    },
+    {
+      "word": "parasite",
+      "phr": [
+        {"en": "a tiny parasite", "zh": "微小寄生虫"},
+        {"en": "an intestinal parasite", "zh": "肠道寄生虫"}
+      ],
+      "ex": [
+        {"en": "The disease is spread by a parasite that lives in dirty water.",
+         "zh": "这种疾病由一种生活在脏水中的寄生虫传播。"}
+      ],
+      "note": "para（旁边）+site（食物）→ 白吃白住者；喻指依赖他人的人。"
+    },
+    {
+      "word": "artificial",
+      "phr": [
+        {"en": "artificial intelligence", "zh": "人工智能"},
+        {"en": "artificial light", "zh": "人造光"}
+      ],
+      "ex": [
+        {"en": "The plants grow well under artificial light in the basement.",
+         "zh": "这些植物在地下室的人造光下长得很好。"}
+      ],
+      "note": "artificial 与 natural 相对，也指态度矫揉造作。"
+    },
+    {
+      "word": "deficiency",
+      "phr": [
+        {"en": "vitamin deficiency", "zh": "维生素缺乏"},
+        {"en": "a deficiency of", "zh": "缺乏…"}
+      ],
+      "ex": [
+        {"en": "Vitamin D deficiency is common among people who stay indoors.",
+         "zh": "维生素D缺乏在常待室内的人中很常见。"}
+      ],
+      "note": "de（不）+fic（做）+iency → 不足；形容词 deficient。"
+    },
+    {
+      "word": "imaginary",
+      "phr": [
+        {"en": "an imaginary friend", "zh": "假想的朋友"},
+        {"en": "purely imaginary", "zh": "纯属想象"}
+      ],
+      "ex": [
+        {"en": "As a child, she invented an imaginary friend to talk to.",
+         "zh": "小时候，她虚构了一个想象中的朋友来聊天。"}
+      ],
+      "note": "imaginary 只存在于想象中；imaginative 是“有想象力的”。"
+    },
+    {
+      "word": "formula",
+      "phr": [
+        {"en": "a chemical formula", "zh": "化学式"},
+        {"en": "a formula for success", "zh": "成功的秘诀"}
+      ],
+      "ex": [
+        {"en": "The scientist wrote the formula on the board for the students.",
+         "zh": "科学家把公式写在黑板上给学生看。"}
+      ],
+      "note": "formula 复数常用 formulas 或 formulae；也指配方、方案。"
+    },
+    {
+      "word": "disgust",
+      "phr": [
+        {"en": "in disgust", "zh": "厌恶地"},
+        {"en": "to one's disgust", "zh": "令某人厌恶的是"}
+      ],
+      "ex": [
+        {"en": "She looked at the dirty kitchen in disgust and left at once.",
+         "zh": "她厌恶地看了看脏乱的厨房，立刻离开了。"}
+      ],
+      "note": "in disgust 表状态，to one's disgust 表令人反感的事实。"
+    },
+    {
+      "word": "transcend",
+      "phr": [
+        {"en": "transcend boundaries", "zh": "超越界限"},
+        {"en": "transcend differences", "zh": "超越差异"}
+      ],
+      "ex": [
+        {"en": "Great music can transcend language and reach people everywhere.",
+         "zh": "伟大的音乐能超越语言，打动各地的人。"}
+      ],
+      "note": "trans（越过）+scend（爬）→ 超越，多接抽象名词。"
+    },
+    {
+      "word": "tribute",
+      "phr": [
+        {"en": "pay tribute to", "zh": "向…致敬"},
+        {"en": "a fitting tribute", "zh": "恰当的致敬"}
+      ],
+      "ex": [
+        {"en": "The concert was a tribute to the singer who died last year.",
+         "zh": "这场音乐会是在向去年去世的歌手致敬。"}
+      ],
+      "note": "pay tribute to 后接人；tribute 也指贡品。"
+    },
+    {
+      "word": "mob",
+      "phr": [
+        {"en": "an angry mob", "zh": "愤怒的暴民"},
+        {"en": "a mob of", "zh": "一群"}
+      ],
+      "ex": [
+        {"en": "An angry mob gathered outside the court after the verdict.",
+         "zh": "判决后，一群愤怒的人聚集在法院外。"}
+      ],
+      "note": "mob 含贬义，指无秩序的暴民；crowd 是中性词。"
+    },
+    {
+      "word": "subordinate",
+      "phr": [
+        {"en": "be subordinate to", "zh": "从属于"},
+        {"en": "a subordinate clause", "zh": "从句"}
+      ],
+      "ex": [
+        {"en": "A good manager listens to the views of his subordinates.",
+         "zh": "好的管理者会听取下属的意见。"}
+      ],
+      "note": "sub（在下）+ordin（顺序）→ 下级的；作动词重音在末。"
+    },
+    {
+      "word": "trend",
+      "phr": [
+        {"en": "a growing trend", "zh": "日益增长的趋势"},
+        {"en": "follow the trend", "zh": "追随潮流"}
+      ],
+      "ex": [
+        {"en": "There is a growing trend toward working from home.",
+         "zh": "在家工作的趋势正在增强。"}
+      ],
+      "note": "trend 后接 toward 或 of；set the trend 是引领潮流。"
+    },
+    {
+      "word": "achievement",
+      "phr": [
+        {"en": "a sense of achievement", "zh": "成就感"},
+        {"en": "academic achievement", "zh": "学业成绩"}
+      ],
+      "ex": [
+        {"en": "Finishing the marathon gave him a great sense of achievement.",
+         "zh": "跑完马拉松让他有很强的成就感。"}
+      ],
+      "note": "achieve 加 -ment 构成；sense of achievement 常考。"
+    },
+    {
+      "word": "sturdy",
+      "phr": [
+        {"en": "sturdy shoes", "zh": "结实的鞋"},
+        {"en": "a sturdy table", "zh": "结实的桌子"}
+      ],
+      "ex": [
+        {"en": "You need sturdy shoes for walking in these rocky hills.",
+         "zh": "在这些多石的山里走路需要结实的鞋。"}
+      ],
+      "note": "sturdy 指结构结实，也可形容人身体强壮、立场坚定。"
+    },
+    {
+      "word": "desirable",
+      "phr": [
+        {"en": "highly desirable", "zh": "非常可取"},
+        {"en": "a desirable location", "zh": "理想地段"}
+      ],
+      "ex": [
+        {"en": "A quiet street near the school makes the flat highly desirable.",
+         "zh": "靠近学校的安静街道使这套公寓非常抢手。"}
+      ],
+      "note": "desirable 指“值得拥有的”；desirous 是“渴望的”。"
+    },
+    {
+      "word": "consist",
+      "phr": [
+        {"en": "consist of", "zh": "由…组成"},
+        {"en": "consist in", "zh": "在于"}
+      ],
+      "ex": [
+        {"en": "The committee consists of eight members from different departments.",
+         "zh": "委员会由来自不同部门的八名成员组成。"}
+      ],
+      "note": "consist 是不及物动词，无被动语态，须接 of 或 in。"
+    },
+    {
+      "word": "reliable",
+      "phr": [
+        {"en": "a reliable source", "zh": "可靠的消息来源"},
+        {"en": "reliable information", "zh": "可靠信息"}
+      ],
+      "ex": [
+        {"en": "We need reliable data before we can make a decision.",
+         "zh": "在做出决定之前我们需要可靠的数据。"}
+      ],
+      "note": "rely（依赖）+able → 可依赖的；反义词 unreliable。"
+    }
+  ]
+}

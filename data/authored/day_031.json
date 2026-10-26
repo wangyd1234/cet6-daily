@@ -1,0 +1,365 @@
+{
+  "day": 31,
+  "words": [
+    {
+      "word": "setback",
+      "phr": [
+        {"en": "a major setback", "zh": "重大挫折"},
+        {"en": "suffer a setback", "zh": "遭受挫折"}
+      ],
+      "ex": [
+        {"en": "The injury was a major setback for the young athlete's career.",
+         "zh": "这次受伤对这位年轻运动员的职业生涯是重大挫折。"}
+      ],
+      "note": "set + back 字面「往回推」，引申为挫折、倒退。"
+    },
+    {
+      "word": "resident",
+      "phr": [
+        {"en": "local residents", "zh": "当地居民"},
+        {"en": "a permanent resident", "zh": "永久居民"}
+      ],
+      "ex": [
+        {"en": "Local residents complained about the noise from the new factory.",
+         "zh": "当地居民抱怨新工厂的噪音。"}
+      ],
+      "note": "resident 指居民或住院、住校者；动词是 reside。"
+    },
+    {
+      "word": "symbolic",
+      "phr": [
+        {"en": "be symbolic of", "zh": "象征…"},
+        {"en": "a symbolic gesture", "zh": "象征性姿态"}
+      ],
+      "ex": [
+        {"en": "The white dove is symbolic of peace in many cultures.",
+         "zh": "在许多文化中，白鸽象征和平。"}
+      ],
+      "note": "be symbolic of 后接所象征之物；名词是 symbol。"
+    },
+    {
+      "word": "distinguish",
+      "phr": [
+        {"en": "distinguish between", "zh": "区分"},
+        {"en": "distinguish oneself", "zh": "使自己出众"}
+      ],
+      "ex": [
+        {"en": "Children learn to distinguish between fact and opinion at an early age.",
+         "zh": "儿童在很早的年龄就学会区分事实与观点。"}
+      ],
+      "note": "distinguish A from B 或 between A and B。"
+    },
+    {
+      "word": "mall",
+      "phr": [
+        {"en": "a shopping mall", "zh": "购物中心"},
+        {"en": "at the mall", "zh": "在购物中心"}
+      ],
+      "ex": [
+        {"en": "We spent the whole afternoon at the shopping mall looking for shoes.",
+         "zh": "我们在购物中心逛了一下午，想买鞋。"}
+      ],
+      "note": "mall 多指室内大型购物中心，英式常说 shopping centre。"
+    },
+    {
+      "word": "module",
+      "phr": [
+        {"en": "a training module", "zh": "培训模块"},
+        {"en": "a lunar module", "zh": "登月舱"}
+      ],
+      "ex": [
+        {"en": "The online course is divided into six modules, each lasting a week.",
+         "zh": "这门在线课程分为六个模块，每个模块持续一周。"}
+      ],
+      "note": "module 指课程或系统中的独立单元，如 training module。"
+    },
+    {
+      "word": "howl",
+      "phr": [
+        {"en": "howl with laughter", "zh": "放声大笑"},
+        {"en": "the wind howled", "zh": "风呼啸"}
+      ],
+      "ex": [
+        {"en": "The wind howled all night and kept the whole family awake.",
+         "zh": "风呼啸了一整夜，让全家人都睡不着。"}
+      ],
+      "note": "howl 指狗长声嚎叫，也形容风声、大笑或哀号。"
+    },
+    {
+      "word": "execute",
+      "phr": [
+        {"en": "execute a plan", "zh": "执行计划"},
+        {"en": "execute a program", "zh": "运行程序"}
+      ],
+      "ex": [
+        {"en": "The team executed the plan perfectly and finished two days early.",
+         "zh": "团队完美执行了计划，提前两天完成。"}
+      ],
+      "note": "execute 表「执行」比 do 正式，也可指处死与运行程序。"
+    },
+    {
+      "word": "substantial",
+      "phr": [
+        {"en": "a substantial amount", "zh": "大量"},
+        {"en": "substantial progress", "zh": "重大进展"}
+      ],
+      "ex": [
+        {"en": "The charity received a substantial amount of money from an unknown donor.",
+         "zh": "该慈善机构收到一位匿名捐赠者的一大笔钱。"}
+      ],
+      "note": "substantial 指数量可观或「实质的」，比 large 正式。"
+    },
+    {
+      "word": "benefit",
+      "phr": [
+        {"en": "benefit from", "zh": "从…中受益"},
+        {"en": "for the benefit of", "zh": "为了…的利益"}
+      ],
+      "ex": [
+        {"en": "Small farmers benefit most from the new irrigation programme.",
+         "zh": "小农户从新的灌溉计划中受益最多。"}
+      ],
+      "note": "benefit sb 有益于；benefit from 受益于，注意介词。"
+    },
+    {
+      "word": "booth",
+      "phr": [
+        {"en": "a phone booth", "zh": "电话亭"},
+        {"en": "a ticket booth", "zh": "售票亭"}
+      ],
+      "ex": [
+        {"en": "She called me from a phone booth at the corner of the street.",
+         "zh": "她在街角的电话亭给我打了电话。"}
+      ],
+      "note": "booth 指隔开的小间，如电话亭、投票亭、展位。"
+    },
+    {
+      "word": "enthusiastic",
+      "phr": [
+        {"en": "be enthusiastic about", "zh": "对…有热情"},
+        {"en": "an enthusiastic supporter", "zh": "热情的支持者"}
+      ],
+      "ex": [
+        {"en": "The students were enthusiastic about the idea of starting a school garden.",
+         "zh": "学生们对开办校园菜园的想法很有热情。"}
+      ],
+      "note": "be enthusiastic about 后接名词；名词是 enthusiasm。"
+    },
+    {
+      "word": "disastrous",
+      "phr": [
+        {"en": "a disastrous decision", "zh": "灾难性决定"},
+        {"en": "disastrous consequences", "zh": "灾难性后果"}
+      ],
+      "ex": [
+        {"en": "The decision to cut safety checks had disastrous consequences for the factory.",
+         "zh": "削减安全检查的决定给工厂带来了灾难性后果。"}
+      ],
+      "note": "disaster 加 -ous 变形容词，注意拼写非 disasterous。"
+    },
+    {
+      "word": "unique",
+      "phr": [
+        {"en": "be unique to", "zh": "为…所独有"},
+        {"en": "a unique opportunity", "zh": "独一无二的机会"}
+      ],
+      "ex": [
+        {"en": "This problem is unique to small towns where few doctors work.",
+         "zh": "这个问题只有医生稀少的小镇才会出现。"}
+      ],
+      "note": "unique 为绝对形容词，不用 very 修饰。"
+    },
+    {
+      "word": "processing",
+      "phr": [
+        {"en": "data processing", "zh": "数据处理"},
+        {"en": "food processing", "zh": "食品加工"}
+      ],
+      "ex": [
+        {"en": "The company uses modern software for data processing and storage.",
+         "zh": "该公司使用现代软件进行数据处理和存储。"}
+      ],
+      "note": "processing 多作定语，如 data processing。"
+    },
+    {
+      "word": "boost",
+      "phr": [
+        {"en": "boost the economy", "zh": "提振经济"},
+        {"en": "a boost to confidence", "zh": "增强信心"}
+      ],
+      "ex": [
+        {"en": "The tax cut is expected to boost spending among low-income families.",
+         "zh": "减税预计会提振低收入家庭的消费。"}
+      ],
+      "note": "boost 比 increase 更强调有力推动，常接 economy、sales。"
+    },
+    {
+      "word": "impulse",
+      "phr": [
+        {"en": "on impulse", "zh": "一时冲动地"},
+        {"en": "resist an impulse", "zh": "抑制冲动"}
+      ],
+      "ex": [
+        {"en": "She bought the expensive coat on impulse and regretted it later.",
+         "zh": "她一时冲动买下那件昂贵的大衣，后来就后悔了。"}
+      ],
+      "note": "on impulse 表「一时冲动地」；形容词是 impulsive。"
+    },
+    {
+      "word": "sober",
+      "phr": [
+        {"en": "stay sober", "zh": "保持清醒"},
+        {"en": "a sober assessment", "zh": "冷静的评估"}
+      ],
+      "ex": [
+        {"en": "After the accident he decided to stay sober for the rest of the year.",
+         "zh": "事故之后，他决定这一年里都不再喝酒。"}
+      ],
+      "note": "sober 本义「未醉的」，引申为严肃、冷静的。"
+    },
+    {
+      "word": "crystallize",
+      "phr": [
+        {"en": "crystallize into", "zh": "凝聚成"},
+        {"en": "crystallize one's thoughts", "zh": "理清思路"}
+      ],
+      "ex": [
+        {"en": "Years of discussion finally crystallized into a clear plan for reform.",
+         "zh": "多年的讨论最终凝成了一份清晰的改革方案。"}
+      ],
+      "note": "本义「结晶」，引申指想法、计划变得清晰明确。"
+    },
+    {
+      "word": "religious",
+      "phr": [
+        {"en": "religious beliefs", "zh": "宗教信仰"},
+        {"en": "a religious ceremony", "zh": "宗教仪式"}
+      ],
+      "ex": [
+        {"en": "The festival is both a religious ceremony and a popular street party.",
+         "zh": "这个节日既是宗教仪式，也是受欢迎的街头聚会。"}
+      ],
+      "note": "religious 是 religion 的形容词；beliefs 常用复数。"
+    },
+    {
+      "word": "infectious",
+      "phr": [
+        {"en": "an infectious disease", "zh": "传染病"},
+        {"en": "infectious laughter", "zh": "有感染力的笑声"}
+      ],
+      "ex": [
+        {"en": "The doctor warned that the disease was highly infectious and spread quickly.",
+         "zh": "医生警告说这种病传染性很强，传播迅速。"}
+      ],
+      "note": "infect 加 -ious；除「传染的」还指「有感染力的」。"
+    },
+    {
+      "word": "shelter",
+      "phr": [
+        {"en": "take shelter", "zh": "躲避"},
+        {"en": "a homeless shelter", "zh": "收容所"}
+      ],
+      "ex": [
+        {"en": "We took shelter under a tree until the heavy rain stopped.",
+         "zh": "我们躲在树下，直到大雨停了。"}
+      ],
+      "note": "take shelter from 后接风雨等；shelter 名动同形。"
+    },
+    {
+      "word": "prominent",
+      "phr": [
+        {"en": "a prominent figure", "zh": "显要人物"},
+        {"en": "play a prominent role", "zh": "发挥重要作用"}
+      ],
+      "ex": [
+        {"en": "She became a prominent figure in the fight for cleaner air.",
+         "zh": "她成为争取清洁空气运动中的显要人物。"}
+      ],
+      "note": "prominent 指位置突出或地位显要；pro- 表向前。"
+    },
+    {
+      "word": "expel",
+      "phr": [
+        {"en": "expel a student", "zh": "开除学生"},
+        {"en": "be expelled from school", "zh": "被开除学籍"}
+      ],
+      "ex": [
+        {"en": "Two students were expelled from school for cheating in the exam.",
+         "zh": "两名学生因考试作弊被开除学籍。"}
+      ],
+      "note": "expel 常用被动 be expelled from；ex-（出）+ pel（推）。"
+    },
+    {
+      "word": "superiority",
+      "phr": [
+        {"en": "superiority over", "zh": "对…的优势"},
+        {"en": "a sense of superiority", "zh": "优越感"}
+      ],
+      "ex": [
+        {"en": "Their superiority over the other team was clear from the first minute.",
+         "zh": "他们比其他队的优势从第一分钟就显而易见。"}
+      ],
+      "note": "superiority over 表「优于」；superior 本身含比较义。"
+    },
+    {
+      "word": "outset",
+      "phr": [
+        {"en": "at the outset", "zh": "开始时"},
+        {"en": "from the outset", "zh": "从一开始"}
+      ],
+      "ex": [
+        {"en": "The risks were obvious from the outset, yet nobody raised any objection.",
+         "zh": "从一开始风险就很明显，却没人提出异议。"}
+      ],
+      "note": "outset 只用于 at/from the outset 这类短语中。"
+    },
+    {
+      "word": "latitude",
+      "phr": [
+        {"en": "latitude and longitude", "zh": "经纬度"},
+        {"en": "give sb latitude", "zh": "给某人自由"}
+      ],
+      "ex": [
+        {"en": "Teachers are given considerable latitude in choosing classroom materials.",
+         "zh": "教师在选用课堂材料上有相当大的自由。"}
+      ],
+      "note": "latitude 本义「纬度」，引申为行动自由、回旋余地。"
+    },
+    {
+      "word": "scan",
+      "phr": [
+        {"en": "scan the code", "zh": "扫码"},
+        {"en": "scan the headlines", "zh": "浏览标题"}
+      ],
+      "ex": [
+        {"en": "He scanned the headlines quickly before leaving for work.",
+         "zh": "上班前他快速浏览了一下新闻标题。"}
+      ],
+      "note": "scan 既指细看也指快速浏览，另指扫描文件。"
+    },
+    {
+      "word": "association",
+      "phr": [
+        {"en": "in association with", "zh": "与…合作"},
+        {"en": "a trade association", "zh": "行业协会"}
+      ],
+      "ex": [
+        {"en": "The exhibition was organized in association with the city museum.",
+         "zh": "这次展览是与市博物馆合作举办的。"}
+      ],
+      "note": "in association with 表合作；该词也可指「联想」。"
+    },
+    {
+      "word": "fundamental",
+      "phr": [
+        {"en": "fundamental change", "zh": "根本变化"},
+        {"en": "be fundamental to", "zh": "对…至关重要"}
+      ],
+      "ex": [
+        {"en": "Trust is fundamental to any lasting relationship between people.",
+         "zh": "信任是人与人之间任何长久关系的基础。"}
+      ],
+      "note": "fundamental to 中 to 是介词；词根 fund 表基础。"
+    }
+  ]
+}

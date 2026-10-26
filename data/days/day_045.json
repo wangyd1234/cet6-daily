@@ -1,0 +1,246 @@
+{
+ "day": 45,
+ "date": null,
+ "words": [
+  {
+   "id": 1321,
+   "word": "hardy",
+   "uk": "/ˈhɑːdi/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "能吃苦耐劳的；坚强的；耐寒的"
+  },
+  {
+   "id": 1322,
+   "word": "purify",
+   "uk": "/ˈpjuərɪfaɪ/",
+   "us": "/ˈpjʊrɪfaɪ/",
+   "pos": "vt.",
+   "cn": "使纯净；提纯；使纯洁"
+  },
+  {
+   "id": 1323,
+   "word": "toll",
+   "uk": "/təul/",
+   "us": "/tol/",
+   "pos": "v.,n.",
+   "cn": "敲；过路费；过桥费；伤亡人数；损失"
+  },
+  {
+   "id": 1324,
+   "word": "variation",
+   "uk": "/ˌveəriˈeɪʃn/",
+   "us": "/,vɛrɪˈeʃən/",
+   "pos": "n.",
+   "cn": "变化；变动；变异；变奏"
+  },
+  {
+   "id": 1325,
+   "word": "moral",
+   "uk": "/ˈmɒrəl/",
+   "us": "/ˈmɔrəl/",
+   "pos": "adj.,n.",
+   "cn": "道德的；有道德的；品行；道德规范；寓意"
+  },
+  {
+   "id": 1326,
+   "word": "rig",
+   "uk": "/rɪg/",
+   "us": "/rɪɡ/",
+   "pos": "vt.,n.",
+   "cn": "操纵；垄断；给装配帆及索具；用临时替代材料迅速搭起；船桅的装置；成套器械"
+  },
+  {
+   "id": 1327,
+   "word": "eject",
+   "uk": "/iˈdʒekt/",
+   "us": "/ɪˈdʒɛkt/",
+   "pos": "vt.",
+   "cn": "驱逐；逐出；喷射；排出；弹出"
+  },
+  {
+   "id": 1328,
+   "word": "defect",
+   "uk": "/ˈdiːfekt/",
+   "us": "/‘dɪfɛkt/",
+   "pos": "vi.,n.",
+   "cn": "变节；叛变；缺点；缺陷；欠缺[dI'fekt]"
+  },
+  {
+   "id": 1329,
+   "word": "reinforce",
+   "uk": "/ˌriːɪnˈfɔːs/",
+   "us": "/,riɪnˈfɔrs/",
+   "pos": "vt.",
+   "cn": "增强；加强；增援"
+  },
+  {
+   "id": 1330,
+   "word": "casual",
+   "uk": "/ˈkæʒuəl/",
+   "us": "/ˈkæʒʊəl/",
+   "pos": "adj.",
+   "cn": "偶然的；非正式的；临时的；不定期的；漠不关心的；冷淡的"
+  },
+  {
+   "id": 1331,
+   "word": "slack",
+   "uk": "/slæk/",
+   "us": "",
+   "pos": "vi.,adj.,n.",
+   "cn": "懈怠；懒散；懈怠的；马虎的；萧条的；清淡的；不活跃的；松的；松弛部分；宽松裤"
+  },
+  {
+   "id": 1332,
+   "word": "rim",
+   "uk": "/rɪm/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "边；缘；环绕边缘"
+  },
+  {
+   "id": 1333,
+   "word": "property",
+   "uk": "/ˈprɒpəti/",
+   "us": "/ˈprɑpɚti/",
+   "pos": "n.",
+   "cn": "财产；所有物；房产；物业；性质；性能"
+  },
+  {
+   "id": 1334,
+   "word": "rip",
+   "uk": "/rɪp/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "扯破；撕坏；裂口；裂缝"
+  },
+  {
+   "id": 1335,
+   "word": "outbreak",
+   "uk": "/ˈautbreɪk/",
+   "us": "/ˈaʊtbrek/",
+   "pos": "n.",
+   "cn": "爆发；突然发生"
+  },
+  {
+   "id": 1336,
+   "word": "manipulate",
+   "uk": "/məˈnɪpjuleɪt/",
+   "us": "/məˈnɪpjulet/",
+   "pos": "vt.",
+   "cn": "操纵；控制；影响；操作；使用"
+  },
+  {
+   "id": 1337,
+   "word": "similar",
+   "uk": "/ˈsɪmələ/",
+   "us": "/ˈsɪməlɚ/",
+   "pos": "adj.",
+   "cn": "相似的；类似的"
+  },
+  {
+   "id": 1338,
+   "word": "contradict",
+   "uk": "/ˌkɒntrəˈdɪkt/",
+   "us": "/ˈkɑntrəˈdɪkt/",
+   "pos": "vt.",
+   "cn": "反驳；否认…的真实性；与…发生矛盾；与…抵触"
+  },
+  {
+   "id": 1339,
+   "word": "melody",
+   "uk": "/ˈmelədi/",
+   "us": "/ˈmɛlədi/",
+   "pos": "n.",
+   "cn": "旋律；曲调；悦耳的音乐"
+  },
+  {
+   "id": 1340,
+   "word": "likelihood",
+   "uk": "/ˈlaɪklihud/",
+   "us": "/ˈlaɪklɪhʊd/",
+   "pos": "n.",
+   "cn": "可能；可能性"
+  },
+  {
+   "id": 1341,
+   "word": "converge",
+   "uk": "/kənˈvɜːdʒ/",
+   "us": "/kənˈvɝdʒ/",
+   "pos": "vi.",
+   "cn": "会合；互相靠拢；聚集；集中；趋近"
+  },
+  {
+   "id": 1342,
+   "word": "compose",
+   "uk": "/kəmˈpəuz/",
+   "us": "/kəmˈpoz/",
+   "pos": "vt.",
+   "cn": "组成；构成；创作；为…谱曲；使平静；使镇静"
+  },
+  {
+   "id": 1343,
+   "word": "catholic",
+   "uk": "/ˈkæθlɪk/",
+   "us": "/kæθəlɪk/",
+   "pos": "adj.,n.",
+   "cn": "[C-]天主教的；普遍的；广泛的；[C-]天主教徒"
+  },
+  {
+   "id": 1344,
+   "word": "partial",
+   "uk": "/ˈpɑːʃl/",
+   "us": "/ˈpɑrʃəl/",
+   "pos": "adj.",
+   "cn": "部分的；不公平的；偏爱的；偏袒的"
+  },
+  {
+   "id": 1345,
+   "word": "aid",
+   "uk": "/eɪd/",
+   "us": "/ed/",
+   "pos": "n.,vt.",
+   "cn": "帮助；救护；助手；辅助手段；帮助；援助"
+  },
+  {
+   "id": 1346,
+   "word": "supersonic",
+   "uk": "/ˌsuːpəˈsɒnɪk/",
+   "us": "/,supɚˈsɑnɪk/",
+   "pos": "adj.",
+   "cn": "超声的；超音速的"
+  },
+  {
+   "id": 1347,
+   "word": "optimism",
+   "uk": "/ˈɒptɪmɪzəm/",
+   "us": "/ˈɑptɪmɪzəm/",
+   "pos": "n.",
+   "cn": "乐观；乐观主义"
+  },
+  {
+   "id": 1348,
+   "word": "confident",
+   "uk": "/ˈkɒnfɪdənt/",
+   "us": "/ˈkɑnfɪdənt/",
+   "pos": "adj.",
+   "cn": "确信的；肯定的；自信的"
+  },
+  {
+   "id": 1349,
+   "word": "retain",
+   "uk": "/rɪˈteɪn/",
+   "us": "/rɪˈten/",
+   "pos": "vt.",
+   "cn": "保留；保持"
+  },
+  {
+   "id": 1350,
+   "word": "drastic",
+   "uk": "/ˈdræstɪk/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "严厉的；极端的；激烈的；迅猛的"
+  }
+ ]
+}

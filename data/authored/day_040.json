@@ -1,0 +1,365 @@
+{
+  "day": 40,
+  "words": [
+    {
+      "word": "perfection",
+      "phr": [
+        {"en": "to perfection", "zh": "完美地"},
+        {"en": "strive for perfection", "zh": "追求完美"}
+      ],
+      "ex": [
+        {"en": "The chef cooked the fish to perfection and served it with fresh herbs.",
+         "zh": "厨师把鱼做得恰到好处，配上新鲜香草端上桌。"}
+      ],
+      "note": "to perfection 是固定搭配，表“恰到好处、完美地”。"
+    },
+    {
+      "word": "vague",
+      "phr": [
+        {"en": "a vague idea", "zh": "模糊的想法"},
+        {"en": "vague about", "zh": "对…含糊其辞"}
+      ],
+      "ex": [
+        {"en": "He only had a vague idea of what the job would involve.",
+         "zh": "他对这份工作要做些什么只有模糊的了解。"}
+      ],
+      "note": "be vague about sth 表对某事含糊其辞。"
+    },
+    {
+      "word": "pope",
+      "phr": [
+        {"en": "elect a new Pope", "zh": "选出新任教皇"},
+        {"en": "the Pope's visit", "zh": "教皇的访问"}
+      ],
+      "ex": [
+        {"en": "Thousands of people gathered in the square to see the Pope.",
+         "zh": "数千人聚集在广场上，想一睹教皇的风采。"}
+      ],
+      "note": "Pope 首字母大写，指罗马教皇，是天主教领袖。"
+    },
+    {
+      "word": "exception",
+      "phr": [
+        {"en": "make an exception", "zh": "破例"},
+        {"en": "with the exception of", "zh": "除…之外"}
+      ],
+      "ex": [
+        {"en": "The teacher made an exception and let him hand in the essay late.",
+         "zh": "老师破例允许他晚交作文。"}
+      ],
+      "note": "exception 是名词；without exception 表无例外。"
+    },
+    {
+      "word": "ego",
+      "phr": [
+        {"en": "hurt sb's ego", "zh": "伤害自尊"},
+        {"en": "a big ego", "zh": "自负"}
+      ],
+      "ex": [
+        {"en": "Losing the match hurt his ego more than he was willing to admit.",
+         "zh": "输掉比赛伤了他的自尊，尽管他不愿承认。"}
+      ],
+      "note": "ego 指自我、自尊；hurt sb's ego 即伤自尊。"
+    },
+    {
+      "word": "urge",
+      "phr": [
+        {"en": "urge sb to do", "zh": "敦促某人做"},
+        {"en": "have an urge to", "zh": "有…的冲动"}
+      ],
+      "ex": [
+        {"en": "Doctors urge people to cut down on salt and sugar.",
+         "zh": "医生敦促人们少吃盐和糖。"}
+      ],
+      "note": "urge 后可接 sb to do sth；作名词用 an urge to do。"
+    },
+    {
+      "word": "spouse",
+      "phr": [
+        {"en": "a spouse's income", "zh": "配偶的收入"},
+        {"en": "employees and spouses", "zh": "员工及配偶"}
+      ],
+      "ex": [
+        {"en": "Each employee may bring a spouse to the company dinner.",
+         "zh": "每位员工可带配偶参加公司晚宴。"}
+      ],
+      "note": "spouse 是配偶的正式统称，男女通用，公文常用。"
+    },
+    {
+      "word": "score",
+      "phr": [
+        {"en": "score a goal", "zh": "进球得分"},
+        {"en": "test scores", "zh": "考试成绩"}
+      ],
+      "ex": [
+        {"en": "Our team scored a goal in the last minute and won the game.",
+         "zh": "我们队在最后一分钟攻入一球，赢下了比赛。"}
+      ],
+      "note": "score 指比分、得分；three score 表六十。"
+    },
+    {
+      "word": "isle",
+      "phr": [
+        {"en": "a remote isle", "zh": "偏远的岛屿"},
+        {"en": "a rocky isle", "zh": "岩石小岛"}
+      ],
+      "ex": [
+        {"en": "The ferry takes tourists to a small isle off the coast every morning.",
+         "zh": "渡船每天早上把游客送到离岸不远的一座小岛。"}
+      ],
+      "note": "isle 多用于诗歌或地名，如 the Isle of Man。"
+    },
+    {
+      "word": "enclosure",
+      "phr": [
+        {"en": "a fenced enclosure", "zh": "有围栏的场地"},
+        {"en": "keep animals in an enclosure", "zh": "把动物圈养在围场"}
+      ],
+      "ex": [
+        {"en": "The zoo built a larger enclosure for the bears last summer.",
+         "zh": "去年夏天动物园为熊建了更大的围场。"}
+      ],
+      "note": "enclosure 指围场，也指信中附件；动词是 enclose。"
+    },
+    {
+      "word": "graduate",
+      "phr": [
+        {"en": "graduate from", "zh": "毕业于"},
+        {"en": "a graduate student", "zh": "研究生"}
+      ],
+      "ex": [
+        {"en": "She will graduate from university next June and start work in July.",
+         "zh": "她明年六月大学毕业，七月开始工作。"}
+      ],
+      "note": "graduate 作名词指毕业生；搭配 graduate from 加学校。"
+    },
+    {
+      "word": "famine",
+      "phr": [
+        {"en": "suffer from famine", "zh": "遭受饥荒"},
+        {"en": "a severe famine", "zh": "严重饥荒"}
+      ],
+      "ex": [
+        {"en": "The long drought led to a severe famine in the region.",
+         "zh": "长期干旱导致该地区发生严重饥荒。"}
+      ],
+      "note": "famine 指大范围食物短缺；形容词 famished 表非常饿。"
+    },
+    {
+      "word": "quota",
+      "phr": [
+        {"en": "meet the quota", "zh": "完成定额"},
+        {"en": "an import quota", "zh": "进口配额"}
+      ],
+      "ex": [
+        {"en": "Each salesperson has to meet a monthly quota of twenty orders.",
+         "zh": "每位销售员每月必须完成二十单的定额。"}
+      ],
+      "note": "quota 指定额、配额；meet the quota 表完成指标。"
+    },
+    {
+      "word": "unanimous",
+      "phr": [
+        {"en": "a unanimous decision", "zh": "一致的决定"},
+        {"en": "unanimous support", "zh": "一致的支持"}
+      ],
+      "ex": [
+        {"en": "The committee reached a unanimous decision to delay the project.",
+         "zh": "委员会一致决定推迟该项目。"}
+      ],
+      "note": "unanimous 指全体一致，常用 a unanimous decision。"
+    },
+    {
+      "word": "scorn",
+      "phr": [
+        {"en": "pour scorn on", "zh": "嘲笑；贬低"},
+        {"en": "with scorn", "zh": "轻蔑地"}
+      ],
+      "ex": [
+        {"en": "He poured scorn on the idea and refused to discuss it further.",
+         "zh": "他对这个想法大加嘲讽，拒绝再讨论下去。"}
+      ],
+      "note": "scorn 表轻蔑；pour scorn on sb 意为嘲笑某人。"
+    },
+    {
+      "word": "thermal",
+      "phr": [
+        {"en": "thermal energy", "zh": "热能"},
+        {"en": "thermal underwear", "zh": "保暖内衣"}
+      ],
+      "ex": [
+        {"en": "The building uses thermal energy from the ground to keep warm.",
+         "zh": "这栋楼利用地下的热能取暖。"}
+      ],
+      "note": "thermal 词根表“热”，常搭配 energy、power。"
+    },
+    {
+      "word": "sulfur",
+      "phr": [
+        {"en": "sulfur dioxide", "zh": "二氧化硫"},
+        {"en": "sulfur content", "zh": "硫含量"}
+      ],
+      "ex": [
+        {"en": "Burning coal releases sulfur dioxide, which pollutes the air.",
+         "zh": "燃烧煤炭会释放二氧化硫，污染空气。"}
+      ],
+      "note": "sulfur 是硫，英式拼作 sulphur，元素符号 S。"
+    },
+    {
+      "word": "visual",
+      "phr": [
+        {"en": "visual effects", "zh": "视觉效果"},
+        {"en": "visual arts", "zh": "视觉艺术"}
+      ],
+      "ex": [
+        {"en": "The film's stunning visual effects drew millions of viewers to cinemas.",
+         "zh": "这部电影惊人的视觉效果吸引数百万观众走进影院。"}
+      ],
+      "note": "visual 指视觉的，词根 vis- 表“看”，如 vision。"
+    },
+    {
+      "word": "terrain",
+      "phr": [
+        {"en": "rough terrain", "zh": "崎岖的地形"},
+        {"en": "mountainous terrain", "zh": "山地地形"}
+      ],
+      "ex": [
+        {"en": "The rescue team moved slowly across the rough terrain at night.",
+         "zh": "救援队夜间在崎岖地形上缓慢前进。"}
+      ],
+      "note": "terrain 指地势、地形，常用于军事和户外语境。"
+    },
+    {
+      "word": "grief",
+      "phr": [
+        {"en": "deep grief", "zh": "深深的悲痛"},
+        {"en": "come to grief", "zh": "失败；遭难"}
+      ],
+      "ex": [
+        {"en": "She could not hide her grief at the funeral of her old friend.",
+         "zh": "在老友的葬礼上，她无法掩饰悲痛。"}
+      ],
+      "note": "grief 是名词悲痛；动词是 grieve，表哀悼。"
+    },
+    {
+      "word": "rap",
+      "phr": [
+        {"en": "rap music", "zh": "说唱音乐"},
+        {"en": "a rap on the door", "zh": "轻轻的敲门声"}
+      ],
+      "ex": [
+        {"en": "The students performed a rap song about protecting the environment.",
+         "zh": "学生们表演了一首关于保护环境的说唱歌曲。"}
+      ],
+      "note": "rap 指说唱乐或急促敲击；注意与 wrap 区分。"
+    },
+    {
+      "word": "upgrade",
+      "phr": [
+        {"en": "upgrade the system", "zh": "升级系统"},
+        {"en": "a free upgrade", "zh": "免费升级"}
+      ],
+      "ex": [
+        {"en": "The hotel gave us a free upgrade to a room with a sea view.",
+         "zh": "酒店免费给我们升级到一间海景房。"}
+      ],
+      "note": "upgrade 指升级、提升，反义词是 downgrade。"
+    },
+    {
+      "word": "instruct",
+      "phr": [
+        {"en": "instruct sb to do", "zh": "指示某人做"},
+        {"en": "instruct students", "zh": "教授学生"}
+      ],
+      "ex": [
+        {"en": "The coach instructed the players to warm up before the match.",
+         "zh": "教练指示球员赛前热身。"}
+      ],
+      "note": "instruct 后接 sb to do sth；作“教授”较正式。"
+    },
+    {
+      "word": "appendix",
+      "phr": [
+        {"en": "in the appendix", "zh": "在附录中"},
+        {"en": "the appendix of the book", "zh": "书的附录"}
+      ],
+      "ex": [
+        {"en": "The full data tables appear in the appendix at the back of the report.",
+         "zh": "完整的数据表见报告后面的附录。"}
+      ],
+      "note": "appendix 复数 appendices，也指人体阑尾。"
+    },
+    {
+      "word": "virtually",
+      "phr": [
+        {"en": "virtually impossible", "zh": "几乎不可能"},
+        {"en": "virtually all", "zh": "几乎所有"}
+      ],
+      "ex": [
+        {"en": "Virtually all students in the class passed the final exam.",
+         "zh": "班里几乎所有学生都通过了期末考试。"}
+      ],
+      "note": "virtually 意为“几乎、实际上”，不是“虚拟地”。"
+    },
+    {
+      "word": "agreeable",
+      "phr": [
+        {"en": "an agreeable companion", "zh": "讨人喜欢的同伴"},
+        {"en": "be agreeable to", "zh": "同意…"}
+      ],
+      "ex": [
+        {"en": "The walk along the river was agreeable despite the cold wind.",
+         "zh": "虽然风冷，沿河散步仍然惬意。"}
+      ],
+      "note": "agreeable 指令人愉快的，也可指愿意同意的，接 to。"
+    },
+    {
+      "word": "economy",
+      "phr": [
+        {"en": "the local economy", "zh": "当地经济"},
+        {"en": "fuel economy", "zh": "燃油经济性"}
+      ],
+      "ex": [
+        {"en": "Tourism plays an important role in the local economy.",
+         "zh": "旅游业在当地经济中起着重要作用。"}
+      ],
+      "note": "economy 指经济；economic 是经济的，economical 是节约的。"
+    },
+    {
+      "word": "community",
+      "phr": [
+        {"en": "the local community", "zh": "当地社区"},
+        {"en": "community service", "zh": "社区服务"}
+      ],
+      "ex": [
+        {"en": "The library is a meeting place for the whole local community.",
+         "zh": "图书馆是整个当地社区的聚会场所。"}
+      ],
+      "note": "community 指社区，也可指有共同特征的群体。"
+    },
+    {
+      "word": "version",
+      "phr": [
+        {"en": "the latest version", "zh": "最新版本"},
+        {"en": "a different version", "zh": "不同的说法"}
+      ],
+      "ex": [
+        {"en": "The two witnesses gave a different version of what happened that night.",
+         "zh": "两名目击者对那晚发生的事给出了不同说法。"}
+      ],
+      "note": "version 指版本，也可指个人对事件的表述。"
+    },
+    {
+      "word": "sprinkle",
+      "phr": [
+        {"en": "sprinkle salt on", "zh": "在…上撒盐"},
+        {"en": "a sprinkle of", "zh": "少量…"}
+      ],
+      "ex": [
+        {"en": "Sprinkle a little salt on the potatoes before serving them.",
+         "zh": "上桌前在土豆上撒一点盐。"}
+      ],
+      "note": "sprinkle 指撒少量东西，常用 sprinkle A on B。"
+    }
+  ]
+}

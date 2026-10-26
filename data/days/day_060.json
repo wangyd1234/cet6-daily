@@ -1,0 +1,246 @@
+{
+ "day": 60,
+ "date": null,
+ "words": [
+  {
+   "id": 1771,
+   "word": "pamphlet",
+   "uk": "/ˈpæmflət/",
+   "us": "/ˈpæmflɪt/",
+   "pos": "n.",
+   "cn": "小册子"
+  },
+  {
+   "id": 1772,
+   "word": "preparatory",
+   "uk": "/prɪˈpærətri/",
+   "us": "/prɪˈpærətɔri/",
+   "pos": "adj.",
+   "cn": "预备的"
+  },
+  {
+   "id": 1773,
+   "word": "neglect",
+   "uk": "/nɪˈglekt/",
+   "us": "/nɪˈglɛkt/",
+   "pos": "vt.,n.",
+   "cn": "忽视；忽略；疏忽"
+  },
+  {
+   "id": 1774,
+   "word": "addition",
+   "uk": "/əˈdɪʃn/",
+   "us": "/əˈdɪʃən/",
+   "pos": "n.",
+   "cn": "加；加法；附加物"
+  },
+  {
+   "id": 1775,
+   "word": "vein",
+   "uk": "/veɪn/",
+   "us": "/ven/",
+   "pos": "n.",
+   "cn": "静脉；血管；叶脉；纹理；纹路；方式；风格"
+  },
+  {
+   "id": 1776,
+   "word": "carve",
+   "uk": "/kɑːv/",
+   "us": "/kɑrv/",
+   "pos": "vt.",
+   "cn": "切；把…切碎；雕刻；刻"
+  },
+  {
+   "id": 1777,
+   "word": "veil",
+   "uk": "/veɪl/",
+   "us": "/vel/",
+   "pos": "n.,vt.",
+   "cn": "面纱；面罩；遮盖物；掩饰物；掩盖；掩饰"
+  },
+  {
+   "id": 1778,
+   "word": "shrink",
+   "uk": "/ʃrɪŋk/",
+   "us": "",
+   "pos": "vi.",
+   "cn": "起皱；收缩；退缩；畏缩"
+  },
+  {
+   "id": 1779,
+   "word": "hierarchy",
+   "uk": "/ˈhaɪərɑːki/",
+   "us": "/ˈhaɪərɑrki/",
+   "pos": "n.",
+   "cn": "等级制度；统治集团；领导层"
+  },
+  {
+   "id": 1780,
+   "word": "ancestor",
+   "uk": "/ˈænsestə/",
+   "us": "/ˈænsɛstɚ/",
+   "pos": "n.",
+   "cn": "祖宗；祖先；原型；先驱"
+  },
+  {
+   "id": 1781,
+   "word": "hazardous",
+   "uk": "/ˈhæzədəs/",
+   "us": "/ˈhæzɚdəs/",
+   "pos": "adj.",
+   "cn": "危险的；冒险的"
+  },
+  {
+   "id": 1782,
+   "word": "locality",
+   "uk": "/ləuˈkæləti/",
+   "us": "/loˈkæləti/",
+   "pos": "n.",
+   "cn": "地区；地点"
+  },
+  {
+   "id": 1783,
+   "word": "proceeding",
+   "uk": "/prəˈsiːdɪŋ/",
+   "us": "/prəˈsidɪŋ/",
+   "pos": "n.",
+   "cn": "诉讼"
+  },
+  {
+   "id": 1784,
+   "word": "artery",
+   "uk": "/ˈɑːtəri/",
+   "us": "/ˈɑrtəri/",
+   "pos": "n.",
+   "cn": "动脉；干线；要道"
+  },
+  {
+   "id": 1785,
+   "word": "panic",
+   "uk": "/ˈpænɪk/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "恐慌；惊慌失措；恐慌；惊慌；慌乱"
+  },
+  {
+   "id": 1786,
+   "word": "underestimate",
+   "uk": "/ˌʌndərˈestɪmeɪt/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "对…估计不足；低估；估计不足；低估"
+  },
+  {
+   "id": 1787,
+   "word": "fold",
+   "uk": "/fəuld/",
+   "us": "/fold/",
+   "pos": "vt.,n.",
+   "cn": "折叠；合拢；褶；折叠的部分"
+  },
+  {
+   "id": 1788,
+   "word": "transient",
+   "uk": "/ˈtrænziənt/",
+   "us": "/ˈtrænʃnt;trænʃənt/",
+   "pos": "adj.",
+   "cn": "短暂的；转瞬即逝的；临时的；暂住的"
+  },
+  {
+   "id": 1789,
+   "word": "hurl",
+   "uk": "/hɜːl/",
+   "us": "/hɝl/",
+   "pos": "vt.",
+   "cn": "猛投；狠掷；大声叫骂"
+  },
+  {
+   "id": 1790,
+   "word": "competitive",
+   "uk": "/kəmˈpetətɪv/",
+   "us": "/kəmˈpɛtətɪv/",
+   "pos": "adj.",
+   "cn": "竞争的；比赛的；好竞争的；求胜心切的；有竞争力的"
+  },
+  {
+   "id": 1791,
+   "word": "dean",
+   "uk": "/diːn/",
+   "us": "/din/",
+   "pos": "n.",
+   "cn": "教长；主任牧师；学院院长；系主任；训导主任"
+  },
+  {
+   "id": 1792,
+   "word": "sponge",
+   "uk": "/spʌndʒ/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "用湿海绵擦；揩；过寄生生活；海绵"
+  },
+  {
+   "id": 1793,
+   "word": "abuse",
+   "uk": "/əˈbjuːz/",
+   "us": "/əˈbjus/",
+   "pos": "vt.,n.",
+   "cn": "滥用；虐待；辱骂；毁谤；滥用；虐待；辱骂"
+  },
+  {
+   "id": 1794,
+   "word": "scheme",
+   "uk": "/skiːm/",
+   "us": "/skim/",
+   "pos": "v.,n.",
+   "cn": "密谋；策划；计划；方案；阴谋"
+  },
+  {
+   "id": 1795,
+   "word": "insulate",
+   "uk": "/ˈɪnsjuleɪt/",
+   "us": "/ˈɪnsəˌleɪt;ˈɪnsjʊˌleɪt/",
+   "pos": "vt.",
+   "cn": "使绝缘；使隔热；使隔音；隔离；使隔绝"
+  },
+  {
+   "id": 1796,
+   "word": "consequently",
+   "uk": "/ˈkɒnsɪkwəntli/",
+   "us": "/ˈkɑnsəkwɛntli/",
+   "pos": "adv.",
+   "cn": "因此；因而；所以"
+  },
+  {
+   "id": 1797,
+   "word": "drain",
+   "uk": "/dreɪn/",
+   "us": "/dren/",
+   "pos": "vi.,vt.,n.",
+   "cn": "慢慢减少；排去；放水；渐渐耗尽；耗竭；排水沟；排水管"
+  },
+  {
+   "id": 1798,
+   "word": "reluctance",
+   "uk": "/rɪˈlʌktəns/",
+   "us": "",
+   "pos": "n.",
+   "cn": "不愿；勉强"
+  },
+  {
+   "id": 1799,
+   "word": "rape",
+   "uk": "/reɪp/",
+   "us": "/rep/",
+   "pos": "vt.,n.",
+   "cn": "强奸"
+  },
+  {
+   "id": 1800,
+   "word": "isolate",
+   "uk": "/ˈaɪsəleɪt/",
+   "us": "/aɪslˌet/",
+   "pos": "vt.",
+   "cn": "使隔离；使孤立"
+  }
+ ]
+}

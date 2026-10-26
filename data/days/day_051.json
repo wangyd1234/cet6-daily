@@ -1,0 +1,246 @@
+{
+ "day": 51,
+ "date": null,
+ "words": [
+  {
+   "id": 1501,
+   "word": "guarantee",
+   "uk": "/ˌgærənˈtiː/",
+   "us": "/,ɡærənˈti/",
+   "pos": "n.,vt.",
+   "cn": "保证；担保物；保证；担保"
+  },
+  {
+   "id": 1502,
+   "word": "odor",
+   "uk": "/ˈəudə/",
+   "us": "/ˈoʊdə/",
+   "pos": "n.",
+   "cn": "气味"
+  },
+  {
+   "id": 1503,
+   "word": "predecessor",
+   "uk": "/ˈpriːdɪsesə/",
+   "us": "/ˈprɛdəsɛsɚ/",
+   "pos": "n.",
+   "cn": "前任；前辈；原有事物；前身"
+  },
+  {
+   "id": 1504,
+   "word": "acquire",
+   "uk": "/əˈkwaɪə/",
+   "us": "/əˈkwaɪr/",
+   "pos": "vt.",
+   "cn": "取得；获得；学到"
+  },
+  {
+   "id": 1505,
+   "word": "literal",
+   "uk": "/ˈlɪtərəl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "照字面的；原义的；逐字的"
+  },
+  {
+   "id": 1506,
+   "word": "notion",
+   "uk": "/ˈnəuʃn/",
+   "us": "/ˈnoʃən/",
+   "pos": "n.",
+   "cn": "概念；观念；意图；想法；念头"
+  },
+  {
+   "id": 1507,
+   "word": "default",
+   "uk": "/dɪˈfɔːlt/",
+   "us": "/dɪˈfɔlt/",
+   "pos": "v.,n.",
+   "cn": "不履行义务；拖欠；违约；拖欠；弃权；预设；缺省"
+  },
+  {
+   "id": 1508,
+   "word": "arc",
+   "uk": "/ɑːk/",
+   "us": "/ɑrk/",
+   "pos": "n.",
+   "cn": "弧形；弧；电弧；弧光"
+  },
+  {
+   "id": 1509,
+   "word": "beverage",
+   "uk": "/ˈbevərɪdʒ/",
+   "us": "/ˈbɛvərɪdʒ/",
+   "pos": "n.",
+   "cn": "饮料"
+  },
+  {
+   "id": 1510,
+   "word": "captive",
+   "uk": "/ˈkæptɪv/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "被俘虏的；被捕获的；俘虏"
+  },
+  {
+   "id": 1511,
+   "word": "insane",
+   "uk": "/ɪnˈseɪn/",
+   "us": "/ɪnˈsen/",
+   "pos": "adj.",
+   "cn": "极蠢的；荒唐的；精神病的；精神失常的；疯狂的"
+  },
+  {
+   "id": 1512,
+   "word": "attribute",
+   "uk": "/əˈtrɪbjuːt/",
+   "us": "/əˈtrɪbjut/",
+   "pos": "vt.,n.",
+   "cn": "把…归因于；属性"
+  },
+  {
+   "id": 1513,
+   "word": "cemetery",
+   "uk": "/ˈsemətri/",
+   "us": "/ˈsɛməˈtɛri/",
+   "pos": "n.",
+   "cn": "墓地；公墓"
+  },
+  {
+   "id": 1514,
+   "word": "genetic",
+   "uk": "/dʒəˈnetɪk/",
+   "us": "/dʒəˈnɛtɪk/",
+   "pos": "adj.,n.",
+   "cn": "遗传的；[-s]遗传学"
+  },
+  {
+   "id": 1515,
+   "word": "stitch",
+   "uk": "/stɪtʃ/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "缝；绣；一针；线迹；缝法；针法；编结法；突然剧痛"
+  },
+  {
+   "id": 1516,
+   "word": "triumph",
+   "uk": "/ˈtraɪʌmf/",
+   "us": "/ˈtraɪəmf/",
+   "pos": "vi.,n.",
+   "cn": "成功；凯旋；胜利"
+  },
+  {
+   "id": 1517,
+   "word": "vice",
+   "uk": "/vaɪs/",
+   "us": "",
+   "pos": "n.",
+   "cn": "罪恶；恶习；缺点；虎钳"
+  },
+  {
+   "id": 1518,
+   "word": "detection",
+   "uk": "/dɪˈtekʃn/",
+   "us": "/dɪˈtɛkʃən/",
+   "pos": "n.",
+   "cn": "察觉；发觉；侦查；探测"
+  },
+  {
+   "id": 1519,
+   "word": "bowel",
+   "uk": "/ˈbauəl/",
+   "us": "/ˈbaʊəl/",
+   "pos": "n.",
+   "cn": "肠；内部；深处"
+  },
+  {
+   "id": 1520,
+   "word": "arouse",
+   "uk": "/əˈrauz/",
+   "us": "/əˈraʊz/",
+   "pos": "vt.",
+   "cn": "引起；唤起；唤醒"
+  },
+  {
+   "id": 1521,
+   "word": "optimum",
+   "uk": "/ˈɒptɪməm/",
+   "us": "/ˈɑptəməm/",
+   "pos": "adj.",
+   "cn": "最合适的；最优的；最佳的"
+  },
+  {
+   "id": 1522,
+   "word": "suppress",
+   "uk": "/səˈpres/",
+   "us": "/səˈprɛs/",
+   "pos": "vt.",
+   "cn": "压制；镇压；禁止发表；查禁；抑制；忍住；阻止…的生长"
+  },
+  {
+   "id": 1523,
+   "word": "pudding",
+   "uk": "/ˈpudɪŋ/",
+   "us": "/ˈpʊdɪŋ/",
+   "pos": "n.",
+   "cn": "布丁"
+  },
+  {
+   "id": 1524,
+   "word": "wrinkle",
+   "uk": "/ˈrɪŋkl/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "起皱纹；皱纹"
+  },
+  {
+   "id": 1525,
+   "word": "consensus",
+   "uk": "/kənˈsensəs/",
+   "us": "/kənˈsɛnsəs/",
+   "pos": "n.",
+   "cn": "一致；一致同意"
+  },
+  {
+   "id": 1526,
+   "word": "boring",
+   "uk": "/ˈbɔːrɪŋ/",
+   "us": "/ˈbɔrɪŋ/",
+   "pos": "adj.",
+   "cn": "令人厌烦的；乏味的；无聊的"
+  },
+  {
+   "id": 1527,
+   "word": "classic",
+   "uk": "/ˈklæsɪk/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "最优秀的；典型的；标准的；传统式样的；典雅的；文学名著；经典作品；杰作；优秀的典范"
+  },
+  {
+   "id": 1528,
+   "word": "supervise",
+   "uk": "/ˈsuːpəvaɪz/",
+   "us": "/ˈsʊpɚˈvaɪz/",
+   "pos": "v.",
+   "cn": "监督；管理；指导"
+  },
+  {
+   "id": 1529,
+   "word": "gossip",
+   "uk": "/ˈgɒsɪp/",
+   "us": "/ˈɡɑsɪp/",
+   "pos": "vi.,n.",
+   "cn": "传播流言蜚语；流言蜚语；爱说长道短的人"
+  },
+  {
+   "id": 1530,
+   "word": "describe",
+   "uk": "/dɪˈskraɪb/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "形容；描写；画出"
+  }
+ ]
+}

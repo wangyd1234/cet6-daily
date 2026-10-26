@@ -1,0 +1,246 @@
+{
+ "day": 65,
+ "date": null,
+ "words": [
+  {
+   "id": 1921,
+   "word": "majority",
+   "uk": "/məˈdʒɒrəti/",
+   "us": "/məˈdʒɔrəti/",
+   "pos": "n.",
+   "cn": "多数；大多数"
+  },
+  {
+   "id": 1922,
+   "word": "drag",
+   "uk": "/dræg/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "拖；拉；迫使；硬拉；拖着脚步走；累赘；一吸；一抽"
+  },
+  {
+   "id": 1923,
+   "word": "zinc",
+   "uk": "/zɪŋk/",
+   "us": "",
+   "pos": "n.",
+   "cn": "锌"
+  },
+  {
+   "id": 1924,
+   "word": "costume",
+   "uk": "/ˈkɒstjuːm/",
+   "us": "/ˈkɑsˌtum/",
+   "pos": "n.",
+   "cn": "服装；服饰；戏装；成套服装"
+  },
+  {
+   "id": 1925,
+   "word": "clamp",
+   "uk": "/klæmp/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "夹紧；夹住；固定；夹头；夹具；夹钳"
+  },
+  {
+   "id": 1926,
+   "word": "issue",
+   "uk": "/ˈɪʃuː/",
+   "us": "/ˈɪʃu/",
+   "pos": "v.,n.",
+   "cn": "发行；分发；发出；问题；发行；分发"
+  },
+  {
+   "id": 1927,
+   "word": "maturity",
+   "uk": "/məˈtʃuərəti/",
+   "us": "/məˈtʃʊrəti/",
+   "pos": "n.",
+   "cn": "成熟"
+  },
+  {
+   "id": 1928,
+   "word": "vain",
+   "uk": "/veɪn/",
+   "us": "/ven/",
+   "pos": "adj.",
+   "cn": "徒劳的；自负的"
+  },
+  {
+   "id": 1929,
+   "word": "decree",
+   "uk": "/dɪˈkriː/",
+   "us": "/dɪˈkri/",
+   "pos": "n.,vt.",
+   "cn": "法令；政令；判决；裁决；判决；命令"
+  },
+  {
+   "id": 1930,
+   "word": "conservation",
+   "uk": "/ˌkɒnsəˈveɪʃn/",
+   "us": "/,kɑnsɚˈveʃən/",
+   "pos": "n.",
+   "cn": "保存；保护；避免浪费；守恒"
+  },
+  {
+   "id": 1931,
+   "word": "supplement",
+   "uk": "/ˈsʌplɪm(ə)nt/",
+   "us": "/ˈsʌplɪmənt/",
+   "pos": "n.,vt.",
+   "cn": "增补；补充；增刊；副刊；增补；补充"
+  },
+  {
+   "id": 1932,
+   "word": "contrast",
+   "uk": "/ˈkɒntrɑːst/",
+   "us": "/ˈkɑntræst/",
+   "pos": "vi.,n.,vt.",
+   "cn": "形成对比；对比之下显出区别；对比；对照；反差[kən'trɑːst]；对比；对照"
+  },
+  {
+   "id": 1933,
+   "word": "verdict",
+   "uk": "/ˈvɜːdɪkt/",
+   "us": "/ˈvɝdɪkt/",
+   "pos": "n.",
+   "cn": "裁定；定论；判断性意见"
+  },
+  {
+   "id": 1934,
+   "word": "stereo",
+   "uk": "/ˈsteriəu/",
+   "us": "/ˈstɛrɪo/",
+   "pos": "adj.,n.",
+   "cn": "立体的；立体声的；立体声"
+  },
+  {
+   "id": 1935,
+   "word": "defy",
+   "uk": "/dɪˈfaɪ/",
+   "us": "/ˈdifaɪ/",
+   "pos": "vt.",
+   "cn": "违抗；蔑视；使成为不可能；惹；激"
+  },
+  {
+   "id": 1936,
+   "word": "doctrine",
+   "uk": "/ˈdɒktrɪn/",
+   "us": "/ˈdɑktrɪn/",
+   "pos": "n.",
+   "cn": "教义；教条；主义"
+  },
+  {
+   "id": 1937,
+   "word": "paragraph",
+   "uk": "/ˈpærəgrɑːf/",
+   "us": "/ˈpærəɡræf/",
+   "pos": "n.",
+   "cn": "段；节"
+  },
+  {
+   "id": 1938,
+   "word": "mediate",
+   "uk": "/ˈmiːdieɪt/",
+   "us": "/ˈmidɪet/",
+   "pos": "vi.,vt.",
+   "cn": "调解；斡旋；经调解解决；经斡旋促成"
+  },
+  {
+   "id": 1939,
+   "word": "pursuit",
+   "uk": "/pəˈsjuːt/",
+   "us": "/pɚˈsut/",
+   "pos": "n.",
+   "cn": "追求；寻求；追赶；追逐；事；嗜好；消遣"
+  },
+  {
+   "id": 1940,
+   "word": "prophet",
+   "uk": "/ˈprɒfɪt/",
+   "us": "/ˈprɑfɪt/",
+   "pos": "n.",
+   "cn": "先知；预言者"
+  },
+  {
+   "id": 1941,
+   "word": "cycle",
+   "uk": "/ˈsaɪkl/",
+   "us": "",
+   "pos": "n.,vi.",
+   "cn": "自行车、 摩托车；循环"
+  },
+  {
+   "id": 1942,
+   "word": "amplify",
+   "uk": "/ˈæmplɪfaɪ/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "放大；增强；扩大；详述；进一步阐述"
+  },
+  {
+   "id": 1943,
+   "word": "lure",
+   "uk": "/luə/",
+   "us": "/lʊr/",
+   "pos": "vt.,n.",
+   "cn": "吸引；引诱；诱惑；吸引力；诱惑物；诱饵；鱼饵"
+  },
+  {
+   "id": 1944,
+   "word": "disposal",
+   "uk": "/dɪˈspəuzəl/",
+   "us": "/dɪˈspozl/",
+   "pos": "n.",
+   "cn": "丢掉；销毁；处理；排列；布置"
+  },
+  {
+   "id": 1945,
+   "word": "settlement",
+   "uk": "/ˈsetlmənt/",
+   "us": "/ˈsɛtlmənt/",
+   "pos": "n.",
+   "cn": "解决；协议；居留地；小社区"
+  },
+  {
+   "id": 1946,
+   "word": "whirl",
+   "uk": "/wɜːl/",
+   "us": "/wɝrl/",
+   "pos": "vi.,n.",
+   "cn": "旋转；急转；发晕；变混乱；旋转；回旋；混乱；一连串的事"
+  },
+  {
+   "id": 1947,
+   "word": "recede",
+   "uk": "/rɪˈsiːd/",
+   "us": "/rɪˈsid/",
+   "pos": "vi.",
+   "cn": "退；退去；渐渐远去；向后倾斜；缩进"
+  },
+  {
+   "id": 1948,
+   "word": "literature",
+   "uk": "/ˈlɪtərətʃə/",
+   "us": "/lɪtərəˌtʃʊr/",
+   "pos": "n.",
+   "cn": "文学；文学作品；文献；图书资料"
+  },
+  {
+   "id": 1949,
+   "word": "digest",
+   "uk": "/daɪˈdʒest;dɪ-/",
+   "us": "/daɪˈdʒɛst/",
+   "pos": "vt.,n.",
+   "cn": "消化；领会；文摘"
+  },
+  {
+   "id": 1950,
+   "word": "slump",
+   "uk": "/slʌmp/",
+   "us": "",
+   "pos": "vi.,n.",
+   "cn": "大幅度下降；暴跌；突然倒下；萧条期；低潮"
+  }
+ ]
+}

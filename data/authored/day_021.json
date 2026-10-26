@@ -1,0 +1,365 @@
+{
+  "day": 21,
+  "words": [
+    {
+      "word": "intellect",
+      "phr": [
+        {"en": "a sharp intellect", "zh": "敏锐的才智"},
+        {"en": "human intellect", "zh": "人类的智力"}
+      ],
+      "ex": [
+        {"en": "His sharp intellect and wide reading made him a popular lecturer among students.",
+         "zh": "他敏锐的才智与广博的阅读使他成为深受学生欢迎的讲师。"}
+      ],
+      "note": "intellect 指思维能力本身；intellectual 指知识分子，注意词性区别。"
+    },
+    {
+      "word": "preference",
+      "phr": [
+        {"en": "have a preference for", "zh": "偏爱"},
+        {"en": "in order of preference", "zh": "按优先顺序"}
+      ],
+      "ex": [
+        {"en": "Most guests expressed a preference for quiet rooms away from the main road.",
+         "zh": "多数客人都表示更喜欢远离主路的安静房间。"}
+      ],
+      "note": "常搭配 have a preference for；动词 prefer 后接 to。"
+    },
+    {
+      "word": "mild",
+      "phr": [
+        {"en": "a mild climate", "zh": "温和的气候"},
+        {"en": "mild symptoms", "zh": "轻微的症状"}
+      ],
+      "ex": [
+        {"en": "The patient had only mild symptoms and was sent home without any medicine.",
+         "zh": "病人只有轻微症状，未开药便回家了。"}
+      ],
+      "note": "mild 修饰气候、症状、味道，表温和或轻微；比较级 milder。"
+    },
+    {
+      "word": "loyal",
+      "phr": [
+        {"en": "be loyal to", "zh": "忠于"},
+        {"en": "a loyal customer", "zh": "忠实顾客"}
+      ],
+      "ex": [
+        {"en": "She has remained loyal to the company through years of difficult change.",
+         "zh": "多年艰难变革中，她始终忠于这家公司。"}
+      ],
+      "note": "be loyal to 表忠于；名词 loyalty，反义为 disloyal。"
+    },
+    {
+      "word": "impact",
+      "phr": [
+        {"en": "have an impact on", "zh": "对…有影响"},
+        {"en": "environmental impact", "zh": "环境影响"}
+      ],
+      "ex": [
+        {"en": "The new policy had a major impact on small businesses across the region.",
+         "zh": "新政策对该地区的小企业产生了重大影响。"}
+      ],
+      "note": "作名词后接 on：have an impact on；作动词直接带宾语。"
+    },
+    {
+      "word": "paralysis",
+      "phr": [
+        {"en": "suffer from paralysis", "zh": "患瘫痪"},
+        {"en": "cause paralysis", "zh": "导致瘫痪"}
+      ],
+      "ex": [
+        {"en": "The accident left him with partial paralysis in his left arm.",
+         "zh": "那场事故使他左臂局部瘫痪。"}
+      ],
+      "note": "para- 表旁边，-lysis 表松解；动词 paralyse 或 paralyze。"
+    },
+    {
+      "word": "court",
+      "phr": [
+        {"en": "appear in court", "zh": "出庭"},
+        {"en": "a tennis court", "zh": "网球场"}
+      ],
+      "ex": [
+        {"en": "The witness was asked to appear in court early the next morning.",
+         "zh": "证人被要求第二天一早就出庭。"}
+      ],
+      "note": "go to court 指起诉；in court 指在法庭上，一般不加 the。"
+    },
+    {
+      "word": "chapel",
+      "phr": [
+        {"en": "a private chapel", "zh": "私人小教堂"},
+        {"en": "a wedding chapel", "zh": "婚礼教堂"}
+      ],
+      "ex": [
+        {"en": "The old chapel at the edge of the village is now used as a museum.",
+         "zh": "村边那座古老的小教堂如今被用作博物馆。"}
+      ],
+      "note": "chapel 指小礼拜堂，规模小于 church，常为私人或机构所有。"
+    },
+    {
+      "word": "distort",
+      "phr": [
+        {"en": "distort the facts", "zh": "歪曲事实"},
+        {"en": "distort the market", "zh": "扭曲市场"}
+      ],
+      "ex": [
+        {"en": "Some newspapers distort the facts in order to attract more readers.",
+         "zh": "有些报纸为了吸引更多读者而歪曲事实。"}
+      ],
+      "note": "dis- 表「离」，tort 表「扭」；名词 distortion 指歪曲。"
+    },
+    {
+      "word": "subsidiary",
+      "phr": [
+        {"en": "a subsidiary company", "zh": "子公司"},
+        {"en": "a wholly-owned subsidiary", "zh": "全资子公司"}
+      ],
+      "ex": [
+        {"en": "The group set up a subsidiary in Singapore to handle Asian sales.",
+         "zh": "集团在新加坡设立子公司，负责亚洲销售业务。"}
+      ],
+      "note": "sub- 表「下」，sid 表「坐」；作名词即子公司、附属机构。"
+    },
+    {
+      "word": "venture",
+      "phr": [
+        {"en": "a joint venture", "zh": "合资企业"},
+        {"en": "venture into", "zh": "冒险进入"}
+      ],
+      "ex": [
+        {"en": "They decided to venture into the export business despite the high risks.",
+         "zh": "尽管风险很高，他们还是决定涉足出口生意。"}
+      ],
+      "note": "joint venture 是「合资企业」的固定说法；venture 也可作动词。"
+    },
+    {
+      "word": "discern",
+      "phr": [
+        {"en": "discern a difference", "zh": "看出差别"},
+        {"en": "hard to discern", "zh": "难以辨认"}
+      ],
+      "ex": [
+        {"en": "It was hard to discern any difference between the two copies at a glance.",
+         "zh": "乍一看很难分辨这两份副本有什么差别。"}
+      ],
+      "note": "discern 比 see 正式，常接 difference 等词。"
+    },
+    {
+      "word": "enthusiasm",
+      "phr": [
+        {"en": "with enthusiasm", "zh": "热情地"},
+        {"en": "enthusiasm for", "zh": "对…的热情"}
+      ],
+      "ex": [
+        {"en": "The students showed great enthusiasm for the new reading programme.",
+         "zh": "学生们对新阅读计划表现出极大热情。"}
+      ],
+      "note": "enthusiasm 后接 for；形容词是 enthusiastic。"
+    },
+    {
+      "word": "flexible",
+      "phr": [
+        {"en": "flexible working hours", "zh": "弹性工作时间"},
+        {"en": "a flexible approach", "zh": "灵活的方法"}
+      ],
+      "ex": [
+        {"en": "The company offers flexible working hours to help parents with young children.",
+         "zh": "公司提供弹性工作时间，以帮助有幼儿的员工。"}
+      ],
+      "note": "flex 表「弯曲」，-ible 表「能…的」；名词 flexibility。"
+    },
+    {
+      "word": "domain",
+      "phr": [
+        {"en": "in the public domain", "zh": "属于公有领域"},
+        {"en": "domain name", "zh": "域名"}
+      ],
+      "ex": [
+        {"en": "These paintings are now in the public domain and can be freely reproduced.",
+         "zh": "这些画作现已进入公有领域，可自由复制。"}
+      ],
+      "note": "in the public domain 是版权用语；domain 也指领域、领地。"
+    },
+    {
+      "word": "census",
+      "phr": [
+        {"en": "take a census", "zh": "进行人口普查"},
+        {"en": "the census data", "zh": "普查数据"}
+      ],
+      "ex": [
+        {"en": "The census shows that the population of the town has doubled in ten years.",
+         "zh": "普查显示该镇人口十年间翻了一番。"}
+      ],
+      "note": "census 可数，常用 take 或 conduct a census 表进行普查。"
+    },
+    {
+      "word": "corpse",
+      "phr": [
+        {"en": "identify the corpse", "zh": "辨认尸体"},
+        {"en": "a decaying corpse", "zh": "腐烂的尸体"}
+      ],
+      "ex": [
+        {"en": "Police found the corpse of a young man near the river bank.",
+         "zh": "警方在河岸边发现了一具年轻男子的尸体。"}
+      ],
+      "note": "corpse 指人的尸体；动物尸体多用 carcass，注意区分。"
+    },
+    {
+      "word": "willful",
+      "phr": [
+        {"en": "willful damage", "zh": "故意损坏"},
+        {"en": "willful neglect", "zh": "故意疏忽"}
+      ],
+      "ex": [
+        {"en": "The court fined him for willful damage to public property.",
+         "zh": "法院因他故意损坏公共财产而对他罚款。"}
+      ],
+      "note": "美式拼作 willful，英式 wilful；多指故意违规或任性。"
+    },
+    {
+      "word": "attitude",
+      "phr": [
+        {"en": "a positive attitude", "zh": "积极的态度"},
+        {"en": "attitude towards", "zh": "对…的态度"}
+      ],
+      "ex": [
+        {"en": "Her positive attitude towards failure impressed everyone in the team.",
+         "zh": "她面对失败的积极态度让队里每个人都很佩服。"}
+      ],
+      "note": "attitude 后接 to 或 towards；作「姿势」义多用于文学描写。"
+    },
+    {
+      "word": "relative",
+      "phr": [
+        {"en": "a close relative", "zh": "近亲"},
+        {"en": "relative to", "zh": "相对于"}
+      ],
+      "ex": [
+        {"en": "He invited only close relatives and a few old friends to the ceremony.",
+         "zh": "他只邀请了近亲和几位老朋友参加仪式。"}
+      ],
+      "note": "relative 作名词指亲戚；relative to 表「相对于」，书面常用。"
+    },
+    {
+      "word": "compare",
+      "phr": [
+        {"en": "compare A with B", "zh": "把A与B作比较"},
+        {"en": "compared with", "zh": "与…相比"}
+      ],
+      "ex": [
+        {"en": "Compared with last year, the number of applicants has risen sharply.",
+         "zh": "与去年相比，申请人数大幅上升。"}
+      ],
+      "note": "compare with 表比较；compare to 多表「把…比作」。"
+    },
+    {
+      "word": "depict",
+      "phr": [
+        {"en": "depict sb as", "zh": "把某人描绘成"},
+        {"en": "depict daily life", "zh": "描绘日常生活"}
+      ],
+      "ex": [
+        {"en": "The novel depicts village life in the north during the war years.",
+         "zh": "这部小说描绘了战争年代北方的乡村生活。"}
+      ],
+      "note": "depict sb/sth as 表描绘成；名词 depiction 指描绘。"
+    },
+    {
+      "word": "hop",
+      "phr": [
+        {"en": "hop on a bus", "zh": "跳上公交车"},
+        {"en": "hop over a fence", "zh": "跳过栅栏"}
+      ],
+      "ex": [
+        {"en": "The children hopped over the low wall and ran towards the lake.",
+         "zh": "孩子们跳过矮墙，朝湖边跑去。"}
+      ],
+      "note": "hop 指单脚或双脚短跳；jump 泛指跳，注意区分。"
+    },
+    {
+      "word": "characteristic",
+      "phr": [
+        {"en": "be characteristic of", "zh": "是…的典型特征"},
+        {"en": "personal characteristics", "zh": "个人特征"}
+      ],
+      "ex": [
+        {"en": "Patience is a characteristic of good teachers rather than a sign of weakness.",
+         "zh": "耐心是好老师的特征，而不是软弱的标志。"}
+      ],
+      "note": "be characteristic of 表「为…所特有」；该词也可作名词。"
+    },
+    {
+      "word": "involvement",
+      "phr": [
+        {"en": "involvement in", "zh": "参与…"},
+        {"en": "public involvement", "zh": "公众参与"}
+      ],
+      "ex": [
+        {"en": "The report called for greater public involvement in decisions about the park.",
+         "zh": "报告呼吁公众更多地参与公园相关决策。"}
+      ],
+      "note": "involvement 后接 in；be involved in 表参与或卷入。"
+    },
+    {
+      "word": "pave",
+      "phr": [
+        {"en": "pave the way for", "zh": "为…铺平道路"},
+        {"en": "a paved road", "zh": "铺好的路"}
+      ],
+      "ex": [
+        {"en": "The agreement paved the way for closer trade between the two countries.",
+         "zh": "该协议为两国间更紧密的贸易铺平了道路。"}
+      ],
+      "note": "pave the way for 是固定搭配；paved road 指铺装路。"
+    },
+    {
+      "word": "integral",
+      "phr": [
+        {"en": "an integral part of", "zh": "…不可缺少的一部分"},
+        {"en": "integral to", "zh": "对…必不可少"}
+      ],
+      "ex": [
+        {"en": "Regular practice is an integral part of learning any foreign language.",
+         "zh": "经常练习是学习任何外语不可或缺的一部分。"}
+      ],
+      "note": "integral 常与 part of 或 to 连用；动词 integrate 表整合。"
+    },
+    {
+      "word": "lubricate",
+      "phr": [
+        {"en": "lubricate the engine", "zh": "润滑发动机"},
+        {"en": "lubricate the moving parts", "zh": "润滑运动部件"}
+      ],
+      "ex": [
+        {"en": "Oil is used to lubricate the moving parts of an engine.",
+         "zh": "机油用来润滑发动机的运动部件。"}
+      ],
+      "note": "lubricate 指加润滑油；名词 lubricant 指润滑剂。"
+    },
+    {
+      "word": "comet",
+      "phr": [
+        {"en": "Halley's Comet", "zh": "哈雷彗星"},
+        {"en": "a comet's orbit", "zh": "彗星轨道"}
+      ],
+      "ex": [
+        {"en": "Halley's Comet returns to the inner solar system about every seventy-six years.",
+         "zh": "哈雷彗星大约每七十六年返回内太阳系一次。"}
+      ],
+      "note": "comet 源自希腊语「长毛的星」；哈雷彗星写作 Halley's Comet。"
+    },
+    {
+      "word": "deadline",
+      "phr": [
+        {"en": "meet a deadline", "zh": "按期完成"},
+        {"en": "miss the deadline", "zh": "错过截止期限"}
+      ],
+      "ex": [
+        {"en": "The team worked all weekend to meet the deadline for the report.",
+         "zh": "为按期完成报告，团队整个周末都在工作。"}
+      ],
+      "note": "meet a deadline 按期完成，miss a deadline 错过期限。"
+    }
+  ]
+}

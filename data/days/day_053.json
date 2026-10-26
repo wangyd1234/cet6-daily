@@ -1,0 +1,246 @@
+{
+ "day": 53,
+ "date": null,
+ "words": [
+  {
+   "id": 1561,
+   "word": "volunteer",
+   "uk": "/vɒlənˈtɪə/",
+   "us": "/,vɑlənˈtɪr/",
+   "pos": "v.,n.",
+   "cn": "自愿；自愿提供；志愿；志愿者；志愿兵"
+  },
+  {
+   "id": 1562,
+   "word": "overlap",
+   "uk": "/əʊvəˈlæp/",
+   "us": "/ˈovəlæp/",
+   "pos": "v.,n.",
+   "cn": "部分重叠；部分相同；重叠；重叠的部分"
+  },
+  {
+   "id": 1563,
+   "word": "materialism",
+   "uk": "/məˈtɪəriəlɪzəm/",
+   "us": "/məˈtɪrɪəlɪzəm/",
+   "pos": "n.",
+   "cn": "唯物主义"
+  },
+  {
+   "id": 1564,
+   "word": "installment",
+   "uk": "/ɪnˈstɔːlmənt/",
+   "us": "/ɪnˈstɔlmənt/",
+   "pos": "n.",
+   "cn": "分期付款；分期交付；部分"
+  },
+  {
+   "id": 1565,
+   "word": "mourn",
+   "uk": "/mɔːn/",
+   "us": "/mɔrn/",
+   "pos": "v.",
+   "cn": "哀悼；感到痛心"
+  },
+  {
+   "id": 1566,
+   "word": "cane",
+   "uk": "/keɪn/",
+   "us": "/ken/",
+   "pos": "n.",
+   "cn": "手杖；茎"
+  },
+  {
+   "id": 1567,
+   "word": "trifle",
+   "uk": "/ˈtraɪfl/",
+   "us": "",
+   "pos": "vi.,n.",
+   "cn": "嘲笑；轻视；琐事；小事；无价值的东西"
+  },
+  {
+   "id": 1568,
+   "word": "migrate",
+   "uk": "/maɪˈgreɪt/",
+   "us": "/ˈmaɪɡret/",
+   "pos": "vi.",
+   "cn": "迁徙；移栖；移居；迁移"
+  },
+  {
+   "id": 1569,
+   "word": "Easter",
+   "uk": "/ˈiːstə/",
+   "us": "/istəʳ/",
+   "pos": "n.",
+   "cn": "复活节"
+  },
+  {
+   "id": 1570,
+   "word": "submit",
+   "uk": "/səbˈmɪt/",
+   "us": "",
+   "pos": "vi.,vt.",
+   "cn": "屈从；听从；忍受；甘心；屈从；听从；服从；呈送；提交；主张；建议"
+  },
+  {
+   "id": 1571,
+   "word": "novelty",
+   "uk": "/ˈnɒvlti/",
+   "us": "/ˈnɑvlti/",
+   "pos": "n.",
+   "cn": "新奇事物；新奇；新奇感；新奇性；新颖小巧而廉价的物品"
+  },
+  {
+   "id": 1572,
+   "word": "occupy",
+   "uk": "/ˈɒkjupaɪ/",
+   "us": "/ˈɑkjupaɪ/",
+   "pos": "vt.",
+   "cn": "占领；占；占有"
+  },
+  {
+   "id": 1573,
+   "word": "string",
+   "uk": "/strɪŋ/",
+   "us": "",
+   "pos": "n.",
+   "cn": "线；细绳；一串；一行"
+  },
+  {
+   "id": 1574,
+   "word": "boom",
+   "uk": "/buːm/",
+   "us": "",
+   "pos": "vi.,n.",
+   "cn": "激增；繁荣；迅速发展；发出隆隆声；激增；繁荣；迅速发展；隆隆声；嗡嗡声"
+  },
+  {
+   "id": 1575,
+   "word": "absence",
+   "uk": "/ˈæbsəns/",
+   "us": "/ˈæbsns/",
+   "pos": "n.",
+   "cn": "缺席；不在；缺席的时间；外出期；缺乏；不存在"
+  },
+  {
+   "id": 1576,
+   "word": "abolish",
+   "uk": "/əˈbɒlɪʃ/",
+   "us": "/əˈbɑlɪʃ/",
+   "pos": "vt.",
+   "cn": "彻底废除；废止"
+  },
+  {
+   "id": 1577,
+   "word": "attract",
+   "uk": "/əˈtrækt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "吸引；引起…注意"
+  },
+  {
+   "id": 1578,
+   "word": "cautious",
+   "uk": "/ˈkɔːʃəs/",
+   "us": "/ˈkɔʃəs/",
+   "pos": "adj.",
+   "cn": "十分小心的；谨慎的"
+  },
+  {
+   "id": 1579,
+   "word": "snatch",
+   "uk": "/snætʃ/",
+   "us": "",
+   "pos": "vi.,vt.,n.",
+   "cn": "一把抓住；夺；夺走；抢走；一下子拉；一把抓住；抓住机会做；抽空做；片断"
+  },
+  {
+   "id": 1580,
+   "word": "blink",
+   "uk": "/blɪŋk/",
+   "us": "",
+   "pos": "vi.,n.",
+   "cn": "眨眼睛；闪亮；闪烁；眨眼睛；一瞬间"
+  },
+  {
+   "id": 1581,
+   "word": "summit",
+   "uk": "/ˈsʌmɪt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "最高点；峰顶；最高级会议"
+  },
+  {
+   "id": 1582,
+   "word": "perfume",
+   "uk": "/ˈpɜːfjuːm/",
+   "us": "/pɚˈfjum/",
+   "pos": "n.,vt.",
+   "cn": "香水；香料；香气；使充满芳香；洒香水于"
+  },
+  {
+   "id": 1583,
+   "word": "magnify",
+   "uk": "/ˈmægnɪfaɪ/",
+   "us": "/ˈmæɡnɪfaɪ/",
+   "pos": "vt.",
+   "cn": "放大；扩大；夸大；夸张"
+  },
+  {
+   "id": 1584,
+   "word": "redundant",
+   "uk": "/rɪˈdʌndənt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "多余的；过剩的"
+  },
+  {
+   "id": 1585,
+   "word": "situated",
+   "uk": "/ˈsɪtʃueɪtɪd/",
+   "us": "/ˈsɪtʃuetɪd/",
+   "pos": "adj.",
+   "cn": "位于…的；坐落在…的；处于…境地的"
+  },
+  {
+   "id": 1586,
+   "word": "recession",
+   "uk": "/rɪˈseʃn/",
+   "us": "/rɪˈsɛʃən/",
+   "pos": "n.",
+   "cn": "衰退；衰退期"
+  },
+  {
+   "id": 1587,
+   "word": "doubtless",
+   "uk": "/ˈdautləs/",
+   "us": "/ˈdaʊtləs/",
+   "pos": "adv.",
+   "cn": "无疑地；肯定地"
+  },
+  {
+   "id": 1588,
+   "word": "negative",
+   "uk": "/ˈnegətɪv/",
+   "us": "/ˈnɛɡətɪv/",
+   "pos": "adj.,n.",
+   "cn": "否定的；消极的；负的；阴性的；负片；底片；负数"
+  },
+  {
+   "id": 1589,
+   "word": "impose",
+   "uk": "/ɪmˈpəuz/",
+   "us": "/ɪmˈpoz/",
+   "pos": "vt.",
+   "cn": "把…强加；征"
+  },
+  {
+   "id": 1590,
+   "word": "statement",
+   "uk": "/ˈsteɪtmənt/",
+   "us": "/ˈstetmənt/",
+   "pos": "n.",
+   "cn": "陈述；声明；结算单；报表"
+  }
+ ]
+}

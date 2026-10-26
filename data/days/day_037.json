@@ -1,0 +1,246 @@
+{
+ "day": 37,
+ "date": null,
+ "words": [
+  {
+   "id": 1081,
+   "word": "violate",
+   "uk": "/ˈvaɪəleɪt/",
+   "us": "/ˈvaɪəlet/",
+   "pos": "vt.",
+   "cn": "违反；违背；亵渎；侵犯；妨碍"
+  },
+  {
+   "id": 1082,
+   "word": "federal",
+   "uk": "/ˈfedərəl/",
+   "us": "/ˈfɛdərəl/",
+   "pos": "adj.",
+   "cn": "联邦的；联盟的"
+  },
+  {
+   "id": 1083,
+   "word": "verify",
+   "uk": "/ˈverɪfaɪ/",
+   "us": "/ˈvɛrɪfaɪ/",
+   "pos": "vt.",
+   "cn": "证实；查证；证明"
+  },
+  {
+   "id": 1084,
+   "word": "excursion",
+   "uk": "/ɪkˈskɜːʃn/",
+   "us": "/ɪkˈskɝʒn/",
+   "pos": "n.",
+   "cn": "远足；短途旅行"
+  },
+  {
+   "id": 1085,
+   "word": "inaugurate",
+   "uk": "/ɪˈnɔːgjəreɪt/",
+   "us": "/ɪˈnɔɡjəret/",
+   "pos": "vt.",
+   "cn": "开始；开展；为…举行就职典礼；为…举行开幕式；为…举行落成仪式"
+  },
+  {
+   "id": 1086,
+   "word": "undergo",
+   "uk": "/ˌʌndəˈgəu/",
+   "us": "/,ʌndɚˈɡo/",
+   "pos": "vt.",
+   "cn": "经历；经受；忍受"
+  },
+  {
+   "id": 1087,
+   "word": "reward",
+   "uk": "/rɪˈwɔːd/",
+   "us": "/rɪˈwɔrd/",
+   "pos": "n.,vt.",
+   "cn": "报答；奖赏；报酬；酬金；报答；酬谢；奖励"
+  },
+  {
+   "id": 1088,
+   "word": "graze",
+   "uk": "/greɪz/",
+   "us": "/ɡrez/",
+   "pos": "vi.,vt.,n.",
+   "cn": "吃青草；放牧；擦伤；擦过；掠过；擦破"
+  },
+  {
+   "id": 1089,
+   "word": "coupon",
+   "uk": "/ˈkuːpɒn/",
+   "us": "/ˈkupɑn/",
+   "pos": "n.",
+   "cn": "礼券；优惠券；配给券；票证"
+  },
+  {
+   "id": 1090,
+   "word": "multitude",
+   "uk": "/ˈmʌltɪtjuːd/",
+   "us": "/ˈmʌltɪˌtud,-ˌtjud/",
+   "pos": "n.",
+   "cn": "大量；许多；大众；民众"
+  },
+  {
+   "id": 1091,
+   "word": "inhabit",
+   "uk": "/ɪnˈhæbɪt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "居住于；栖居于"
+  },
+  {
+   "id": 1092,
+   "word": "siege",
+   "uk": "/siːdʒ/",
+   "us": "/sidʒ/",
+   "pos": "n.",
+   "cn": "包围；围困"
+  },
+  {
+   "id": 1093,
+   "word": "abstract",
+   "uk": "/ˈæbstrækt/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "抽象的；抽象派的；摘要；梗概；抽象派艺术作品"
+  },
+  {
+   "id": 1094,
+   "word": "agenda",
+   "uk": "/əˈdʒendə/",
+   "us": "/əˈdʒɛndə/",
+   "pos": "n.",
+   "cn": "议程"
+  },
+  {
+   "id": 1095,
+   "word": "degenerate",
+   "uk": "/dɪˈdʒenəreɪt/",
+   "us": "/dɪˈdʒɛnəret/",
+   "pos": "vi.,adj.,n.",
+   "cn": "衰退；堕落；蜕化；衰退的；堕落的；堕落者"
+  },
+  {
+   "id": 1096,
+   "word": "nurture",
+   "uk": "/ˈnɜːtʃə/",
+   "us": "/ˈnɝtʃɚ/",
+   "pos": "vt.,n.",
+   "cn": "养育；培育；滋养"
+  },
+  {
+   "id": 1097,
+   "word": "destructive",
+   "uk": "/dɪˈstrʌktɪv/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "破坏的；毁灭的"
+  },
+  {
+   "id": 1098,
+   "word": "appearance",
+   "uk": "/əˈpɪərəns/",
+   "us": "/əˈpɪrəns/",
+   "pos": "n.",
+   "cn": "出现；来到；外观"
+  },
+  {
+   "id": 1099,
+   "word": "culture",
+   "uk": "/ˈkʌltʃə/",
+   "us": "/ˈkʌltʃɚ/",
+   "pos": "n.",
+   "cn": "文化；文明；教养；培养；培养菌"
+  },
+  {
+   "id": 1100,
+   "word": "paternity",
+   "uk": "/pəˈtɜːnəti/",
+   "us": "/pəˈtɝnəti/",
+   "pos": "n.",
+   "cn": "父权；父子关系"
+  },
+  {
+   "id": 1101,
+   "word": "hasty",
+   "uk": "/ˈheɪsti/",
+   "us": "/ˈhesti/",
+   "pos": "adj.",
+   "cn": "草率的；轻率的；急速的；匆忙的；仓促完成的"
+  },
+  {
+   "id": 1102,
+   "word": "anonymous",
+   "uk": "/əˈnɒnɪməs/",
+   "us": "/əˈnɑnəməs/",
+   "pos": "adj.",
+   "cn": "无名的；不具名的；匿名的；无特色的；无个性特征的"
+  },
+  {
+   "id": 1103,
+   "word": "fake",
+   "uk": "/feɪk/",
+   "us": "",
+   "pos": "adj.,n.,vt.",
+   "cn": "假的；伪造的；假货；骗子；伪造；捏造；伪装"
+  },
+  {
+   "id": 1104,
+   "word": "span",
+   "uk": "/spæn/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "跨距；一段时间；持续；贯穿；包括；横跨；跨越"
+  },
+  {
+   "id": 1105,
+   "word": "escort",
+   "uk": "/ˈeskɔːt/",
+   "us": "/ˈeskɔːrt/",
+   "pos": "n.,vt.",
+   "cn": "护卫者；护送者；护送；护卫"
+  },
+  {
+   "id": 1106,
+   "word": "bizarre",
+   "uk": "/bɪˈzɑː(r)/",
+   "us": "/bɪˈzɑr/",
+   "pos": "adj.",
+   "cn": "奇形怪状的；怪诞的"
+  },
+  {
+   "id": 1107,
+   "word": "existence",
+   "uk": "/ɪgˈzɪstəns/",
+   "us": "/ɪɡˈzɪstəns/",
+   "pos": "n.",
+   "cn": "存在；实在；生存"
+  },
+  {
+   "id": 1108,
+   "word": "ascribe",
+   "uk": "/əˈskraɪb/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "把…归因于；把…归属于"
+  },
+  {
+   "id": 1109,
+   "word": "threshold",
+   "uk": "/ˈθreʃhəuld/",
+   "us": "/ˈθrɛʃhold/",
+   "pos": "n.",
+   "cn": "门槛；门口；入门；开端；起始点"
+  },
+  {
+   "id": 1110,
+   "word": "float",
+   "uk": "/fləut/",
+   "us": "/flot/",
+   "pos": "v.",
+   "cn": "浮动；漂浮；飘动"
+  }
+ ]
+}

@@ -1,0 +1,246 @@
+{
+ "day": 24,
+ "date": null,
+ "words": [
+  {
+   "id": 691,
+   "word": "confusion",
+   "uk": "/kənˈfjuːʒn/",
+   "us": "/kənˈfjʊʒən/",
+   "pos": "n.",
+   "cn": "困惑；糊涂；混淆；骚乱"
+  },
+  {
+   "id": 692,
+   "word": "distract",
+   "uk": "/dɪˈstrækt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "转移；使分心"
+  },
+  {
+   "id": 693,
+   "word": "hinge",
+   "uk": "/hɪndʒ/",
+   "us": "",
+   "pos": "vi.,n.,vt.",
+   "cn": "以…为转移；铰链；装铰链"
+  },
+  {
+   "id": 694,
+   "word": "virtual",
+   "uk": "/ˈvɜːtʃuəl/",
+   "us": "/ˈvɝ​tʃʊəl/",
+   "pos": "adj.",
+   "cn": "实质上的；事实上的；实际上的"
+  },
+  {
+   "id": 695,
+   "word": "squeeze",
+   "uk": "/skwiːz/",
+   "us": "/skwiz/",
+   "pos": "v.,n.",
+   "cn": "压榨；挤；榨取；勒索"
+  },
+  {
+   "id": 696,
+   "word": "blank",
+   "uk": "/blæŋk/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "空白的；茫然的；无表情的；空白；空白表格"
+  },
+  {
+   "id": 697,
+   "word": "additional",
+   "uk": "/əˈdɪʃənl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "附加的；追加的"
+  },
+  {
+   "id": 698,
+   "word": "worthy",
+   "uk": "/ˈwɜːði/",
+   "us": "/wɜði/",
+   "pos": "adj.",
+   "cn": "有价值的；值得的"
+  },
+  {
+   "id": 699,
+   "word": "primarily",
+   "uk": "/praɪˈmerəlɪ/",
+   "us": "/praɪˈmɛrəli/",
+   "pos": "adv.",
+   "cn": "首先；主要地"
+  },
+  {
+   "id": 700,
+   "word": "telecommunications",
+   "uk": "/ˈtelikəˌmjuːnɪˈkeɪʃnz/",
+   "us": "/ˈtɛləkəˈmjʊnəˈkeʃənz/",
+   "pos": "n.",
+   "cn": "通信；电信"
+  },
+  {
+   "id": 701,
+   "word": "ferry",
+   "uk": "/ˈferi/",
+   "us": "/ˈfɛri/",
+   "pos": "n.,vt.",
+   "cn": "渡船；渡运"
+  },
+  {
+   "id": 702,
+   "word": "ignore",
+   "uk": "/ɪgˈnɔː/",
+   "us": "/ɪɡˈnɔr/",
+   "pos": "vt.",
+   "cn": "不顾；不理；忽视"
+  },
+  {
+   "id": 703,
+   "word": "hemisphere",
+   "uk": "/ˈhemɪsfɪə/",
+   "us": "/ˈhɛmɪsfɪr/",
+   "pos": "n.",
+   "cn": "地球的半球；大脑半球"
+  },
+  {
+   "id": 704,
+   "word": "reception",
+   "uk": "/rɪˈsepʃn/",
+   "us": "/rɪˈsɛpʃən/",
+   "pos": "n.",
+   "cn": "招待会；欢迎会；接受；接纳；接待；迎接；接收效果"
+  },
+  {
+   "id": 705,
+   "word": "applaud",
+   "uk": "/əˈplɔːd/",
+   "us": "/əˈplɔd/",
+   "pos": "vi.,vt.",
+   "cn": "鼓掌；喝彩；向…鼓掌；向…喝彩；称赞；赞许"
+  },
+  {
+   "id": 706,
+   "word": "outward",
+   "uk": "/ˈautwəd/",
+   "us": "/ˈaʊtwɚd/",
+   "pos": "adv.,adj.",
+   "cn": "向外地；外面的；外表的"
+  },
+  {
+   "id": 707,
+   "word": "lunar",
+   "uk": "/ˈluːnə/",
+   "us": "/ˈlunɚ/",
+   "pos": "adj.",
+   "cn": "月的；月球的"
+  },
+  {
+   "id": 708,
+   "word": "poetry",
+   "uk": "/ˈpəuətri/",
+   "us": "/ˈpoətri/",
+   "pos": "n.",
+   "cn": "诗；诗歌；诗集"
+  },
+  {
+   "id": 709,
+   "word": "jury",
+   "uk": "/ˈdʒuəri/",
+   "us": "/ˈdʒʊri/",
+   "pos": "n.",
+   "cn": "陪审团；评奖团"
+  },
+  {
+   "id": 710,
+   "word": "arrogant",
+   "uk": "/ˈærəgənt/",
+   "us": "/ˈærəɡənt/",
+   "pos": "adj.",
+   "cn": "傲慢的；自大的"
+  },
+  {
+   "id": 711,
+   "word": "idiot",
+   "uk": "/ˈɪdiət/",
+   "us": "/ˈɪdɪət/",
+   "pos": "n.",
+   "cn": "白痴；傻子；笨蛋"
+  },
+  {
+   "id": 712,
+   "word": "relay",
+   "uk": "/ˈriːleɪ/",
+   "us": "/rɪˈle/",
+   "pos": "n.,vt.",
+   "cn": "接力赛；中继转播；传送；传达；转述；中继转播"
+  },
+  {
+   "id": 713,
+   "word": "priest",
+   "uk": "/priːst/",
+   "us": "/prist/",
+   "pos": "n.",
+   "cn": "神父；牧师"
+  },
+  {
+   "id": 714,
+   "word": "monitor",
+   "uk": "/ˈmɒnɪtə/",
+   "us": "/ˈmɔnɪtɚ/",
+   "pos": "n.,vt.",
+   "cn": "班长；监视器；检测器；显示器；监听；检测"
+  },
+  {
+   "id": 715,
+   "word": "solo",
+   "uk": "/ˈsəuləu/",
+   "us": "/ˈsolo/",
+   "pos": "adv.,adj.,n.",
+   "cn": "以独力；单独地；单独的；单独进行的；独奏；独唱；独舞"
+  },
+  {
+   "id": 716,
+   "word": "tuition",
+   "uk": "/tjuˈɪʃn/",
+   "us": "/tʊˈɪʃən/",
+   "pos": "n.",
+   "cn": "教学；讲授；指导；学费"
+  },
+  {
+   "id": 717,
+   "word": "permeate",
+   "uk": "/ˈpɜːmieɪt/",
+   "us": "/ˈpɝmɪet/",
+   "pos": "v.",
+   "cn": "弥漫；遍布；散布；渗入；渗透"
+  },
+  {
+   "id": 718,
+   "word": "utopian",
+   "uk": "/juːˈtəupiən/",
+   "us": "/ju:ˈtəupiən/",
+   "pos": "adj.",
+   "cn": "乌托邦的；理想的"
+  },
+  {
+   "id": 719,
+   "word": "schedule",
+   "uk": "/ˈʃedjuːl/",
+   "us": "/ˈskedʒʊl;skɛdʒʊl/",
+   "pos": "n.,vt.",
+   "cn": "时刻表；日程安排表；清单；明细表；安排；排定"
+  },
+  {
+   "id": 720,
+   "word": "tame",
+   "uk": "/teɪm/",
+   "us": "",
+   "pos": "adj.,vt.",
+   "cn": "驯服的；顺从的；沉闷的；乏味的；制服；控制并利用；驯化；驯服"
+  }
+ ]
+}

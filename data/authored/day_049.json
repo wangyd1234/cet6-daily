@@ -1,0 +1,365 @@
+{
+  "day": 49,
+  "words": [
+    {
+      "word": "manifest",
+      "phr": [
+        {"en": "manifest itself", "zh": "显露出来"},
+        {"en": "a manifest error", "zh": "明显的错误"}
+      ],
+      "ex": [
+        {"en": "Her anxiety manifested itself in constant headaches and poor sleep.",
+         "zh": "她的焦虑表现为持续头痛和睡眠不佳。"}
+      ],
+      "note": "manifest 作动词常与 itself 连用，表“显现”。"
+    },
+    {
+      "word": "blunt",
+      "phr": [
+        {"en": "a blunt knife", "zh": "钝刀"},
+        {"en": "to be blunt", "zh": "直说吧"}
+      ],
+      "ex": [
+        {"en": "To be blunt, your report needs a lot more work.",
+         "zh": "直说吧，你的报告还需要多加修改。"}
+      ],
+      "note": "blunt 指刀钝或说话直率；blunt the edge 指使变钝。"
+    },
+    {
+      "word": "endeavor",
+      "phr": [
+        {"en": "endeavor to do sth", "zh": "努力做某事"},
+        {"en": "make every endeavor", "zh": "尽一切努力"}
+      ],
+      "ex": [
+        {"en": "We endeavor to answer every email within two working days.",
+         "zh": "我们努力在两个工作日内回复每封邮件。"}
+      ],
+      "note": "endeavor 后可接 to do；make every endeavor 表尽力。"
+    },
+    {
+      "word": "relieve",
+      "phr": [
+        {"en": "relieve the pain", "zh": "缓解疼痛"},
+        {"en": "relieve stress", "zh": "缓解压力"}
+      ],
+      "ex": [
+        {"en": "The medicine relieved her headache within twenty minutes.",
+         "zh": "这药二十分钟内就缓解了她的头痛。"}
+      ],
+      "note": "relieve 常接 pain、stress 等；名词是 relief。"
+    },
+    {
+      "word": "quartz",
+      "phr": [
+        {"en": "a quartz crystal", "zh": "石英晶体"},
+        {"en": "a quartz watch", "zh": "石英表"}
+      ],
+      "ex": [
+        {"en": "The shop sells elegant quartz watches at reasonable prices.",
+         "zh": "这家店以合理的价格出售精致的石英表。"}
+      ],
+      "note": "quartz 不可数，石英表常说 quartz watch。"
+    },
+    {
+      "word": "air-conditioning",
+      "phr": [
+        {"en": "turn on the air-conditioning", "zh": "开空调"},
+        {"en": "central air-conditioning", "zh": "中央空调"}
+      ],
+      "ex": [
+        {"en": "The office air-conditioning broke down during the hottest week.",
+         "zh": "办公室的空调在最热的那一周坏了。"}
+      ],
+      "note": "air-conditioning 也可写作 air conditioner。"
+    },
+    {
+      "word": "adjacent",
+      "phr": [
+        {"en": "adjacent to", "zh": "与…毗邻"},
+        {"en": "adjacent rooms", "zh": "相邻房间"}
+      ],
+      "ex": [
+        {"en": "Our hotel is adjacent to the train station and a mall.",
+         "zh": "我们酒店紧邻火车站和一家商场。"}
+      ],
+      "note": "adjacent 后接介词 to，表“与…相邻”。"
+    },
+    {
+      "word": "employment",
+      "phr": [
+        {"en": "find employment", "zh": "找到工作"},
+        {"en": "full-time employment", "zh": "全职工作"}
+      ],
+      "ex": [
+        {"en": "Many graduates are still looking for full-time employment.",
+         "zh": "许多毕业生仍在寻找全职工作。"}
+      ],
+      "note": "employment 不可数，找工作说 find employment，不用冠词。"
+    },
+    {
+      "word": "transport",
+      "phr": [
+        {"en": "public transport", "zh": "公共交通"},
+        {"en": "transport goods", "zh": "运输货物"}
+      ],
+      "ex": [
+        {"en": "The city has invested heavily in public transport this year.",
+         "zh": "这座城市今年在公共交通上投入巨大。"}
+      ],
+      "note": "public transport 为英式说法，美式常用 transportation。"
+    },
+    {
+      "word": "specific",
+      "phr": [
+        {"en": "specific details", "zh": "具体细节"},
+        {"en": "be specific about", "zh": "明确说明"}
+      ],
+      "ex": [
+        {"en": "Please be specific about the date and time of the meeting.",
+         "zh": "请具体说明会议的时间和日期。"}
+      ],
+      "note": "specific 后接 about 表讲清细节；反义词是 general。"
+    },
+    {
+      "word": "analogy",
+      "phr": [
+        {"en": "draw an analogy", "zh": "作类比"},
+        {"en": "by analogy with", "zh": "与…类比"}
+      ],
+      "ex": [
+        {"en": "The teacher drew an analogy between the heart and a pump.",
+         "zh": "老师把心脏比作一台水泵。"}
+      ],
+      "note": "analogy 常用 draw an analogy between A and B。"
+    },
+    {
+      "word": "application",
+      "phr": [
+        {"en": "submit an application", "zh": "提交申请"},
+        {"en": "practical application", "zh": "实际应用"}
+      ],
+      "ex": [
+        {"en": "You must submit your application before the end of March.",
+         "zh": "你必须在三月底前提交申请。"}
+      ],
+      "note": "application 指申请或应用，动词形式是 apply。"
+    },
+    {
+      "word": "productive",
+      "phr": [
+        {"en": "a productive day", "zh": "富有成效的一天"},
+        {"en": "highly productive", "zh": "效率很高"}
+      ],
+      "ex": [
+        {"en": "A short break can make the rest of the day more productive.",
+         "zh": "短暂休息能让一天余下的时间更高效。"}
+      ],
+      "note": "productive 指有成效；名词 productivity 指生产率。"
+    },
+    {
+      "word": "prune",
+      "phr": [
+        {"en": "prune the branches", "zh": "修剪树枝"},
+        {"en": "prune the budget", "zh": "削减预算"}
+      ],
+      "ex": [
+        {"en": "Gardeners prune the trees every winter to keep them healthy.",
+         "zh": "园丁每年冬天修剪树木以保持其健康。"}
+      ],
+      "note": "prune 本指修剪枝条，也表示削减开支、删减内容。"
+    },
+    {
+      "word": "engage",
+      "phr": [
+        {"en": "engage in", "zh": "从事"},
+        {"en": "engage with", "zh": "与…互动"}
+      ],
+      "ex": [
+        {"en": "Students are encouraged to engage in classroom discussions.",
+         "zh": "学校鼓励学生参与课堂讨论。"}
+      ],
+      "note": "engage in 表从事某事；be engaged to sb 指与某人订婚。"
+    },
+    {
+      "word": "chord",
+      "phr": [
+        {"en": "strike a chord", "zh": "引起共鸣"},
+        {"en": "play a chord", "zh": "弹和弦"}
+      ],
+      "ex": [
+        {"en": "Her story struck a chord with many young readers.",
+         "zh": "她的故事引起了许多年轻读者的共鸣。"}
+      ],
+      "note": "strike a chord (with) 表引起共鸣，注意别与 cord 混。"
+    },
+    {
+      "word": "semester",
+      "phr": [
+        {"en": "this semester", "zh": "这学期"},
+        {"en": "the spring semester", "zh": "春季学期"}
+      ],
+      "ex": [
+        {"en": "She is taking five courses this semester and working part-time.",
+         "zh": "这学期她选了五门课，还做兼职。"}
+      ],
+      "note": "semester 指两学期制的学期；三学期制用 term 更常见。"
+    },
+    {
+      "word": "strategy",
+      "phr": [
+        {"en": "marketing strategy", "zh": "营销策略"},
+        {"en": "adopt a strategy", "zh": "采取策略"}
+      ],
+      "ex": [
+        {"en": "The company adopted a new marketing strategy last spring.",
+         "zh": "公司去年春天采取了新的营销策略。"}
+      ],
+      "note": "strategy 可数，采取策略用 adopt/work out a strategy。"
+    },
+    {
+      "word": "remainder",
+      "phr": [
+        {"en": "the remainder of the year", "zh": "今年余下时间"},
+        {"en": "the remainder of the money", "zh": "剩余的钱"}
+      ],
+      "ex": [
+        {"en": "He spent the remainder of the year working on his thesis.",
+         "zh": "他用那年余下的时间写论文。"}
+      ],
+      "note": "remainder 常与 of 连用，指剩余部分，不加 s。"
+    },
+    {
+      "word": "hypothesis",
+      "phr": [
+        {"en": "test a hypothesis", "zh": "检验假设"},
+        {"en": "support the hypothesis", "zh": "支持该假设"}
+      ],
+      "ex": [
+        {"en": "The team designed an experiment to test their hypothesis.",
+         "zh": "团队设计了一个实验来检验他们的假设。"}
+      ],
+      "note": "hypothesis 复数为 hypotheses，常接 test。"
+    },
+    {
+      "word": "revolve",
+      "phr": [
+        {"en": "revolve around", "zh": "围绕"},
+        {"en": "revolve on its axis", "zh": "绕轴自转"}
+      ],
+      "ex": [
+        {"en": "The moon revolves around the earth about once a month.",
+         "zh": "月球大约每月绕地球转一周。"}
+      ],
+      "note": "revolve around 也引申为“以…为中心”，如生活围绕家庭。"
+    },
+    {
+      "word": "collapse",
+      "phr": [
+        {"en": "economic collapse", "zh": "经济崩溃"},
+        {"en": "collapse under pressure", "zh": "在压力下崩溃"}
+      ],
+      "ex": [
+        {"en": "The old bridge collapsed during the heavy storm last night.",
+         "zh": "这座旧桥昨晚在暴风雨中坍塌了。"}
+      ],
+      "note": "collapse 指建筑物倒塌或体系崩溃，也可指人昏倒。"
+    },
+    {
+      "word": "territory",
+      "phr": [
+        {"en": "occupied territory", "zh": "被占领土"},
+        {"en": "uncharted territory", "zh": "未知领域"}
+      ],
+      "ex": [
+        {"en": "The two countries have argued over this territory for decades.",
+         "zh": "两国为这片领土争论了数十年。"}
+      ],
+      "note": "territory 指领土或知识领域，如 familiar territory。"
+    },
+    {
+      "word": "summon",
+      "phr": [
+        {"en": "summon the courage", "zh": "鼓起勇气"},
+        {"en": "summon a meeting", "zh": "召开会议"}
+      ],
+      "ex": [
+        {"en": "She summoned the courage to speak in front of the class.",
+         "zh": "她鼓起勇气在全班面前发言。"}
+      ],
+      "note": "summon 后常接 courage、meeting、witness 等。"
+    },
+    {
+      "word": "flare",
+      "phr": [
+        {"en": "flare up", "zh": "突然加剧"},
+        {"en": "tempers flare", "zh": "脾气爆发"}
+      ],
+      "ex": [
+        {"en": "The argument flared up again after dinner that evening.",
+         "zh": "那天晚饭后，争吵又爆发了。"}
+      ],
+      "note": "flare up 指疾病、冲突突然加剧，也可说 tempers flare。"
+    },
+    {
+      "word": "accurate",
+      "phr": [
+        {"en": "accurate information", "zh": "准确信息"},
+        {"en": "an accurate description", "zh": "准确描述"}
+      ],
+      "ex": [
+        {"en": "The map gives an accurate picture of the coastal roads.",
+         "zh": "这幅地图准确描绘了沿海公路。"}
+      ],
+      "note": "accurate 侧重准确无误；名词 accuracy，副词 accurately。"
+    },
+    {
+      "word": "legend",
+      "phr": [
+        {"en": "according to legend", "zh": "据传说"},
+        {"en": "a living legend", "zh": "活着的传奇"}
+      ],
+      "ex": [
+        {"en": "According to legend, the lake was created by a giant.",
+         "zh": "据传说，这个湖是一个巨人所造。"}
+      ],
+      "note": "legend 可指传说或传奇人物；legendary 意为“传奇的”。"
+    },
+    {
+      "word": "maintain",
+      "phr": [
+        {"en": "maintain a balance", "zh": "保持平衡"},
+        {"en": "maintain that", "zh": "坚持认为"}
+      ],
+      "ex": [
+        {"en": "It is hard to maintain a balance between work and family.",
+         "zh": "在工作和家庭之间保持平衡很难。"}
+      ],
+      "note": "maintain 可接宾语或 that 从句，表“坚持认为”。"
+    },
+    {
+      "word": "expertise",
+      "phr": [
+        {"en": "technical expertise", "zh": "技术专长"},
+        {"en": "expertise in", "zh": "在…方面的专长"}
+      ],
+      "ex": [
+        {"en": "The project needs someone with technical expertise in data security.",
+         "zh": "该项目需要一位具备数据安全技术专长的人。"}
+      ],
+      "note": "expertise 不可数，常用 expertise in 某领域。"
+    },
+    {
+      "word": "bargain",
+      "phr": [
+        {"en": "a real bargain", "zh": "真便宜"},
+        {"en": "bargain with sb", "zh": "与某人讨价还价"}
+      ],
+      "ex": [
+        {"en": "At that price, the used bike was a real bargain.",
+         "zh": "以那个价格买这辆旧自行车真划算。"}
+      ],
+      "note": "bargain 可指便宜货或协议，讨价还价说 bargain over。"
+    }
+  ]
+}

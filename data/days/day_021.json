@@ -1,0 +1,246 @@
+{
+ "day": 21,
+ "date": null,
+ "words": [
+  {
+   "id": 601,
+   "word": "intellect",
+   "uk": "/ˈɪntəlekt/",
+   "us": "/ˈɪntəlɛkt/",
+   "pos": "n.",
+   "cn": "智力；理解力；才智非凡的人"
+  },
+  {
+   "id": 602,
+   "word": "preference",
+   "uk": "/ˈprefrəns/",
+   "us": "/ˈprɛfrəns/",
+   "pos": "n.",
+   "cn": "喜爱；偏爱；优先；偏爱的事物"
+  },
+  {
+   "id": 603,
+   "word": "mild",
+   "uk": "/maɪld/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "温柔的；温暖的；轻微的"
+  },
+  {
+   "id": 604,
+   "word": "loyal",
+   "uk": "/ˈlɔɪəl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "忠诚的；忠心的"
+  },
+  {
+   "id": 605,
+   "word": "impact",
+   "uk": "/ˈɪmpækt/",
+   "us": "/ɪmˈpækt/",
+   "pos": "v.,n.",
+   "cn": "影响；作用；冲击；[Im'pækt]"
+  },
+  {
+   "id": 606,
+   "word": "paralysis",
+   "uk": "/pəˈræləsɪs/",
+   "us": "",
+   "pos": "n.",
+   "cn": "麻痹；瘫痪；中风；无能；无力"
+  },
+  {
+   "id": 607,
+   "word": "court",
+   "uk": "/kɔːt/",
+   "us": "/kɔrt/",
+   "pos": "n.",
+   "cn": "法院；法庭；庭院；宫廷；球场"
+  },
+  {
+   "id": 608,
+   "word": "chapel",
+   "uk": "/ˈtʃæpl/",
+   "us": "",
+   "pos": "n.",
+   "cn": "小教堂；祈祷室"
+  },
+  {
+   "id": 609,
+   "word": "distort",
+   "uk": "/dɪˈstɔːt/",
+   "us": "/dɪˈstɔrt/",
+   "pos": "vi.,vt.",
+   "cn": "变形；歪曲；曲解；扭曲；使变形"
+  },
+  {
+   "id": 610,
+   "word": "subsidiary",
+   "uk": "/səbˈsɪdiəri/",
+   "us": "/səbˈsɪdɪɛri/",
+   "pos": "adj.,n.",
+   "cn": "辅助的；次要的；附设的；子公司；附属机构"
+  },
+  {
+   "id": 611,
+   "word": "venture",
+   "uk": "/ˈventʃə/",
+   "us": "/ˈvɛntʃɚ/",
+   "pos": "vi.,n.,vt.",
+   "cn": "冒险；大胆行事；风险投资；风险项目；拿…冒险；敢于"
+  },
+  {
+   "id": 612,
+   "word": "discern",
+   "uk": "/dɪˈsɜːn/",
+   "us": "/dɪˈsɝn/",
+   "pos": "vt.",
+   "cn": "看出；察觉出；识别；认出"
+  },
+  {
+   "id": 613,
+   "word": "enthusiasm",
+   "uk": "/ɪnˈθjuːziæzəm/",
+   "us": "/ɪnˈθuzɪæzəm/",
+   "pos": "n.",
+   "cn": "热情；热心；热忱；巨大兴趣"
+  },
+  {
+   "id": 614,
+   "word": "flexible",
+   "uk": "/ˈfleksəbl/",
+   "us": "/ˈflɛksəbl/",
+   "pos": "adj.",
+   "cn": "易弯曲的；灵活的"
+  },
+  {
+   "id": 615,
+   "word": "domain",
+   "uk": "/dəuˈmeɪn/",
+   "us": "/doˈmen/",
+   "pos": "n.",
+   "cn": "领域；范围；领地；势力范围"
+  },
+  {
+   "id": 616,
+   "word": "census",
+   "uk": "/ˈsensəs/",
+   "us": "/ˈsɛnsəs/",
+   "pos": "n.",
+   "cn": "人口普查；统计"
+  },
+  {
+   "id": 617,
+   "word": "corpse",
+   "uk": "/kɔːps/",
+   "us": "/kɔrps/",
+   "pos": "n.",
+   "cn": "死尸；尸体"
+  },
+  {
+   "id": 618,
+   "word": "willful",
+   "uk": "/ˈwɪlfl/",
+   "us": "/ˈwɪlfəl/",
+   "pos": "adj.",
+   "cn": "故意的；特意的"
+  },
+  {
+   "id": 619,
+   "word": "attitude",
+   "uk": "/ˈætɪtjuːd/",
+   "us": "/ˈætɪtʊd/",
+   "pos": "n.",
+   "cn": "态度；看法；姿势"
+  },
+  {
+   "id": 620,
+   "word": "relative",
+   "uk": "/ˈrelətɪv/",
+   "us": "/ˈrɛlətɪv/",
+   "pos": "adj.,n.",
+   "cn": "有关系的；相对的；亲属；亲戚"
+  },
+  {
+   "id": 621,
+   "word": "compare",
+   "uk": "/kəmˈpeə/",
+   "us": "/kəmˈpɛr/",
+   "pos": "vt.",
+   "cn": "比较；对照；把…比作"
+  },
+  {
+   "id": 622,
+   "word": "depict",
+   "uk": "/dɪˈpɪkt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "描绘；描述"
+  },
+  {
+   "id": 623,
+   "word": "hop",
+   "uk": "/hɒp/",
+   "us": "/hɑp/",
+   "pos": "vi.,vt.,n.",
+   "cn": "单足跳跃；单足跳行；齐足跳跃；齐足跳行；跳上；蹦跳；短程航行"
+  },
+  {
+   "id": 624,
+   "word": "characteristic",
+   "uk": "/ˌkærəktəˈrɪstɪk/",
+   "us": "/,kærəktəˈrɪstɪk/",
+   "pos": "adj.,n.",
+   "cn": "特有的；典型的；特性"
+  },
+  {
+   "id": 625,
+   "word": "involvement",
+   "uk": "/ɪnˈvɒlvmənt/",
+   "us": "/ɪnˈvɔlvmənt/",
+   "pos": "n.",
+   "cn": "连累；包含"
+  },
+  {
+   "id": 626,
+   "word": "pave",
+   "uk": "/peɪv/",
+   "us": "/pev/",
+   "pos": "vt.",
+   "cn": "铺；铺筑"
+  },
+  {
+   "id": 627,
+   "word": "integral",
+   "uk": "/ˈɪntɪgrəl/",
+   "us": "/ˈɪntɪɡrəl/",
+   "pos": "adj.",
+   "cn": "构成整体所必需的；基本的"
+  },
+  {
+   "id": 628,
+   "word": "lubricate",
+   "uk": "/ˈluːbrɪkeɪt/",
+   "us": "/ˈlubrɪket/",
+   "pos": "vt.",
+   "cn": "使润滑"
+  },
+  {
+   "id": 629,
+   "word": "comet",
+   "uk": "/ˈkɒmɪt/",
+   "us": "/ˈkɑmət/",
+   "pos": "n.",
+   "cn": "彗星"
+  },
+  {
+   "id": 630,
+   "word": "deadline",
+   "uk": "/ˈdedlaɪn/",
+   "us": "",
+   "pos": "n.",
+   "cn": "最后期限"
+  }
+ ]
+}

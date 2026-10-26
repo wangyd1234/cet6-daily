@@ -1,0 +1,365 @@
+{
+  "day": 71,
+  "words": [
+    {
+      "word": "texture",
+      "phr": [
+        {"en": "a smooth texture", "zh": "光滑的质地"},
+        {"en": "a rough texture", "zh": "粗糙的质地"}
+      ],
+      "ex": [
+        {"en": "This bread has a soft texture and a slightly sweet taste.",
+         "zh": "这种面包质地柔软，味道微甜。"}
+      ],
+      "note": "texture 指质地、手感；常与 smooth、rough 搭配。"
+    },
+    {
+      "word": "closet",
+      "phr": [
+        {"en": "a walk-in closet", "zh": "步入式衣帽间"},
+        {"en": "closet space", "zh": "储物空间"}
+      ],
+      "ex": [
+        {"en": "She hung her coat in the closet and went into the kitchen.",
+         "zh": "她把外套挂在衣橱里，然后走进厨房。"}
+      ],
+      "note": "closet 是美式壁橱；作形容词可指秘密的，如 closet fan。"
+    },
+    {
+      "word": "speculate",
+      "phr": [
+        {"en": "speculate about", "zh": "猜测"},
+        {"en": "speculate in stocks", "zh": "做股票投机"}
+      ],
+      "ex": [
+        {"en": "Reporters continued to speculate about the reason for his sudden exit.",
+         "zh": "记者们继续猜测他突然离职的原因。"}
+      ],
+      "note": "speculate about 表推测；speculate in 表做投机。"
+    },
+    {
+      "word": "dismantle",
+      "phr": [
+        {"en": "dismantle a machine", "zh": "拆卸机器"},
+        {"en": "dismantle the old bridge", "zh": "拆除旧桥"}
+      ],
+      "ex": [
+        {"en": "Workers began to dismantle the old stage after the concert.",
+         "zh": "音乐会结束后，工人们开始拆除旧舞台。"}
+      ],
+      "note": "dis-（去除）+ mantle（覆盖物），指拆卸、拆除。"
+    },
+    {
+      "word": "monster",
+      "phr": [
+        {"en": "a sea monster", "zh": "海怪"},
+        {"en": "a monster truck", "zh": "巨型卡车"}
+      ],
+      "ex": [
+        {"en": "The film tells the story of a monster living deep in the lake.",
+         "zh": "这部电影讲的是一个生活在深湖中的怪物的故事。"}
+      ],
+      "note": "monster 作形容词可指巨大的，如 a monster truck。"
+    },
+    {
+      "word": "bud",
+      "phr": [
+        {"en": "in bud", "zh": "含苞待放"},
+        {"en": "nip sth in the bud", "zh": "防患于未然"}
+      ],
+      "ex": [
+        {"en": "The trees are in bud, and the garden looks alive again.",
+         "zh": "树木正在抽芽，花园又显得生机勃勃。"}
+      ],
+      "note": "in bud 指含苞待放；nip sth in the bud 指防患未然。"
+    },
+    {
+      "word": "confirm",
+      "phr": [
+        {"en": "confirm a booking", "zh": "确认预订"},
+        {"en": "confirm that", "zh": "证实…"}
+      ],
+      "ex": [
+        {"en": "Please confirm your booking by email at least two days in advance.",
+         "zh": "请至少提前两天通过邮件确认您的预订。"}
+      ],
+      "note": "confirm 指证实或确认；名词 confirmation。"
+    },
+    {
+      "word": "bug",
+      "phr": [
+        {"en": "fix a bug", "zh": "修复漏洞"},
+        {"en": "a stomach bug", "zh": "肠胃小病"}
+      ],
+      "ex": [
+        {"en": "Engineers spent the whole night fixing a bug in the system.",
+         "zh": "工程师们花了一整夜修复系统里的一个漏洞。"}
+      ],
+      "note": "可指电脑漏洞或小毛病；作动词还有烦扰之意。"
+    },
+    {
+      "word": "prescient",
+      "phr": [
+        {"en": "a prescient warning", "zh": "有先见之明的警告"},
+        {"en": "remarkably prescient", "zh": "极有预见性"}
+      ],
+      "ex": [
+        {"en": "Her prescient warning about the risks turned out to be right.",
+         "zh": "她关于风险的有先见之明的警告后来被证明是对的。"}
+      ],
+      "note": "pre-（预先）+ sci（知道），与 science 同源。"
+    },
+    {
+      "word": "acquaint",
+      "phr": [
+        {"en": "be acquainted with", "zh": "熟悉"},
+        {"en": "acquaint sb with sth", "zh": "使某人了解某事"}
+      ],
+      "ex": [
+        {"en": "New staff are given a week to acquaint themselves with the office.",
+         "zh": "新员工有一周时间熟悉办公室的情况。"}
+      ],
+      "note": "acquaint sb with sth 表使了解，常用于被动。"
+    },
+    {
+      "word": "elastic",
+      "phr": [
+        {"en": "an elastic band", "zh": "橡皮筋"},
+        {"en": "elastic material", "zh": "弹性材料"}
+      ],
+      "ex": [
+        {"en": "The waistband is elastic, so the trousers fit almost anyone.",
+         "zh": "裤腰是松紧的，所以这条裤子几乎适合任何人。"}
+      ],
+      "note": "elastic 指有弹性的，也可喻灵活的；名词 elasticity。"
+    },
+    {
+      "word": "consequent",
+      "phr": [
+        {"en": "a consequent rise", "zh": "随之而来的上涨"},
+        {"en": "consequent on", "zh": "因…而起的"}
+      ],
+      "ex": [
+        {"en": "Heavy rain and the consequent flooding closed several roads.",
+         "zh": "大雨以及随之而来的洪水使几条道路封闭。"}
+      ],
+      "note": "consequent 后常接名词；consequently 意为因此。"
+    },
+    {
+      "word": "vast",
+      "phr": [
+        {"en": "the vast majority", "zh": "绝大多数"},
+        {"en": "a vast amount of", "zh": "大量的"}
+      ],
+      "ex": [
+        {"en": "The vast majority of students supported the new library plan.",
+         "zh": "绝大多数学生支持新建图书馆的计划。"}
+      ],
+      "note": "the vast majority of 是高频搭配；vast 强调数量巨大。"
+    },
+    {
+      "word": "intervene",
+      "phr": [
+        {"en": "intervene in", "zh": "干预"},
+        {"en": "intervene between", "zh": "居中调解"}
+      ],
+      "ex": [
+        {"en": "The teacher had to intervene when the two boys started shouting.",
+         "zh": "两个男孩开始大喊时，老师不得不介入。"}
+      ],
+      "note": "intervene in 指干预某事；intervene between 指居中调解。"
+    },
+    {
+      "word": "symbol",
+      "phr": [
+        {"en": "a symbol of", "zh": "…的象征"},
+        {"en": "a chemical symbol", "zh": "化学符号"}
+      ],
+      "ex": [
+        {"en": "The dove is often used as a symbol of peace.",
+         "zh": "鸽子常被用作和平的象征。"}
+      ],
+      "note": "a symbol of 表象征；symbolize 意为象征，是动词。"
+    },
+    {
+      "word": "ignite",
+      "phr": [
+        {"en": "ignite a fire", "zh": "点火"},
+        {"en": "ignite a debate", "zh": "引发争论"}
+      ],
+      "ex": [
+        {"en": "A single spark can ignite the dry grass in seconds.",
+         "zh": "一颗火星就能在几秒内点燃干草。"}
+      ],
+      "note": "ignite 指点燃，也可指引发争论；名词 ignition。"
+    },
+    {
+      "word": "commercial",
+      "phr": [
+        {"en": "commercial success", "zh": "商业上的成功"},
+        {"en": "a commercial break", "zh": "广告时段"}
+      ],
+      "ex": [
+        {"en": "The film was a commercial success but critics disliked it.",
+         "zh": "这部电影在商业上很成功，但评论家不喜欢它。"}
+      ],
+      "note": "作形容词指商业的；名词 commercial 指电视广告。"
+    },
+    {
+      "word": "revelation",
+      "phr": [
+        {"en": "a shocking revelation", "zh": "令人震惊的爆料"},
+        {"en": "come as a revelation", "zh": "让人恍然大悟"}
+      ],
+      "ex": [
+        {"en": "The report contained a shocking revelation about the company's finances.",
+         "zh": "这份报告包含了一个关于该公司财务的惊人内幕。"}
+      ],
+      "note": "revelation 指揭露的真相；动词 reveal 表示揭示。"
+    },
+    {
+      "word": "available",
+      "phr": [
+        {"en": "widely available", "zh": "广泛可得"},
+        {"en": "be available to sb", "zh": "可供某人使用"}
+      ],
+      "ex": [
+        {"en": "Tickets are still available at the box office until Friday.",
+         "zh": "周五之前售票处仍有票出售。"}
+      ],
+      "note": "可作定语或表语；be available to sb 表某人可用。"
+    },
+    {
+      "word": "innumerable",
+      "phr": [
+        {"en": "innumerable times", "zh": "无数次"},
+        {"en": "innumerable stars", "zh": "无数的星星"}
+      ],
+      "ex": [
+        {"en": "Innumerable stars appeared once the clouds had cleared.",
+         "zh": "云散之后，无数星星显现出来。"}
+      ],
+      "note": "in-（不）+ numer（数）+ able，指数不清。"
+    },
+    {
+      "word": "advocate",
+      "phr": [
+        {"en": "advocate doing sth", "zh": "主张做某事"},
+        {"en": "an advocate of", "zh": "…的拥护者"}
+      ],
+      "ex": [
+        {"en": "She has long advocated stricter rules on food safety.",
+         "zh": "她长期以来主张对食品安全实行更严格的规定。"}
+      ],
+      "note": "advocate 后接 doing 或 that 从句，不接 to do。"
+    },
+    {
+      "word": "confine",
+      "phr": [
+        {"en": "confine A to B", "zh": "把 A 限制在 B"},
+        {"en": "be confined to bed", "zh": "卧病在床"}
+      ],
+      "ex": [
+        {"en": "The illness confined him to bed for almost a week.",
+         "zh": "这场病使他卧床近一周。"}
+      ],
+      "note": "confine A to B 把 A 限制在 B；be confined to 表局限。"
+    },
+    {
+      "word": "quest",
+      "phr": [
+        {"en": "in quest of", "zh": "寻求"},
+        {"en": "a quest for", "zh": "对…的追求"}
+      ],
+      "ex": [
+        {"en": "He travelled the world in quest of rare birds.",
+         "zh": "他走遍世界寻找稀有鸟类。"}
+      ],
+      "note": "in quest of 相当于 in search of；也作 quest for。"
+    },
+    {
+      "word": "frequency",
+      "phr": [
+        {"en": "high frequency", "zh": "高频"},
+        {"en": "the frequency of", "zh": "…的频率"}
+      ],
+      "ex": [
+        {"en": "The frequency of online meetings has risen sharply this year.",
+         "zh": "今年线上会议的频率急剧上升。"}
+      ],
+      "note": "frequency 是 frequent 的名词；常与 high、low 连用。"
+    },
+    {
+      "word": "elicit",
+      "phr": [
+        {"en": "elicit a response", "zh": "引出回应"},
+        {"en": "elicit information", "zh": "探出信息"}
+      ],
+      "ex": [
+        {"en": "The question failed to elicit any response from the audience.",
+         "zh": "这个问题没能引起听众的任何回应。"}
+      ],
+      "note": "elicit 指诱出、引出；与 illicit（违法的）易混。"
+    },
+    {
+      "word": "relegate",
+      "phr": [
+        {"en": "relegate to", "zh": "降级到"},
+        {"en": "relegate sth to the background", "zh": "置于次要地位"}
+      ],
+      "ex": [
+        {"en": "The team was relegated to the second division last season.",
+         "zh": "这支球队上赛季被降到了乙级。"}
+      ],
+      "note": "relegate A to B 指把 A 降到 B，也指使降级。"
+    },
+    {
+      "word": "trivial",
+      "phr": [
+        {"en": "trivial matters", "zh": "琐事"},
+        {"en": "far from trivial", "zh": "绝非小事"}
+      ],
+      "ex": [
+        {"en": "Don't waste time arguing about such trivial matters.",
+         "zh": "不要把时间浪费在争论这种琐事上。"}
+      ],
+      "note": "tri-（三）+ via（路），原指路口闲谈，故为琐碎。"
+    },
+    {
+      "word": "burial",
+      "phr": [
+        {"en": "a burial ground", "zh": "墓地"},
+        {"en": "a burial service", "zh": "葬礼"}
+      ],
+      "ex": [
+        {"en": "The village held a simple burial for the old fisherman.",
+         "zh": "村里为这位老渔夫举行了简朴的葬礼。"}
+      ],
+      "note": "bury 是动词，burial 是名词，指埋葬或葬礼。"
+    },
+    {
+      "word": "luggage",
+      "phr": [
+        {"en": "hand luggage", "zh": "手提行李"},
+        {"en": "a piece of luggage", "zh": "一件行李"}
+      ],
+      "ex": [
+        {"en": "You can take only one piece of hand luggage on board.",
+         "zh": "你只能携带一件手提行李登机。"}
+      ],
+      "note": "不可数名词，用 a piece of luggage；美式用 baggage。"
+    },
+    {
+      "word": "drawback",
+      "phr": [
+        {"en": "the main drawback", "zh": "主要缺点"},
+        {"en": "a serious drawback", "zh": "严重的缺陷"}
+      ],
+      "ex": [
+        {"en": "The main drawback of the flat is its lack of parking space.",
+         "zh": "这套公寓的主要缺点是缺少停车位。"}
+      ],
+      "note": "drawback 指不利条件，近义于 disadvantage。"
+    }
+  ]
+}

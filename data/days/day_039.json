@@ -1,0 +1,246 @@
+{
+ "day": 39,
+ "date": null,
+ "words": [
+  {
+   "id": 1141,
+   "word": "tract",
+   "uk": "/trækt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "传单；小册子；大片"
+  },
+  {
+   "id": 1142,
+   "word": "configuration",
+   "uk": "/kənˌfɪgəˈreɪʃn/",
+   "us": "/kən,fɪɡjəˈreʃən/",
+   "pos": "n.",
+   "cn": "配置；布局；构造"
+  },
+  {
+   "id": 1143,
+   "word": "mercury",
+   "uk": "/ˈmɜːkjəri/",
+   "us": "/ˈmɝkjəri/",
+   "pos": "n.",
+   "cn": "水银；汞"
+  },
+  {
+   "id": 1144,
+   "word": "frequent",
+   "uk": "/ˈfriːkwənt/",
+   "us": "/ˈfrikwənt/",
+   "pos": "adj.",
+   "cn": "时常发生的；常见的"
+  },
+  {
+   "id": 1145,
+   "word": "chunk",
+   "uk": "/tʃʌŋk/",
+   "us": "",
+   "pos": "n.",
+   "cn": "厚片；大块；相当大的部分"
+  },
+  {
+   "id": 1146,
+   "word": "interact",
+   "uk": "/ˌɪntərˈækt/",
+   "us": "/,ɪntɚˈækt/",
+   "pos": "vi.",
+   "cn": "相互作用；相互影响"
+  },
+  {
+   "id": 1147,
+   "word": "commonplace",
+   "uk": "/ˈkɒmənpleɪs/",
+   "us": "/ˈkɑmənˈples/",
+   "pos": "adj.,n.",
+   "cn": "普通的；平庸的；寻常的事物；平庸的东西"
+  },
+  {
+   "id": 1148,
+   "word": "aggregate",
+   "uk": "/ˈægrɪgət;(forv.)ˈægrɪgeɪt/",
+   "us": "/ˈæɡrɪɡət;(forv.)æɡrɪˌɡet/",
+   "pos": "adj.,n.,vt.",
+   "cn": "总计的；合计的；总数；合计；总计达；合计；使聚集；使积聚"
+  },
+  {
+   "id": 1149,
+   "word": "seemingly",
+   "uk": "/ˈsiːmɪŋli/",
+   "us": "/ˈsimɪŋli/",
+   "pos": "adv.",
+   "cn": "表面上；看上去"
+  },
+  {
+   "id": 1150,
+   "word": "attendant",
+   "uk": "/əˈtendənt/",
+   "us": "/əˈtɛndənt/",
+   "pos": "adj.,n.",
+   "cn": "伴随的；随之产生的；服务人员；侍者；随从"
+  },
+  {
+   "id": 1151,
+   "word": "array",
+   "uk": "/əˈreɪ/",
+   "us": "/əˈre/",
+   "pos": "n.",
+   "cn": "展示；陈列；一系列；排列；队形；衣服；盛装"
+  },
+  {
+   "id": 1152,
+   "word": "parameter",
+   "uk": "/pəˈræmɪtə/",
+   "us": "/pəˈræmɪtɚ/",
+   "pos": "n.",
+   "cn": "界限；范围；参数"
+  },
+  {
+   "id": 1153,
+   "word": "extinct",
+   "uk": "/ɪkˈstɪŋkt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "灭绝的；绝种的；不再活跃的；熄灭了的；已废弃的"
+  },
+  {
+   "id": 1154,
+   "word": "discriminate",
+   "uk": "/dɪˈskrɪmɪneɪt/",
+   "us": "/dɪˈskrɪmɪnet/",
+   "pos": "vi.",
+   "cn": "区别；辨别；有差别地对待；歧视"
+  },
+  {
+   "id": 1155,
+   "word": "degrade",
+   "uk": "/dɪˈgreɪd/",
+   "us": "/dɪˈɡred/",
+   "pos": "vt.",
+   "cn": "降低…的身份；有辱…的人格；使降解；使退化"
+  },
+  {
+   "id": 1156,
+   "word": "opaque",
+   "uk": "/əuˈpeɪk/",
+   "us": "/oˈpek/",
+   "pos": "adj.",
+   "cn": "不透明的；不透光的；难理解的；晦涩的"
+  },
+  {
+   "id": 1157,
+   "word": "repay",
+   "uk": "/rɪˈpeɪ/",
+   "us": "/riˈpɛi/",
+   "pos": "vt.",
+   "cn": "归还；报答"
+  },
+  {
+   "id": 1158,
+   "word": "monetary",
+   "uk": "/ˈmʌnɪtri/",
+   "us": "/ˈmʌnɪtɛri/",
+   "pos": "adj.",
+   "cn": "钱的；货币的；金融的"
+  },
+  {
+   "id": 1159,
+   "word": "grave",
+   "uk": "/greɪv/",
+   "us": "/ɡrev/",
+   "pos": "adj.,n.",
+   "cn": "严重的；严肃的；坟墓"
+  },
+  {
+   "id": 1160,
+   "word": "advantage",
+   "uk": "/ədˈvɑːntɪdʒ/",
+   "us": "/ədˈvæntɪdʒ/",
+   "pos": "n.",
+   "cn": "优点；优势；好处"
+  },
+  {
+   "id": 1161,
+   "word": "controversy",
+   "uk": "/ˈkɒntrəvɜːsi/",
+   "us": "/ˈkɑntrəvɝ​sɪ/",
+   "pos": "n.",
+   "cn": "争论；辩论"
+  },
+  {
+   "id": 1162,
+   "word": "command",
+   "uk": "/kəˈmɑːnd/",
+   "us": "/kəˈmænd/",
+   "pos": "vt.,n.",
+   "cn": "命令；指挥；控制"
+  },
+  {
+   "id": 1163,
+   "word": "compulsory",
+   "uk": "/kəmˈpʌlsəri/",
+   "us": "/kəmˈpʌlsərɪ/",
+   "pos": "adj.",
+   "cn": "必须做的；强制性的；必修的"
+  },
+  {
+   "id": 1164,
+   "word": "performance",
+   "uk": "/pəˈfɔːməns/",
+   "us": "/pɚˈfɔrməns/",
+   "pos": "n.",
+   "cn": "演出；履行；执行；完成；工作情况；表现；工作性能"
+  },
+  {
+   "id": 1165,
+   "word": "serial",
+   "uk": "/ˈsɪəriəl/",
+   "us": "/ˈsɪrɪəl/",
+   "pos": "adj.,n.",
+   "cn": "连续的；顺序排列的；连续剧；连载故事"
+  },
+  {
+   "id": 1166,
+   "word": "anticipate",
+   "uk": "/ænˈtɪsɪpeɪt/",
+   "us": "/ænˈtɪsəˈpet/",
+   "pos": "vt.",
+   "cn": "预料；预期；期望；先于…行动；提前使用"
+  },
+  {
+   "id": 1167,
+   "word": "detach",
+   "uk": "/dɪˈtætʃ/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "拆卸；使分开；使分离"
+  },
+  {
+   "id": 1168,
+   "word": "slash",
+   "uk": "/slæʃ/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "砍；大幅度削减；砍；砍痕；斜线号"
+  },
+  {
+   "id": 1169,
+   "word": "fabricate",
+   "uk": "/ˈfæbrɪkeɪt/",
+   "us": "/ˈfæbrɪket/",
+   "pos": "vt.",
+   "cn": "捏造；伪造；编造；建造"
+  },
+  {
+   "id": 1170,
+   "word": "comic",
+   "uk": "/ˈkɒmɪk/",
+   "us": "/ˈkɑmɪk/",
+   "pos": "adj.,n.",
+   "cn": "喜剧的；滑稽的；连环漫画；喜剧演员"
+  }
+ ]
+}

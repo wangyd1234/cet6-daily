@@ -1,0 +1,365 @@
+{
+  "day": 10,
+  "words": [
+    {
+      "word": "automatic",
+      "phr": [
+        {"en": "an automatic response", "zh": "无意识的反应"},
+        {"en": "fully automatic", "zh": "全自动的"}
+      ],
+      "ex": [
+        {"en": "My automatic response was to say sorry, even though I had done nothing wrong.",
+         "zh": "我下意识地说了声抱歉，尽管我并没有做错。"}
+      ],
+      "note": "automatic 还指无意识的本能反应；副词是 automatically。"
+    },
+    {
+      "word": "despite",
+      "phr": [
+        {"en": "despite the rain", "zh": "尽管下雨"},
+        {"en": "despite the fact that", "zh": "尽管事实是"}
+      ],
+      "ex": [
+        {"en": "Despite the heavy rain, the match went on as planned.",
+         "zh": "尽管下着大雨，比赛仍按计划进行。"}
+      ],
+      "note": "despite 是介词，接句子要用 despite the fact that。"
+    },
+    {
+      "word": "consecutive",
+      "phr": [
+        {"en": "on consecutive days", "zh": "连续几天"},
+        {"en": "three consecutive years", "zh": "连续三年"}
+      ],
+      "ex": [
+        {"en": "Prices have risen for three consecutive years, worrying many families.",
+         "zh": "物价连续三年上涨，令许多家庭担忧。"}
+      ],
+      "note": "consecutive 只作定语；口语连续几天说 in a row。"
+    },
+    {
+      "word": "probe",
+      "phr": [
+        {"en": "probe into sth", "zh": "调查某事"},
+        {"en": "a space probe", "zh": "太空探测器"}
+      ],
+      "ex": [
+        {"en": "The police have launched a probe into how the documents were leaked.",
+         "zh": "警方已就文件如何泄露展开调查。"}
+      ],
+      "note": "probe into 指深入调查；probe 也指探测器。"
+    },
+    {
+      "word": "assimilation",
+      "phr": [
+        {"en": "cultural assimilation", "zh": "文化同化"},
+        {"en": "the assimilation of immigrants", "zh": "移民的同化"}
+      ],
+      "ex": [
+        {"en": "The assimilation of new arrivals takes time and often meets resistance.",
+         "zh": "新来者的同化需要时间，且常遇阻力。"}
+      ],
+      "note": "assimilate 是动词；assimilation 也指知识的吸收。"
+    },
+    {
+      "word": "groan",
+      "phr": [
+        {"en": "groan with pain", "zh": "因疼痛呻吟"},
+        {"en": "with a groan", "zh": "呻吟着"}
+      ],
+      "ex": [
+        {"en": "He groaned with pain as the nurse cleaned the wound.",
+         "zh": "护士清洗伤口时，他痛得呻吟起来。"}
+      ],
+      "note": "groan 指低沉呻吟，多因痛苦；moan 语气更弱。"
+    },
+    {
+      "word": "industrial",
+      "phr": [
+        {"en": "industrial development", "zh": "工业发展"},
+        {"en": "an industrial area", "zh": "工业区"}
+      ],
+      "ex": [
+        {"en": "The town grew quickly during the industrial boom of the 1950s.",
+         "zh": "在二十世纪五十年代的工业繁荣中，这座城镇迅速发展。"}
+      ],
+      "note": "industrial 指工业的；industrious 指人勤勉，勿混。"
+    },
+    {
+      "word": "conduct",
+      "phr": [
+        {"en": "conduct a survey", "zh": "进行调查"},
+        {"en": "code of conduct", "zh": "行为准则"}
+      ],
+      "ex": [
+        {"en": "The students conducted a survey on how people spend their weekends.",
+         "zh": "学生们就人们如何过周末做了一项调查。"}
+      ],
+      "note": "名词重音在前，动词在后；conduct a survey 是常用搭配。"
+    },
+    {
+      "word": "velvet",
+      "phr": [
+        {"en": "a velvet dress", "zh": "天鹅绒连衣裙"},
+        {"en": "velvet curtains", "zh": "天鹅绒窗帘"}
+      ],
+      "ex": [
+        {"en": "The actress wore a deep blue velvet dress to the ceremony.",
+         "zh": "那位女演员穿着深蓝色天鹅绒长裙出席典礼。"}
+      ],
+      "note": "velvet 不可数，作定语直接修饰名词，如 velvet dress。"
+    },
+    {
+      "word": "quantitative",
+      "phr": [
+        {"en": "quantitative research", "zh": "定量研究"},
+        {"en": "quantitative analysis", "zh": "定量分析"}
+      ],
+      "ex": [
+        {"en": "The study combines quantitative data with interviews of local farmers.",
+         "zh": "这项研究把定量数据与对当地农民的访谈结合起来。"}
+      ],
+      "note": "quantitative 指定量，qualitative 指定性，成对记忆。"
+    },
+    {
+      "word": "stable",
+      "phr": [
+        {"en": "a stable relationship", "zh": "稳定的关系"},
+        {"en": "remain stable", "zh": "保持稳定"}
+      ],
+      "ex": [
+        {"en": "The patient's condition has remained stable since the operation.",
+         "zh": "手术后病人的病情一直保持稳定。"}
+      ],
+      "note": "stable 作形容词指稳定，作名词指马厩；名词 stability。"
+    },
+    {
+      "word": "reunion",
+      "phr": [
+        {"en": "a family reunion", "zh": "家庭团聚"},
+        {"en": "a class reunion", "zh": "同学聚会"}
+      ],
+      "ex": [
+        {"en": "The family reunion brought together relatives who had not met for years.",
+         "zh": "家庭团聚让多年未见的亲戚聚在一起。"}
+      ],
+      "note": "re- 表「再」+ union 表「联合」，故为团聚。"
+    },
+    {
+      "word": "fantastic",
+      "phr": [
+        {"en": "a fantastic idea", "zh": "极好的主意"},
+        {"en": "look fantastic", "zh": "看起来好极了"}
+      ],
+      "ex": [
+        {"en": "You look fantastic in that jacket, and the colour suits you.",
+         "zh": "你穿那件夹克真好看，颜色也很适合你。"}
+      ],
+      "note": "fantastic 口语常表极好；也可指荒诞不实的。"
+    },
+    {
+      "word": "drainage",
+      "phr": [
+        {"en": "a drainage system", "zh": "排水系统"},
+        {"en": "poor drainage", "zh": "排水不良"}
+      ],
+      "ex": [
+        {"en": "Heavy rain flooded the streets because the drainage system was blocked.",
+         "zh": "大雨淹了街道，因为排水系统堵塞了。"}
+      ],
+      "note": "drain 是动词排水，drainage 是名词，指排水系统。"
+    },
+    {
+      "word": "respond",
+      "phr": [
+        {"en": "respond to sth", "zh": "对某事作出反应"},
+        {"en": "respond promptly", "zh": "迅速回应"}
+      ],
+      "ex": [
+        {"en": "The company responded to the complaints by changing its refund policy.",
+         "zh": "公司通过修改退款政策来回应这些投诉。"}
+      ],
+      "note": "respond 不及物，接宾语用 respond to；名词 response。"
+    },
+    {
+      "word": "incident",
+      "phr": [
+        {"en": "a minor incident", "zh": "小事件"},
+        {"en": "without incident", "zh": "未发生意外"}
+      ],
+      "ex": [
+        {"en": "The flight landed safely, and the whole trip passed without incident.",
+         "zh": "航班安全降落，整个旅程平安无事。"}
+      ],
+      "note": "incident 指偶发事件，多不愉快；accident 指意外。"
+    },
+    {
+      "word": "lame",
+      "phr": [
+        {"en": "a lame excuse", "zh": "站不住脚的借口"},
+        {"en": "go lame", "zh": "变瘸"}
+      ],
+      "ex": [
+        {"en": "He gave a lame excuse for missing the deadline again.",
+         "zh": "他又一次错过了截止日期，还给了个站不住脚的借口。"}
+      ],
+      "note": "lame 本义瘸的，引申指借口理由站不住脚。"
+    },
+    {
+      "word": "tub",
+      "phr": [
+        {"en": "a hot tub", "zh": "热水浴缸"},
+        {"en": "a tub of ice cream", "zh": "一桶冰淇淋"}
+      ],
+      "ex": [
+        {"en": "She soaked in a hot tub after the long hike.",
+         "zh": "长途徒步后，她泡了个热水浴缸。"}
+      ],
+      "note": "tub 指桶、盆或浴缸；a tub of 可作量词。"
+    },
+    {
+      "word": "cluster",
+      "phr": [
+        {"en": "a cluster of stars", "zh": "星团"},
+        {"en": "cluster around sth", "zh": "聚集在某物周围"}
+      ],
+      "ex": [
+        {"en": "A cluster of small shops has grown up around the new station.",
+         "zh": "新车站周围开起了一小片商店。"}
+      ],
+      "note": "cluster 指同类事物聚成一簇，动词常接 around。"
+    },
+    {
+      "word": "prey",
+      "phr": [
+        {"en": "fall prey to sth", "zh": "成为某事的牺牲品"},
+        {"en": "prey on sth", "zh": "捕食某物"}
+      ],
+      "ex": [
+        {"en": "Elderly people often fall prey to telephone scams.",
+         "zh": "老年人常常成为电话诈骗的受害者。"}
+      ],
+      "note": "fall prey to 中 prey 前不加冠词；prey on 指捕食。"
+    },
+    {
+      "word": "apparatus",
+      "phr": [
+        {"en": "a piece of apparatus", "zh": "一件仪器"},
+        {"en": "breathing apparatus", "zh": "呼吸器"}
+      ],
+      "ex": [
+        {"en": "The lab bought new apparatus for measuring air quality.",
+         "zh": "实验室购买了测量空气质量的新仪器。"}
+      ],
+      "note": "apparatus 单复数同形；计量用 a piece of apparatus。"
+    },
+    {
+      "word": "lieutenant",
+      "phr": [
+        {"en": "a second lieutenant", "zh": "少尉"},
+        {"en": "a lieutenant colonel", "zh": "中校"}
+      ],
+      "ex": [
+        {"en": "He was promoted to lieutenant after three years of service.",
+         "zh": "服役三年后，他被提升为中尉。"}
+      ],
+      "note": "英式发音中 f 音特殊；lieutenant 也可比喻副手。"
+    },
+    {
+      "word": "tug",
+      "phr": [
+        {"en": "tug at sth", "zh": "用力拉某物"},
+        {"en": "give sth a tug", "zh": "猛拉一下某物"}
+      ],
+      "ex": [
+        {"en": "The little boy kept tugging at his mother's sleeve.",
+         "zh": "小男孩不停地拽他妈妈的袖子。"}
+      ],
+      "note": "tug at 指反复用力拉；tug 也指拖船。"
+    },
+    {
+      "word": "expedition",
+      "phr": [
+        {"en": "go on an expedition", "zh": "去探险"},
+        {"en": "a scientific expedition", "zh": "科学考察"}
+      ],
+      "ex": [
+        {"en": "The team set off on an expedition to the Arctic last spring.",
+         "zh": "去年春天，这支队伍出发去北极探险。"}
+      ],
+      "note": "expedition 指有组织的考察；expedite 是加快，勿混。"
+    },
+    {
+      "word": "decay",
+      "phr": [
+        {"en": "tooth decay", "zh": "蛀牙"},
+        {"en": "fall into decay", "zh": "衰败"}
+      ],
+      "ex": [
+        {"en": "Sugar left on the teeth speeds up tooth decay.",
+         "zh": "留在牙齿上的糖分会加速蛀牙。"}
+      ],
+      "note": "decay 不及物，指逐渐腐烂衰败；tooth decay 固定。"
+    },
+    {
+      "word": "grieve",
+      "phr": [
+        {"en": "grieve for sb", "zh": "为某人悲伤"},
+        {"en": "be grieved by sth", "zh": "因某事而悲痛"}
+      ],
+      "ex": [
+        {"en": "She continues to grieve for her father, who died last winter.",
+         "zh": "她仍在为去年冬天去世的父亲悲伤。"}
+      ],
+      "note": "grieve for sb 表为失去的人悲伤；名词是 grief。"
+    },
+    {
+      "word": "absorb",
+      "phr": [
+        {"en": "absorb information", "zh": "吸收信息"},
+        {"en": "be absorbed in sth", "zh": "专心于某事"}
+      ],
+      "ex": [
+        {"en": "He was so absorbed in his book that he missed the stop.",
+         "zh": "他太专注于看书，结果坐过了站。"}
+      ],
+      "note": "be absorbed in 表全神贯注；absorb 本义吸收。"
+    },
+    {
+      "word": "concern",
+      "phr": [
+        {"en": "be concerned about sth", "zh": "担心某事"},
+        {"en": "as far as sth is concerned", "zh": "就某事而言"}
+      ],
+      "ex": [
+        {"en": "Parents are increasingly concerned about the time children spend online.",
+         "zh": "家长们越来越担心孩子上网的时间。"}
+      ],
+      "note": "concerned 表担心的，concerning 表关于，注意区分。"
+    },
+    {
+      "word": "fracture",
+      "phr": [
+        {"en": "a hairline fracture", "zh": "细微骨折"},
+        {"en": "fracture a bone", "zh": "使骨头骨折"}
+      ],
+      "ex": [
+        {"en": "The X-ray showed a small fracture in his left wrist.",
+         "zh": "爱克斯光片显示他左手腕有一处小骨折。"}
+      ],
+      "note": "fracture 比 break 正式，多用于医学；名词同形。"
+    },
+    {
+      "word": "rectify",
+      "phr": [
+        {"en": "rectify a mistake", "zh": "纠正错误"},
+        {"en": "rectify the situation", "zh": "纠正局面"}
+      ],
+      "ex": [
+        {"en": "The bank promised to rectify the mistake in my account immediately.",
+         "zh": "银行承诺立即纠正我账户上的错误。"}
+      ],
+      "note": "rectify 比 correct 正式，多用于错误、问题。"
+    }
+  ]
+}

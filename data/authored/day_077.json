@@ -1,0 +1,365 @@
+{
+  "day": 77,
+  "words": [
+    {
+      "word": "conspicuous",
+      "phr": [
+        {"en": "be conspicuous by its absence", "zh": "因缺席而引人注目"},
+        {"en": "conspicuous consumption", "zh": "炫耀性消费"}
+      ],
+      "ex": [
+        {"en": "His red coat made him conspicuous in the grey crowd.",
+         "zh": "他的红外套使他在灰暗的人群中格外显眼。"}
+      ],
+      "note": "反义 inconspicuous；多指显眼、易被注意。"
+    },
+    {
+      "word": "verse",
+      "phr": [
+        {"en": "free verse", "zh": "自由体诗"},
+        {"en": "a line of verse", "zh": "一行诗"}
+      ],
+      "ex": [
+        {"en": "He wrote short verses about the countryside where he grew up.",
+         "zh": "他写了一些关于自己成长乡村的短诗。"}
+      ],
+      "note": "不可数指诗体，可数指诗句；与 prose 相对。"
+    },
+    {
+      "word": "criminal",
+      "phr": [
+        {"en": "criminal law", "zh": "刑法"},
+        {"en": "a criminal record", "zh": "犯罪记录"}
+      ],
+      "ex": [
+        {"en": "He has a criminal record and cannot enter the country.",
+         "zh": "他有犯罪记录，不能入境。"}
+      ],
+      "note": "注意 criminal law 是刑法；名词指罪犯。"
+    },
+    {
+      "word": "furious",
+      "phr": [
+        {"en": "be furious with sb", "zh": "对某人大发雷霆"},
+        {"en": "be furious about sth", "zh": "对某事极为愤怒"}
+      ],
+      "ex": [
+        {"en": "She was furious with her brother for losing the keys.",
+         "zh": "她因弟弟丢了钥匙而对他大发脾气。"}
+      ],
+      "note": "be furious with sb about sth；名词 fury。"
+    },
+    {
+      "word": "obesity",
+      "phr": [
+        {"en": "childhood obesity", "zh": "儿童肥胖"},
+        {"en": "obesity rates", "zh": "肥胖率"}
+      ],
+      "ex": [
+        {"en": "Childhood obesity has become a serious public health problem.",
+         "zh": "儿童肥胖已成为严重的公共健康问题。"}
+      ],
+      "note": "形容词 obese；正式医学用语，慎用 fat。"
+    },
+    {
+      "word": "tan",
+      "phr": [
+        {"en": "get a tan", "zh": "晒黑"},
+        {"en": "tan leather", "zh": "鞣制皮革"}
+      ],
+      "ex": [
+        {"en": "She spent two weeks on the beach and came back with a tan.",
+         "zh": "她在海滩待了两周，回来时晒黑了。"}
+      ],
+      "note": "作动词指晒黑或鞣革；get a tan 指晒黑。"
+    },
+    {
+      "word": "individual",
+      "phr": [
+        {"en": "each individual", "zh": "每个人"},
+        {"en": "individual needs", "zh": "个人需求"}
+      ],
+      "ex": [
+        {"en": "The course is designed to meet the needs of individual students.",
+         "zh": "这门课程旨在满足个别学生的需求。"}
+      ],
+      "note": "作形容词指个别的、独特的；作名词指个人。"
+    },
+    {
+      "word": "briefcase",
+      "phr": [
+        {"en": "carry a briefcase", "zh": "提着公文包"},
+        {"en": "a leather briefcase", "zh": "皮公文包"}
+      ],
+      "ex": [
+        {"en": "He put the documents in his briefcase and left the office.",
+         "zh": "他把文件放进公文包，然后离开了办公室。"}
+      ],
+      "note": "由 brief（摘要）+ case（箱）构成。"
+    },
+    {
+      "word": "nuisance",
+      "phr": [
+        {"en": "make a nuisance of oneself", "zh": "讨人嫌"},
+        {"en": "a constant nuisance", "zh": "一直惹人烦的事"}
+      ],
+      "ex": [
+        {"en": "The noise from the building site is a real nuisance.",
+         "zh": "工地的噪音真是讨厌。"}
+      ],
+      "note": "make a nuisance of oneself 指惹人厌。"
+    },
+    {
+      "word": "brace",
+      "phr": [
+        {"en": "brace oneself for", "zh": "为…做好准备"},
+        {"en": "brace against the wind", "zh": "顶住风"}
+      ],
+      "ex": [
+        {"en": "The residents braced themselves for the coming storm.",
+         "zh": "居民们为即将到来的暴风雨做好了准备。"}
+      ],
+      "note": "常搭配 brace oneself for sth；也指支架、牙箍。"
+    },
+    {
+      "word": "constrain",
+      "phr": [
+        {"en": "be constrained by", "zh": "受…限制"},
+        {"en": "constrain sb to do sth", "zh": "强迫某人做某事"}
+      ],
+      "ex": [
+        {"en": "Small budgets constrain what the school can offer students.",
+         "zh": "预算有限限制了学校能为学生提供的条件。"}
+      ],
+      "note": "名词 constraint；be constrained by 表受限于。"
+    },
+    {
+      "word": "brisk",
+      "phr": [
+        {"en": "a brisk walk", "zh": "快步走"},
+        {"en": "brisk business", "zh": "兴隆的生意"}
+      ],
+      "ex": [
+        {"en": "A brisk walk before breakfast helps me stay awake all morning.",
+         "zh": "早饭前快步走能让我一上午都清醒。"}
+      ],
+      "note": "常形容步伐轻快或生意兴隆；副词 briskly。"
+    },
+    {
+      "word": "prestige",
+      "phr": [
+        {"en": "gain prestige", "zh": "获得威望"},
+        {"en": "social prestige", "zh": "社会声望"}
+      ],
+      "ex": [
+        {"en": "The university has gained international prestige in recent years.",
+         "zh": "这所大学近年来获得了国际声望。"}
+      ],
+      "note": "不可数，指因成就而得的威望；形容词 prestigious。"
+    },
+    {
+      "word": "insulation",
+      "phr": [
+        {"en": "thermal insulation", "zh": "隔热层"},
+        {"en": "insulation material", "zh": "绝缘材料"}
+      ],
+      "ex": [
+        {"en": "Good insulation can cut heating bills by half.",
+         "zh": "良好的隔热能把取暖费减少一半。"}
+      ],
+      "note": "由 insulate 变来，指隔热、绝缘。"
+    },
+    {
+      "word": "cord",
+      "phr": [
+        {"en": "an electric cord", "zh": "电源线"},
+        {"en": "the umbilical cord", "zh": "脐带"}
+      ],
+      "ex": [
+        {"en": "The electric cord was too short to reach the wall socket.",
+         "zh": "电源线太短，够不到墙上的插座。"}
+      ],
+      "note": "指细绳、电线；注意与 chord（和弦）同音。"
+    },
+    {
+      "word": "startle",
+      "phr": [
+        {"en": "be startled by", "zh": "被…吓了一跳"},
+        {"en": "a startled look", "zh": "惊愕的表情"}
+      ],
+      "ex": [
+        {"en": "The sudden noise startled the birds and they flew away.",
+         "zh": "突然的响声惊动了鸟，它们飞走了。"}
+      ],
+      "note": "指使人突然受惊；形容词 startled 指受惊的。"
+    },
+    {
+      "word": "interim",
+      "phr": [
+        {"en": "an interim report", "zh": "中期报告"},
+        {"en": "in the interim", "zh": "在此期间"}
+      ],
+      "ex": [
+        {"en": "The committee will publish an interim report before the final one.",
+         "zh": "委员会将在最终报告之前发布一份中期报告。"}
+      ],
+      "note": "in the interim 等于 meanwhile；也指过渡的。"
+    },
+    {
+      "word": "fraud",
+      "phr": [
+        {"en": "commit fraud", "zh": "实施欺诈"},
+        {"en": "tax fraud", "zh": "税务欺诈"}
+      ],
+      "ex": [
+        {"en": "He was arrested for committing fraud against elderly customers.",
+         "zh": "他因对老年客户实施诈骗而被捕。"}
+      ],
+      "note": "不可数指欺诈，可数指骗子；commit fraud。"
+    },
+    {
+      "word": "testimony",
+      "phr": [
+        {"en": "give testimony", "zh": "作证"},
+        {"en": "a testimony to", "zh": "…的明证"}
+      ],
+      "ex": [
+        {"en": "Her success is a testimony to the value of hard work.",
+         "zh": "她的成功证明了努力工作的价值。"}
+      ],
+      "note": "法律语境指证词；a testimony to sth 表明证。"
+    },
+    {
+      "word": "council",
+      "phr": [
+        {"en": "the city council", "zh": "市议会"},
+        {"en": "a council member", "zh": "委员会成员"}
+      ],
+      "ex": [
+        {"en": "The city council voted to build a new public library.",
+         "zh": "市议会投票决定新建一座公共图书馆。"}
+      ],
+      "note": "注意与 counsel（建议、律师）区分。"
+    },
+    {
+      "word": "reaffirm",
+      "phr": [
+        {"en": "reaffirm one's commitment", "zh": "重申承诺"},
+        {"en": "reaffirm support for", "zh": "重申对…的支持"}
+      ],
+      "ex": [
+        {"en": "The two sides reaffirmed their commitment to the peace agreement.",
+         "zh": "双方重申了对和平协议的承诺。"}
+      ],
+      "note": "re-（再）+ affirm（断言），指再次确认立场。"
+    },
+    {
+      "word": "enforce",
+      "phr": [
+        {"en": "enforce the law", "zh": "执法"},
+        {"en": "enforce a rule", "zh": "执行规定"}
+      ],
+      "ex": [
+        {"en": "Police officers have a duty to enforce traffic laws.",
+         "zh": "警察有责任执行交通法规。"}
+      ],
+      "note": "指强制执行法律或规定；enforcement 指执行。"
+    },
+    {
+      "word": "glitter",
+      "phr": [
+        {"en": "glitter with", "zh": "因…而闪光"},
+        {"en": "the glitter of", "zh": "…的闪光"}
+      ],
+      "ex": [
+        {"en": "The Christmas tree glittered with hundreds of small lights.",
+         "zh": "圣诞树上千百盏小灯闪闪发光。"}
+      ],
+      "note": "指闪光、闪耀；形容词 glittering 指闪亮的。"
+    },
+    {
+      "word": "destined",
+      "phr": [
+        {"en": "be destined for", "zh": "注定要；前往"},
+        {"en": "be destined to do", "zh": "注定做"}
+      ],
+      "ex": [
+        {"en": "He was destined to become one of the country's finest doctors.",
+         "zh": "他注定会成为全国最优秀的医生之一。"}
+      ],
+      "note": "be destined to do 或 be destined for sth。"
+    },
+    {
+      "word": "repression",
+      "phr": [
+        {"en": "political repression", "zh": "政治压制"},
+        {"en": "the repression of emotions", "zh": "压抑情感"}
+      ],
+      "ex": [
+        {"en": "The report described years of political repression in the region.",
+         "zh": "报告描述了该地区多年的政治压制。"}
+      ],
+      "note": "动词 repress；既指镇压，也指压抑情感。"
+    },
+    {
+      "word": "fragile",
+      "phr": [
+        {"en": "a fragile peace", "zh": "脆弱的和平"},
+        {"en": "fragile goods", "zh": "易碎物品"}
+      ],
+      "ex": [
+        {"en": "The peace agreement remains fragile after months of fighting.",
+         "zh": "经过数月战斗，和平协议依然脆弱。"}
+      ],
+      "note": "指易碎或脆弱，可形容物品、健康、和平。"
+    },
+    {
+      "word": "penalty",
+      "phr": [
+        {"en": "pay the penalty", "zh": "付出代价"},
+        {"en": "the death penalty", "zh": "死刑"}
+      ],
+      "ex": [
+        {"en": "Drivers who ignore the rule will pay a heavy penalty.",
+         "zh": "无视这条规定的司机将付出沉重的代价。"}
+      ],
+      "note": "指处罚、罚金；pay the penalty for 付出代价。"
+    },
+    {
+      "word": "sociology",
+      "phr": [
+        {"en": "a degree in sociology", "zh": "社会学学位"},
+        {"en": "the sociology of education", "zh": "教育社会学"}
+      ],
+      "ex": [
+        {"en": "She studied sociology and later worked for a social research group.",
+         "zh": "她学的是社会学，后来在一家社会研究机构工作。"}
+      ],
+      "note": "socio-（社会）+ -logy（学科）；形容词 sociological。"
+    },
+    {
+      "word": "exile",
+      "phr": [
+        {"en": "live in exile", "zh": "流亡"},
+        {"en": "be forced into exile", "zh": "被迫流亡"}
+      ],
+      "ex": [
+        {"en": "The writer spent ten years in exile before returning home.",
+         "zh": "这位作家流亡十年后才回到家乡。"}
+      ],
+      "note": "in exile 表流亡状态；be exiled from 指被流放。"
+    },
+    {
+      "word": "scale",
+      "phr": [
+        {"en": "on a large scale", "zh": "大规模地"},
+        {"en": "economies of scale", "zh": "规模经济"}
+      ],
+      "ex": [
+        {"en": "The project was carried out on a much larger scale than planned.",
+         "zh": "这个项目的实施规模比计划大得多。"}
+      ],
+      "note": "on a large scale 是常用短语；也指秤的刻度。"
+    }
+  ]
+}

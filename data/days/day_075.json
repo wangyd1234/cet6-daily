@@ -1,0 +1,246 @@
+{
+ "day": 75,
+ "date": null,
+ "words": [
+  {
+   "id": 2221,
+   "word": "leather",
+   "uk": "/ˈleðə/",
+   "us": "/ˈlɛðɚ/",
+   "pos": "n.",
+   "cn": "皮革；皮革制品"
+  },
+  {
+   "id": 2222,
+   "word": "insight",
+   "uk": "/ˈɪnsaɪt/",
+   "us": "/ˈɪnˈsaɪt/",
+   "pos": "n.",
+   "cn": "洞察力；洞悉；深刻的见解"
+  },
+  {
+   "id": 2223,
+   "word": "intact",
+   "uk": "/ɪnˈtækt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "完整无缺的；未经触动的；未受损伤的"
+  },
+  {
+   "id": 2224,
+   "word": "instrumental",
+   "uk": "/ˌɪnstrəˈmentl/",
+   "us": "/,ɪnstrəˈmɛntl/",
+   "pos": "adj.",
+   "cn": "起作用的；有帮助的；用乐器演奏的"
+  },
+  {
+   "id": 2225,
+   "word": "fabric",
+   "uk": "/ˈfæbrɪk/",
+   "us": "",
+   "pos": "n.",
+   "cn": "织物；纺织品；结构"
+  },
+  {
+   "id": 2226,
+   "word": "revolutionary",
+   "uk": "/ˌrevəˈluːʃənəri/",
+   "us": "/ˈrɛvəˈlʊʃəˈnɛri/",
+   "pos": "adj.,n.",
+   "cn": "革命的；革新的；革命者"
+  },
+  {
+   "id": 2227,
+   "word": "unemployment",
+   "uk": "/ˌʌnɪmˈplɔɪmənt/",
+   "us": "/,ʌnɪmˈplɔɪmənt/",
+   "pos": "n.",
+   "cn": "失业；失业人数"
+  },
+  {
+   "id": 2228,
+   "word": "juvenile",
+   "uk": "/ˈdʒuːvənaɪl/",
+   "us": "/ˈdʒʊvənaɪl/",
+   "pos": "adj.,n.",
+   "cn": "少年的；少年特有的；幼稚的；不成熟的；未成年人；少年"
+  },
+  {
+   "id": 2229,
+   "word": "force",
+   "uk": "/fɔːs/",
+   "us": "/fɔrs/",
+   "pos": "vt.,n.",
+   "cn": "强迫；用力推动；用力打开；军队；兵力；暴力；武力；力；力气；影响力；效力"
+  },
+  {
+   "id": 2230,
+   "word": "sympathetic",
+   "uk": "/ˌsɪmpəˈθetɪk/",
+   "us": "/,sɪmpəˈθɛtɪk/",
+   "pos": "adj.",
+   "cn": "同情的；和谐的；赞同的；支持的；合意的"
+  },
+  {
+   "id": 2231,
+   "word": "periodic",
+   "uk": "/ˌpɪəriˈɒdɪk/",
+   "us": "/,pɪrɪˈɑdɪk/",
+   "pos": "adj.",
+   "cn": "周期的；定期的；时而发生的"
+  },
+  {
+   "id": 2232,
+   "word": "distribution",
+   "uk": "/ˌdɪstrɪˈbjuːʃn/",
+   "us": "/ˈdɪstrəˈbjʊʃən/",
+   "pos": "n.",
+   "cn": "分发；分配；分布"
+  },
+  {
+   "id": 2233,
+   "word": "derive",
+   "uk": "/dɪˈraɪv/",
+   "us": "",
+   "pos": "vi.,vt.",
+   "cn": "起源；衍生；取得；得到；追溯…的起源或来由"
+  },
+  {
+   "id": 2234,
+   "word": "capacity",
+   "uk": "/kəˈpæsəti/",
+   "us": "",
+   "pos": "n.",
+   "cn": "容量；能力；能量；才能；身份；地位"
+  },
+  {
+   "id": 2235,
+   "word": "cope",
+   "uk": "/kəup/",
+   "us": "/kop/",
+   "pos": "vi.",
+   "cn": "应付；处理"
+  },
+  {
+   "id": 2236,
+   "word": "overhear",
+   "uk": "/ˌəuvəˈhɪə/",
+   "us": "/,ovɚˈhɪr/",
+   "pos": "vt.",
+   "cn": "无意中听到；偷听到"
+  },
+  {
+   "id": 2237,
+   "word": "dart",
+   "uk": "/dɑːt/",
+   "us": "/dɑrt/",
+   "pos": "vi.,vt.,n.",
+   "cn": "猛冲；飞奔；投射；飞镖；飞镖游戏；急驰；飞奔"
+  },
+  {
+   "id": 2238,
+   "word": "flaw",
+   "uk": "/flɔː/",
+   "us": "/flɔ/",
+   "pos": "n.",
+   "cn": "缺点；瑕疵；缺陷"
+  },
+  {
+   "id": 2239,
+   "word": "saturate",
+   "uk": "/ˈsætʃəreɪt/",
+   "us": "/ˈsætʃərɪt/",
+   "pos": "vt.",
+   "cn": "使湿透；浸透；使充满；使饱和"
+  },
+  {
+   "id": 2240,
+   "word": "feature",
+   "uk": "/ˈfiːtʃə/",
+   "us": "/ˈfitʃɚ/",
+   "pos": "n.,vt.",
+   "cn": "特征；特色；面貌；特写；专题节目；故事片；突出；由…主演"
+  },
+  {
+   "id": 2241,
+   "word": "flat",
+   "uk": "/flæt/",
+   "us": "",
+   "pos": "adv.,adj.,n.",
+   "cn": "平直地；直截了当地；平的；固定的；漏气的；单调的；沉闷的；浅的；一套房间；单元住宅"
+  },
+  {
+   "id": 2242,
+   "word": "assert",
+   "uk": "/əˈsɜːt/",
+   "us": "/əˈsɝt/",
+   "pos": "vt.",
+   "cn": "肯定地说；断言；维护；坚持；坚持己见"
+  },
+  {
+   "id": 2243,
+   "word": "climax",
+   "uk": "/ˈklaɪmæks/",
+   "us": "",
+   "pos": "n.",
+   "cn": "高潮；最令人兴奋的部分"
+  },
+  {
+   "id": 2244,
+   "word": "recall",
+   "uk": "/rɪˈkɔːl/",
+   "us": "/ˈrikɔl/",
+   "pos": "vt.",
+   "cn": "回忆；召回；叫回；收回；撤销"
+  },
+  {
+   "id": 2245,
+   "word": "rectangular",
+   "uk": "/rekˈtæŋgjələ/",
+   "us": "/rɛkˈtæŋgjəlɚ/",
+   "pos": "adj.",
+   "cn": "长方形的；矩形的"
+  },
+  {
+   "id": 2246,
+   "word": "flap",
+   "uk": "/flæp/",
+   "us": "",
+   "pos": "vi.,n.,vt.",
+   "cn": "飘动；拍动；振翅；片状垂悬物；飘动；摆动；振动；激动；慌忙状态；使拍动；使飘动"
+  },
+  {
+   "id": 2247,
+   "word": "precise",
+   "uk": "/prɪˈsaɪs/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "精确的；准确的；严谨的"
+  },
+  {
+   "id": 2248,
+   "word": "sensible",
+   "uk": "/ˈsensəbl/",
+   "us": "/ˈsɛnsəbl/",
+   "pos": "adj.",
+   "cn": "明智的；合情理的"
+  },
+  {
+   "id": 2249,
+   "word": "objection",
+   "uk": "/əbˈdʒekʃn/",
+   "us": "/əbˈdʒɛkʃən/",
+   "pos": "n.",
+   "cn": "反对；异议；反对的理由"
+  },
+  {
+   "id": 2250,
+   "word": "precious",
+   "uk": "/ˈpreʃəs/",
+   "us": "/ˈprɛʃəs/",
+   "pos": "adj.",
+   "cn": "珍贵的；宝贵的"
+  }
+ ]
+}

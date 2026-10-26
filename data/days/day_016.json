@@ -1,0 +1,246 @@
+{
+ "day": 16,
+ "date": null,
+ "words": [
+  {
+   "id": 451,
+   "word": "premise",
+   "uk": "/ˈpremɪs/",
+   "us": "",
+   "pos": "n.",
+   "cn": "房屋和地基；经营场址；前提；假设"
+  },
+  {
+   "id": 452,
+   "word": "circus",
+   "uk": "/ˈsɜːkəs/",
+   "us": "/ˈsɝkəs/",
+   "pos": "n.",
+   "cn": "马戏；马戏团；喧闹的场面；环形广场"
+  },
+  {
+   "id": 453,
+   "word": "controversial",
+   "uk": "/ˌkɒntrəˈvɜːʃl/",
+   "us": "/,kɑntrəˈvɝʃl/",
+   "pos": "adj.",
+   "cn": "引起争论的；有争议的"
+  },
+  {
+   "id": 454,
+   "word": "attain",
+   "uk": "/əˈteɪn/",
+   "us": "/əˈten/",
+   "pos": "vt.",
+   "cn": "达到；获得；完成"
+  },
+  {
+   "id": 455,
+   "word": "deprive",
+   "uk": "/dɪˈpraɪv/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "剥夺；使丧失"
+  },
+  {
+   "id": 456,
+   "word": "tenant",
+   "uk": "/ˈtenənt/",
+   "us": "/ˈtɛnənt/",
+   "pos": "n.",
+   "cn": "房客；佃户"
+  },
+  {
+   "id": 457,
+   "word": "resultant",
+   "uk": "/rɪˈzʌltənt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "作为结果的；因而发生的"
+  },
+  {
+   "id": 458,
+   "word": "pest",
+   "uk": "/pest/",
+   "us": "/pɛst/",
+   "pos": "n.",
+   "cn": "有害生物；害虫；讨厌的人"
+  },
+  {
+   "id": 459,
+   "word": "pedal",
+   "uk": "/ˈpedl/",
+   "us": "/ˈpɛdl/",
+   "pos": "vi.,n.,vt.",
+   "cn": "踩踏板；骑车；踏板；踏脚；脚蹬；踩动…的踏板"
+  },
+  {
+   "id": 460,
+   "word": "batter",
+   "uk": "/ˈbætə/",
+   "us": "/ˈbætɚ/",
+   "pos": "v.,n.",
+   "cn": "连续猛击；面糊"
+  },
+  {
+   "id": 461,
+   "word": "heritage",
+   "uk": "/ˈherɪtɪdʒ/",
+   "us": "/ˈhɛrɪtɪdʒ/",
+   "pos": "n.",
+   "cn": "遗产；继承物；传统"
+  },
+  {
+   "id": 462,
+   "word": "supreme",
+   "uk": "/suːˈpriːm/",
+   "us": "/suˈprim/",
+   "pos": "adj.",
+   "cn": "最高的；最大的；极度的；最重要的"
+  },
+  {
+   "id": 463,
+   "word": "hostage",
+   "uk": "/ˈhɒstɪdʒ/",
+   "us": "/ˈhɑstɪdʒ/",
+   "pos": "n.",
+   "cn": "人质"
+  },
+  {
+   "id": 464,
+   "word": "priority",
+   "uk": "/praɪˈɒrəti/",
+   "us": "/praɪˈɔrəti/",
+   "pos": "n.",
+   "cn": "优先；重点；优先考虑的事"
+  },
+  {
+   "id": 465,
+   "word": "slope",
+   "uk": "/sləup/",
+   "us": "/slop/",
+   "pos": "v.,n.",
+   "cn": "倾斜；倾斜；斜面"
+  },
+  {
+   "id": 466,
+   "word": "inlet",
+   "uk": "/ˈɪnlet/",
+   "us": "/ɪnˌlɛt/",
+   "pos": "n.",
+   "cn": "小湾；水湾；进口；入口"
+  },
+  {
+   "id": 467,
+   "word": "metallic",
+   "uk": "/məˈtælɪk/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "金属的；金属制的；有金属特性的；像金属的"
+  },
+  {
+   "id": 468,
+   "word": "shuttle",
+   "uk": "/ˈʃʌtl/",
+   "us": "",
+   "pos": "vi.,n.,vt.",
+   "cn": "穿梭般来回；短程穿梭运行的飞机；航天飞机；梭子；短程穿梭运送"
+  },
+  {
+   "id": 469,
+   "word": "regenerate",
+   "uk": "/rɪˈdʒenər3ɪt/",
+   "us": "/rɪˈdʒɛnəret/",
+   "pos": "vi.,vt.",
+   "cn": "新生；再生；起革新作用；使新生；重建；改革；革新"
+  },
+  {
+   "id": 470,
+   "word": "allocate",
+   "uk": "/ˈæləkeɪt/",
+   "us": "/ˈæləket/",
+   "pos": "vt.",
+   "cn": "分配；分派；把…拨给"
+  },
+  {
+   "id": 471,
+   "word": "latent",
+   "uk": "/ˈleɪtnt/",
+   "us": "/ˈletnt/",
+   "pos": "adj.",
+   "cn": "潜在的；隐伏的；不易察觉的"
+  },
+  {
+   "id": 472,
+   "word": "terrific",
+   "uk": "/təˈrɪfɪk/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "极妙的；极大的；令人恐惧的"
+  },
+  {
+   "id": 473,
+   "word": "standpoint",
+   "uk": "/ˈstændpɔɪnt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "立场；观点"
+  },
+  {
+   "id": 474,
+   "word": "primary",
+   "uk": "/ˈpraɪməri/",
+   "us": "/ˈpraɪmɛri/",
+   "pos": "adj.",
+   "cn": "首要的；主要的；基本的；最初的；初级的"
+  },
+  {
+   "id": 475,
+   "word": "pirate",
+   "uk": "/ˈpaɪrət/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "非法盗印者；侵犯版权者；海盗；盗用；非法盗印"
+  },
+  {
+   "id": 476,
+   "word": "stubborn",
+   "uk": "/ˈstʌbən/",
+   "us": "/ˈstʌbɚn/",
+   "pos": "adj.",
+   "cn": "顽固的；执拗的；倔强的；难对付的；难于克服的"
+  },
+  {
+   "id": 477,
+   "word": "formulate",
+   "uk": "/ˈfɔːmjuleɪt/",
+   "us": "/ˈfɔrmjəˈlet/",
+   "pos": "vt.",
+   "cn": "构想出；规划；系统地阐述"
+  },
+  {
+   "id": 478,
+   "word": "consume",
+   "uk": "/kənˈsjuːm/",
+   "us": "/kənˈsum/",
+   "pos": "vi.,vt.",
+   "cn": "消灭；毁灭；消费；吃完；喝光"
+  },
+  {
+   "id": 479,
+   "word": "dome",
+   "uk": "/dəum/",
+   "us": "/dom/",
+   "pos": "n.",
+   "cn": "圆屋顶；穹顶"
+  },
+  {
+   "id": 480,
+   "word": "layer",
+   "uk": "/ˈleɪə/",
+   "us": "/ˈleɪr/",
+   "pos": "n.",
+   "cn": "层；层次"
+  }
+ ]
+}

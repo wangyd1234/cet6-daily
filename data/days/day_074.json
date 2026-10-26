@@ -1,0 +1,246 @@
+{
+ "day": 74,
+ "date": null,
+ "words": [
+  {
+   "id": 2191,
+   "word": "accessory",
+   "uk": "/əkˈsesəri/",
+   "us": "/əkˈsɛsəri/",
+   "pos": "n.",
+   "cn": "附件；零件；配件；装饰品；同谋；帮凶；包庇犯"
+  },
+  {
+   "id": 2192,
+   "word": "compromise",
+   "uk": "/ˈkɒmprəmaɪz/",
+   "us": "/ˈkɑmprəmaɪz/",
+   "pos": "v.,n.",
+   "cn": "妥协；危及；放弃；妥协；和解；折中办法"
+  },
+  {
+   "id": 2193,
+   "word": "retort",
+   "uk": "/rɪˈtɔːt/",
+   "us": "/rɪˈtɔrt/",
+   "pos": "v.,n.",
+   "cn": "反驳；回嘴"
+  },
+  {
+   "id": 2194,
+   "word": "electrify",
+   "uk": "/ɪˈlektrɪfaɪ/",
+   "us": "/ɪˈlɛktrəˈfai/",
+   "pos": "vt.",
+   "cn": "使充电；使电气化；使激动；使兴奋"
+  },
+  {
+   "id": 2195,
+   "word": "seminar",
+   "uk": "/ˈsemɪnɑː/",
+   "us": "/ˈsɛmɪnɑr/",
+   "pos": "n.",
+   "cn": "研究班；研讨会"
+  },
+  {
+   "id": 2196,
+   "word": "fringe",
+   "uk": "/frɪndʒ/",
+   "us": "",
+   "pos": "adj.,n.,vt.",
+   "cn": "附加的；刘海；饰以流苏的边；边缘；外围；成为…的边缘"
+  },
+  {
+   "id": 2197,
+   "word": "competition",
+   "uk": "/ˌkɒmpəˈtɪʃn/",
+   "us": "/,kɑmpəˈtɪʃən/",
+   "pos": "n.",
+   "cn": "比赛；竞争"
+  },
+  {
+   "id": 2198,
+   "word": "beyond",
+   "uk": "/bɪˈjɒnd/",
+   "us": "/bɪˈjɑnd/",
+   "pos": "adv.,prep.",
+   "cn": "在更远处；再往后；在…的那边；远于；迟于；越出"
+  },
+  {
+   "id": 2199,
+   "word": "hazard",
+   "uk": "/ˈhæzəd/",
+   "us": "/ˈhæzɚd/",
+   "pos": "n.,vt.",
+   "cn": "危险；公害；尝试着做；冒…风险"
+  },
+  {
+   "id": 2200,
+   "word": "justify",
+   "uk": "/ˈdʒʌstɪfaɪ/",
+   "us": "/ˈdʒʌstəˈfai/",
+   "pos": "vt.",
+   "cn": "证明…是正当的"
+  },
+  {
+   "id": 2201,
+   "word": "dreadful",
+   "uk": "/ˈdredfl/",
+   "us": "/ˈdrɛdfəl/",
+   "pos": "adj.",
+   "cn": "糟透了的；极不合意的；极端的；极其大的；可怕的"
+  },
+  {
+   "id": 2202,
+   "word": "voluntary",
+   "uk": "/ˈvɒləntri/",
+   "us": "/ˈvɑləntɛri/",
+   "pos": "adj.",
+   "cn": "自愿的；志愿的"
+  },
+  {
+   "id": 2203,
+   "word": "connection",
+   "uk": "/kəˈnekʃn/",
+   "us": "/kəˈnɛkʃən/",
+   "pos": "n.",
+   "cn": "连接；联系；连接物；连接点；亲戚"
+  },
+  {
+   "id": 2204,
+   "word": "proof",
+   "uk": "/pruːf/",
+   "us": "/pruf/",
+   "pos": "adj.,n.",
+   "cn": "耐…的；能防…的；证据；证明；校样；样张"
+  },
+  {
+   "id": 2205,
+   "word": "militant",
+   "uk": "/ˈmɪlɪtənt/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "激进的；好斗的；激进分子；斗士"
+  },
+  {
+   "id": 2206,
+   "word": "simulate",
+   "uk": "/ˈsɪmjuleɪt/",
+   "us": "/ˈsɪmjulet/",
+   "pos": "vt.",
+   "cn": "模仿；模拟；假装；冒充"
+  },
+  {
+   "id": 2207,
+   "word": "intricacy",
+   "uk": "/ˈɪntrɪkəsi/",
+   "us": "",
+   "pos": "n.",
+   "cn": "错综复杂"
+  },
+  {
+   "id": 2208,
+   "word": "phase",
+   "uk": "/feɪz/",
+   "us": "/fez/",
+   "pos": "n.",
+   "cn": "阶段；方面；相；相位"
+  },
+  {
+   "id": 2209,
+   "word": "dilute",
+   "uk": "/daɪˈluːt/",
+   "us": "/daɪˈl(j)ut/",
+   "pos": "adj.,vt.",
+   "cn": "稀释的；冲淡的；稀释；冲淡"
+  },
+  {
+   "id": 2210,
+   "word": "inclusive",
+   "uk": "/ɪnˈkluːsɪv/",
+   "us": "/ɪnˈklusɪv/",
+   "pos": "adj.",
+   "cn": "包括一切的；包括一切费用在内的；所有数目包括在内的"
+  },
+  {
+   "id": 2211,
+   "word": "efficiency",
+   "uk": "/ɪˈfɪʃnsi/",
+   "us": "/ɪˈfɪʃənsɪ/",
+   "pos": "n.",
+   "cn": "效率；功效；效能"
+  },
+  {
+   "id": 2212,
+   "word": "ethnic",
+   "uk": "/ˈeθnɪk/",
+   "us": "/ˈɛθnɪk/",
+   "pos": "adj.",
+   "cn": "种族的"
+  },
+  {
+   "id": 2213,
+   "word": "spectacle",
+   "uk": "/ˈspektəkl/",
+   "us": "/ˈspɛktəkl/",
+   "pos": "n.",
+   "cn": "演出；场面；景象；壮观；眼镜"
+  },
+  {
+   "id": 2214,
+   "word": "overhead",
+   "uk": "/əʊvəˈhed/",
+   "us": "/,ovɚˈhɛd/",
+   "pos": "adv.,adj.,n.",
+   "cn": "在头顶上；在头顶上的；架空的；经常费用；管理费用"
+  },
+  {
+   "id": 2215,
+   "word": "contract",
+   "uk": "/ˈkɒntrækt/",
+   "us": "/ˈkɑntrækt/",
+   "pos": "v.,n.",
+   "cn": "缩小；订合同；感染；染上；契约；合同"
+  },
+  {
+   "id": 2216,
+   "word": "conclude",
+   "uk": "/kənˈkluːd/",
+   "us": "/kənˈklud/",
+   "pos": "vi.,vt.",
+   "cn": "结束；终了；推断出；推论出；缔结；议定"
+  },
+  {
+   "id": 2217,
+   "word": "profitable",
+   "uk": "/ˈprɒfɪtəbl/",
+   "us": "/ˈprɑfɪtəbl/",
+   "pos": "adj.",
+   "cn": "有利可图的；有益的"
+  },
+  {
+   "id": 2218,
+   "word": "misfortune",
+   "uk": "/ˌmɪsˈfɔːtʃʊːn/",
+   "us": "/ˈmɪsˈfɔrtʃən/",
+   "pos": "n.",
+   "cn": "不幸；厄运；逆境；不幸事故；灾难；灾祸"
+  },
+  {
+   "id": 2219,
+   "word": "comprehension",
+   "uk": "/ˌkɒmprɪˈhenʃn/",
+   "us": "/,kɑmprɪˈhɛnʃən/",
+   "pos": "n.",
+   "cn": "理解；理解力；领悟；理解力测验"
+  },
+  {
+   "id": 2220,
+   "word": "susceptible",
+   "uk": "/səˈseptəbl/",
+   "us": "/səˈsɛptəbl/",
+   "pos": "adj.",
+   "cn": "易受影响的；过敏的；能经受的；容许的"
+  }
+ ]
+}

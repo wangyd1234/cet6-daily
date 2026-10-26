@@ -1,0 +1,246 @@
+{
+ "day": 5,
+ "date": null,
+ "words": [
+  {
+   "id": 121,
+   "word": "mobile",
+   "uk": "/ˈməubaɪl/",
+   "us": "/ˈməʊbl;mobil/",
+   "pos": "adj.,n.",
+   "cn": "运动的；流动的；多变的；移动电话"
+  },
+  {
+   "id": 122,
+   "word": "multiple",
+   "uk": "/ˈmʌltɪpl/",
+   "us": "/ˈmʌltəpl/",
+   "pos": "adj.,n.",
+   "cn": "复合的；多重的；多样的；倍数"
+  },
+  {
+   "id": 123,
+   "word": "evolution",
+   "uk": "/ˌevəˈluːʃn/",
+   "us": "/ˌɛvəˈluʃən;(occas.)ˌivəˈluʃən/",
+   "pos": "n.",
+   "cn": "进化；演化；发展"
+  },
+  {
+   "id": 124,
+   "word": "peak",
+   "uk": "/piːk/",
+   "us": "/pik/",
+   "pos": "vi.,adj.,n.",
+   "cn": "达到高峰；达到最大值；最大值的；高峰的；山顶；顶点；顶峰"
+  },
+  {
+   "id": 125,
+   "word": "magnet",
+   "uk": "/ˈmægnət/",
+   "us": "/ˈmægnɪt/",
+   "pos": "n.",
+   "cn": "磁铁；磁体；有吸引力的人和事物"
+  },
+  {
+   "id": 126,
+   "word": "concentrate",
+   "uk": "/ˈkɒnsntreɪt/",
+   "us": "/ˈkɑnsnˈtret/",
+   "pos": "v.,n.",
+   "cn": "全神贯注；全力以赴；集中；聚集；浓缩；浓缩物；浓缩液"
+  },
+  {
+   "id": 127,
+   "word": "expose",
+   "uk": "/ɪkˈspəuz/",
+   "us": "/ɪkˈspoz；ek-/",
+   "pos": "vt.",
+   "cn": "使暴露；揭露"
+  },
+  {
+   "id": 128,
+   "word": "versatile",
+   "uk": "/ˈvɜːsətaɪl/",
+   "us": "/ˈvɝsətl/",
+   "pos": "adj.",
+   "cn": "多才多艺的；有多种技能的；有多种用途的；多功能的；万用的"
+  },
+  {
+   "id": 129,
+   "word": "versus",
+   "uk": "/ˈvɜːsəs/",
+   "us": "/ˈvɝsəs/",
+   "pos": "prep.",
+   "cn": "以…为对手；对；与…相对；与…相比之下"
+  },
+  {
+   "id": 130,
+   "word": "complaint",
+   "uk": "/kəmˈpleɪnt/",
+   "us": "/kəmˈplent/",
+   "pos": "n.",
+   "cn": "抱怨；怨言；控告"
+  },
+  {
+   "id": 131,
+   "word": "permissible",
+   "uk": "/pəˈmɪsəbl/",
+   "us": "/pɚˈmɪsəbl/",
+   "pos": "adj.",
+   "cn": "可允许的；许可的"
+  },
+  {
+   "id": 132,
+   "word": "cancer",
+   "uk": "/ˈkænsə/",
+   "us": "/ˈkænsɚ/",
+   "pos": "n.",
+   "cn": "癌；癌症；肿瘤"
+  },
+  {
+   "id": 133,
+   "word": "splash",
+   "uk": "/splæʃ/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "溅；泼；溅泼声；溅出的水；斑点"
+  },
+  {
+   "id": 134,
+   "word": "inject",
+   "uk": "/ɪnˈdʒekt/",
+   "us": "/ɪnˈdʒɛkt/",
+   "pos": "vt.",
+   "cn": "注射；给…注射；注入；引入；投入"
+  },
+  {
+   "id": 135,
+   "word": "romance",
+   "uk": "/rəuˈmæns/",
+   "us": "/roˈmæns/",
+   "pos": "n.",
+   "cn": "恋爱；恋爱关系；浪漫气氛；传奇色彩；爱情小说；传奇故事"
+  },
+  {
+   "id": 136,
+   "word": "offense",
+   "uk": "/əˈfens/",
+   "us": "/əˈfɛns/",
+   "pos": "n.",
+   "cn": "犯规；违法行为；冒犯；得罪"
+  },
+  {
+   "id": 137,
+   "word": "atlas",
+   "uk": "/ˈætləs/",
+   "us": "",
+   "pos": "n.",
+   "cn": "地图集"
+  },
+  {
+   "id": 138,
+   "word": "invisible",
+   "uk": "/ɪnˈvɪzəbl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "看不见的；无形的"
+  },
+  {
+   "id": 139,
+   "word": "focus",
+   "uk": "/ˈfəukəs/",
+   "us": "/ˈfokəs/",
+   "pos": "v.,n.",
+   "cn": "聚焦；集中；焦点；中心"
+  },
+  {
+   "id": 140,
+   "word": "hamper",
+   "uk": "/ˈhæmpə/",
+   "us": "/ˈhæmpɚ/",
+   "pos": "vt.,n.",
+   "cn": "妨碍；束缚；限制；大篮子"
+  },
+  {
+   "id": 141,
+   "word": "motel",
+   "uk": "/məuˈtel/",
+   "us": "/moˈtɛl/",
+   "pos": "n.",
+   "cn": "汽车旅馆"
+  },
+  {
+   "id": 142,
+   "word": "approach",
+   "uk": "/əˈprəutʃ/",
+   "us": "/əˈprotʃ/",
+   "pos": "vt.,n.",
+   "cn": "向…靠近；靠近；途径；方式"
+  },
+  {
+   "id": 143,
+   "word": "exaggeration",
+   "uk": "/ɪgˌzædʒəˈreɪʃn/",
+   "us": "/ɪɡ,zædʒəˈreʃən/",
+   "pos": "n.",
+   "cn": "夸张；夸大之词"
+  },
+  {
+   "id": 144,
+   "word": "peg",
+   "uk": "/peg/",
+   "us": "/pɛɡ/",
+   "pos": "n.,vt.",
+   "cn": "小钉；栓；挂物钉；桩；用钉子钉；用钉固定；限定；将…看成；将…归入"
+  },
+  {
+   "id": 145,
+   "word": "myth",
+   "uk": "/mɪθ/",
+   "us": "",
+   "pos": "n.",
+   "cn": "杜撰出来的人；神话"
+  },
+  {
+   "id": 146,
+   "word": "decisive",
+   "uk": "/dɪˈsaɪsɪv/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "决定性的；坚定的；果断的；决断的"
+  },
+  {
+   "id": 147,
+   "word": "concise",
+   "uk": "/kənˈsaɪs/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "简明的；简要的"
+  },
+  {
+   "id": 148,
+   "word": "implication",
+   "uk": "/ˌɪmplɪˈkeɪʃn/",
+   "us": "/ˈɪmplɪˈkeʃən/",
+   "pos": "n.",
+   "cn": "含意；暗示；暗指；卷入；牵连"
+  },
+  {
+   "id": 149,
+   "word": "thesis",
+   "uk": "/ˈθiːsɪs/",
+   "us": "/ˈθisɪs/",
+   "pos": "n.",
+   "cn": "论文；毕业论文；论题；论点"
+  },
+  {
+   "id": 150,
+   "word": "bump",
+   "uk": "/bʌmp/",
+   "us": "",
+   "pos": "vi.",
+   "cn": "碰；撞"
+  }
+ ]
+}

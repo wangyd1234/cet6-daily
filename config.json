@@ -1,0 +1,20 @@
+{
+  "start_date": "2026-10-27",
+  "words_per_day": 30,
+  "push_time": "09:00",
+  "timezone": "Asia/Shanghai",
+  "title_prefix": "六级词汇",
+  "archive_dir": "out",
+  "serverchan": {
+    "enabled": true,
+    "sendkey": ""
+  },
+  "pushplus": {
+    "enabled": false,
+    "token": ""
+  },
+  "wecom": {
+    "enabled": false,
+    "url": ""
+  }
+}

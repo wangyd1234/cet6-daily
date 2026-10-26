@@ -1,0 +1,246 @@
+{
+ "day": 52,
+ "date": null,
+ "words": [
+  {
+   "id": 1531,
+   "word": "dilemma",
+   "uk": "/dɪˈlemə/",
+   "us": "/dəˈlɛmə,daɪ-/",
+   "pos": "n.",
+   "cn": "窘境；困境"
+  },
+  {
+   "id": 1532,
+   "word": "engagement",
+   "uk": "/ɪnˈgeɪdʒmənt/",
+   "us": "/ɪnˈɡedʒmənt/",
+   "pos": "n.",
+   "cn": "订婚；婚约；约会"
+  },
+  {
+   "id": 1533,
+   "word": "wealthy",
+   "uk": "/ˈwelθi/",
+   "us": "/ˈwɛlθi/",
+   "pos": "adj.",
+   "cn": "富的；富裕的"
+  },
+  {
+   "id": 1534,
+   "word": "slum",
+   "uk": "/slʌm/",
+   "us": "",
+   "pos": "n.",
+   "cn": "贫民窟"
+  },
+  {
+   "id": 1535,
+   "word": "foam",
+   "uk": "/fəum/",
+   "us": "/fom/",
+   "pos": "vi.,n.",
+   "cn": "起泡沫；吐白沫；泡沫；泡沫材料；泡沫状物"
+  },
+  {
+   "id": 1536,
+   "word": "disregard",
+   "uk": "/ˌdɪsrɪˈgɑːd/",
+   "us": "/,dɪsrɪˈɡɑrd/",
+   "pos": "vt.,n.",
+   "cn": "不理会；漠视；忽视；漠视"
+  },
+  {
+   "id": 1537,
+   "word": "administration",
+   "uk": "/ədˌmɪnɪsˈtreɪʃn/",
+   "us": "/əd,mɪnɪˈstreʃən/",
+   "pos": "n.",
+   "cn": "管理；管理部门；行政机关；实行；执行"
+  },
+  {
+   "id": 1538,
+   "word": "occasional",
+   "uk": "/əˈkeɪʒənl/",
+   "us": "/əˈkeʒənl/",
+   "pos": "adj.",
+   "cn": "偶尔的；间或发生的"
+  },
+  {
+   "id": 1539,
+   "word": "dwell",
+   "uk": "/dwel/",
+   "us": "/dwɛl/",
+   "pos": "vi.",
+   "cn": "居住"
+  },
+  {
+   "id": 1540,
+   "word": "incorporate",
+   "uk": "/ɪnˈkɔːpəreɪt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "包含；加上；吸收；把…合并；使并入"
+  },
+  {
+   "id": 1541,
+   "word": "debate",
+   "uk": "/dɪˈbeɪt/",
+   "us": "/dɪˈbet/",
+   "pos": "n.,v.",
+   "cn": "争论；辩论"
+  },
+  {
+   "id": 1542,
+   "word": "extinguish",
+   "uk": "/ɪkˈstɪŋgwɪʃ/",
+   "us": "/ɪkˈstɪŋɡwɪʃ/",
+   "pos": "vt.",
+   "cn": "熄灭；扑灭；使消亡；使破灭"
+  },
+  {
+   "id": 1543,
+   "word": "vulnerable",
+   "uk": "/ˈvʌlnərəbl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "易受伤的；脆弱的；易受攻击的；难防御的"
+  },
+  {
+   "id": 1544,
+   "word": "furniture",
+   "uk": "/ˈfɜːnɪtʃə/",
+   "us": "/ˈfɝnɪtʃɚ/",
+   "pos": "n.",
+   "cn": "家具"
+  },
+  {
+   "id": 1545,
+   "word": "segment",
+   "uk": "/ˈsegmənt/",
+   "us": "/ˈsɛɡmənt/",
+   "pos": "n.",
+   "cn": "部分；片段；瓣"
+  },
+  {
+   "id": 1546,
+   "word": "counterpart",
+   "uk": "/ˈkauntəpɑːt/",
+   "us": "/ˈkaʊntɚpɑrt/",
+   "pos": "n.",
+   "cn": "与对方地位相当的人；与另一方作用相当的物"
+  },
+  {
+   "id": 1547,
+   "word": "preach",
+   "uk": "/priːtʃ/",
+   "us": "/pritʃ/",
+   "pos": "vi.,vt.",
+   "cn": "布道；说教；宣讲；布道；竭力鼓吹；宣传"
+  },
+  {
+   "id": 1548,
+   "word": "flank",
+   "uk": "/flæŋk/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "肋；肋腹；侧边；侧翼；位于…的侧面"
+  },
+  {
+   "id": 1549,
+   "word": "donate",
+   "uk": "/dəuˈneɪt/",
+   "us": "/ˈdonet/",
+   "pos": "vt.",
+   "cn": "捐赠；赠送"
+  },
+  {
+   "id": 1550,
+   "word": "pendulum",
+   "uk": "/ˈpendjələm/",
+   "us": "/ˈpɛndʒələm/",
+   "pos": "n.",
+   "cn": "摆；钟摆；摇摆不定的事态"
+  },
+  {
+   "id": 1551,
+   "word": "defiance",
+   "uk": "/dɪˈfaɪəns/",
+   "us": "",
+   "pos": "n.",
+   "cn": "违抗；藐视"
+  },
+  {
+   "id": 1552,
+   "word": "sovereign",
+   "uk": "/ˈsɒvrɪn/",
+   "us": "/sɑvrɪn/",
+   "pos": "adj.,n.",
+   "cn": "拥有最高统治权的；至高无上的；具有独立主权的；君主；元首"
+  },
+  {
+   "id": 1553,
+   "word": "cater",
+   "uk": "/ˈkeɪtə/",
+   "us": "/ˈketɚ/",
+   "pos": "vi.",
+   "cn": "满足需要；迎合；提供饮食及服务；承办酒席"
+  },
+  {
+   "id": 1554,
+   "word": "attractive",
+   "uk": "/əˈtræktɪv/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "有吸引力的；引起注意的"
+  },
+  {
+   "id": 1555,
+   "word": "significant",
+   "uk": "/sɪgˈnɪfɪkənt/",
+   "us": "/sɪɡˈnɪfɪkənt/",
+   "pos": "adj.",
+   "cn": "相当数量的；重要的；意义重大的；意味深长的"
+  },
+  {
+   "id": 1556,
+   "word": "duplicate",
+   "uk": "/ˈdjuːplɪkeɪt/",
+   "us": "/ˈduplɪket/",
+   "pos": "adj.,n.,vt.",
+   "cn": "完全一样的；复制的；完全一样的东西；复制品；复制；复印；重复"
+  },
+  {
+   "id": 1557,
+   "word": "bleed",
+   "uk": "/bliːd/",
+   "us": "/blid/",
+   "pos": "vi.,vt.",
+   "cn": "出血；流血；泌脂；勒索…的钱"
+  },
+  {
+   "id": 1558,
+   "word": "rein",
+   "uk": "/reɪn/",
+   "us": "/ren/",
+   "pos": "n.,vt.",
+   "cn": "缰绳；勒缰使停步；控制；约束"
+  },
+  {
+   "id": 1559,
+   "word": "decrease",
+   "uk": "/ˈdɪkriːs/",
+   "us": "/dɪˈkris/",
+   "pos": "v.,n.",
+   "cn": "减少；[dI'kriːs]"
+  },
+  {
+   "id": 1560,
+   "word": "flutter",
+   "uk": "/ˈflʌtə/",
+   "us": "/ˈflʌtɚ/",
+   "pos": "vi.,n.",
+   "cn": "振翼；拍翅而飞；飘动；飘扬；快速跳动；紧张；激动不安"
+  }
+ ]
+}

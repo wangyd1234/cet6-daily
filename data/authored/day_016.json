@@ -1,0 +1,365 @@
+{
+  "day": 16,
+  "words": [
+    {
+      "word": "premise",
+      "phr": [
+        {"en": "on the premise that", "zh": "以…为前提"},
+        {"en": "a false premise", "zh": "错误的前提"}
+      ],
+      "ex": [
+        {"en": "The argument rests on the premise that prices will keep rising.",
+         "zh": "这一论点以价格将持续上涨为前提。"}
+      ],
+      "note": "常用 on the premise that；复数 premises 指房屋场地。"
+    },
+    {
+      "word": "circus",
+      "phr": [
+        {"en": "a circus performance", "zh": "马戏表演"},
+        {"en": "join the circus", "zh": "加入马戏团"}
+      ],
+      "ex": [
+        {"en": "The children cheered as the circus clowns tumbled into the ring.",
+         "zh": "马戏团小丑翻着跟头进场，孩子们欢呼起来。"}
+      ],
+      "note": "源自拉丁语「圆圈」；口语 a circus 可指乱哄哄的场面。"
+    },
+    {
+      "word": "controversial",
+      "phr": [
+        {"en": "a controversial issue", "zh": "有争议的问题"},
+        {"en": "highly controversial", "zh": "极具争议"}
+      ],
+      "ex": [
+        {"en": "The new tax on plastic bags proved highly controversial among shoppers.",
+         "zh": "新的塑料袋税在购物者中引起了极大争议。"}
+      ],
+      "note": "名词是 controversy，重音在第三音节 -ver-。"
+    },
+    {
+      "word": "attain",
+      "phr": [
+        {"en": "attain a goal", "zh": "达到目标"},
+        {"en": "attain success", "zh": "取得成功"}
+      ],
+      "ex": [
+        {"en": "Few runners attain such speed without years of hard training.",
+         "zh": "没有多年刻苦训练，很少有跑者能达到这样的速度。"}
+      ],
+      "note": "强调经努力达到目标，比 reach 正式；名词 attainment。"
+    },
+    {
+      "word": "deprive",
+      "phr": [
+        {"en": "deprive sb of sth", "zh": "剥夺某人某物"},
+        {"en": "be deprived of", "zh": "被剥夺"}
+      ],
+      "ex": [
+        {"en": "The new law would deprive many families of their homes.",
+         "zh": "这项新法律将剥夺许多家庭的住房。"}
+      ],
+      "note": "必须与 of 连用：deprive sb of sth，不可省略 of。"
+    },
+    {
+      "word": "tenant",
+      "phr": [
+        {"en": "evict a tenant", "zh": "驱逐房客"},
+        {"en": "a tenant farmer", "zh": "佃农"}
+      ],
+      "ex": [
+        {"en": "The landlord asked the tenant to move out by the end of June.",
+         "zh": "房东要求房客在六月底前搬走。"}
+      ],
+      "note": "与 landlord（房东）相对；tenant farmer 指佃农。"
+    },
+    {
+      "word": "resultant",
+      "phr": [
+        {"en": "the resultant damage", "zh": "由此造成的损失"},
+        {"en": "the resultant effect", "zh": "由此产生的效果"}
+      ],
+      "ex": [
+        {"en": "The heavy rain caused floods and the resultant damage was enormous.",
+         "zh": "大雨引发洪水，由此造成的损失巨大。"}
+      ],
+      "note": "形容词，表「因而产生的」，多用于正式或学术文体。"
+    },
+    {
+      "word": "pest",
+      "phr": [
+        {"en": "pest control", "zh": "害虫防治"},
+        {"en": "crop pests", "zh": "农作物害虫"}
+      ],
+      "ex": [
+        {"en": "Farmers are using fewer chemicals to control pests in the fields.",
+         "zh": "农民正在减少使用化学品来控制田里的害虫。"}
+      ],
+      "note": "指害虫或讨厌的人；pesticide 指杀虫剂，常一起出现。"
+    },
+    {
+      "word": "pedal",
+      "phr": [
+        {"en": "step on the pedal", "zh": "踩踏板"},
+        {"en": "pedal a bike", "zh": "骑自行车"}
+      ],
+      "ex": [
+        {"en": "She pedalled slowly up the hill, breathing hard in the cold air.",
+         "zh": "她慢慢地蹬车上坡，在冷空气中喘着粗气。"}
+      ],
+      "note": "作动词时英式双写 l（pedalled），美式 pedaled。"
+    },
+    {
+      "word": "batter",
+      "phr": [
+        {"en": "batter down the door", "zh": "把门撞开"},
+        {"en": "pancake batter", "zh": "煎饼面糊"}
+      ],
+      "ex": [
+        {"en": "Waves battered the small boat for hours before it reached the shore.",
+         "zh": "海浪拍打了小船几个小时，它才靠岸。"}
+      ],
+      "note": "指反复猛击；battered 可形容「破旧不堪的」。"
+    },
+    {
+      "word": "heritage",
+      "phr": [
+        {"en": "cultural heritage", "zh": "文化遗产"},
+        {"en": "world heritage site", "zh": "世界遗产地"}
+      ],
+      "ex": [
+        {"en": "The old town was listed as a world heritage site last year.",
+         "zh": "这座古镇去年被列为世界遗产地。"}
+      ],
+      "note": "不可数，指世代相传的文化传统；常与 cultural 连用。"
+    },
+    {
+      "word": "supreme",
+      "phr": [
+        {"en": "supreme court", "zh": "最高法院"},
+        {"en": "supreme power", "zh": "最高权力"}
+      ],
+      "ex": [
+        {"en": "The Supreme Court agreed to hear the case again next month.",
+         "zh": "最高法院同意下个月再次审理此案。"}
+      ],
+      "note": "表「最高的」，无比较级；the Supreme Court 最高法院。"
+    },
+    {
+      "word": "hostage",
+      "phr": [
+        {"en": "take sb hostage", "zh": "劫持人质"},
+        {"en": "release the hostages", "zh": "释放人质"}
+      ],
+      "ex": [
+        {"en": "The robbers took two customers hostage and demanded a car.",
+         "zh": "劫匪劫持了两名顾客作人质，索要一辆车。"}
+      ],
+      "note": "take sb hostage 人质前不加冠词；release a hostage。"
+    },
+    {
+      "word": "priority",
+      "phr": [
+        {"en": "take priority over", "zh": "优先于"},
+        {"en": "a top priority", "zh": "首要任务"}
+      ],
+      "ex": [
+        {"en": "Safety must take priority over speed when the roads are icy.",
+         "zh": "路面结冰时，安全必须优先于速度。"}
+      ],
+      "note": "常用 give priority to、take priority over，注意介词。"
+    },
+    {
+      "word": "slope",
+      "phr": [
+        {"en": "a steep slope", "zh": "陡坡"},
+        {"en": "slope down", "zh": "向下倾斜"}
+      ],
+      "ex": [
+        {"en": "The garden slopes gently down to the river behind the house.",
+         "zh": "花园缓缓下斜，一直延伸到屋后的河边。"}
+      ],
+      "note": "可作名词「斜坡」与动词「倾斜」；steep slope 高频。"
+    },
+    {
+      "word": "inlet",
+      "phr": [
+        {"en": "a narrow inlet", "zh": "狭窄的小湾"},
+        {"en": "a sheltered inlet", "zh": "避风的小海湾"}
+      ],
+      "ex": [
+        {"en": "The fishing boats rested in a quiet inlet away from the wind.",
+         "zh": "渔船停泊在一个避风的安静小湾里。"}
+      ],
+      "note": "与 outlet 相对：inlet 进口、小湾，outlet 出口、销路。"
+    },
+    {
+      "word": "metallic",
+      "phr": [
+        {"en": "a metallic taste", "zh": "金属味"},
+        {"en": "a metallic sound", "zh": "金属般的声音"}
+      ],
+      "ex": [
+        {"en": "The water from the old pipe had a strange metallic taste.",
+         "zh": "旧水管里的水有一股奇怪的金属味。"}
+      ],
+      "note": "metal 是名词「金属」，metallic 形容金属般的。"
+    },
+    {
+      "word": "shuttle",
+      "phr": [
+        {"en": "a shuttle bus", "zh": "穿梭巴士"},
+        {"en": "space shuttle", "zh": "航天飞机"}
+      ],
+      "ex": [
+        {"en": "A free shuttle bus runs between the hotel and the airport.",
+         "zh": "酒店和机场之间有免费穿梭巴士。"}
+      ],
+      "note": "作动词表「穿梭往返」；shuttle bus 最常见。"
+    },
+    {
+      "word": "regenerate",
+      "phr": [
+        {"en": "regenerate the economy", "zh": "重振经济"},
+        {"en": "regenerate cells", "zh": "使细胞再生"}
+      ],
+      "ex": [
+        {"en": "Lizards can regenerate their tails after they are attacked.",
+         "zh": "蜥蜴遭袭击后能再生尾巴。"}
+      ],
+      "note": "re-（再）+ generate（生成）→ 再生；名词 regeneration。"
+    },
+    {
+      "word": "allocate",
+      "phr": [
+        {"en": "allocate funds to", "zh": "拨款给"},
+        {"en": "allocate resources", "zh": "分配资源"}
+      ],
+      "ex": [
+        {"en": "The school allocated more money to sports facilities this year.",
+         "zh": "学校今年拨出更多资金用于体育设施。"}
+      ],
+      "note": "allocate sth to sb/sth 把…分配给；名词 allocation。"
+    },
+    {
+      "word": "latent",
+      "phr": [
+        {"en": "latent demand", "zh": "潜在需求"},
+        {"en": "latent talent", "zh": "潜在才能"}
+      ],
+      "ex": [
+        {"en": "The course helps students discover their latent talent for design.",
+         "zh": "这门课帮助学生发现自己在设计方面的潜在才能。"}
+      ],
+      "note": "指存在但未显现的，常与 demand、talent 搭配。"
+    },
+    {
+      "word": "terrific",
+      "phr": [
+        {"en": "a terrific idea", "zh": "极好的主意"},
+        {"en": "look terrific", "zh": "看起来棒极了"}
+      ],
+      "ex": [
+        {"en": "You look terrific in that blue jacket, she said with a smile.",
+         "zh": "“你穿那件蓝色夹克真好看，”她笑着说。"}
+      ],
+      "note": "口语多表「极好的」，而非「可怕的」；与 terrible 区分。"
+    },
+    {
+      "word": "standpoint",
+      "phr": [
+        {"en": "from a practical standpoint", "zh": "从实际角度"},
+        {"en": "from my standpoint", "zh": "从我的立场"}
+      ],
+      "ex": [
+        {"en": "From a practical standpoint, the plan is too costly to carry out.",
+         "zh": "从实际角度看，这个计划成本太高，难以实施。"}
+      ],
+      "note": "常与 from 连用，相当于 point of view，但更书面。"
+    },
+    {
+      "word": "primary",
+      "phr": [
+        {"en": "primary school", "zh": "小学"},
+        {"en": "primary concern", "zh": "首要关切"}
+      ],
+      "ex": [
+        {"en": "Our primary concern is the safety of the children on the bus.",
+         "zh": "我们首要关心的是车上孩子们的安全。"}
+      ],
+      "note": "指首要的、初级的；副词 primarily 表「主要地」。"
+    },
+    {
+      "word": "pirate",
+      "phr": [
+        {"en": "a pirate ship", "zh": "海盗船"},
+        {"en": "pirated software", "zh": "盗版软件"}
+      ],
+      "ex": [
+        {"en": "Police seized thousands of pirated films from the market stall.",
+         "zh": "警方从市场摊位上查获了数千张盗版影片。"}
+      ],
+      "note": "作动词表盗印；pirated software 指盗版软件。"
+    },
+    {
+      "word": "stubborn",
+      "phr": [
+        {"en": "stubborn resistance", "zh": "顽强抵抗"},
+        {"en": "as stubborn as a mule", "zh": "犟得像头骡子"}
+      ],
+      "ex": [
+        {"en": "He was too stubborn to admit that his plan had failed.",
+         "zh": "他太固执，不肯承认自己的计划失败了。"}
+      ],
+      "note": "既指人固执，也指问题难解决，如 a stubborn cough。"
+    },
+    {
+      "word": "formulate",
+      "phr": [
+        {"en": "formulate a policy", "zh": "制定政策"},
+        {"en": "formulate a plan", "zh": "制定计划"}
+      ],
+      "ex": [
+        {"en": "The committee spent months trying to formulate a policy on data privacy.",
+         "zh": "委员会花了几个月试图制定数据隐私政策。"}
+      ],
+      "note": "指系统地提出、制定，多接 policy、plan、theory。"
+    },
+    {
+      "word": "consume",
+      "phr": [
+        {"en": "consume energy", "zh": "消耗能源"},
+        {"en": "consume resources", "zh": "消耗资源"}
+      ],
+      "ex": [
+        {"en": "Older machines consume far more electricity than modern ones.",
+         "zh": "旧机器比现代机器耗电多得多。"}
+      ],
+      "note": "consumer 消费者，consumption 消耗量，注意词形。"
+    },
+    {
+      "word": "dome",
+      "phr": [
+        {"en": "the dome of the cathedral", "zh": "大教堂的穹顶"},
+        {"en": "a glass dome", "zh": "玻璃圆顶"}
+      ],
+      "ex": [
+        {"en": "The golden dome of the cathedral shines in the morning sun.",
+         "zh": "大教堂的金色穹顶在晨光中闪闪发亮。"}
+      ],
+      "note": "指圆屋顶，也比喻半球形结构，如 the dome of the sky。"
+    },
+    {
+      "word": "layer",
+      "phr": [
+        {"en": "a layer of", "zh": "一层"},
+        {"en": "a thin layer", "zh": "薄层"}
+      ],
+      "ex": [
+        {"en": "A thick layer of dust covered the old furniture in the room.",
+         "zh": "房间里旧家具上覆盖着厚厚一层灰。"}
+      ],
+      "note": "常与 of 连用表「一层…」；动词 layer 表分层堆放。"
+    }
+  ]
+}

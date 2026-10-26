@@ -1,0 +1,605 @@
+{
+  "day": 14,
+  "words": [
+    {
+      "word": "locomotive",
+      "phr": [
+        {
+          "en": "a steam locomotive",
+          "zh": "蒸汽机车"
+        },
+        {
+          "en": "an electric locomotive",
+          "zh": "电力机车"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The museum keeps a working steam locomotive from the last century.",
+          "zh": "博物馆保存着一台上世纪还能运行的蒸汽机车。"
+        }
+      ],
+      "note": "loco 表地方、motive 表移动，即往返两地间的机车。"
+    },
+    {
+      "word": "tile",
+      "phr": [
+        {
+          "en": "floor tiles",
+          "zh": "地砖"
+        },
+        {
+          "en": "tile the bathroom",
+          "zh": "给浴室贴瓷砖"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Workers spent the whole week tiling the kitchen floor and walls.",
+          "zh": "工人们花了一整周给厨房的地面和墙面贴瓷砖。"
+        }
+      ],
+      "note": "tile 作名词指瓷砖、瓦片，作动词指给…贴砖。"
+    },
+    {
+      "word": "donation",
+      "phr": [
+        {
+          "en": "make a donation",
+          "zh": "捐款"
+        },
+        {
+          "en": "a blood donation",
+          "zh": "献血"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The hospital received a large donation from a former patient.",
+          "zh": "医院收到了一位老病人的大笔捐赠。"
+        }
+      ],
+      "note": "donation 可数，常与 make a donation to 搭配。"
+    },
+    {
+      "word": "immense",
+      "phr": [
+        {
+          "en": "immense pressure",
+          "zh": "巨大压力"
+        },
+        {
+          "en": "immense value",
+          "zh": "巨大价值"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The new bridge was built at immense cost to the local government.",
+          "zh": "这座新桥让当地政府付出了巨大成本。"
+        }
+      ],
+      "note": "immense 强调体量或程度极大，比 huge 更正式；副词 immensely。"
+    },
+    {
+      "word": "inherent",
+      "phr": [
+        {
+          "en": "the inherent risk",
+          "zh": "固有风险"
+        },
+        {
+          "en": "inherent in",
+          "zh": "存在于…之中"
+        }
+      ],
+      "ex": [
+        {
+          "en": "There are risks inherent in any long-distance space mission.",
+          "zh": "任何长距离太空任务都存在固有风险。"
+        }
+      ],
+      "note": "in 表内、here 表粘附，即内在固有的；常用 inherent in。"
+    },
+    {
+      "word": "stability",
+      "phr": [
+        {
+          "en": "political stability",
+          "zh": "政治稳定"
+        },
+        {
+          "en": "price stability",
+          "zh": "物价稳定"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Economic growth depends heavily on political stability in the region.",
+          "zh": "经济增长在很大程度上取决于该地区的政治稳定。"
+        }
+      ],
+      "note": "stability 来自 stable；反义 instability 表示不稳定。"
+    },
+    {
+      "word": "budget",
+      "phr": [
+        {
+          "en": "on a tight budget",
+          "zh": "预算紧张"
+        },
+        {
+          "en": "cut the budget",
+          "zh": "削减预算"
+        }
+      ],
+      "ex": [
+        {
+          "en": "We travelled across Europe on a tight budget and stayed in hostels.",
+          "zh": "我们靠紧张的预算游遍欧洲，住在青年旅舍。"
+        }
+      ],
+      "note": "budget 可作名词和动词；on a tight budget 是常用表达。"
+    },
+    {
+      "word": "radiate",
+      "phr": [
+        {
+          "en": "radiate heat",
+          "zh": "散发热量"
+        },
+        {
+          "en": "radiate confidence",
+          "zh": "显露自信"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The old stove radiates enough heat to warm the whole room.",
+          "zh": "这个旧火炉散发的热量足以让整个房间暖和起来。"
+        }
+      ],
+      "note": "radi 表光线、ate 动词后缀，即辐射；也指流露情感。"
+    },
+    {
+      "word": "given",
+      "phr": [
+        {
+          "en": "given that",
+          "zh": "考虑到；鉴于"
+        },
+        {
+          "en": "at a given time",
+          "zh": "在特定时间"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Given that the roads were icy, the journey took much longer than expected.",
+          "zh": "考虑到路面结冰，这次行程比预想的花了更多时间。"
+        }
+      ],
+      "note": "given that 引导原因状语，意为考虑到；given 也可作形容词。"
+    },
+    {
+      "word": "perish",
+      "phr": [
+        {
+          "en": "perish in",
+          "zh": "在…中丧生"
+        },
+        {
+          "en": "perish the thought",
+          "zh": "但愿不会如此"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Thousands of animals perished in the forest fires last summer.",
+          "zh": "去年夏天，成千上万的动物在森林大火中丧生。"
+        }
+      ],
+      "note": "perish 是正式用语的死亡、毁灭；perishable 指易腐坏的。"
+    },
+    {
+      "word": "pastime",
+      "phr": [
+        {
+          "en": "a favourite pastime",
+          "zh": "最喜爱的消遣"
+        },
+        {
+          "en": "a national pastime",
+          "zh": "全国性的消遣"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Fishing is a popular pastime among people living near the lake.",
+          "zh": "钓鱼是住在湖边的人中很受欢迎的消遣。"
+        }
+      ],
+      "note": "pastime 是消遣，pass time 是两个词，意为打发时间。"
+    },
+    {
+      "word": "ultimate",
+      "phr": [
+        {
+          "en": "the ultimate goal",
+          "zh": "最终目标"
+        },
+        {
+          "en": "ultimate responsibility",
+          "zh": "最终责任"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The ultimate goal of the project is to cut carbon emissions by half.",
+          "zh": "该项目的最终目标是把碳排放减少一半。"
+        }
+      ],
+      "note": "ultim 表最后；副词 ultimately 意为最终、归根结底。"
+    },
+    {
+      "word": "adapt",
+      "phr": [
+        {
+          "en": "adapt to",
+          "zh": "适应"
+        },
+        {
+          "en": "adapt sth for",
+          "zh": "把…改编为"
+        }
+      ],
+      "ex": [
+        {
+          "en": "It took the students several weeks to adapt to life on campus.",
+          "zh": "学生们花了几周时间才适应校园生活。"
+        }
+      ],
+      "note": "adapt to 是适应，adapt from 是根据…改编；勿与 adopt 混。"
+    },
+    {
+      "word": "prosecute",
+      "phr": [
+        {
+          "en": "prosecute sb for",
+          "zh": "因…起诉某人"
+        },
+        {
+          "en": "prosecute a case",
+          "zh": "对案件提起诉讼"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The company was prosecuted for dumping waste into the river.",
+          "zh": "这家公司因向河里倾倒废物而被起诉。"
+        }
+      ],
+      "note": "prosecute 指刑事起诉；名词 prosecutor 是检察官。"
+    },
+    {
+      "word": "batch",
+      "phr": [
+        {
+          "en": "a batch of",
+          "zh": "一批"
+        },
+        {
+          "en": "in batches",
+          "zh": "分批地"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The first batch of new students arrived on campus last Monday.",
+          "zh": "第一批新生上周一抵达校园。"
+        }
+      ],
+      "note": "batch 指同批生产或处理的一组，常与 of 连用；in batches 分批。"
+    },
+    {
+      "word": "merit",
+      "phr": [
+        {
+          "en": "on merit",
+          "zh": "凭实际表现"
+        },
+        {
+          "en": "artistic merit",
+          "zh": "艺术价值"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Promotion here is based on merit rather than on years of service.",
+          "zh": "这里的晋升依据是个人能力而非资历。"
+        }
+      ],
+      "note": "merit 作名词指优点、价值，作动词是值得，如 merit attention。"
+    },
+    {
+      "word": "verbal",
+      "phr": [
+        {
+          "en": "a verbal agreement",
+          "zh": "口头协议"
+        },
+        {
+          "en": "verbal skills",
+          "zh": "语言表达能力"
+        }
+      ],
+      "ex": [
+        {
+          "en": "They reached a verbal agreement, but nothing was put in writing.",
+          "zh": "他们达成了口头协议，但没有留下书面记录。"
+        }
+      ],
+      "note": "verbal 指口头的，不等于 written；verbal abuse 意为辱骂。"
+    },
+    {
+      "word": "solicitor",
+      "phr": [
+        {
+          "en": "consult a solicitor",
+          "zh": "咨询事务律师"
+        },
+        {
+          "en": "a firm of solicitors",
+          "zh": "律师事务所"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She asked her solicitor to check the contract before she signed it.",
+          "zh": "她请律师在签字前检查一下合同。"
+        }
+      ],
+      "note": "solicitor 是英国的事务律师；出庭律师是 barrister。"
+    },
+    {
+      "word": "intrinsic",
+      "phr": [
+        {
+          "en": "intrinsic value",
+          "zh": "内在价值"
+        },
+        {
+          "en": "intrinsic motivation",
+          "zh": "内在动机"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Learning driven by intrinsic motivation tends to last much longer.",
+          "zh": "由内在动机驱动的学习往往能持续更久。"
+        }
+      ],
+      "note": "intrinsic 与 extrinsic（外在的）相对，多修饰 value。"
+    },
+    {
+      "word": "proximity",
+      "phr": [
+        {
+          "en": "in close proximity to",
+          "zh": "紧邻；非常接近"
+        },
+        {
+          "en": "proximity to",
+          "zh": "靠近…"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The house was chosen for its proximity to the railway station.",
+          "zh": "选这套房子是因为它离火车站很近。"
+        }
+      ],
+      "note": "proximity 不可数，常用 in close proximity to 表紧邻。"
+    },
+    {
+      "word": "luminous",
+      "phr": [
+        {
+          "en": "a luminous watch",
+          "zh": "夜光手表"
+        },
+        {
+          "en": "luminous paint",
+          "zh": "发光涂料"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The hands of his watch are luminous, so he can read the time at night.",
+          "zh": "他手表的指针是夜光的，所以夜里也能看时间。"
+        }
+      ],
+      "note": "lumin 表光、ous 形容词后缀；同根词 illuminate 照亮。"
+    },
+    {
+      "word": "lash",
+      "phr": [
+        {
+          "en": "lash out at",
+          "zh": "猛烈抨击"
+        },
+        {
+          "en": "lash sth to",
+          "zh": "把…牢牢绑到…上"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The minister lashed out at reporters who questioned the new policy.",
+          "zh": "部长猛烈抨击了质疑新政策的记者。"
+        }
+      ],
+      "note": "lash out at 意为突然怒斥；lash 本义是鞭打、捆紧。"
+    },
+    {
+      "word": "receipt",
+      "phr": [
+        {
+          "en": "keep the receipt",
+          "zh": "保留收据"
+        },
+        {
+          "en": "on receipt of",
+          "zh": "一收到…就"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Keep the receipt in case you need to return the shoes.",
+          "zh": "保留收据，以备鞋子需要退货。"
+        }
+      ],
+      "note": "receipt 中 p 不发音；on receipt of 意为收到…就。"
+    },
+    {
+      "word": "assume",
+      "phr": [
+        {
+          "en": "assume responsibility",
+          "zh": "承担责任"
+        },
+        {
+          "en": "assume control",
+          "zh": "接管控制权"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Do not assume that everyone shares your opinion on this issue.",
+          "zh": "不要以为每个人在这件事上都和你有相同看法。"
+        }
+      ],
+      "note": "assume 兼指假定和承担；名词 assumption，注意拼写。"
+    },
+    {
+      "word": "predestine",
+      "phr": [
+        {
+          "en": "be predestined to succeed",
+          "zh": "注定会成功"
+        },
+        {
+          "en": "be predestined to fail",
+          "zh": "注定失败"
+        }
+      ],
+      "ex": [
+        {
+          "en": "He believed his success was predestined and never doubted it for a moment.",
+          "zh": "他相信自己的成功是命中注定的，从未有过一刻怀疑。"
+        }
+      ],
+      "note": "pre 表预先、destine 表注定；名词 predestination。"
+    },
+    {
+      "word": "chant",
+      "phr": [
+        {
+          "en": "chant a slogan",
+          "zh": "反复喊口号"
+        },
+        {
+          "en": "a religious chant",
+          "zh": "宗教吟唱"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The crowd chanted the team's name as the players walked onto the field.",
+          "zh": "球员们走上球场时，人群反复高喊球队的名字。"
+        }
+      ],
+      "note": "chant 指有节奏地重复喊或唱；口号、经文都可用。"
+    },
+    {
+      "word": "destiny",
+      "phr": [
+        {
+          "en": "control one's own destiny",
+          "zh": "掌握自己的命运"
+        },
+        {
+          "en": "a sense of destiny",
+          "zh": "使命感"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She left the small town determined to control her own destiny.",
+          "zh": "她离开小镇，决心掌握自己的命运。"
+        }
+      ],
+      "note": "destiny 与 fate 近义，常带注定成就的意味。"
+    },
+    {
+      "word": "capsule",
+      "phr": [
+        {
+          "en": "a space capsule",
+          "zh": "太空舱"
+        },
+        {
+          "en": "a time capsule",
+          "zh": "时间胶囊"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The astronauts returned to Earth in a small capsule after six months.",
+          "zh": "宇航员在六个月后乘小型太空舱返回地球。"
+        }
+      ],
+      "note": "capsule 指胶囊或密封舱；in capsule form 表以胶囊形式。"
+    },
+    {
+      "word": "concept",
+      "phr": [
+        {
+          "en": "the concept of",
+          "zh": "…的概念"
+        },
+        {
+          "en": "a basic concept",
+          "zh": "基本概念"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The concept of shared bicycles spread quickly through major cities.",
+          "zh": "共享单车的概念迅速传遍各大城市。"
+        }
+      ],
+      "note": "concept 指抽象概念，conception 多指构想、构思。"
+    },
+    {
+      "word": "resistant",
+      "phr": [
+        {
+          "en": "be resistant to",
+          "zh": "对…有抵抗力"
+        },
+        {
+          "en": "heat-resistant",
+          "zh": "耐热的"
+        }
+      ],
+      "ex": [
+        {
+          "en": "This new type of rice is resistant to both drought and disease.",
+          "zh": "这种新型水稻既抗旱又抗病。"
+        }
+      ],
+      "note": "resistant 后接 to；名词 resistance 表抵抗力。"
+    }
+  ]
+}

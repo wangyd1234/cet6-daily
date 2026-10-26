@@ -1,0 +1,365 @@
+{
+  "day": 25,
+  "words": [
+    {
+      "word": "adjoin",
+      "phr": [
+        {"en": "adjoining rooms", "zh": "相邻的房间"},
+        {"en": "the adjoining building", "zh": "毗邻的建筑"}
+      ],
+      "ex": [
+        {"en": "We booked two adjoining rooms so the children could stay nearby.",
+         "zh": "我们订了两间相邻的房间，方便孩子住在旁边。"}
+      ],
+      "note": "adjoin 是动词；日常更常用形容词 adjoining，表「毗邻的」。"
+    },
+    {
+      "word": "universe",
+      "phr": [
+        {"en": "the origin of the universe", "zh": "宇宙的起源"},
+        {"en": "the expanding universe", "zh": "膨胀的宇宙"}
+      ],
+      "ex": [
+        {"en": "Scientists still cannot explain how the universe began.",
+         "zh": "科学家仍无法解释宇宙是如何起源的。"}
+      ],
+      "note": "universe 表「宇宙」时须加 the，用单数形式。"
+    },
+    {
+      "word": "inherit",
+      "phr": [
+        {"en": "inherit a fortune", "zh": "继承一笔财产"},
+        {"en": "inherit sth from sb", "zh": "从某人处继承某物"}
+      ],
+      "ex": [
+        {"en": "She inherited the old farm from her grandparents.",
+         "zh": "她从祖父母那里继承了这座老农场。"}
+      ],
+      "note": "inherit 可直接接财产或特征，from 引出原主；名词为 inheritance。"
+    },
+    {
+      "word": "overwhelming",
+      "phr": [
+        {"en": "an overwhelming majority", "zh": "压倒性多数"},
+        {"en": "overwhelming evidence", "zh": "大量确凿的证据"}
+      ],
+      "ex": [
+        {"en": "The proposal was passed by an overwhelming majority.",
+         "zh": "该提案以压倒性多数获得通过。"}
+      ],
+      "note": "overwhelming 常修饰 majority、evidence，语气很强。"
+    },
+    {
+      "word": "interpret",
+      "phr": [
+        {"en": "interpret the results", "zh": "解读结果"},
+        {"en": "interpret for sb", "zh": "为某人口译"}
+      ],
+      "ex": [
+        {"en": "It is difficult to interpret these results without more data.",
+         "zh": "没有更多数据，很难解读这些结果。"}
+      ],
+      "note": "interpret 兼有「解释」和「口译」两义；名词为 interpretation。"
+    },
+    {
+      "word": "peculiar",
+      "phr": [
+        {"en": "be peculiar to", "zh": "为…所特有"},
+        {"en": "a peculiar smell", "zh": "一股怪味"}
+      ],
+      "ex": [
+        {"en": "This custom is peculiar to the fishing villages along the coast.",
+         "zh": "这一习俗是沿海渔村所特有的。"}
+      ],
+      "note": "be peculiar to 表「为…所特有」；与 strange 近义但更书面。"
+    },
+    {
+      "word": "idiom",
+      "phr": [
+        {"en": "an English idiom", "zh": "英语习语"},
+        {"en": "learn idioms", "zh": "学习习语"}
+      ],
+      "ex": [
+        {"en": "Learning idioms helps students understand how native speakers really talk.",
+         "zh": "学习习语有助于学生理解母语者的真实说法。"}
+      ],
+      "note": "idiom 是可数名词，指固定习语；注意别与 idiot(傻瓜) 混淆。"
+    },
+    {
+      "word": "diplomat",
+      "phr": [
+        {"en": "a senior diplomat", "zh": "资深外交官"},
+        {"en": "a career diplomat", "zh": "职业外交官"}
+      ],
+      "ex": [
+        {"en": "The young diplomat was sent to Paris to represent his country.",
+         "zh": "这位年轻外交官被派往巴黎代表本国。"}
+      ],
+      "note": "diplomat 指外交官；diplomatic 意为「外交的」或「圆通的」。"
+    },
+    {
+      "word": "hug",
+      "phr": [
+        {"en": "give sb a hug", "zh": "拥抱某人"},
+        {"en": "a warm hug", "zh": "温暖的拥抱"}
+      ],
+      "ex": [
+        {"en": "She gave her mother a hug before boarding the plane.",
+         "zh": "登机前她拥抱了母亲。"}
+      ],
+      "note": "名词常用 give sb a hug；动词直接接人，如 hug her mother。"
+    },
+    {
+      "word": "grant",
+      "phr": [
+        {"en": "take sth for granted", "zh": "认为理所当然"},
+        {"en": "grant sb permission", "zh": "准许某人"}
+      ],
+      "ex": [
+        {"en": "The government granted the company a licence to build the factory.",
+         "zh": "政府批准该公司建厂。"}
+      ],
+      "note": "take ... for granted 是固定短语，意为「想当然」。"
+    },
+    {
+      "word": "muscular",
+      "phr": [
+        {"en": "a muscular body", "zh": "肌肉发达的身体"},
+        {"en": "muscular strength", "zh": "肌肉力量"}
+      ],
+      "ex": [
+        {"en": "Years of swimming gave him a lean, muscular body.",
+         "zh": "多年游泳使他身材精瘦而肌肉发达。"}
+      ],
+      "note": "muscular 由 muscle 加 -ar 构成，表「肌肉的、强壮的」。"
+    },
+    {
+      "word": "sparkle",
+      "phr": [
+        {"en": "sparkle with joy", "zh": "闪烁着喜悦"},
+        {"en": "sparkle in the sunlight", "zh": "在阳光下闪光"}
+      ],
+      "ex": [
+        {"en": "Her eyes sparkled with excitement when she opened the gift.",
+         "zh": "她拆开礼物时，眼睛闪着兴奋的光。"}
+      ],
+      "note": "sparkle 多指星光、眼睛「闪烁」；glitter 多指金属反光。"
+    },
+    {
+      "word": "hum",
+      "phr": [
+        {"en": "hum a tune", "zh": "哼一首曲子"},
+        {"en": "the hum of traffic", "zh": "车辆的嗡嗡声"}
+      ],
+      "ex": [
+        {"en": "He hummed a tune while washing the dishes.",
+         "zh": "他一边洗碗一边哼着曲子。"}
+      ],
+      "note": "hum 可指人「哼歌」，也指机器或人群「嗡嗡作响」。"
+    },
+    {
+      "word": "staple",
+      "phr": [
+        {"en": "a staple food", "zh": "主食"},
+        {"en": "a staple crop", "zh": "主要作物"}
+      ],
+      "ex": [
+        {"en": "Rice is a staple food for more than half the world's population.",
+         "zh": "大米是世界一半以上人口的主食。"}
+      ],
+      "note": "staple 作形容词指「主要的」，作名词指「主食、主要产品」。"
+    },
+    {
+      "word": "discount",
+      "phr": [
+        {"en": "at a discount", "zh": "打折"},
+        {"en": "offer a discount", "zh": "提供折扣"}
+      ],
+      "ex": [
+        {"en": "Students can get a ten per cent discount on all books.",
+         "zh": "学生购买所有图书可享九折优惠。"}
+      ],
+      "note": "「打几折」用 at a discount；折扣大小说 a 10% discount。"
+    },
+    {
+      "word": "construct",
+      "phr": [
+        {"en": "construct a bridge", "zh": "建桥"},
+        {"en": "construct an argument", "zh": "构建论点"}
+      ],
+      "ex": [
+        {"en": "Workers are constructing a new bridge across the river.",
+         "zh": "工人们正在河上新建一座桥。"}
+      ],
+      "note": "construct 比 build 正式；名词 construction 也指「建筑物」。"
+    },
+    {
+      "word": "royalty",
+      "phr": [
+        {"en": "pay royalties", "zh": "支付版税"},
+        {"en": "royalty payments", "zh": "版税支付"}
+      ],
+      "ex": [
+        {"en": "The author receives a small royalty on every copy sold.",
+         "zh": "每卖出一本书，作者都能得到少量版税。"}
+      ],
+      "note": "royalty 指「版税」时常用复数 royalties；也指「王族」。"
+    },
+    {
+      "word": "convert",
+      "phr": [
+        {"en": "convert A into B", "zh": "把A转化为B"},
+        {"en": "convert to", "zh": "改信；改用"}
+      ],
+      "ex": [
+        {"en": "The old factory has been converted into a museum.",
+         "zh": "这座旧工厂已被改造成博物馆。"}
+      ],
+      "note": "convert 常与 into 搭配，名词是 conversion。"
+    },
+    {
+      "word": "attempt",
+      "phr": [
+        {"en": "make an attempt", "zh": "尝试一下"},
+        {"en": "an attempt to do sth", "zh": "做某事的尝试"}
+      ],
+      "ex": [
+        {"en": "He made several attempts to contact her but failed.",
+         "zh": "他几次尝试联系她，都失败了。"}
+      ],
+      "note": "名词用 make an attempt to do；动词说 attempt to do。"
+    },
+    {
+      "word": "rivalry",
+      "phr": [
+        {"en": "fierce rivalry", "zh": "激烈竞争"},
+        {"en": "rivalry between", "zh": "…之间的竞争"}
+      ],
+      "ex": [
+        {"en": "There has always been fierce rivalry between the two companies.",
+         "zh": "这两家公司之间一直竞争激烈。"}
+      ],
+      "note": "rivalry 来自 rival(对手)，表示「…之间」用 between。"
+    },
+    {
+      "word": "relish",
+      "phr": [
+        {"en": "relish the idea of", "zh": "喜欢…的想法"},
+        {"en": "relish every moment", "zh": "享受每一刻"}
+      ],
+      "ex": [
+        {"en": "She relished every moment of her first trip abroad.",
+         "zh": "她非常享受第一次出国旅行的每一刻。"}
+      ],
+      "note": "relish 后接名词或动名词，不接不定式。"
+    },
+    {
+      "word": "fluorescent",
+      "phr": [
+        {"en": "a fluorescent light", "zh": "荧光灯"},
+        {"en": "fluorescent lighting", "zh": "荧光照明"}
+      ],
+      "ex": [
+        {"en": "The office was lit by harsh fluorescent lights.",
+         "zh": "办公室里的荧光灯亮得刺眼。"}
+      ],
+      "note": "fluorescent 常搭配 light、lamp、tube，指荧光灯管。"
+    },
+    {
+      "word": "division",
+      "phr": [
+        {"en": "a division of labour", "zh": "分工"},
+        {"en": "the sales division", "zh": "销售部"}
+      ],
+      "ex": [
+        {"en": "The company set up a new division to handle online sales.",
+         "zh": "公司新设了一个部门负责网上销售。"}
+      ],
+      "note": "division 可指部门、分割、除法；动词为 divide。"
+    },
+    {
+      "word": "superficial",
+      "phr": [
+        {"en": "superficial knowledge", "zh": "肤浅的知识"},
+        {"en": "a superficial wound", "zh": "表皮伤口"}
+      ],
+      "ex": [
+        {"en": "His knowledge of the subject is superficial at best.",
+         "zh": "他对这门学科的了解充其量是肤浅的。"}
+      ],
+      "note": "super-(上)+fic(面) 构成「表面的」；说人浅薄含贬义。"
+    },
+    {
+      "word": "executive",
+      "phr": [
+        {"en": "a senior executive", "zh": "高级管理人员"},
+        {"en": "the executive branch", "zh": "行政部门"}
+      ],
+      "ex": [
+        {"en": "She was promoted to a senior executive position last year.",
+         "zh": "她去年升任高级管理职位。"}
+      ],
+      "note": "executive 作名词指「高管」，作形容词指「执行的、行政的」。"
+    },
+    {
+      "word": "navigation",
+      "phr": [
+        {"en": "a navigation system", "zh": "导航系统"},
+        {"en": "navigation skills", "zh": "导航技能"}
+      ],
+      "ex": [
+        {"en": "The ship's navigation system failed during the storm.",
+         "zh": "暴风雨中船上的导航系统失灵了。"}
+      ],
+      "note": "navigation 来自 navigate；navigable 指河流「可通航的」。"
+    },
+    {
+      "word": "melt",
+      "phr": [
+        {"en": "melt away", "zh": "融化；消散"},
+        {"en": "melt in the mouth", "zh": "入口即化"}
+      ],
+      "ex": [
+        {"en": "The snow melted quickly in the warm spring sunshine.",
+         "zh": "积雪在温暖的春光中很快融化。"}
+      ],
+      "note": "melt 可及物也可不及物；melt away 常指情绪或人群消散。"
+    },
+    {
+      "word": "stalk",
+      "phr": [
+        {"en": "stalk out of", "zh": "愤然走出"},
+        {"en": "a corn stalk", "zh": "玉米秆"}
+      ],
+      "ex": [
+        {"en": "He stalked out of the meeting without saying a word.",
+         "zh": "他一言不发，愤然离开会场。"}
+      ],
+      "note": "stalk 作名词指「茎、秆」，作动词指「跟踪」或「大步走」。"
+    },
+    {
+      "word": "whereas",
+      "phr": [
+        {"en": "whereas others argue that", "zh": "而其他人认为"},
+        {"en": "whereas in the past", "zh": "而在过去"}
+      ],
+      "ex": [
+        {"en": "Some students prefer to study alone, whereas others learn better in groups.",
+         "zh": "有些学生喜欢独自学习，而另一些人小组学习效果更好。"}
+      ],
+      "note": "whereas 表前后对比，多用于书面语，前一分句后用逗号。"
+    },
+    {
+      "word": "pitch",
+      "phr": [
+        {"en": "pitch a tent", "zh": "搭帐篷"},
+        {"en": "a football pitch", "zh": "足球场"}
+      ],
+      "ex": [
+        {"en": "We pitched our tent by the lake and stayed there two nights.",
+         "zh": "我们在湖边搭起帐篷，住了两晚。"}
+      ],
+      "note": "pitch 多义：搭帐篷、投掷、音高、球场、沥青，靠语境判断。"
+    }
+  ]
+}

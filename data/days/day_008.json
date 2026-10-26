@@ -1,0 +1,246 @@
+{
+ "day": 8,
+ "date": null,
+ "words": [
+  {
+   "id": 211,
+   "word": "crawl",
+   "uk": "/krɔːl/",
+   "us": "/krɔl/",
+   "pos": "vi.,n.",
+   "cn": "爬行；蠕动；缓慢行进"
+  },
+  {
+   "id": 212,
+   "word": "identical",
+   "uk": "/aɪˈdentɪkl/",
+   "us": "/aɪˈdɛntɪkl/",
+   "pos": "adj.",
+   "cn": "完全相同的；同一的"
+  },
+  {
+   "id": 213,
+   "word": "plead",
+   "uk": "/pliːd/",
+   "us": "/plid/",
+   "pos": "vi.,vt.",
+   "cn": "恳求；请求；申诉；答辩；辩护；为…辩护；提出…为理由"
+  },
+  {
+   "id": 214,
+   "word": "kidney",
+   "uk": "/ˈkɪdni/",
+   "us": "",
+   "pos": "n.",
+   "cn": "肾；肾脏"
+  },
+  {
+   "id": 215,
+   "word": "gleam",
+   "uk": "/gliːm/",
+   "us": "/ɡlim/",
+   "pos": "vi.,n.",
+   "cn": "闪亮；闪烁；闪现；流露"
+  },
+  {
+   "id": 216,
+   "word": "ambitious",
+   "uk": "/æmˈbɪʃəs/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "有抱负的；雄心勃勃的；有野心的"
+  },
+  {
+   "id": 217,
+   "word": "academic",
+   "uk": "/ˌækəˈdemɪk/",
+   "us": "/,ækəˈdɛmɪk/",
+   "pos": "adj.,n.",
+   "cn": "学院的；学术的；纯理论的；不切实际的；大学教师"
+  },
+  {
+   "id": 218,
+   "word": "function",
+   "uk": "/ˈfʌŋkʃn/",
+   "us": "/ˈfʌŋkʃən/",
+   "pos": "vi.,n.",
+   "cn": "工作；运行；起作用；功能；职务；【数】函数；重大聚会"
+  },
+  {
+   "id": 219,
+   "word": "stock",
+   "uk": "/stɒk/",
+   "us": "/stɑk/",
+   "pos": "v.,adj.,n.",
+   "cn": "储备；常用的；常备的；原料；库存品；股本；公债；世系；血统；汤汁；家畜；牲畜"
+  },
+  {
+   "id": 220,
+   "word": "sneak",
+   "uk": "/sniːk/",
+   "us": "/snik/",
+   "pos": "vi.,vt.",
+   "cn": "偷偷地走；溜；偷偷地做"
+  },
+  {
+   "id": 221,
+   "word": "void",
+   "uk": "/vɔɪd/",
+   "us": "",
+   "pos": "adj.,n.,vt.",
+   "cn": "无效的；没有的；缺乏的；空虚感；寂寞感；真空；空白；使无效"
+  },
+  {
+   "id": 222,
+   "word": "comparison",
+   "uk": "/kəmˈpærɪsn/",
+   "us": "",
+   "pos": "n.",
+   "cn": "比较；对照；比拟；比喻"
+  },
+  {
+   "id": 223,
+   "word": "surge",
+   "uk": "/sɜːdʒ/",
+   "us": "/sɝdʒ/",
+   "pos": "vi.,n.",
+   "cn": "蜂拥而出；洋溢；奔放；汹涌；奔腾；洋溢；奔放；急剧上升；猛增；浪涛般汹涌奔腾"
+  },
+  {
+   "id": 224,
+   "word": "swap",
+   "uk": "/swɒp/",
+   "us": "/swɑp/",
+   "pos": "vt.,n.",
+   "cn": "交换"
+  },
+  {
+   "id": 225,
+   "word": "ritual",
+   "uk": "/ˈrɪtʃuəl/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "作为仪式一部分的；例行的；仪式；例行公事；老规矩"
+  },
+  {
+   "id": 226,
+   "word": "liability",
+   "uk": "/ˌlaɪəˈbɪləti/",
+   "us": "/ˈlaɪəˈbɪləti/",
+   "pos": "n.",
+   "cn": "责任；负债；债务；不利条件；起妨碍作用的人"
+  },
+  {
+   "id": 227,
+   "word": "hatch",
+   "uk": "/hætʃ/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "孵出；筹划；舱门；开口；孵化"
+  },
+  {
+   "id": 228,
+   "word": "patriot",
+   "uk": "/ˈpeɪtriət/",
+   "us": "/ˈpetrɪət/",
+   "pos": "n.",
+   "cn": "爱国者；爱国主义者"
+  },
+  {
+   "id": 229,
+   "word": "tick",
+   "uk": "/tɪk/",
+   "us": "",
+   "pos": "vi.,n.,vt.",
+   "cn": "发出滴答声；记号；勾号；滴答声；给…标记号"
+  },
+  {
+   "id": 230,
+   "word": "basis",
+   "uk": "/ˈbeɪsɪs/",
+   "us": "/ˈbesɪs/",
+   "pos": "n.",
+   "cn": "基础；根据；原则"
+  },
+  {
+   "id": 231,
+   "word": "tutor",
+   "uk": "/ˈtjuːtə/",
+   "us": "/ˈtʊtɚ/",
+   "pos": "v.,n.",
+   "cn": "当…导师；当…家庭教师；导师；家庭教师；私人教师"
+  },
+  {
+   "id": 232,
+   "word": "senator",
+   "uk": "/ˈsenətə/",
+   "us": "/ˈsɛnətɚ/",
+   "pos": "n.",
+   "cn": "参议员"
+  },
+  {
+   "id": 233,
+   "word": "successive",
+   "uk": "/səkˈsesɪv/",
+   "us": "/səkˈsɛsɪv/",
+   "pos": "adj.",
+   "cn": "连续的；接连的"
+  },
+  {
+   "id": 234,
+   "word": "quantify",
+   "uk": "/ˈkwɒntɪfaɪ/",
+   "us": "/ˈkwɑntɪfaɪ/",
+   "pos": "vt.",
+   "cn": "确定…的数量；量化"
+  },
+  {
+   "id": 235,
+   "word": "reconcile",
+   "uk": "/ˈrekənsaɪl/",
+   "us": "/ˈrɛkənsaɪl/",
+   "pos": "vt.",
+   "cn": "使协调；使和解；使顺从；使甘心"
+  },
+  {
+   "id": 236,
+   "word": "tempt",
+   "uk": "/tempt/",
+   "us": "/tɛmpt/",
+   "pos": "vt.",
+   "cn": "吸引；引起…的兴趣；引诱；诱惑"
+  },
+  {
+   "id": 237,
+   "word": "obligation",
+   "uk": "/ˌɒblɪˈgeɪʃn/",
+   "us": "/,ɑblɪˈɡeʃən/",
+   "pos": "n.",
+   "cn": "义务；责任"
+  },
+  {
+   "id": 238,
+   "word": "paperback",
+   "uk": "/ˈpeɪpəbæk/",
+   "us": "/ˈpepɚbæk/",
+   "pos": "n.",
+   "cn": "平装本；简装本"
+  },
+  {
+   "id": 239,
+   "word": "evil",
+   "uk": "/ˈiːvl/",
+   "us": "/ˈivl/",
+   "pos": "adj.,n.",
+   "cn": "坏的；邪恶；祸害"
+  },
+  {
+   "id": 240,
+   "word": "rarely",
+   "uk": "/ˈreəli/",
+   "us": "/ˈrɛrli/",
+   "pos": "adv.",
+   "cn": "不常；难得"
+  }
+ ]
+}

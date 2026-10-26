@@ -1,0 +1,365 @@
+{
+  "day": 5,
+  "words": [
+    {
+      "word": "mobile",
+      "phr": [
+        {"en": "a mobile phone", "zh": "手机"},
+        {"en": "a mobile network", "zh": "移动网络"}
+      ],
+      "ex": [
+        {"en": "Most students now use a mobile phone instead of a watch to check the time.",
+         "zh": "现在多数学生用手机而不是手表看时间。"}
+      ],
+      "note": "mobile phone 是英式说法；美式多直接说 cell phone。"
+    },
+    {
+      "word": "multiple",
+      "phr": [
+        {"en": "multiple-choice questions", "zh": "选择题"},
+        {"en": "on multiple occasions", "zh": "多次"}
+      ],
+      "ex": [
+        {"en": "The exam consists of multiple-choice questions and one short essay.",
+         "zh": "这场考试由选择题和一篇短文组成。"}
+      ],
+      "note": "multi-（多）+ -ple → 多重的；与 multiply 同源。"
+    },
+    {
+      "word": "evolution",
+      "phr": [
+        {"en": "the theory of evolution", "zh": "进化论"},
+        {"en": "gradual evolution", "zh": "逐渐演变"}
+      ],
+      "ex": [
+        {"en": "The exhibition shows the evolution of printing over five centuries.",
+         "zh": "展览呈现了印刷术五个世纪以来的演变。"}
+      ],
+      "note": "e-（向外）+ volv（卷）→ 逐渐展开、演变；动词 evolve。"
+    },
+    {
+      "word": "peak",
+      "phr": [
+        {"en": "at one's peak", "zh": "处于巅峰"},
+        {"en": "peak season", "zh": "旺季"}
+      ],
+      "ex": [
+        {"en": "Hotel prices rise sharply during the peak season in summer.",
+         "zh": "夏季旺季时酒店价格大幅上涨。"}
+      ],
+      "note": "peak 指山顶或最高点；at one's peak 表处于最佳状态。"
+    },
+    {
+      "word": "magnet",
+      "phr": [
+        {"en": "a powerful magnet", "zh": "强力磁铁"},
+        {"en": "a magnet for tourists", "zh": "吸引游客的地方"}
+      ],
+      "ex": [
+        {"en": "The old town is a magnet for tourists from all over the world.",
+         "zh": "这座老城吸引着世界各地的游客。"}
+      ],
+      "note": "magnet 由磁铁引申为有吸引力的人或地方；magnetic 有磁性的。"
+    },
+    {
+      "word": "concentrate",
+      "phr": [
+        {"en": "concentrate on", "zh": "专注于"},
+        {"en": "concentrate one's attention", "zh": "集中注意力"}
+      ],
+      "ex": [
+        {"en": "It is hard to concentrate on reading when the television is on.",
+         "zh": "电视开着时很难专心阅读。"}
+      ],
+      "note": "concentrate on 后接名词或动名词；名词 concentration。"
+    },
+    {
+      "word": "expose",
+      "phr": [
+        {"en": "expose sb to sth", "zh": "使某人接触"},
+        {"en": "expose a scandal", "zh": "揭露丑闻"}
+      ],
+      "ex": [
+        {"en": "The report exposed serious weaknesses in the safety system.",
+         "zh": "这份报告揭露了安全系统中的严重缺陷。"}
+      ],
+      "note": "expose sb to sth 表使接触、使暴露；名词 exposure。"
+    },
+    {
+      "word": "versatile",
+      "phr": [
+        {"en": "a versatile tool", "zh": "多用途工具"},
+        {"en": "a versatile player", "zh": "多面手球员"}
+      ],
+      "ex": [
+        {"en": "This versatile little tool can cut, open bottles and tighten screws.",
+         "zh": "这件多用途小工具可以切割、开瓶和拧螺丝。"}
+      ],
+      "note": "vers-（转）+ -atile → 可多向发展的，即多用途、多才。"
+    },
+    {
+      "word": "versus",
+      "phr": [
+        {"en": "quality versus quantity", "zh": "质量与数量的比较"},
+        {"en": "nature versus nurture", "zh": "先天与后天之争"}
+      ],
+      "ex": [
+        {"en": "The article compares quality versus quantity in language learning.",
+         "zh": "这篇文章比较了语言学习中的质量与数量。"}
+      ],
+      "note": "versus 常缩写成 vs.，用于比较或比赛双方。"
+    },
+    {
+      "word": "complaint",
+      "phr": [
+        {"en": "make a complaint", "zh": "投诉"},
+        {"en": "a complaint about", "zh": "对…的抱怨"}
+      ],
+      "ex": [
+        {"en": "The hotel received several complaints about the noise from the street.",
+         "zh": "酒店收到了几起关于街道噪音的投诉。"}
+      ],
+      "note": "complain 是动词，complaint 是名词，常与 make 连用。"
+    },
+    {
+      "word": "permissible",
+      "phr": [
+        {"en": "be permissible to do", "zh": "允许做"},
+        {"en": "the maximum permissible level", "zh": "最高允许值"}
+      ],
+      "ex": [
+        {"en": "Smoking is not permissible anywhere inside the building.",
+         "zh": "大楼内任何地方都不允许吸烟。"}
+      ],
+      "note": "per-（通过）+ miss（放行）→ 可允许的；反义 impermissible。"
+    },
+    {
+      "word": "cancer",
+      "phr": [
+        {"en": "lung cancer", "zh": "肺癌"},
+        {"en": "the risk of cancer", "zh": "患癌风险"}
+      ],
+      "ex": [
+        {"en": "Early tests can greatly increase the chances of surviving cancer.",
+         "zh": "早期检查能大大提高癌症存活的机会。"}
+      ],
+      "note": "cancer 表疾病时不可数，指种类时可数；形容词 cancerous。"
+    },
+    {
+      "word": "splash",
+      "phr": [
+        {"en": "splash water on", "zh": "把水泼在…上"},
+        {"en": "make a splash", "zh": "引起轰动"}
+      ],
+      "ex": [
+        {"en": "The children splashed water at each other in the pool.",
+         "zh": "孩子们在泳池里互相泼水。"}
+      ],
+      "note": "make a splash 引申为引起轰动；splash out 指花钱。"
+    },
+    {
+      "word": "inject",
+      "phr": [
+        {"en": "inject sb with", "zh": "给某人注射"},
+        {"en": "inject new life into", "zh": "注入新活力"}
+      ],
+      "ex": [
+        {"en": "The nurse injected the vaccine into his arm without any pain.",
+         "zh": "护士把疫苗注射到他的手臂里，一点也不疼。"}
+      ],
+      "note": "inject A into B 或 inject B with A，都是正确搭配。"
+    },
+    {
+      "word": "romance",
+      "phr": [
+        {"en": "a holiday romance", "zh": "假日恋情"},
+        {"en": "the romance of the sea", "zh": "大海的浪漫色彩"}
+      ],
+      "ex": [
+        {"en": "Their romance began on a train journey through southern Italy.",
+         "zh": "他们的恋情始于一次穿越意大利南部的火车旅行。"}
+      ],
+      "note": "romance 兼指恋情、浪漫气氛与传奇故事；形容词 romantic。"
+    },
+    {
+      "word": "offense",
+      "phr": [
+        {"en": "take offense at", "zh": "因…见怪"},
+        {"en": "commit an offense", "zh": "犯罪"}
+      ],
+      "ex": [
+        {"en": "He took offense at the joke, though it was meant kindly.",
+         "zh": "他对这个玩笑感到不快，尽管对方本是好意。"}
+      ],
+      "note": "take offense at 表因…见怪；英式拼 offence。"
+    },
+    {
+      "word": "atlas",
+      "phr": [
+        {"en": "a world atlas", "zh": "世界地图集"},
+        {"en": "consult an atlas", "zh": "查阅地图集"}
+      ],
+      "ex": [
+        {"en": "She found the small island in an old atlas of the Pacific.",
+         "zh": "她在一本旧的太平洋地图集里找到了那个小岛。"}
+      ],
+      "note": "atlas 源自希腊神话中托举天空的阿特拉斯。"
+    },
+    {
+      "word": "invisible",
+      "phr": [
+        {"en": "invisible to the eye", "zh": "肉眼看不见"},
+        {"en": "invisible barriers", "zh": "无形的障碍"}
+      ],
+      "ex": [
+        {"en": "These bacteria are invisible to the naked eye.",
+         "zh": "这些细菌肉眼看不见。"}
+      ],
+      "note": "in-（不）+ vis（看）+ -ible → 看不见的。"
+    },
+    {
+      "word": "focus",
+      "phr": [
+        {"en": "focus on", "zh": "集中于"},
+        {"en": "come into focus", "zh": "变得清晰"}
+      ],
+      "ex": [
+        {"en": "The camera focused on the child playing in the garden.",
+         "zh": "相机对焦在花园里玩耍的孩子身上。"}
+      ],
+      "note": "focus 复数可为 focuses 或 foci；focus on 表专注于。"
+    },
+    {
+      "word": "hamper",
+      "phr": [
+        {"en": "hamper progress", "zh": "妨碍进展"},
+        {"en": "hamper rescue efforts", "zh": "阻碍救援"}
+      ],
+      "ex": [
+        {"en": "Heavy snow hampered rescue efforts in the mountain area.",
+         "zh": "大雪阻碍了山区的救援工作。"}
+      ],
+      "note": "hamper 指妨碍进展或行动，常用于救援、调查等语境。"
+    },
+    {
+      "word": "motel",
+      "phr": [
+        {"en": "stay at a motel", "zh": "住在汽车旅馆"},
+        {"en": "a roadside motel", "zh": "路边汽车旅馆"}
+      ],
+      "ex": [
+        {"en": "We stopped at a roadside motel because the highway was closed.",
+         "zh": "因为高速公路封闭，我们在一家路边汽车旅馆过夜。"}
+      ],
+      "note": "motel 由 motor 与 hotel 缩合而成，多建于公路旁。"
+    },
+    {
+      "word": "approach",
+      "phr": [
+        {"en": "an approach to", "zh": "解决…的方法"},
+        {"en": "approach a problem", "zh": "着手处理问题"}
+      ],
+      "ex": [
+        {"en": "We need a new approach to the problem of traffic congestion.",
+         "zh": "我们需要用新方法解决交通拥堵问题。"}
+      ],
+      "note": "an approach to doing sth 中 to 是介词，后接动名词。"
+    },
+    {
+      "word": "exaggeration",
+      "phr": [
+        {"en": "without exaggeration", "zh": "毫不夸张"},
+        {"en": "a slight exaggeration", "zh": "略有夸张"}
+      ],
+      "ex": [
+        {"en": "It is no exaggeration to say that the film changed her life.",
+         "zh": "说这部电影改变了她的人生，毫不夸张。"}
+      ],
+      "note": "it is no exaggeration to say 意为毫不夸张地说。"
+    },
+    {
+      "word": "peg",
+      "phr": [
+        {"en": "peg the price at", "zh": "把价格定在"},
+        {"en": "a clothes peg", "zh": "衣夹"}
+      ],
+      "ex": [
+        {"en": "The government pegged the price of fuel for six months.",
+         "zh": "政府把燃油价格固定了六个月。"}
+      ],
+      "note": "peg 作动词可表固定、限定价格或汇率。"
+    },
+    {
+      "word": "myth",
+      "phr": [
+        {"en": "dispel a myth", "zh": "破除误解"},
+        {"en": "a common myth", "zh": "常见的错误看法"}
+      ],
+      "ex": [
+        {"en": "It is a common myth that we use only ten percent of our brains.",
+         "zh": "我们只用了大脑的百分之十，这是一个常见的错误看法。"}
+      ],
+      "note": "myth 指神话，也常指广为流传的错误看法。"
+    },
+    {
+      "word": "decisive",
+      "phr": [
+        {"en": "a decisive factor", "zh": "决定性因素"},
+        {"en": "a decisive victory", "zh": "决定性胜利"}
+      ],
+      "ex": [
+        {"en": "Her decisive answer ended the argument at once.",
+         "zh": "她果断的回答立刻结束了争论。"}
+      ],
+      "note": "decisive 表决定性的或果断的；名词 decision。"
+    },
+    {
+      "word": "concise",
+      "phr": [
+        {"en": "a concise summary", "zh": "简明摘要"},
+        {"en": "clear and concise", "zh": "清楚简洁"}
+      ],
+      "ex": [
+        {"en": "Please write a concise summary of the report in no more than two pages.",
+         "zh": "请写一份不超过两页的报告摘要。"}
+      ],
+      "note": "concise 强调用词少而清楚；与 brief 近义但更正面。"
+    },
+    {
+      "word": "implication",
+      "phr": [
+        {"en": "have implications for", "zh": "对…有影响"},
+        {"en": "by implication", "zh": "含蓄地"}
+      ],
+      "ex": [
+        {"en": "The decision has serious implications for the future of the industry.",
+         "zh": "这一决定对行业的未来有重大影响。"}
+      ],
+      "note": "implication 常用复数表影响、后果，也指暗示。"
+    },
+    {
+      "word": "thesis",
+      "phr": [
+        {"en": "a doctoral thesis", "zh": "博士论文"},
+        {"en": "the central thesis", "zh": "中心论点"}
+      ],
+      "ex": [
+        {"en": "She spent two years collecting data for her doctoral thesis.",
+         "zh": "她花了两年时间为博士论文收集数据。"}
+      ],
+      "note": "thesis 复数为 theses；也指文章或演讲的中心论点。"
+    },
+    {
+      "word": "bump",
+      "phr": [
+        {"en": "bump into", "zh": "偶遇"},
+        {"en": "bump one's head on", "zh": "头撞到…上"}
+      ],
+      "ex": [
+        {"en": "I bumped into an old classmate at the railway station yesterday.",
+         "zh": "昨天我在火车站偶然遇到了一位老同学。"}
+      ],
+      "note": "bump into 既表撞上也表偶然遇见，口语常用。"
+    }
+  ]
+}

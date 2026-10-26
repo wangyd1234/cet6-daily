@@ -1,0 +1,365 @@
+{
+  "day": 1,
+  "words": [
+    {
+      "word": "cancel",
+      "phr": [
+        {"en": "cancel a meeting", "zh": "取消会议"},
+        {"en": "cancel out", "zh": "抵消"}
+      ],
+      "ex": [
+        {"en": "He had to cancel his flight because the airport was closed by heavy snow.",
+         "zh": "由于大雪机场关闭，他只好取消航班。"}
+      ],
+      "note": "cancel 可接 meeting、order；与 call off 近义但更正式。"
+    },
+    {
+      "word": "numerous",
+      "phr": [
+        {"en": "numerous studies", "zh": "大量研究"},
+        {"en": "on numerous occasions", "zh": "在许多场合"}
+      ],
+      "ex": [
+        {"en": "Numerous studies have shown that regular exercise improves both mood and memory.",
+         "zh": "众多研究表明，经常锻炼能改善情绪和记忆力。"}
+      ],
+      "note": "numerous 修饰可数复数名词，比 many 正式，多用于书面语。"
+    },
+    {
+      "word": "surgeon",
+      "phr": [
+        {"en": "a heart surgeon", "zh": "心脏外科医生"},
+        {"en": "a plastic surgeon", "zh": "整形外科医生"}
+      ],
+      "ex": [
+        {"en": "The surgeon explained the operation clearly before the patient signed the form.",
+         "zh": "病人在表格上签字前，外科医生清楚地解释了手术。"}
+      ],
+      "note": "sur- 表「外科」；physician 是内科医生，注意区分。"
+    },
+    {
+      "word": "analyse",
+      "phr": [
+        {"en": "analyse the data", "zh": "分析数据"},
+        {"en": "analyse the results", "zh": "分析结果"}
+      ],
+      "ex": [
+        {"en": "Researchers analysed the data for three months before publishing their conclusions.",
+         "zh": "研究人员分析了三个月的数据才发表结论。"}
+      ],
+      "note": "英式拼作 analyse，美式为 analyze；名词形式是 analysis。"
+    },
+    {
+      "word": "abrupt",
+      "phr": [
+        {"en": "an abrupt change", "zh": "突然的变化"},
+        {"en": "come to an abrupt end", "zh": "突然结束"}
+      ],
+      "ex": [
+        {"en": "His abrupt departure surprised everyone at the party last night.",
+         "zh": "他昨晚突然离席，让聚会上的人都很惊讶。"}
+      ],
+      "note": "ab-（离开）+ rupt（断裂）→ 突然断开，故表「突然的、唐突的」。"
+    },
+    {
+      "word": "spacious",
+      "phr": [
+        {"en": "a spacious living room", "zh": "宽敞的客厅"},
+        {"en": "a spacious apartment", "zh": "宽敞的公寓"}
+      ],
+      "ex": [
+        {"en": "The new apartment is bright and spacious, with a large balcony.",
+         "zh": "新公寓明亮宽敞，还带一个大阳台。"}
+      ],
+      "note": "space + -ious；同根词 spatial 也含「空间」义。"
+    },
+    {
+      "word": "disapproval",
+      "phr": [
+        {"en": "express disapproval", "zh": "表示不赞成"},
+        {"en": "a look of disapproval", "zh": "不以为然的神色"}
+      ],
+      "ex": [
+        {"en": "She shook her head in disapproval when she heard the news.",
+         "zh": "听到这个消息，她不以为然地摇了摇头。"}
+      ],
+      "note": "dis-（否定）+ approval（赞成）；动词是 disapprove of。"
+    },
+    {
+      "word": "spontaneous",
+      "phr": [
+        {"en": "spontaneous applause", "zh": "自发的掌声"},
+        {"en": "a spontaneous decision", "zh": "一时冲动的决定"}
+      ],
+      "ex": [
+        {"en": "The audience broke into spontaneous applause as soon as the singer appeared.",
+         "zh": "歌手一出现，观众就自发地鼓起掌来。"}
+      ],
+      "note": "spont-（自愿）+ -aneous；指未经外力促成的「自发」。"
+    },
+    {
+      "word": "remote",
+      "phr": [
+        {"en": "a remote village", "zh": "偏远的村庄"},
+        {"en": "remote control", "zh": "遥控；遥控器"}
+      ],
+      "ex": [
+        {"en": "People in remote villages still have limited access to medical services.",
+         "zh": "偏远村庄的人获得医疗服务的机会仍然有限。"}
+      ],
+      "note": "remote 除「遥远的」，还常说 remote control（遥控器）。"
+    },
+    {
+      "word": "cafeteria",
+      "phr": [
+        {"en": "the school cafeteria", "zh": "学校食堂"},
+        {"en": "eat in the cafeteria", "zh": "在食堂吃饭"}
+      ],
+      "ex": [
+        {"en": "We usually have lunch in the cafeteria on the second floor.",
+         "zh": "我们通常在二楼的食堂吃午饭。"}
+      ],
+      "note": "cafeteria 多指学校、公司内部的自助食堂，餐厅常用 restaurant。"
+    },
+    {
+      "word": "rupture",
+      "phr": [
+        {"en": "rupture relations with", "zh": "与…决裂"},
+        {"en": "a ruptured pipe", "zh": "破裂的管道"}
+      ],
+      "ex": [
+        {"en": "The water pipe ruptured last night and flooded the entire basement.",
+         "zh": "昨晚水管破裂，整个地下室都被淹了。"}
+      ],
+      "note": "rupt-（断裂）同根词：abrupt、interrupt、erupt、corrupt。"
+    },
+    {
+      "word": "wreck",
+      "phr": [
+        {"en": "wreck the car", "zh": "撞坏汽车"},
+        {"en": "a nervous wreck", "zh": "精神濒临崩溃的人"}
+      ],
+      "ex": [
+        {"en": "The storm wrecked several boats along the coast within a single night.",
+         "zh": "一夜之间，风暴摧毁了沿海的几艘船。"}
+      ],
+      "note": "口语 a nervous wreck 指精神濒临崩溃的人，并非「残骸」。"
+    },
+    {
+      "word": "virgin",
+      "phr": [
+        {"en": "virgin forest", "zh": "原始森林"},
+        {"en": "virgin land", "zh": "处女地；未开垦的土地"}
+      ],
+      "ex": [
+        {"en": "Logging is strictly forbidden in this stretch of virgin forest.",
+         "zh": "这一片原始森林严禁伐木。"}
+      ],
+      "note": "virgin forest / virgin land 是固定搭配，义为未被开发的。"
+    },
+    {
+      "word": "afflict",
+      "phr": [
+        {"en": "be afflicted with", "zh": "受…折磨"},
+        {"en": "afflict millions of people", "zh": "折磨数百万人"}
+      ],
+      "ex": [
+        {"en": "Thousands of families are afflicted with hunger after the long drought.",
+         "zh": "长期干旱之后，成千上万个家庭饱受饥饿折磨。"}
+      ],
+      "note": "常用被动 be afflicted with/by，主语多为疾病、灾难。"
+    },
+    {
+      "word": "reproach",
+      "phr": [
+        {"en": "reproach sb for sth", "zh": "因某事责备某人"},
+        {"en": "beyond reproach", "zh": "无可指责"}
+      ],
+      "ex": [
+        {"en": "His mother reproached him for coming home so late again.",
+         "zh": "母亲责备他又这么晚回家。"}
+      ],
+      "note": "reproach sb for sth；beyond reproach 意为无可指责。"
+    },
+    {
+      "word": "fluctuate",
+      "phr": [
+        {"en": "fluctuate widely", "zh": "大幅波动"},
+        {"en": "fluctuate between", "zh": "在…之间波动"}
+      ],
+      "ex": [
+        {"en": "Vegetable prices fluctuated sharply between seasons throughout last year.",
+         "zh": "去年蔬菜价格在不同季节间大幅波动。"}
+      ],
+      "note": "fluct-（流动）加 -ate；常与 between、with 连用。"
+    },
+    {
+      "word": "compartment",
+      "phr": [
+        {"en": "the luggage compartment", "zh": "行李舱"},
+        {"en": "a first-class compartment", "zh": "头等车厢隔间"}
+      ],
+      "ex": [
+        {"en": "She put her suitcase in the luggage compartment above the seat.",
+         "zh": "她把手提箱放进了座位上方的行李舱。"}
+      ],
+      "note": "com-（共同）+ part（部分）→ 分隔出的小空间。"
+    },
+    {
+      "word": "gloomy",
+      "phr": [
+        {"en": "a gloomy mood", "zh": "低落的情绪"},
+        {"en": "a gloomy outlook", "zh": "悲观的前景"}
+      ],
+      "ex": [
+        {"en": "The report paints a gloomy picture of the company's financial future.",
+         "zh": "这份报告对该公司的财务前景描绘出悲观的景象。"}
+      ],
+      "note": "gloom 原指「阴暗」，引申为情绪低落、前景悲观。"
+    },
+    {
+      "word": "kidnap",
+      "phr": [
+        {"en": "kidnap a child", "zh": "绑架小孩"},
+        {"en": "kidnap for ransom", "zh": "绑架勒索赎金"}
+      ],
+      "ex": [
+        {"en": "The businessman was kidnapped on his way home and held for three days.",
+         "zh": "那名商人在回家途中遭绑架，被关押了三天。"}
+      ],
+      "note": "kid（小孩）+ nap（抓走）→ 绑架；过去式为 kidnapped。"
+    },
+    {
+      "word": "warrant",
+      "phr": [
+        {"en": "a search warrant", "zh": "搜查令"},
+        {"en": "warrant further investigation", "zh": "值得进一步调查"}
+      ],
+      "ex": [
+        {"en": "The police obtained a warrant before searching the suspect's apartment.",
+         "zh": "警方在搜查嫌疑人的公寓前取得了搜查令。"}
+      ],
+      "note": "warrant 作名词指「授权令」，作动词指「使…有正当理由」。"
+    },
+    {
+      "word": "calculate",
+      "phr": [
+        {"en": "calculate the total cost", "zh": "计算总成本"},
+        {"en": "calculate the probability", "zh": "计算概率"}
+      ],
+      "ex": [
+        {"en": "Please calculate the total cost before you sign the contract.",
+         "zh": "签合同之前请先算出总成本。"}
+      ],
+      "note": "calcul-（石子，古人以石子计数）→ 计算；calculator 计算器。"
+    },
+    {
+      "word": "persistent",
+      "phr": [
+        {"en": "persistent efforts", "zh": "持续不断的努力"},
+        {"en": "a persistent cough", "zh": "久咳不愈"}
+      ],
+      "ex": [
+        {"en": "Her persistent efforts finally won her a place at the university.",
+         "zh": "她坚持不懈的努力终于为她赢得了大学名额。"}
+      ],
+      "note": "per-（贯穿）+ sist（站立）→ 一直站住不放，故「坚持的」。"
+    },
+    {
+      "word": "authorize",
+      "phr": [
+        {"en": "authorize a payment", "zh": "批准付款"},
+        {"en": "be authorized to do sth", "zh": "获授权做某事"}
+      ],
+      "ex": [
+        {"en": "Only the director can authorize payments above ten thousand dollars.",
+         "zh": "只有主管才能批准一万美元以上的付款。"}
+      ],
+      "note": "author（作者、创始人）+ -ize → 授予权力；名词是 authority。"
+    },
+    {
+      "word": "sake",
+      "phr": [
+        {"en": "for the sake of", "zh": "为了…起见"},
+        {"en": "for safety's sake", "zh": "为了安全起见"}
+      ],
+      "ex": [
+        {"en": "He moved to the countryside for the sake of his children's health.",
+         "zh": "为了孩子的健康，他搬到了乡下。"}
+      ],
+      "note": "几乎只用于 for the sake of（为了…）和 for ...'s sake。"
+    },
+    {
+      "word": "audience",
+      "phr": [
+        {"en": "a large audience", "zh": "大批观众"},
+        {"en": "the target audience", "zh": "目标受众"}
+      ],
+      "ex": [
+        {"en": "The speaker paused until the audience stopped talking and settled down.",
+         "zh": "演讲者停下来，等观众停止交谈并静下来。"}
+      ],
+      "note": "aud-（听）同根词：audio、audible、auditorium。"
+    },
+    {
+      "word": "rehearsal",
+      "phr": [
+        {"en": "a dress rehearsal", "zh": "彩排"},
+        {"en": "in rehearsal", "zh": "在排练中"}
+      ],
+      "ex": [
+        {"en": "The whole cast stayed until midnight for the final dress rehearsal.",
+         "zh": "全体演员为最后一次彩排留到午夜。"}
+      ],
+      "note": "re-（再）+ hear（听）→ 反复听练，即排练；动词是 rehearse。"
+    },
+    {
+      "word": "sniff",
+      "phr": [
+        {"en": "sniff at sth", "zh": "对…嗤之以鼻"},
+        {"en": "sniff out", "zh": "嗅出；发现"}
+      ],
+      "ex": [
+        {"en": "The dog sniffed at the ground and then ran towards the gate.",
+         "zh": "狗嗅了嗅地面，然后朝大门跑去。"}
+      ],
+      "note": "sniff at 意为「嗤之以鼻」，sniff out 意为「嗅出、发现」。"
+    },
+    {
+      "word": "narrative",
+      "phr": [
+        {"en": "a narrative poem", "zh": "叙事诗"},
+        {"en": "a personal narrative", "zh": "个人叙述"}
+      ],
+      "ex": [
+        {"en": "Her novel offers a vivid narrative of life in a small fishing town.",
+         "zh": "她的小说生动地叙述了渔镇生活。"}
+      ],
+      "note": "narr-（讲述）同根词：narrate、narrator、narration。"
+    },
+    {
+      "word": "possess",
+      "phr": [
+        {"en": "possess the ability to", "zh": "具备…的能力"},
+        {"en": "be possessed of", "zh": "具有"}
+      ],
+      "ex": [
+        {"en": "Few candidates possess both the language skills and the patience required.",
+         "zh": "很少有应聘者同时具备所需的语言能力和耐心。"}
+      ],
+      "note": "be possessed of 意为「具有」；名词 possession 指所有物。"
+    },
+    {
+      "word": "coincide",
+      "phr": [
+        {"en": "coincide with", "zh": "与…同时发生；与…一致"},
+        {"en": "interests coincide", "zh": "利益一致"}
+      ],
+      "ex": [
+        {"en": "His holiday happened to coincide with the busiest week of the year.",
+         "zh": "他的假期恰好赶上一年中最忙的一周。"}
+      ],
+      "note": "co-（共同）+ incide（落下）→ 同时落下，故「同时发生」。"
+    }
+  ]
+}

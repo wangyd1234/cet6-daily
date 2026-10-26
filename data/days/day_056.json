@@ -1,0 +1,246 @@
+{
+ "day": 56,
+ "date": null,
+ "words": [
+  {
+   "id": 1651,
+   "word": "heighten",
+   "uk": "/ˈhaɪtn/",
+   "us": "",
+   "pos": "v.",
+   "cn": "提高；加强"
+  },
+  {
+   "id": 1652,
+   "word": "vehicle",
+   "uk": "/ˈviːɪkl/",
+   "us": "/ˈviəkəl/",
+   "pos": "n.",
+   "cn": "车辆；机动车；传播媒介；工具；手段"
+  },
+  {
+   "id": 1653,
+   "word": "scrape",
+   "uk": "/skreɪp/",
+   "us": "/skrep/",
+   "pos": "v.,n.",
+   "cn": "刮；擦；勉强过日子；刮；擦；刮擦声"
+  },
+  {
+   "id": 1654,
+   "word": "web",
+   "uk": "/web/",
+   "us": "/wɛb/",
+   "pos": "n.",
+   "cn": "网；网络；错综复杂的事物"
+  },
+  {
+   "id": 1655,
+   "word": "femininity",
+   "uk": "/ˌfeməˈnɪnəti/",
+   "us": "/ˈfɛməˈnɪnəti/",
+   "pos": "n.",
+   "cn": "女性气质"
+  },
+  {
+   "id": 1656,
+   "word": "plateau",
+   "uk": "/ˈplætəu/",
+   "us": "/plæˈto/",
+   "pos": "n.",
+   "cn": "高原；稳定时期"
+  },
+  {
+   "id": 1657,
+   "word": "tragic",
+   "uk": "/ˈtrædʒɪk/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "悲惨的；可悲的；悲剧的"
+  },
+  {
+   "id": 1658,
+   "word": "grin",
+   "uk": "/grɪn/",
+   "us": "/ɡrɪn/",
+   "pos": "n.",
+   "cn": "咧嘴笑"
+  },
+  {
+   "id": 1659,
+   "word": "grip",
+   "uk": "/grɪp/",
+   "us": "/ɡrɪp/",
+   "pos": "vt.,n.",
+   "cn": "握紧；抓牢；吸引住…的注意力；紧握"
+  },
+  {
+   "id": 1660,
+   "word": "reliance",
+   "uk": "/rɪˈlaɪəns/",
+   "us": "",
+   "pos": "n.",
+   "cn": "依靠；依赖"
+  },
+  {
+   "id": 1661,
+   "word": "explore",
+   "uk": "/ɪkˈsplɔː/",
+   "us": "/ɪkˈsplɔr/",
+   "pos": "v.",
+   "cn": "探险；探索；仔细查阅；探究"
+  },
+  {
+   "id": 1662,
+   "word": "display",
+   "uk": "/dɪˈspleɪ/",
+   "us": "/dɪˈsple/",
+   "pos": "vt.,n.",
+   "cn": "陈列；展览；显示"
+  },
+  {
+   "id": 1663,
+   "word": "electricity",
+   "uk": "/ɪˌlekˈtrɪsəti/",
+   "us": "/ɪˈlɛkˈtrɪsəti/",
+   "pos": "n.",
+   "cn": "电"
+  },
+  {
+   "id": 1664,
+   "word": "climate",
+   "uk": "/ˈklaɪmət/",
+   "us": "/ˈklaɪmɪt/",
+   "pos": "n.",
+   "cn": "气候；风土；地带；风气；气氛"
+  },
+  {
+   "id": 1665,
+   "word": "tentative",
+   "uk": "/ˈtentətɪv/",
+   "us": "/ˈtɛntətɪv/",
+   "pos": "adj.",
+   "cn": "试探的；试验的"
+  },
+  {
+   "id": 1666,
+   "word": "disorder",
+   "uk": "/dɪsˈɔːdə/",
+   "us": "/dɪsˈɔrdɚ/",
+   "pos": "n.",
+   "cn": "混乱；杂乱；骚乱"
+  },
+  {
+   "id": 1667,
+   "word": "aggravate",
+   "uk": "/ˈægrəveɪt/",
+   "us": "/ˈæɡrəvet/",
+   "pos": "vt.",
+   "cn": "加重；加剧；使恶化；激怒；使恼火"
+  },
+  {
+   "id": 1668,
+   "word": "criticize",
+   "uk": "/ˈkrɪtɪsaɪz/",
+   "us": "/ˈkrɪtəˈsaɪz/",
+   "pos": "vt.",
+   "cn": "批评；评论；非难"
+  },
+  {
+   "id": 1669,
+   "word": "preside",
+   "uk": "/prɪˈzaɪd/",
+   "us": "",
+   "pos": "vi.",
+   "cn": "主持；主管"
+  },
+  {
+   "id": 1670,
+   "word": "economic",
+   "uk": "/ˌiːkəˈnɒmɪk/",
+   "us": "/ˌikəˈnɑmɪk,ˌɛkəˈ-nɑmɪk/",
+   "pos": "adj.,n.",
+   "cn": "经济的；经济学的；经济学；经济状况"
+  },
+  {
+   "id": 1671,
+   "word": "transistor",
+   "uk": "/trænˈzɪstə/",
+   "us": "/trænˈzɪstɚ/",
+   "pos": "n.",
+   "cn": "晶体管；晶体管收音机"
+  },
+  {
+   "id": 1672,
+   "word": "statistics",
+   "uk": "/stəˈtɪstɪks/",
+   "us": "",
+   "pos": "n.",
+   "cn": "统计学；统计表"
+  },
+  {
+   "id": 1673,
+   "word": "grim",
+   "uk": "/grɪm/",
+   "us": "/ɡrɪm/",
+   "pos": "adj.",
+   "cn": "讨厌的；糟糕的；严厉的；冷酷的；无情的"
+  },
+  {
+   "id": 1674,
+   "word": "giggle",
+   "uk": "/ˈgɪgl/",
+   "us": "/ˈɡɪɡl/",
+   "pos": "n.",
+   "cn": "咯咯笑；傻笑"
+  },
+  {
+   "id": 1675,
+   "word": "offspring",
+   "uk": "/ˈɒfsprɪŋ/",
+   "us": "/ˈɔfsprɪŋ/",
+   "pos": "n.",
+   "cn": "子女；子孙；后代；崽"
+  },
+  {
+   "id": 1676,
+   "word": "arrest",
+   "uk": "/əˈrest/",
+   "us": "/əˈrɛst/",
+   "pos": "vt.,n.",
+   "cn": "逮捕；拘留；停止；阻止；吸引；逮捕；拘留；扣留"
+  },
+  {
+   "id": 1677,
+   "word": "mature",
+   "uk": "/məˈtʃuə/",
+   "us": "/məˈtʃʊr/",
+   "pos": "adj.,vt.",
+   "cn": "成熟的；成年人的；深思熟虑的；到期的；应支付的；使成熟"
+  },
+  {
+   "id": 1678,
+   "word": "alleviate",
+   "uk": "/əˈliːvieɪt/",
+   "us": "/əˈlivɪˈet/",
+   "pos": "vt.",
+   "cn": "减轻；缓解；缓和"
+  },
+  {
+   "id": 1679,
+   "word": "notification",
+   "uk": "/ˌnəutɪfɪˈkeɪʃn/",
+   "us": "/ˈnotəfəˈkeʃən/",
+   "pos": "n.",
+   "cn": "通知；告示；通知书"
+  },
+  {
+   "id": 1680,
+   "word": "overflow",
+   "uk": "/əʊvəˈfləʊ/",
+   "us": "/,ovɚˈflo/",
+   "pos": "vi.,vt.,n.",
+   "cn": "满得外溢；外流；泛滥；充满；洋溢；淹没；从…中溢出；多得无法容纳；容纳不下的物；溢出；满出；溢流口；溢流管"
+  }
+ ]
+}

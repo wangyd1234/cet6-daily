@@ -1,0 +1,246 @@
+{
+ "day": 54,
+ "date": null,
+ "words": [
+  {
+   "id": 1591,
+   "word": "trademark",
+   "uk": "/ˈtreɪdmɑːk/",
+   "us": "/ˈtredˈmɑrk/",
+   "pos": "n.",
+   "cn": "商标；牌号；特征；标记"
+  },
+  {
+   "id": 1592,
+   "word": "factor",
+   "uk": "/ˈfæktə/",
+   "us": "/ˈfæktɚ/",
+   "pos": "n.",
+   "cn": "因素；因子；系数"
+  },
+  {
+   "id": 1593,
+   "word": "analogous",
+   "uk": "/əˈnæləgəs/",
+   "us": "/əˈnæləɡəs/",
+   "pos": "adj.",
+   "cn": "类似的；相似的；可比拟的"
+  },
+  {
+   "id": 1594,
+   "word": "substance",
+   "uk": "/ˈsʌbstəns/",
+   "us": "",
+   "pos": "n.",
+   "cn": "物质；实质；大意；要旨；根据；理由"
+  },
+  {
+   "id": 1595,
+   "word": "complexion",
+   "uk": "/kəmˈplekʃn/",
+   "us": "/kəmˈplɛkʃən/",
+   "pos": "n.",
+   "cn": "肤色；面色；局面；性质"
+  },
+  {
+   "id": 1596,
+   "word": "continuity",
+   "uk": "/ˌkɒntɪˈnjuːəti/",
+   "us": "/ˈkɑntəˈnʊəti/",
+   "pos": "n.",
+   "cn": "连续；持续"
+  },
+  {
+   "id": 1597,
+   "word": "sculpture",
+   "uk": "/ˈskʌlptʃə/",
+   "us": "/ˈskʌlptʃɚ/",
+   "pos": "n.",
+   "cn": "雕刻；雕塑；雕刻作品；雕塑品"
+  },
+  {
+   "id": 1598,
+   "word": "target",
+   "uk": "/ˈtɑːgɪt/",
+   "us": "/ˈtɑrɡɪt/",
+   "pos": "n.",
+   "cn": "靶；标的；目标"
+  },
+  {
+   "id": 1599,
+   "word": "momentum",
+   "uk": "/məˈmentəm/",
+   "us": "/moˈmɛntəm/",
+   "pos": "n.",
+   "cn": "动力；冲力；势头；动量"
+  },
+  {
+   "id": 1600,
+   "word": "wax",
+   "uk": "/wæks/",
+   "us": "/waks/",
+   "pos": "n.,vt.",
+   "cn": "蜡；蜂蜡；给…上蜡"
+  },
+  {
+   "id": 1601,
+   "word": "sensation",
+   "uk": "/senˈseɪʃn/",
+   "us": "/sɛnˈseʃən/",
+   "pos": "n.",
+   "cn": "感觉能力；感觉；知觉；轰动；引起轰动的事件"
+  },
+  {
+   "id": 1602,
+   "word": "urban",
+   "uk": "/ˈɜːbən/",
+   "us": "/ˈɝbən/",
+   "pos": "adj.",
+   "cn": "都市的；住在都市的"
+  },
+  {
+   "id": 1603,
+   "word": "furthermore",
+   "uk": "/ˌfɜːðəˈmɔː/",
+   "us": "/,fɝðɚˈmɔr/",
+   "pos": "adv.",
+   "cn": "而且；此外"
+  },
+  {
+   "id": 1604,
+   "word": "timely",
+   "uk": "/ˈtaɪmli/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "及时的；适时的"
+  },
+  {
+   "id": 1605,
+   "word": "cape",
+   "uk": "/keɪp/",
+   "us": "/kep/",
+   "pos": "n.",
+   "cn": "斗篷；披肩；海角；岬"
+  },
+  {
+   "id": 1606,
+   "word": "discard",
+   "uk": "/dɪsˈkɑːd/",
+   "us": "/dɪsˈkɑːrd/",
+   "pos": "vt.",
+   "cn": "丢弃；抛弃；遗弃"
+  },
+  {
+   "id": 1607,
+   "word": "delicate",
+   "uk": "/ˈdelɪkət/",
+   "us": "/ˈdɛlɪkɪt/",
+   "pos": "adj.",
+   "cn": "纤细的；易碎的；微妙的；精美的"
+  },
+  {
+   "id": 1608,
+   "word": "rebel",
+   "uk": "/ˈrebl/",
+   "us": "/rɪˈbɛl/",
+   "pos": "vi.,n.",
+   "cn": "反叛；造反；反对；不服从；反叛分子；反对者"
+  },
+  {
+   "id": 1609,
+   "word": "subsidy",
+   "uk": "/ˈsʌbsədi/",
+   "us": "",
+   "pos": "n.",
+   "cn": "津贴；补助金"
+  },
+  {
+   "id": 1610,
+   "word": "bounce",
+   "uk": "/bauns/",
+   "us": "/baʊns/",
+   "pos": "v.,n.",
+   "cn": "弹起；反弹；颠跳；弹；反弹"
+  },
+  {
+   "id": 1611,
+   "word": "obscene",
+   "uk": "/əbˈsiːn/",
+   "us": "/əbˈsin/",
+   "pos": "adj.",
+   "cn": "淫秽的；下流的；可憎的；可恶的"
+  },
+  {
+   "id": 1612,
+   "word": "tissue",
+   "uk": "/ˈtɪʃuː/",
+   "us": "/ˈtɪʃu/",
+   "pos": "n.",
+   "cn": "组织；薄绢；薄纸；手巾纸"
+  },
+  {
+   "id": 1613,
+   "word": "Thanksgiving",
+   "uk": "/ˌθæŋksˈgɪvɪŋ/",
+   "us": "",
+   "pos": "n.",
+   "cn": "感恩节"
+  },
+  {
+   "id": 1614,
+   "word": "proficiency",
+   "uk": "/prəˈfɪʃnsi/",
+   "us": "/prəˈfɪʃənsi/",
+   "pos": "n.",
+   "cn": "熟练；精通"
+  },
+  {
+   "id": 1615,
+   "word": "modest",
+   "uk": "/ˈmɒdɪst/",
+   "us": "/ˈmɑdɪst/",
+   "pos": "adj.",
+   "cn": "谦虚的；适中的；羞怯的"
+  },
+  {
+   "id": 1616,
+   "word": "cast",
+   "uk": "/kɑːst/",
+   "us": "/kæst/",
+   "pos": "vt.,n.",
+   "cn": "投；扔；抛；浇铸；演员表；全体演员；石膏绷带；铸型；铸件；投；抛"
+  },
+  {
+   "id": 1617,
+   "word": "vocational",
+   "uk": "/vəuˈkeɪʃənl/",
+   "us": "/voˈkeʃənl/",
+   "pos": "adj.",
+   "cn": "职业的；业务的"
+  },
+  {
+   "id": 1618,
+   "word": "crush",
+   "uk": "/krʌʃ/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "压碎；碾碎；镇压"
+  },
+  {
+   "id": 1619,
+   "word": "hatred",
+   "uk": "/ˈheɪtrɪd/",
+   "us": "/ˈhetrɪd/",
+   "pos": "n.",
+   "cn": "憎恶；憎恨；仇恨"
+  },
+  {
+   "id": 1620,
+   "word": "slice",
+   "uk": "/slaɪs/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "薄片；切片；部分；切；削；剁"
+  }
+ ]
+}

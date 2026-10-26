@@ -1,0 +1,246 @@
+{
+ "day": 1,
+ "date": null,
+ "words": [
+  {
+   "id": 1,
+   "word": "cancel",
+   "uk": "/ˈkænsl/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "取消；撤销；删去"
+  },
+  {
+   "id": 2,
+   "word": "numerous",
+   "uk": "/ˈnjuːmərəs/",
+   "us": "/ˈnumərəs/",
+   "pos": "adj.",
+   "cn": "众多的"
+  },
+  {
+   "id": 3,
+   "word": "surgeon",
+   "uk": "/ˈsɜːdʒən/",
+   "us": "/ˈsɝdʒən/",
+   "pos": "n.",
+   "cn": "外科医生"
+  },
+  {
+   "id": 4,
+   "word": "analyse",
+   "uk": "/ˈænəlaɪz/",
+   "us": "/ˈæn(ə)laɪz/",
+   "pos": "vt.",
+   "cn": "分析；分解；解析"
+  },
+  {
+   "id": 5,
+   "word": "abrupt",
+   "uk": "/əˈbrʌpt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "突然的；意外的；唐突的；鲁莽的"
+  },
+  {
+   "id": 6,
+   "word": "spacious",
+   "uk": "/ˈspeɪʃəs/",
+   "us": "/ˈspeʃəs/",
+   "pos": "adj.",
+   "cn": "宽广的；宽敞的"
+  },
+  {
+   "id": 7,
+   "word": "disapproval",
+   "uk": "/ˌdɪsəˈpruːvl/",
+   "us": "/ˈdɪsəˈprʊvl/",
+   "pos": "n.",
+   "cn": "不赞成"
+  },
+  {
+   "id": 8,
+   "word": "spontaneous",
+   "uk": "/spɒnˈteɪniəs/",
+   "us": "/spɑnˈtenɪəs/",
+   "pos": "adj.",
+   "cn": "自发的；无意识的；自然的；天真率直的"
+  },
+  {
+   "id": 9,
+   "word": "remote",
+   "uk": "/rɪˈməut/",
+   "us": "/rɪˈmot/",
+   "pos": "adj.",
+   "cn": "遥远的；偏僻的；关系疏远的；脱离的；绝少的；微乎其微的；孤高的；冷淡的"
+  },
+  {
+   "id": 10,
+   "word": "cafeteria",
+   "uk": "/ˌkæfəˈtɪəriə/",
+   "us": "/,kæfəˈtɪrɪə/",
+   "pos": "n.",
+   "cn": "自助餐馆；自助食堂"
+  },
+  {
+   "id": 11,
+   "word": "rupture",
+   "uk": "/ˈrʌptʃə/",
+   "us": "/ˈrʌptʃɚ/",
+   "pos": "v.,n.",
+   "cn": "破裂；破裂；裂开；决裂；断绝"
+  },
+  {
+   "id": 12,
+   "word": "wreck",
+   "uk": "/rek/",
+   "us": "/rɛk/",
+   "pos": "n.,vt.",
+   "cn": "失事；残骸；精神或身体已垮的人；破坏"
+  },
+  {
+   "id": 13,
+   "word": "virgin",
+   "uk": "/ˈvɜːdʒɪn/",
+   "us": "/ˈvɝdʒɪn/",
+   "pos": "adj.,n.",
+   "cn": "未经开发的；未经使用的；未经触动的；处女的；处女；未婚女子"
+  },
+  {
+   "id": 14,
+   "word": "afflict",
+   "uk": "/əˈflɪkt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "使苦恼；折磨"
+  },
+  {
+   "id": 15,
+   "word": "reproach",
+   "uk": "/rɪˈprəutʃ/",
+   "us": "/rɪˈprotʃ/",
+   "pos": "vt.,n.",
+   "cn": "责备；批评"
+  },
+  {
+   "id": 16,
+   "word": "fluctuate",
+   "uk": "/ˈflʌktʃueɪt/",
+   "us": "/ˈflʌktʃʊˈet/",
+   "pos": "vi.",
+   "cn": "波动；涨落；起伏"
+  },
+  {
+   "id": 17,
+   "word": "compartment",
+   "uk": "/kəmˈpɑːtmənt/",
+   "us": "/kəmˈpɑrtmənt/",
+   "pos": "n.",
+   "cn": "卧车包房；隔间；分隔的空间"
+  },
+  {
+   "id": 18,
+   "word": "gloomy",
+   "uk": "/ˈgluːmi/",
+   "us": "/ˈɡlumi/",
+   "pos": "adj.",
+   "cn": "忧郁的；沮丧的；令人沮丧的；昏暗的；阴沉的"
+  },
+  {
+   "id": 19,
+   "word": "kidnap",
+   "uk": "/ˈkɪdnæp/",
+   "us": "",
+   "pos": "n.",
+   "cn": "绑架；诱拐"
+  },
+  {
+   "id": 20,
+   "word": "warrant",
+   "uk": "/ˈwɒrənt/",
+   "us": "/ˈwɔrənt/",
+   "pos": "n.,vt.",
+   "cn": "授权令；理由；根据；证明…是正当的"
+  },
+  {
+   "id": 21,
+   "word": "calculate",
+   "uk": "/ˈkælkjuleɪt/",
+   "us": "/ˈkælkjulet/",
+   "pos": "v.",
+   "cn": "计算；推算；计划；打算"
+  },
+  {
+   "id": 22,
+   "word": "persistent",
+   "uk": "/pəˈsɪstənt/",
+   "us": "/pəˈzɪstənt/",
+   "pos": "adj.",
+   "cn": "坚持不懈的；执意的；持续的"
+  },
+  {
+   "id": 23,
+   "word": "authorize",
+   "uk": "/ˈɔːθəraɪz/",
+   "us": "/ˈɔθəraɪz/",
+   "pos": "vt.",
+   "cn": "授权；批准"
+  },
+  {
+   "id": 24,
+   "word": "sake",
+   "uk": "/seɪk/",
+   "us": "/sek/",
+   "pos": "n.",
+   "cn": "缘故；理由"
+  },
+  {
+   "id": 25,
+   "word": "audience",
+   "uk": "/ˈɔːdiəns/",
+   "us": "/ˈɔdɪəns/",
+   "pos": "n.",
+   "cn": "听众；观众；读者"
+  },
+  {
+   "id": 26,
+   "word": "rehearsal",
+   "uk": "/rɪˈhɜːsl/",
+   "us": "/rɪˈhɝsl/",
+   "pos": "n.",
+   "cn": "排练；排演"
+  },
+  {
+   "id": 27,
+   "word": "sniff",
+   "uk": "/snɪf/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "以鼻吸气；用力吸入；嗅；闻；吸气；嗅；闻"
+  },
+  {
+   "id": 28,
+   "word": "narrative",
+   "uk": "/ˈnærətɪv/",
+   "us": "",
+   "pos": "n.",
+   "cn": "叙述文；故事；叙述；讲述"
+  },
+  {
+   "id": 29,
+   "word": "possess",
+   "uk": "/pəˈzes/",
+   "us": "/pəˈzɛs/",
+   "pos": "vt.",
+   "cn": "占用；拥有"
+  },
+  {
+   "id": 30,
+   "word": "coincide",
+   "uk": "/ˌkəuɪnˈsaɪd/",
+   "us": "/,koɪnˈsaɪd/",
+   "pos": "vi.",
+   "cn": "同时发生；相符；相一致；位置重合；重叠"
+  }
+ ]
+}

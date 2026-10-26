@@ -1,0 +1,246 @@
+{
+ "day": 25,
+ "date": null,
+ "words": [
+  {
+   "id": 721,
+   "word": "adjoin",
+   "uk": "/əˈdʒɔɪn/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "贴近；与…毗连"
+  },
+  {
+   "id": 722,
+   "word": "universe",
+   "uk": "/ˈjuːnɪvɜːs/",
+   "us": "/ˈjunɪvɝs/",
+   "pos": "n.",
+   "cn": "宇宙；世界；领域；范围"
+  },
+  {
+   "id": 723,
+   "word": "inherit",
+   "uk": "/ɪnˈherɪt/",
+   "us": "/ɪnˈhɛrɪt/",
+   "pos": "vt.",
+   "cn": "继承"
+  },
+  {
+   "id": 724,
+   "word": "overwhelming",
+   "uk": "/ˌəuvəˈwelmɪŋ/",
+   "us": "/,ovɚˈwɛlmɪŋ/",
+   "pos": "adj.",
+   "cn": "势不可挡的；压倒的；巨大的"
+  },
+  {
+   "id": 725,
+   "word": "interpret",
+   "uk": "/ɪnˈtɜːprɪt/",
+   "us": "/ɪnˈtɝprɪt/",
+   "pos": "v.",
+   "cn": "解释；说明；口译"
+  },
+  {
+   "id": 726,
+   "word": "peculiar",
+   "uk": "/pɪˈkjuːlɪə/",
+   "us": "/pɪˈkjulɪɚ/",
+   "pos": "adj.",
+   "cn": "奇怪的；古怪的；特有的"
+  },
+  {
+   "id": 727,
+   "word": "idiom",
+   "uk": "/ˈɪdiəm/",
+   "us": "/ˈɪdɪəm/",
+   "pos": "n.",
+   "cn": "习语；成语；风格；特色"
+  },
+  {
+   "id": 728,
+   "word": "diplomat",
+   "uk": "/ˈdɪpləmæt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "外交官；外交家；有交际手腕的人；圆滑的人"
+  },
+  {
+   "id": 729,
+   "word": "hug",
+   "uk": "/hʌg/",
+   "us": "/hʌɡ/",
+   "pos": "vi.,vt.,n.",
+   "cn": "紧抱在一起；互相拥抱；拥抱；紧抱；怀抱；紧抱；热烈拥抱"
+  },
+  {
+   "id": 730,
+   "word": "grant",
+   "uk": "/grɑːnt/",
+   "us": "/ɡrænt/",
+   "pos": "n.,vt.",
+   "cn": "授给物；授予；给予"
+  },
+  {
+   "id": 731,
+   "word": "muscular",
+   "uk": "/ˈmʌskjələ/",
+   "us": "/ˈmʌskjəlɚ/",
+   "pos": "adj.",
+   "cn": "肌肉发达的；强壮的；肌肉的"
+  },
+  {
+   "id": 732,
+   "word": "sparkle",
+   "uk": "/ˈspɑːkl/",
+   "us": "/ˈspɑrkl/",
+   "pos": "vi.,n.",
+   "cn": "发光；闪耀；闪烁；活跃；焕发；闪光；闪耀；闪烁；活力；生气"
+  },
+  {
+   "id": 733,
+   "word": "hum",
+   "uk": "/hʌm/",
+   "us": "",
+   "pos": "vi.,vt.,n.",
+   "cn": "哼曲子；发嗡嗡声；哼；嗡嗡声；营营声；嘈杂声"
+  },
+  {
+   "id": 734,
+   "word": "staple",
+   "uk": "/ˈsteɪpl/",
+   "us": "/ˈstepl/",
+   "pos": "adj.,n.,vt.",
+   "cn": "主要的；经常需要的；订书钉；U形钉；主食；主要产品；用订书钉订"
+  },
+  {
+   "id": 735,
+   "word": "discount",
+   "uk": "/ˈdɪskaʊnt/",
+   "us": "/dɪsˈkaʊnt/",
+   "pos": "n.,vt.",
+   "cn": "折扣；把…打折扣；不全信；漠视；低估"
+  },
+  {
+   "id": 736,
+   "word": "construct",
+   "uk": "/kənˈstrʌkt/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "建造；构思；建筑物；构想；观念"
+  },
+  {
+   "id": 737,
+   "word": "royalty",
+   "uk": "/ˈrɔɪəlti/",
+   "us": "",
+   "pos": "n.",
+   "cn": "王族；版税"
+  },
+  {
+   "id": 738,
+   "word": "convert",
+   "uk": "/kənˈvɜːt/",
+   "us": "/kənˈvɝt/",
+   "pos": "vt.",
+   "cn": "转变；转化；改变"
+  },
+  {
+   "id": 739,
+   "word": "attempt",
+   "uk": "/əˈtempt/",
+   "us": "/əˈtɛmpt/",
+   "pos": "vt.",
+   "cn": "尝试；试图；努力"
+  },
+  {
+   "id": 740,
+   "word": "rivalry",
+   "uk": "/ˈraɪvlri/",
+   "us": "",
+   "pos": "n.",
+   "cn": "竞争；竞赛；对抗"
+  },
+  {
+   "id": 741,
+   "word": "relish",
+   "uk": "/ˈrelɪʃ/",
+   "us": "/ˈrɛlɪʃ/",
+   "pos": "vt.,n.",
+   "cn": "享受；从…中获得乐趣；享受；滋味；乐趣；调味品"
+  },
+  {
+   "id": 742,
+   "word": "fluorescent",
+   "uk": "/ˌflɔːˈresnt/",
+   "us": "/,flɔˈrɛsnt/",
+   "pos": "adj.",
+   "cn": "荧光的；发荧光的"
+  },
+  {
+   "id": 743,
+   "word": "division",
+   "uk": "/dɪˈvɪʒn/",
+   "us": "/dəˈvɪʒən/",
+   "pos": "n.",
+   "cn": "分；分割；部门；科；处；除法"
+  },
+  {
+   "id": 744,
+   "word": "superficial",
+   "uk": "/ˌsuːpəˈfɪʃl/",
+   "us": "/,supɚˈfɪʃl/",
+   "pos": "adj.",
+   "cn": "表面的；肤浅的"
+  },
+  {
+   "id": 745,
+   "word": "executive",
+   "uk": "/ɪgˈzekjətɪv/",
+   "us": "/ɪɡˈzɛkjətɪv/",
+   "pos": "adj.,n.",
+   "cn": "执行的；行政的；执行者"
+  },
+  {
+   "id": 746,
+   "word": "navigation",
+   "uk": "/ˌnævɪˈgeɪʃn/",
+   "us": "/ˈnævəˈgeʃən/",
+   "pos": "n.",
+   "cn": "航行；航海；航空；导航；领航"
+  },
+  {
+   "id": 747,
+   "word": "melt",
+   "uk": "/melt/",
+   "us": "/mɛlt/",
+   "pos": "v.",
+   "cn": "融化；溶化；消散"
+  },
+  {
+   "id": 748,
+   "word": "stalk",
+   "uk": "/stɔːk/",
+   "us": "/stɔk/",
+   "pos": "vi.,n.,vt.",
+   "cn": "高视阔步地走；茎；梗；柄；悄悄地跟踪"
+  },
+  {
+   "id": 749,
+   "word": "whereas",
+   "uk": "/ˌweərˈæz/",
+   "us": "/ˈwɛrˈæz/",
+   "pos": "conj.",
+   "cn": "然而；但是；尽管"
+  },
+  {
+   "id": 750,
+   "word": "pitch",
+   "uk": "/pɪtʃ/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "投掷；使猛然倒下；表达；定下特定程度；定调；架设；搭；扎；颠簸；球场；程度；强度；高度；高音；沥青"
+  }
+ ]
+}

@@ -1,0 +1,246 @@
+{
+ "day": 12,
+ "date": null,
+ "words": [
+  {
+   "id": 331,
+   "word": "safeguard",
+   "uk": "/ˈseɪfgɑːd/",
+   "us": "/ˈsefɡɑrd/",
+   "pos": "vt.,n.",
+   "cn": "保护；维护；预防措施；保证条款"
+  },
+  {
+   "id": 332,
+   "word": "diligent",
+   "uk": "/ˈdɪlɪdʒənt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "勤勉的；勤奋的"
+  },
+  {
+   "id": 333,
+   "word": "sophisticated",
+   "uk": "/səˈfɪstɪkeɪtɪd/",
+   "us": "/səˈfɪstɪketɪd/",
+   "pos": "adj.",
+   "cn": "老于世故的；高级的；精密的；复杂的；高雅的"
+  },
+  {
+   "id": 334,
+   "word": "entertainment",
+   "uk": "/ˌentəˈteɪnmənt/",
+   "us": "/ˌɛntɚˈtenmənt/",
+   "pos": "n.",
+   "cn": "娱乐；文娱节目；表演会；招待；款待；请客"
+  },
+  {
+   "id": 335,
+   "word": "reside",
+   "uk": "/rɪˈzaɪd/",
+   "us": "",
+   "pos": "vi.",
+   "cn": "居住；定居；存在；在于"
+  },
+  {
+   "id": 336,
+   "word": "indicative",
+   "uk": "/ɪnˈdɪkətɪv/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "标示的；指示的；象征的；陈述的；【语】陈述语气"
+  },
+  {
+   "id": 337,
+   "word": "ward",
+   "uk": "/wɔːd/",
+   "us": "/wɔrd/",
+   "pos": "n.",
+   "cn": "病房；区；受监护人"
+  },
+  {
+   "id": 338,
+   "word": "dread",
+   "uk": "/dred/",
+   "us": "/drɛd/",
+   "pos": "vt.,n.",
+   "cn": "担忧；忧虑；惧怕；担忧；畏惧"
+  },
+  {
+   "id": 339,
+   "word": "scrutiny",
+   "uk": "/ˈskruːtəni/",
+   "us": "/ˈskrutəni/",
+   "pos": "n.",
+   "cn": "详细检查；仔细观察"
+  },
+  {
+   "id": 340,
+   "word": "chase",
+   "uk": "/tʃeɪs/",
+   "us": "/tʃeis/",
+   "pos": "vt.,n.",
+   "cn": "追逐；追赶；追求"
+  },
+  {
+   "id": 341,
+   "word": "accident",
+   "uk": "/ˈæksɪdənt/",
+   "us": "/ˈæksədənt/",
+   "pos": "n.",
+   "cn": "意外；事故"
+  },
+  {
+   "id": 342,
+   "word": "promote",
+   "uk": "/prəˈməut/",
+   "us": "/prəˈmot/",
+   "pos": "vt.",
+   "cn": "促进；增进；发扬；提升；宣传；推销"
+  },
+  {
+   "id": 343,
+   "word": "routine",
+   "uk": "/ruːˈtiːn/",
+   "us": "/rʊˈtin/",
+   "pos": "adj.,n.",
+   "cn": "例行的；常规的；例行公事；惯例；惯常的程序"
+  },
+  {
+   "id": 344,
+   "word": "attack",
+   "uk": "/əˈtæk/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "攻击；进攻；突然发作"
+  },
+  {
+   "id": 345,
+   "word": "divorce",
+   "uk": "/dɪˈvɔːs/",
+   "us": "/dɪˈvɔrs/",
+   "pos": "n.,vt.",
+   "cn": "离婚；离异；离婚；分离；脱离"
+  },
+  {
+   "id": 346,
+   "word": "tariff",
+   "uk": "/ˈtærɪf/",
+   "us": "",
+   "pos": "n.",
+   "cn": "关税；税率；价目表；收费表"
+  },
+  {
+   "id": 347,
+   "word": "attach",
+   "uk": "/əˈtætʃ/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "缚；系；贴；附加；使依恋；使喜爱；使附属；认为有"
+  },
+  {
+   "id": 348,
+   "word": "graphic",
+   "uk": "/ˈgræfɪk/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "生动的；形象的；绘画的；文字的；图表的"
+  },
+  {
+   "id": 349,
+   "word": "convict",
+   "uk": "/kənˈvɪkt/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "证明…有罪；宣判…有罪['kɒnvɪkt]；囚犯"
+  },
+  {
+   "id": 350,
+   "word": "retention",
+   "uk": "/rɪˈtenʃn/",
+   "us": "/rɪˈtɛnʃən/",
+   "pos": "n.",
+   "cn": "保留；保持"
+  },
+  {
+   "id": 351,
+   "word": "creation",
+   "uk": "/kriˈeɪʃn/",
+   "us": "/krɪˈeʃən/",
+   "pos": "n.",
+   "cn": "创造；创建；创造的作品；产物；宇宙；天地万物"
+  },
+  {
+   "id": 352,
+   "word": "legislation",
+   "uk": "/ˌledʒɪsˈleɪʃn/",
+   "us": "/,lɛdʒɪsˈleʃən/",
+   "pos": "n.",
+   "cn": "法律；法规；立法；法律的制定"
+  },
+  {
+   "id": 353,
+   "word": "dodge",
+   "uk": "/dɒdʒ/",
+   "us": "/dɑdʒ/",
+   "pos": "vi.,vt.,n.",
+   "cn": "闪身躲开；回避；逃避；托辞；伎俩；躲闪；躲避"
+  },
+  {
+   "id": 354,
+   "word": "ingredient",
+   "uk": "/ɪnˈgriːdiənt/",
+   "us": "/ɪnˈɡridɪənt/",
+   "pos": "n.",
+   "cn": "组成部分；原料；要素"
+  },
+  {
+   "id": 355,
+   "word": "surplus",
+   "uk": "/ˈsɜːpləs/",
+   "us": "/ˈsɝpləs/",
+   "pos": "adj.,n.",
+   "cn": "过剩的；多余的；过剩；剩余；盈余"
+  },
+  {
+   "id": 356,
+   "word": "consolidate",
+   "uk": "/kənˈsɒlɪdeɪt/",
+   "us": "/kənˈsɑlɪdet/",
+   "pos": "v.",
+   "cn": "巩固；加强；联为一体；合并"
+  },
+  {
+   "id": 357,
+   "word": "correspondence",
+   "uk": "/ˌkɒrəˈspɒndəns/",
+   "us": "/,kɔrəˈspɑndəns/",
+   "pos": "n.",
+   "cn": "信件；函件；通信；通信联系；符合；一致；相似"
+  },
+  {
+   "id": 358,
+   "word": "inhibit",
+   "uk": "/ɪnˈhɪbɪt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "阻止；妨碍；抑制"
+  },
+  {
+   "id": 359,
+   "word": "refresh",
+   "uk": "/rɪˈfreʃ/",
+   "us": "/riˈfrɛʃ/",
+   "pos": "v.",
+   "cn": "振作精神；恢复活力"
+  },
+  {
+   "id": 360,
+   "word": "intimate",
+   "uk": "/ˈɪntɪmət/",
+   "us": "/ˈɪntəmɪt/",
+   "pos": "adj.,n.,vt.",
+   "cn": "亲密的；个人的；至交；密友；暗示；提示"
+  }
+ ]
+}

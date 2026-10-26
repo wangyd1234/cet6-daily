@@ -1,0 +1,246 @@
+{
+ "day": 72,
+ "date": null,
+ "words": [
+  {
+   "id": 2131,
+   "word": "longevity",
+   "uk": "/lɒnˈdʒevəti/",
+   "us": "/lɔnˈdʒɛvəti/",
+   "pos": "n.",
+   "cn": "长寿；寿命"
+  },
+  {
+   "id": 2132,
+   "word": "military",
+   "uk": "/ˈmɪlətri/",
+   "us": "/ˈmɪlətɛri/",
+   "pos": "adj.,n.",
+   "cn": "军事的；军用的；军队；武装力量"
+  },
+  {
+   "id": 2133,
+   "word": "dynamic",
+   "uk": "/daɪˈnæmɪk/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "动力的；动力学的；动态的；有活力的；有生气的"
+  },
+  {
+   "id": 2134,
+   "word": "wardrobe",
+   "uk": "/ˈwɔːdrəub/",
+   "us": "/ˈwɔrdˌrob/",
+   "pos": "n.",
+   "cn": "衣柜；全部衣物"
+  },
+  {
+   "id": 2135,
+   "word": "reluctant",
+   "uk": "/rɪˈlʌktənt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "不情愿的；勉强的"
+  },
+  {
+   "id": 2136,
+   "word": "conscientious",
+   "uk": "/ˌkɒnʃiˈenʃəs/",
+   "us": "/ˈkɑnʃɪˈɛnʃəs/",
+   "pos": "adj.",
+   "cn": "认真的；勤勤恳恳的"
+  },
+  {
+   "id": 2137,
+   "word": "passion",
+   "uk": "/ˈpæʃn/",
+   "us": "/ˈpæʃən/",
+   "pos": "n.",
+   "cn": "激情；热情；酷爱"
+  },
+  {
+   "id": 2138,
+   "word": "generate",
+   "uk": "/ˈdʒenəreɪt/",
+   "us": "/ˈdʒɛnəret/",
+   "pos": "vt.",
+   "cn": "发生；引起；生殖"
+  },
+  {
+   "id": 2139,
+   "word": "extreme",
+   "uk": "/ɪkˈstriːm/",
+   "us": "/ɪkˈstrim/",
+   "pos": "adj.,n.",
+   "cn": "极度的；最后的；极端；过分"
+  },
+  {
+   "id": 2140,
+   "word": "tuck",
+   "uk": "/tʌk/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "把边塞到下面；把…夹入；把…藏入；褶；裥"
+  },
+  {
+   "id": 2141,
+   "word": "authoritative",
+   "uk": "/ɔːˈθɒrətətɪv/",
+   "us": "/əˈθɔrətetɪv/",
+   "pos": "adj.",
+   "cn": "有权威性的；可信的；专断的；命令式的"
+  },
+  {
+   "id": 2142,
+   "word": "athlete",
+   "uk": "/ˈæθliːt/",
+   "us": "/ˈæθlit/",
+   "pos": "n.",
+   "cn": "运动员；体育家"
+  },
+  {
+   "id": 2143,
+   "word": "upright",
+   "uk": "/ˈʌpraɪt/",
+   "us": "",
+   "pos": "adv.,adj.",
+   "cn": "挺直着；竖立着；垂直的；正直的；诚实的"
+  },
+  {
+   "id": 2144,
+   "word": "extract",
+   "uk": "/ɪkˈstrækt/",
+   "us": "/ˈɛkstrækt/",
+   "pos": "vt.,n.",
+   "cn": "取出；抽出；采掘；提炼；榨取；获得；索取；摘录['3kstrækt]；摘录；选段；提出物；精；汁"
+  },
+  {
+   "id": 2145,
+   "word": "obscure",
+   "uk": "/əbˈskjuə/",
+   "us": "/əbˈskjʊr/",
+   "pos": "adj.,vt.",
+   "cn": "不著名的；不重要的；费解的；模糊不清的；使变糊；掩盖"
+  },
+  {
+   "id": 2146,
+   "word": "dismay",
+   "uk": "/dɪsˈmeɪ/",
+   "us": "/dɪsˈme/",
+   "pos": "n.,vt.",
+   "cn": "失望；气馁；惊恐；使失望；使气馁；使惊恐"
+  },
+  {
+   "id": 2147,
+   "word": "expend",
+   "uk": "/ɪkˈspend/",
+   "us": "/ɪkˈspɛnd/",
+   "pos": "vt.",
+   "cn": "花费；消费；消耗"
+  },
+  {
+   "id": 2148,
+   "word": "forge",
+   "uk": "/fɔːdʒ/",
+   "us": "/fɔrdʒ/",
+   "pos": "vt.",
+   "cn": "打制；锻造；伪造"
+  },
+  {
+   "id": 2149,
+   "word": "demonstrate",
+   "uk": "/ˈdemənstreɪt/",
+   "us": "/ˈdɛmənˈstret/",
+   "pos": "vt.",
+   "cn": "说明；论证；表露"
+  },
+  {
+   "id": 2150,
+   "word": "region",
+   "uk": "/ˈriːdʒən/",
+   "us": "/ˈridʒən/",
+   "pos": "n.",
+   "cn": "地区；地带；区域；范围；幅度"
+  },
+  {
+   "id": 2151,
+   "word": "deceive",
+   "uk": "/dɪˈsiːv/",
+   "us": "/dɪˈsiv/",
+   "pos": "vi.,vt.",
+   "cn": "行骗；欺骗；蒙蔽"
+  },
+  {
+   "id": 2152,
+   "word": "preview",
+   "uk": "/ˈpriːvjuː/",
+   "us": "/ˈpriˈvjʊ/",
+   "pos": "n.",
+   "cn": "预映；预演；预告"
+  },
+  {
+   "id": 2153,
+   "word": "ingenious",
+   "uk": "/ɪnˈdʒiːniəs/",
+   "us": "/ɪnˈdʒinɪəs/",
+   "pos": "adj.",
+   "cn": "设计独特的；别致的；巧妙的；灵巧的；善于创造发明的"
+  },
+  {
+   "id": 2154,
+   "word": "questionnaire",
+   "uk": "/ˌkwestʃəˈneə/",
+   "us": "/ˌkwɛstʃənˈɛr/",
+   "pos": "n.",
+   "cn": "问卷；征求意见表"
+  },
+  {
+   "id": 2155,
+   "word": "breakthrough",
+   "uk": "/ˈbreɪkθruː/",
+   "us": "/ˈbrekˈθrʊ/",
+   "pos": "n.",
+   "cn": "突破；突破性进展；重要的新发现"
+  },
+  {
+   "id": 2156,
+   "word": "snack",
+   "uk": "/snæk/",
+   "us": "",
+   "pos": "n.",
+   "cn": "快餐；小吃；点心"
+  },
+  {
+   "id": 2157,
+   "word": "yoke",
+   "uk": "/jəuk/",
+   "us": "/jok/",
+   "pos": "n.,vt.",
+   "cn": "牛轭；束缚；枷锁；结合；联结"
+  },
+  {
+   "id": 2158,
+   "word": "destination",
+   "uk": "/ˌdestɪˈneɪʃn/",
+   "us": "/,dɛstɪˈneʃən/",
+   "pos": "n.",
+   "cn": "目的地；终点；目标"
+  },
+  {
+   "id": 2159,
+   "word": "throne",
+   "uk": "/θrəun/",
+   "us": "/θron/",
+   "pos": "n.",
+   "cn": "御座；宝座；王位；王权"
+  },
+  {
+   "id": 2160,
+   "word": "privacy",
+   "uk": "/ˈpraɪvəsi/",
+   "us": "",
+   "pos": "n.",
+   "cn": "个人自由；隐私；私生活；私事"
+  }
+ ]
+}

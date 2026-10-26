@@ -1,0 +1,365 @@
+{
+  "day": 56,
+  "words": [
+    {
+      "word": "heighten",
+      "phr": [
+        {"en": "heighten awareness", "zh": "提高意识"},
+        {"en": "heighten the tension", "zh": "加剧紧张"}
+      ],
+      "ex": [
+        {"en": "The incident heightened tensions between the two neighbouring countries.",
+         "zh": "这一事件加剧了两个邻国之间的紧张关系。"}
+      ],
+      "note": "heighten 由 height 加 -en 构成，多与 tension 搭配。"
+    },
+    {
+      "word": "vehicle",
+      "phr": [
+        {"en": "a motor vehicle", "zh": "机动车"},
+        {"en": "a vehicle for", "zh": "…的载体"}
+      ],
+      "ex": [
+        {"en": "The city plans to ban private vehicles from the old town centre.",
+         "zh": "该市计划禁止私家车进入老城中心。"}
+      ],
+      "note": "vehicle 除车辆外，可喻传播工具，如 a vehicle for change。"
+    },
+    {
+      "word": "scrape",
+      "phr": [
+        {"en": "scrape through", "zh": "勉强通过"},
+        {"en": "scrape off", "zh": "刮掉"}
+      ],
+      "ex": [
+        {"en": "He scraped through the final exam with a score of just sixty.",
+         "zh": "他仅以六十分的成绩勉强通过了期末考试。"}
+      ],
+      "note": "scrape through 指勉强通过；scrape by 指勉强糊口。"
+    },
+    {
+      "word": "web",
+      "phr": [
+        {"en": "a spider's web", "zh": "蜘蛛网"},
+        {"en": "the World Wide Web", "zh": "万维网"}
+      ],
+      "ex": [
+        {"en": "A spider had built a web between the two branches overnight.",
+         "zh": "一只蜘蛛一夜之间在两根树枝间结了网。"}
+      ],
+      "note": "web 指蛛网或网络，the Web 指万维网。"
+    },
+    {
+      "word": "femininity",
+      "phr": [
+        {"en": "traditional femininity", "zh": "传统的女性气质"},
+        {"en": "a symbol of femininity", "zh": "女性气质的象征"}
+      ],
+      "ex": [
+        {"en": "The novel explores how traditional femininity shapes women's choices.",
+         "zh": "这部小说探讨传统女性气质如何影响女性的选择。"}
+      ],
+      "note": "femininity 是 feminine 的名词，指女性气质，不可数。"
+    },
+    {
+      "word": "plateau",
+      "phr": [
+        {"en": "reach a plateau", "zh": "进入平稳期"},
+        {"en": "the Tibetan Plateau", "zh": "青藏高原"}
+      ],
+      "ex": [
+        {"en": "Sales reached a plateau in the third quarter and stayed flat.",
+         "zh": "销售额在第三季度趋于平稳并保持不动。"}
+      ],
+      "note": "plateau 可指高原，也指发展后的停滞、平台期。"
+    },
+    {
+      "word": "tragic",
+      "phr": [
+        {"en": "a tragic accident", "zh": "悲惨的事故"},
+        {"en": "a tragic hero", "zh": "悲剧英雄"}
+      ],
+      "ex": [
+        {"en": "The tragic accident left three families without a home.",
+         "zh": "那场悲惨的事故使三个家庭失去了住所。"}
+      ],
+      "note": "tragic 指悲剧性的；名词是 tragedy，注意拼写。"
+    },
+    {
+      "word": "grin",
+      "phr": [
+        {"en": "grin at sb", "zh": "对某人咧嘴笑"},
+        {"en": "a broad grin", "zh": "咧嘴大笑"}
+      ],
+      "ex": [
+        {"en": "He gave me a broad grin and waved from across the street.",
+         "zh": "他在街对面朝我咧嘴大笑并挥手。"}
+      ],
+      "note": "grin 指露齿笑；grin and bear it 意为苦笑着忍受。"
+    },
+    {
+      "word": "grip",
+      "phr": [
+        {"en": "get a grip on", "zh": "控制住"},
+        {"en": "lose one's grip", "zh": "失去控制"}
+      ],
+      "ex": [
+        {"en": "She gripped the railing tightly as the ship began to rock.",
+         "zh": "船开始摇晃时，她紧紧抓住栏杆。"}
+      ],
+      "note": "grip 指紧握，也可指吸引注意；get a grip on 指掌控。"
+    },
+    {
+      "word": "reliance",
+      "phr": [
+        {"en": "reliance on", "zh": "对…的依赖"},
+        {"en": "self-reliance", "zh": "自力更生"}
+      ],
+      "ex": [
+        {"en": "The country's heavy reliance on imported oil makes its economy fragile.",
+         "zh": "该国对进口石油的严重依赖使其经济脆弱。"}
+      ],
+      "note": "reliance 后接 on；动词是 rely on，形容词是 reliant。"
+    },
+    {
+      "word": "explore",
+      "phr": [
+        {"en": "explore the possibilities", "zh": "探讨各种可能性"},
+        {"en": "explore the unknown", "zh": "探索未知"}
+      ],
+      "ex": [
+        {"en": "The team met to explore ways of cutting costs without losing quality.",
+         "zh": "团队开会探讨在不降低质量的情况下削减成本的方法。"}
+      ],
+      "note": "explore 后可接名词或 how、what 从句，表示探究。"
+    },
+    {
+      "word": "display",
+      "phr": [
+        {"en": "on display", "zh": "在展出"},
+        {"en": "a display of", "zh": "…的展示"}
+      ],
+      "ex": [
+        {"en": "Several rare paintings are now on display in the city museum.",
+         "zh": "几幅珍稀画作正在市博物馆展出。"}
+      ],
+      "note": "on display 表在展出；display 也可指表现出的情绪。"
+    },
+    {
+      "word": "electricity",
+      "phr": [
+        {"en": "generate electricity", "zh": "发电"},
+        {"en": "a supply of electricity", "zh": "电力供应"}
+      ],
+      "ex": [
+        {"en": "The dam generates enough electricity for half a million homes.",
+         "zh": "这座大坝发的电足够五十万户家庭使用。"}
+      ],
+      "note": "electricity 不可数；形容词 electric 指用电的。"
+    },
+    {
+      "word": "climate",
+      "phr": [
+        {"en": "climate change", "zh": "气候变化"},
+        {"en": "a mild climate", "zh": "温和的气候"}
+      ],
+      "ex": [
+        {"en": "The region has a mild climate that suits tea growing.",
+         "zh": "该地区气候温和，适宜种茶。"}
+      ],
+      "note": "climate 指长期气候，weather 指某天天气；也可指气氛。"
+    },
+    {
+      "word": "tentative",
+      "phr": [
+        {"en": "a tentative agreement", "zh": "初步协议"},
+        {"en": "a tentative conclusion", "zh": "暂定的结论"}
+      ],
+      "ex": [
+        {"en": "The two sides reached a tentative agreement on the price.",
+         "zh": "双方就价格达成了初步协议。"}
+      ],
+      "note": "tentative 指试探性、暂时性的，常修饰 plan、agreement。"
+    },
+    {
+      "word": "disorder",
+      "phr": [
+        {"en": "in disorder", "zh": "凌乱"},
+        {"en": "a sleep disorder", "zh": "睡眠障碍"}
+      ],
+      "ex": [
+        {"en": "The room was in complete disorder after the party.",
+         "zh": "聚会结束后房间一片凌乱。"}
+      ],
+      "note": "in disorder 表凌乱；disorder 也指身心失调。"
+    },
+    {
+      "word": "aggravate",
+      "phr": [
+        {"en": "aggravate the problem", "zh": "使问题恶化"},
+        {"en": "aggravate an injury", "zh": "加重伤势"}
+      ],
+      "ex": [
+        {"en": "Cutting public spending could aggravate the problem of unemployment.",
+         "zh": "削减公共开支可能使失业问题恶化。"}
+      ],
+      "note": "aggravate 指使恶化；口语中也可指惹恼某人。"
+    },
+    {
+      "word": "criticize",
+      "phr": [
+        {"en": "criticize sb for", "zh": "因…批评某人"},
+        {"en": "be widely criticized", "zh": "受到广泛批评"}
+      ],
+      "ex": [
+        {"en": "The minister was widely criticized for his handling of the crisis.",
+         "zh": "这位部长因处理危机的方式受到广泛批评。"}
+      ],
+      "note": "criticize sb for sth 是常见结构；名词为 criticism。"
+    },
+    {
+      "word": "preside",
+      "phr": [
+        {"en": "preside over", "zh": "主持"},
+        {"en": "preside at", "zh": "主持（会议）"}
+      ],
+      "ex": [
+        {"en": "The mayor will preside over the opening ceremony tomorrow morning.",
+         "zh": "市长将于明天上午主持开幕仪式。"}
+      ],
+      "note": "preside 不及物，后接 over 或 at，不直接跟宾语。"
+    },
+    {
+      "word": "economic",
+      "phr": [
+        {"en": "economic growth", "zh": "经济增长"},
+        {"en": "economic policy", "zh": "经济政策"}
+      ],
+      "ex": [
+        {"en": "The country has enjoyed steady economic growth over the past decade.",
+         "zh": "过去十年该国经济保持了稳定增长。"}
+      ],
+      "note": "economic 指经济的；economical 指节省的，勿混。"
+    },
+    {
+      "word": "transistor",
+      "phr": [
+        {"en": "a transistor radio", "zh": "晶体管收音机"},
+        {"en": "transistor circuits", "zh": "晶体管电路"}
+      ],
+      "ex": [
+        {"en": "The invention of the transistor changed the design of radios and computers.",
+         "zh": "晶体管的发明改变了收音机和计算机的设计。"}
+      ],
+      "note": "transistor 由 transfer 与 resistor 缩合而成，指晶体管。"
+    },
+    {
+      "word": "statistics",
+      "phr": [
+        {"en": "official statistics", "zh": "官方统计数据"},
+        {"en": "statistics show that", "zh": "统计显示"}
+      ],
+      "ex": [
+        {"en": "Recent statistics show that traffic accidents have fallen sharply.",
+         "zh": "最新统计显示交通事故已大幅下降。"}
+      ],
+      "note": "statistics 作统计学用单数动词，作数据用复数。"
+    },
+    {
+      "word": "grim",
+      "phr": [
+        {"en": "a grim future", "zh": "暗淡的前景"},
+        {"en": "grim news", "zh": "令人沮丧的消息"}
+      ],
+      "ex": [
+        {"en": "The report paints a grim picture of the region's future.",
+         "zh": "报告描绘了该地区前景的暗淡景象。"}
+      ],
+      "note": "grim 指严峻、阴沉；paint a grim picture 为常用搭配。"
+    },
+    {
+      "word": "giggle",
+      "phr": [
+        {"en": "giggle at", "zh": "对…咯咯笑"},
+        {"en": "a fit of giggles", "zh": "一阵傻笑"}
+      ],
+      "ex": [
+        {"en": "The girls giggled at the joke and could not stop.",
+         "zh": "女孩们听了那个笑话咯咯直笑，停不下来。"}
+      ],
+      "note": "giggle 指压抑的咯咯笑，比 laugh 轻且多含傻气。"
+    },
+    {
+      "word": "offspring",
+      "phr": [
+        {"en": "the offspring of", "zh": "…的后代"},
+        {"en": "produce offspring", "zh": "繁殖后代"}
+      ],
+      "ex": [
+        {"en": "Many animals will not produce offspring when food is scarce.",
+         "zh": "食物稀少时，许多动物不会繁殖后代。"}
+      ],
+      "note": "offspring 单复数同形，不加 -s，也可指产物。"
+    },
+    {
+      "word": "arrest",
+      "phr": [
+        {"en": "under arrest", "zh": "被逮捕"},
+        {"en": "arrest sb for", "zh": "因…逮捕某人"}
+      ],
+      "ex": [
+        {"en": "The police arrested two men for stealing cars in the district.",
+         "zh": "警方逮捕了两名在该区偷车的男子。"}
+      ],
+      "note": "arrest 也指吸引（注意）或阻止，如 arrest attention。"
+    },
+    {
+      "word": "mature",
+      "phr": [
+        {"en": "mature into", "zh": "长成；发展成"},
+        {"en": "a mature attitude", "zh": "成熟的态度"}
+      ],
+      "ex": [
+        {"en": "The business has matured into a serious competitor in the market.",
+         "zh": "该企业发展成为市场中一个不容小觑的竞争者。"}
+      ],
+      "note": "mature 也可指票据、债券到期，常见于金融语境。"
+    },
+    {
+      "word": "alleviate",
+      "phr": [
+        {"en": "alleviate the problem", "zh": "缓解问题"},
+        {"en": "alleviate pain", "zh": "减轻疼痛"}
+      ],
+      "ex": [
+        {"en": "The new medicine can alleviate pain without causing side effects.",
+         "zh": "这种新药能减轻疼痛且不产生副作用。"}
+      ],
+      "note": "alleviate 指减轻痛苦或困难，多接 pain、pressure。"
+    },
+    {
+      "word": "notification",
+      "phr": [
+        {"en": "an email notification", "zh": "邮件通知"},
+        {"en": "receive a notification", "zh": "收到通知"}
+      ],
+      "ex": [
+        {"en": "You will receive a notification when your order has been shipped.",
+         "zh": "订单发货后你会收到通知。"}
+      ],
+      "note": "notification 是 notify 的名词；手机消息通知即此词。"
+    },
+    {
+      "word": "overflow",
+      "phr": [
+        {"en": "overflow with", "zh": "充满；洋溢着"},
+        {"en": "overflow into", "zh": "泛滥到"}
+      ],
+      "ex": [
+        {"en": "After heavy rain, the river overflowed its banks and flooded the road.",
+         "zh": "大雨后河水漫过堤岸，淹没了道路。"}
+      ],
+      "note": "overflow 可指液体溢出，也指充满情绪，如 overflow with joy。"
+    }
+  ]
+}

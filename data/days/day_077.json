@@ -1,0 +1,246 @@
+{
+ "day": 77,
+ "date": null,
+ "words": [
+  {
+   "id": 2281,
+   "word": "conspicuous",
+   "uk": "/kənˈspɪkjuəs/",
+   "us": "/kənˈspɪkjʊəs/",
+   "pos": "adj.",
+   "cn": "显眼的；明显的"
+  },
+  {
+   "id": 2282,
+   "word": "verse",
+   "uk": "/vɜːs/",
+   "us": "/vɝs/",
+   "pos": "n.",
+   "cn": "诗；诗句"
+  },
+  {
+   "id": 2283,
+   "word": "criminal",
+   "uk": "/ˈkrɪmɪnl/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "犯罪的；刑事的；犯人；罪犯；刑事犯"
+  },
+  {
+   "id": 2284,
+   "word": "furious",
+   "uk": "/ˈfjuəriəs/",
+   "us": "/ˈfjʊrɪəs/",
+   "pos": "adj.",
+   "cn": "狂怒的；暴怒的；强烈的；激烈的"
+  },
+  {
+   "id": 2285,
+   "word": "obesity",
+   "uk": "/əuˈbiːsəti/",
+   "us": "/oˈbisəti/",
+   "pos": "n.",
+   "cn": "过度肥胖"
+  },
+  {
+   "id": 2286,
+   "word": "tan",
+   "uk": "/tæn/",
+   "us": "",
+   "pos": "vi.,vt.,n.",
+   "cn": "晒成棕褐色；使晒成棕褐色；硝制；棕褐色；棕黄色；晒成棕褐色；晒黑"
+  },
+  {
+   "id": 2287,
+   "word": "individual",
+   "uk": "/ˌɪndɪˈvɪdʒuəl/",
+   "us": "/ˌɪndəˈvɪdʒʊəl/",
+   "pos": "adj.,n.",
+   "cn": "个别的；独特的；个人；个体"
+  },
+  {
+   "id": 2288,
+   "word": "briefcase",
+   "uk": "/ˈbriːfkeɪs/",
+   "us": "/ˈbrifkes/",
+   "pos": "n.",
+   "cn": "公文包；公事包"
+  },
+  {
+   "id": 2289,
+   "word": "nuisance",
+   "uk": "/ˈnjuːsns/",
+   "us": "/ˈnusns/",
+   "pos": "n.",
+   "cn": "讨厌的人；麻烦事"
+  },
+  {
+   "id": 2290,
+   "word": "brace",
+   "uk": "/breɪs/",
+   "us": "/bres/",
+   "pos": "vi.,vt.,n.",
+   "cn": "做好准备；振作精神；使防备；使受锻炼；支住；撑牢；使绷紧；支架；托架"
+  },
+  {
+   "id": 2291,
+   "word": "constrain",
+   "uk": "/kənˈstreɪn/",
+   "us": "/kənˈstren/",
+   "pos": "vt.",
+   "cn": "限制；约束；克制；抑制"
+  },
+  {
+   "id": 2292,
+   "word": "brisk",
+   "uk": "/brɪsk/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "轻快的；生气勃勃的；兴隆的；繁忙活跃的；寒冷而清新的"
+  },
+  {
+   "id": 2293,
+   "word": "prestige",
+   "uk": "/preˈstiːʒ/",
+   "us": "/prɛˈstidʒ/",
+   "pos": "n.",
+   "cn": "威信；威望"
+  },
+  {
+   "id": 2294,
+   "word": "insulation",
+   "uk": "/ˌɪnsjuˈleɪʃn/",
+   "us": "/,ɪnsəˈleʃən/",
+   "pos": "n.",
+   "cn": "绝缘"
+  },
+  {
+   "id": 2295,
+   "word": "cord",
+   "uk": "/kɔːd/",
+   "us": "/kɔrd/",
+   "pos": "n.",
+   "cn": "细绳；粗线；索；灯芯绒裤"
+  },
+  {
+   "id": 2296,
+   "word": "startle",
+   "uk": "/ˈstɑːtl/",
+   "us": "/ˈstɑrtl/",
+   "pos": "vt.",
+   "cn": "使惊吓；使吃惊"
+  },
+  {
+   "id": 2297,
+   "word": "interim",
+   "uk": "/ˈɪntərɪm/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "暂时的；临时的；间歇；过渡期间"
+  },
+  {
+   "id": 2298,
+   "word": "fraud",
+   "uk": "/frɔːd/",
+   "us": "/frɔd/",
+   "pos": "n.",
+   "cn": "欺诈；诈骗；骗子"
+  },
+  {
+   "id": 2299,
+   "word": "testimony",
+   "uk": "/ˈtestɪməni/",
+   "us": "/ˈtɛstəˈmoni/",
+   "pos": "n.",
+   "cn": "证词；见证；证明"
+  },
+  {
+   "id": 2300,
+   "word": "council",
+   "uk": "/ˈkaunsl/",
+   "us": "/ˈkaʊnsl/",
+   "pos": "n.",
+   "cn": "理事会；委员会"
+  },
+  {
+   "id": 2301,
+   "word": "reaffirm",
+   "uk": "/ˌriːəˈfɜːm/",
+   "us": "/ˈriəˈfɝm/",
+   "pos": "vt.",
+   "cn": "重申；再确认"
+  },
+  {
+   "id": 2302,
+   "word": "enforce",
+   "uk": "/ɪnˈfɔːs/",
+   "us": "/ɪnˈfɔrs/",
+   "pos": "vt.",
+   "cn": "实施；执行；强制；强迫；迫使"
+  },
+  {
+   "id": 2303,
+   "word": "glitter",
+   "uk": "/ˈglɪtə/",
+   "us": "/ˈɡlɪtɚ/",
+   "pos": "vi.,n.",
+   "cn": "闪闪发光；闪耀；闪光；灿烂的光辉；耀眼；辉煌"
+  },
+  {
+   "id": 2304,
+   "word": "destined",
+   "uk": "/ˈdestɪnd/",
+   "us": "/ˈdɛstɪnd/",
+   "pos": "adj.",
+   "cn": "命中注定的；预定的；以…为目的地的"
+  },
+  {
+   "id": 2305,
+   "word": "repression",
+   "uk": "/rɪˈpreʃn/",
+   "us": "/rɪˈprɛʃən/",
+   "pos": "n.",
+   "cn": "压抑；压制；镇压"
+  },
+  {
+   "id": 2306,
+   "word": "fragile",
+   "uk": "/ˈfrædʒaɪl/",
+   "us": "/ˈfrædʒəl/",
+   "pos": "adj.",
+   "cn": "易碎的；脆的；易损坏的；虚弱的；脆弱的"
+  },
+  {
+   "id": 2307,
+   "word": "penalty",
+   "uk": "/ˈpenəlti/",
+   "us": "/ˈpɛnəlti/",
+   "pos": "n.",
+   "cn": "处罚；惩罚；罚金"
+  },
+  {
+   "id": 2308,
+   "word": "sociology",
+   "uk": "/ˌsəusiˈɒlədʒi/",
+   "us": "/,sosɪˈɑlədʒi/",
+   "pos": "n.",
+   "cn": "社会学"
+  },
+  {
+   "id": 2309,
+   "word": "exile",
+   "uk": "/ˈeksaɪl/",
+   "us": "/ˈɛksaɪl/",
+   "pos": "n.,vt.",
+   "cn": "流放；流亡；被流放者；流亡国外者；流放；放逐；使流亡"
+  },
+  {
+   "id": 2310,
+   "word": "scale",
+   "uk": "/skeɪl/",
+   "us": "/skel/",
+   "pos": "n.,vt.",
+   "cn": "大小；规模；等级；级别；天平；磅秤；比例；刻度；标度；鳞；攀登；爬越"
+  }
+ ]
+}

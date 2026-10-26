@@ -1,0 +1,246 @@
+{
+ "day": 7,
+ "date": null,
+ "words": [
+  {
+   "id": 181,
+   "word": "hitherto",
+   "uk": "/ˌhɪðəˈtuː/",
+   "us": "/,hɪðɚˈtu/",
+   "pos": "adv.",
+   "cn": "到目前为止；迄今"
+  },
+  {
+   "id": 182,
+   "word": "energetic",
+   "uk": "/ˌenəˈdʒetɪk/",
+   "us": "/,ɛnɚˈdʒɛtɪk/",
+   "pos": "adj.",
+   "cn": "精力充沛的；充满活力的"
+  },
+  {
+   "id": 183,
+   "word": "haul",
+   "uk": "/hɔːl/",
+   "us": "/hɔl/",
+   "pos": "vt.,n.",
+   "cn": "拖；拉；拖运；运送；拖；拉；托运；一次获得的数量"
+  },
+  {
+   "id": 184,
+   "word": "avail",
+   "uk": "/əˈveɪl/",
+   "us": "/əˈvel/",
+   "pos": "v.,n.",
+   "cn": "有帮助；有益；有用；效用；利益；帮助"
+  },
+  {
+   "id": 185,
+   "word": "consequence",
+   "uk": "/ˈkɒnsɪkwəns/",
+   "us": "/ˈkɑnsəkwɛns/",
+   "pos": "n.",
+   "cn": "结果；后果；重要；重大"
+  },
+  {
+   "id": 186,
+   "word": "linear",
+   "uk": "/ˈlɪniə/",
+   "us": "/ˈlɪnɪɚ/",
+   "pos": "adj.",
+   "cn": "线的；直线的；线状的；长度的；线性的"
+  },
+  {
+   "id": 187,
+   "word": "robust",
+   "uk": "/rəuˈbʌst/",
+   "us": "/roˈbʌst/",
+   "pos": "adj.",
+   "cn": "强壮的；健康的"
+  },
+  {
+   "id": 188,
+   "word": "dominant",
+   "uk": "/ˈdɒmɪnənt/",
+   "us": "/ˈdɑmɪnənt/",
+   "pos": "adj.",
+   "cn": "占优势的；支配的；统治的；居高临下的；高耸的"
+  },
+  {
+   "id": 189,
+   "word": "premier",
+   "uk": "/ˈpremiə/",
+   "us": "/prɪˈmɪr/",
+   "pos": "adj.,n.",
+   "cn": "首要的；首位的；首次的；总理；首相"
+  },
+  {
+   "id": 190,
+   "word": "peel",
+   "uk": "/piːl/",
+   "us": "/pil/",
+   "pos": "vi.,vt.,n.",
+   "cn": "剥落；脱皮；削…的皮；剥…的壳；皮；外衣"
+  },
+  {
+   "id": 191,
+   "word": "intellectual",
+   "uk": "/ˌɪntəˈlektʃuəl/",
+   "us": "/,ɪntəˈlɛktʃuəl/",
+   "pos": "adj.,n.",
+   "cn": "智力的；知识分子"
+  },
+  {
+   "id": 192,
+   "word": "reclaim",
+   "uk": "/rɪˈkleɪm/",
+   "us": "/rɪˈklem/",
+   "pos": "vt.",
+   "cn": "要回；开垦；回收"
+  },
+  {
+   "id": 193,
+   "word": "denounce",
+   "uk": "/dɪˈnauns/",
+   "us": "/dɪˈnaʊns/",
+   "pos": "vt.",
+   "cn": "谴责；指责；告发"
+  },
+  {
+   "id": 194,
+   "word": "verge",
+   "uk": "/vɜːdʒ/",
+   "us": "/vɝdʒ/",
+   "pos": "vi.,n.",
+   "cn": "接近；濒临；边；边缘"
+  },
+  {
+   "id": 195,
+   "word": "pastry",
+   "uk": "/ˈpeɪstri/",
+   "us": "/ˈpestri/",
+   "pos": "n.",
+   "cn": "油酥面团；酥皮糕点"
+  },
+  {
+   "id": 196,
+   "word": "messenger",
+   "uk": "/ˈmesɪndʒə/",
+   "us": "/ˈmɛsndʒɚ/",
+   "pos": "n.",
+   "cn": "送信人；信使"
+  },
+  {
+   "id": 197,
+   "word": "disable",
+   "uk": "/dɪsˈeɪbl/",
+   "us": "/dɪsˈebl/",
+   "pos": "vt.",
+   "cn": "丧失能力；伤残"
+  },
+  {
+   "id": 198,
+   "word": "irrespective",
+   "uk": "/ˌɪrɪˈspektɪv/",
+   "us": "/,ɪrɪˈspɛktɪv/",
+   "pos": "adj.",
+   "cn": "不考虑的；不顾及的"
+  },
+  {
+   "id": 199,
+   "word": "entity",
+   "uk": "/ˈentəti/",
+   "us": "/ˈɛntəti/",
+   "pos": "n.",
+   "cn": "实体；独立存在体；实际存在物"
+  },
+  {
+   "id": 200,
+   "word": "prohibit",
+   "uk": "/prəˈhɪbɪt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "禁止；不准"
+  },
+  {
+   "id": 201,
+   "word": "bacteria",
+   "uk": "/bækˈtɪəriə/",
+   "us": "/bækˈtɪrɪə/",
+   "pos": "n.",
+   "cn": "细菌"
+  },
+  {
+   "id": 202,
+   "word": "fuel",
+   "uk": "/fjuːəl/",
+   "us": "/ˈfjuəl/",
+   "pos": "n.,vt.",
+   "cn": "燃料；燃料剂；给…加燃料；刺激"
+  },
+  {
+   "id": 203,
+   "word": "hostile",
+   "uk": "/ˈhɒstaɪl/",
+   "us": "/ˈhɑstl/",
+   "pos": "adj.",
+   "cn": "敌方的；不友善的"
+  },
+  {
+   "id": 204,
+   "word": "reign",
+   "uk": "/reɪn/",
+   "us": "/ren/",
+   "pos": "vi.,n.",
+   "cn": "当政；统治；占主导地位；君主的统治；君主的统治时期"
+  },
+  {
+   "id": 205,
+   "word": "tempo",
+   "uk": "/ˈtempəu/",
+   "us": "/ˈtɛmpo/",
+   "pos": "n.",
+   "cn": "速度；节奏；行进速度"
+  },
+  {
+   "id": 206,
+   "word": "descendant",
+   "uk": "/dɪˈsendənt/",
+   "us": "/dɪˈsɛndənt/",
+   "pos": "n.",
+   "cn": "后裔；后代"
+  },
+  {
+   "id": 207,
+   "word": "foresee",
+   "uk": "/fɔːˈsiː/",
+   "us": "/fɔrˈsi/",
+   "pos": "vt.",
+   "cn": "预见；预知"
+  },
+  {
+   "id": 208,
+   "word": "bruise",
+   "uk": "/bruːz/",
+   "us": "/bruz/",
+   "pos": "n.,vt.",
+   "cn": "青肿；挫伤；伤痕；擦痕；打青；使受淤伤；挫伤；伤害"
+  },
+  {
+   "id": 209,
+   "word": "associate",
+   "uk": "/əˈsəuʃieɪt/",
+   "us": "/əˈsoʃɪet/",
+   "pos": "v.,adj.,n.",
+   "cn": "把…联系在一起；使联合；结合；交往\t[ə'səuʃiət]；副的；伙伴；同事"
+  },
+  {
+   "id": 210,
+   "word": "gown",
+   "uk": "/gaun/",
+   "us": "/ɡaʊn/",
+   "pos": "n.",
+   "cn": "女礼服；女裙服；长袍；罩衣"
+  }
+ ]
+}

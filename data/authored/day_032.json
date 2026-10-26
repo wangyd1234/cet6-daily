@@ -1,0 +1,365 @@
+{
+  "day": 32,
+  "words": [
+    {
+      "word": "eliminate",
+      "phr": [
+        {"en": "eliminate poverty", "zh": "消除贫困"},
+        {"en": "eliminate the possibility", "zh": "排除可能性"}
+      ],
+      "ex": [
+        {"en": "The new system eliminated the need for paper forms completely.",
+         "zh": "新系统彻底消除了对纸质表格的需要。"}
+      ],
+      "note": "eliminate 强调彻底清除，常用 eliminate sth from sth。"
+    },
+    {
+      "word": "cute",
+      "phr": [
+        {"en": "a cute baby", "zh": "可爱的婴儿"},
+        {"en": "a cute puppy", "zh": "可爱的小狗"}
+      ],
+      "ex": [
+        {"en": "Their little girl looked cute in the red hat her grandmother made.",
+         "zh": "他们的小女儿戴着奶奶做的红帽子，看起来很可爱。"}
+      ],
+      "note": "cute 口语常用，强调小巧可爱；美式口语也可表精明。"
+    },
+    {
+      "word": "entitle",
+      "phr": [
+        {"en": "be entitled to", "zh": "有权享有"},
+        {"en": "a book entitled", "zh": "名为…的书"}
+      ],
+      "ex": [
+        {"en": "Every employee is entitled to two weeks of paid leave each year.",
+         "zh": "每位员工每年有权享受两周带薪假期。"}
+      ],
+      "note": "entitle 双重含义：给权利、给书名，如 be entitled to。"
+    },
+    {
+      "word": "outline",
+      "phr": [
+        {"en": "an outline of", "zh": "…的提纲"},
+        {"en": "in outline", "zh": "粗略地"}
+      ],
+      "ex": [
+        {"en": "The professor asked us to write an outline before starting the essay.",
+         "zh": "教授要求我们写文章前先写提纲。"}
+      ],
+      "note": "outline 作动词指「概述」；in outline 表粗略地。"
+    },
+    {
+      "word": "partition",
+      "phr": [
+        {"en": "a glass partition", "zh": "玻璃隔断"},
+        {"en": "partition the land", "zh": "分割土地"}
+      ],
+      "ex": [
+        {"en": "The office was divided by a glass partition into two small rooms.",
+         "zh": "办公室被一道玻璃隔断分成两个小间。"}
+      ],
+      "note": "partition 指隔墙或分割行为；partition into 表分成。"
+    },
+    {
+      "word": "nominal",
+      "phr": [
+        {"en": "a nominal fee", "zh": "象征性收费"},
+        {"en": "nominal value", "zh": "面值"}
+      ],
+      "ex": [
+        {"en": "Members pay only a nominal fee to use the sports centre.",
+         "zh": "会员只需付象征性费用就能使用体育中心。"}
+      ],
+      "note": "nominal 指名义上的或极少的，如 nominal fee。"
+    },
+    {
+      "word": "excess",
+      "phr": [
+        {"en": "in excess of", "zh": "超过"},
+        {"en": "excess baggage", "zh": "超重行李"}
+      ],
+      "ex": [
+        {"en": "The airline charges extra for baggage in excess of twenty kilos.",
+         "zh": "行李超过二十公斤，航空公司会额外收费。"}
+      ],
+      "note": "in excess of 表「超过」，比 more than 正式。"
+    },
+    {
+      "word": "glance",
+      "phr": [
+        {"en": "at a glance", "zh": "一眼就"},
+        {"en": "glance at", "zh": "看一眼"}
+      ],
+      "ex": [
+        {"en": "She glanced at her watch and realized she was already late.",
+         "zh": "她看了看表，意识到自己已经迟到了。"}
+      ],
+      "note": "glance at 强调快速看一眼；stare at 是盯着看。"
+    },
+    {
+      "word": "perspective",
+      "phr": [
+        {"en": "from a global perspective", "zh": "从全球视角"},
+        {"en": "put sth into perspective", "zh": "正确看待"}
+      ],
+      "ex": [
+        {"en": "Travelling abroad gave him a new perspective on his own culture.",
+         "zh": "出国旅行让他对自己国家的文化有了新的看法。"}
+      ],
+      "note": "from the perspective of 表从…角度；强调看问题的立场。"
+    },
+    {
+      "word": "galaxy",
+      "phr": [
+        {"en": "the Milky Way galaxy", "zh": "银河系"},
+        {"en": "a distant galaxy", "zh": "遥远的星系"}
+      ],
+      "ex": [
+        {"en": "The new telescope can capture images of a distant galaxy with great clarity.",
+         "zh": "这台新望远镜能非常清晰地拍摄遥远星系的图像。"}
+      ],
+      "note": "galaxy 指星系；特指银河系时用 the Galaxy。"
+    },
+    {
+      "word": "equality",
+      "phr": [
+        {"en": "gender equality", "zh": "性别平等"},
+        {"en": "racial equality", "zh": "种族平等"}
+      ],
+      "ex": [
+        {"en": "The law was passed to guarantee equality of opportunity in education.",
+         "zh": "该法律的通过是为了保障教育机会平等。"}
+      ],
+      "note": "equality of opportunity 是固定搭配；形容词是 equal。"
+    },
+    {
+      "word": "destruction",
+      "phr": [
+        {"en": "the destruction of", "zh": "…的破坏"},
+        {"en": "widespread destruction", "zh": "大范围破坏"}
+      ],
+      "ex": [
+        {"en": "The storm caused widespread destruction along the coast.",
+         "zh": "风暴沿海岸造成了广泛破坏。"}
+      ],
+      "note": "destroy（动词）+ -tion 构成名词；不可数，不加 a。"
+    },
+    {
+      "word": "rebellion",
+      "phr": [
+        {"en": "a rebellion against", "zh": "对…的反抗"},
+        {"en": "lead a rebellion", "zh": "领导叛乱"}
+      ],
+      "ex": [
+        {"en": "The tax increase provoked a rebellion among small business owners.",
+         "zh": "增税在小企业主中引发了反抗。"}
+      ],
+      "note": "rebel 名词重音在前、动词在后；rebellion 是名词。"
+    },
+    {
+      "word": "expression",
+      "phr": [
+        {"en": "facial expression", "zh": "面部表情"},
+        {"en": "an expression of", "zh": "…的表达"}
+      ],
+      "ex": [
+        {"en": "Her facial expression told me the news was worse than she had said.",
+         "zh": "她的面部表情告诉我，消息比她说的更糟。"}
+      ],
+      "note": "expression 可指表情、词语或表达方式。"
+    },
+    {
+      "word": "reaction",
+      "phr": [
+        {"en": "a reaction to", "zh": "对…的反应"},
+        {"en": "a chain reaction", "zh": "连锁反应"}
+      ],
+      "ex": [
+        {"en": "The announcement produced an angry reaction from local residents.",
+         "zh": "这一宣布引起了当地居民的愤怒反应。"}
+      ],
+      "note": "reaction to 后接引发反应的事；动词是 react。"
+    },
+    {
+      "word": "accordance",
+      "phr": [
+        {"en": "in accordance with the rules", "zh": "依照规则"},
+        {"en": "in accordance with the law", "zh": "依法"}
+      ],
+      "ex": [
+        {"en": "The goods were delivered in accordance with the terms of the contract.",
+         "zh": "货物已按合同条款交付。"}
+      ],
+      "note": "accordance 只用于 in accordance with 短语中。"
+    },
+    {
+      "word": "weary",
+      "phr": [
+        {"en": "grow weary of", "zh": "对…厌倦"},
+        {"en": "weary travellers", "zh": "疲惫的旅客"}
+      ],
+      "ex": [
+        {"en": "After ten hours on the road, the weary travellers finally reached home.",
+         "zh": "在路上走了十个小时后，疲惫的旅客终于到家。"}
+      ],
+      "note": "weary of 表「厌倦」；weary 是形容词，不是动词。"
+    },
+    {
+      "word": "appeal",
+      "phr": [
+        {"en": "appeal to", "zh": "吸引；呼吁"},
+        {"en": "make an appeal", "zh": "发出呼吁"}
+      ],
+      "ex": [
+        {"en": "The charity appealed to the public for donations after the flood.",
+         "zh": "洪水过后，慈善机构向公众呼吁捐款。"}
+      ],
+      "note": "appeal to 可表「吸引」或「呼吁」；appealing 有吸引力。"
+    },
+    {
+      "word": "swamp",
+      "phr": [
+        {"en": "be swamped with", "zh": "忙于应付"},
+        {"en": "drain the swamp", "zh": "排干沼泽"}
+      ],
+      "ex": [
+        {"en": "The office was swamped with calls after the advertisement appeared.",
+         "zh": "广告登出后，办公室的电话应接不暇。"}
+      ],
+      "note": "swamp 作动词常用被动 be swamped with，表应接不暇。"
+    },
+    {
+      "word": "entrepreneur",
+      "phr": [
+        {"en": "a young entrepreneur", "zh": "年轻企业家"},
+        {"en": "become an entrepreneur", "zh": "成为企业家"}
+      ],
+      "ex": [
+        {"en": "The young entrepreneur started her company in a small garage.",
+         "zh": "这位年轻企业家在一间小车库里创办了公司。"}
+      ],
+      "note": "entrepreneur 源自法语，指创业者、企业家。"
+    },
+    {
+      "word": "dedicate",
+      "phr": [
+        {"en": "dedicate oneself to", "zh": "献身于"},
+        {"en": "be dedicated to", "zh": "致力于"}
+      ],
+      "ex": [
+        {"en": "She dedicated her career to improving rural education.",
+         "zh": "她把职业生涯献给了改善农村教育。"}
+      ],
+      "note": "dedicate to 中 to 为介词，后接名词或动名词。"
+    },
+    {
+      "word": "peninsula",
+      "phr": [
+        {"en": "a narrow peninsula", "zh": "狭长的半岛"},
+        {"en": "the tip of the peninsula", "zh": "半岛的尖端"}
+      ],
+      "ex": [
+        {"en": "A narrow peninsula stretches out into the sea from the coast.",
+         "zh": "一条狭窄的半岛从海岸延伸入海。"}
+      ],
+      "note": "pen-（几乎）+ insula（岛）＝半岛。"
+    },
+    {
+      "word": "extensive",
+      "phr": [
+        {"en": "extensive research", "zh": "广泛研究"},
+        {"en": "extensive damage", "zh": "大面积破坏"}
+      ],
+      "ex": [
+        {"en": "Extensive research has been done on the effects of screen time on children.",
+         "zh": "关于屏幕时间对儿童影响的研究已大量展开。"}
+      ],
+      "note": "extensive 强调范围广；动词是 extend，名词 extension。"
+    },
+    {
+      "word": "residential",
+      "phr": [
+        {"en": "a residential area", "zh": "住宅区"},
+        {"en": "a residential building", "zh": "住宅楼"}
+      ],
+      "ex": [
+        {"en": "The city has banned heavy trucks from residential areas at night.",
+         "zh": "该市禁止重型卡车夜间进入住宅区。"}
+      ],
+      "note": "residential 指住宅的，与 commercial 相对。"
+    },
+    {
+      "word": "definitely",
+      "phr": [
+        {"en": "definitely not", "zh": "绝对不"},
+        {"en": "most definitely", "zh": "毫无疑问"}
+      ],
+      "ex": [
+        {"en": "I will definitely come to your birthday party on Saturday.",
+         "zh": "周六我一定会来参加你的生日聚会。"}
+      ],
+      "note": "definitely 比 certainly 更口语；注意拼写无 a。"
+    },
+    {
+      "word": "stab",
+      "phr": [
+        {"en": "stab sb in the back", "zh": "背后捅刀"},
+        {"en": "a stab of pain", "zh": "一阵刺痛"}
+      ],
+      "ex": [
+        {"en": "He felt a sharp stab of pain in his knee while running.",
+         "zh": "跑步时他感到膝盖一阵刺痛。"}
+      ],
+      "note": "stab 指用尖器刺；stab sb in the back 也表背信弃义。"
+    },
+    {
+      "word": "abandon",
+      "phr": [
+        {"en": "abandon the plan", "zh": "放弃计划"},
+        {"en": "abandon oneself to", "zh": "沉溺于"}
+      ],
+      "ex": [
+        {"en": "They had to abandon the plan when the funding was cut.",
+         "zh": "资金被削减后，他们不得不放弃这个计划。"}
+      ],
+      "note": "abandon 比 give up 正式，含彻底舍弃之意。"
+    },
+    {
+      "word": "collaboration",
+      "phr": [
+        {"en": "in collaboration with", "zh": "与…合作"},
+        {"en": "a close collaboration", "zh": "密切合作"}
+      ],
+      "ex": [
+        {"en": "The study was carried out in collaboration with three local hospitals.",
+         "zh": "这项研究是与三家当地医院合作进行的。"}
+      ],
+      "note": "in collaboration with 表合作；动词是 collaborate。"
+    },
+    {
+      "word": "inspire",
+      "phr": [
+        {"en": "inspire sb to do sth", "zh": "激励某人做某事"},
+        {"en": "inspire confidence", "zh": "激发信心"}
+      ],
+      "ex": [
+        {"en": "Her speech inspired many young people to join the volunteer programme.",
+         "zh": "她的演讲激励许多年轻人加入志愿者项目。"}
+      ],
+      "note": "inspire 表「鼓舞」或「赋予灵感」；名词是 inspiration。"
+    },
+    {
+      "word": "impart",
+      "phr": [
+        {"en": "impart knowledge", "zh": "传授知识"},
+        {"en": "impart information to", "zh": "向…传达信息"}
+      ],
+      "ex": [
+        {"en": "Good teachers impart not only knowledge but also a love of learning.",
+         "zh": "好老师不仅传授知识，还传达对学习的热爱。"}
+      ],
+      "note": "impart 比 give 正式，常接 knowledge、skills。"
+    }
+  ]
+}

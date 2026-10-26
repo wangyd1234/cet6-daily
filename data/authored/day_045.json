@@ -1,0 +1,605 @@
+{
+  "day": 45,
+  "words": [
+    {
+      "word": "hardy",
+      "phr": [
+        {
+          "en": "hardy plants",
+          "zh": "耐寒植物"
+        },
+        {
+          "en": "a hardy breed",
+          "zh": "能吃苦的一类人"
+        }
+      ],
+      "ex": [
+        {
+          "en": "These hardy plants can survive the freezing winters of the north.",
+          "zh": "这些耐寒植物能在北方严寒的冬季存活。"
+        }
+      ],
+      "note": "hardy 指耐寒、能吃苦，常修饰 plants 或 a hardy breed。"
+    },
+    {
+      "word": "purify",
+      "phr": [
+        {
+          "en": "purify water",
+          "zh": "净化水"
+        },
+        {
+          "en": "purify the air",
+          "zh": "净化空气"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The village built a new plant to purify water from the river.",
+          "zh": "村里建了新厂来净化河水。"
+        }
+      ],
+      "note": "purify 由 pure 加 -ify 构成，「使…变纯」，常搭配 water、air。"
+    },
+    {
+      "word": "toll",
+      "phr": [
+        {
+          "en": "death toll",
+          "zh": "死亡人数"
+        },
+        {
+          "en": "toll road",
+          "zh": "收费公路"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The death toll from the earthquake rose to over two hundred.",
+          "zh": "地震造成的死亡人数升至两百多人。"
+        }
+      ],
+      "note": "death toll 指伤亡人数，toll road 指收费公路，两个搭配都常见。"
+    },
+    {
+      "word": "variation",
+      "phr": [
+        {
+          "en": "seasonal variation",
+          "zh": "季节性变化"
+        },
+        {
+          "en": "a wide variation",
+          "zh": "巨大差异"
+        }
+      ],
+      "ex": [
+        {
+          "en": "There is a wide variation in temperature between day and night in the desert.",
+          "zh": "沙漠中昼夜温差很大。"
+        }
+      ],
+      "note": "variation 常与 in 连用，如 a variation in price。"
+    },
+    {
+      "word": "moral",
+      "phr": [
+        {
+          "en": "moral standards",
+          "zh": "道德标准"
+        },
+        {
+          "en": "moral support",
+          "zh": "精神支持"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She gave me moral support when I was preparing for the exam.",
+          "zh": "我准备考试时她给了我精神上的支持。"
+        }
+      ],
+      "note": "moral support 是「精神支持」；表道德观时常用复数 morals。"
+    },
+    {
+      "word": "rig",
+      "phr": [
+        {
+          "en": "rig an election",
+          "zh": "操纵选举"
+        },
+        {
+          "en": "oil rig",
+          "zh": "石油钻井平台"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The officials were accused of trying to rig the election.",
+          "zh": "这些官员被指控试图操纵选举。"
+        }
+      ],
+      "note": "rig 表操纵时多接 election、match；oil rig 指海上钻井平台。"
+    },
+    {
+      "word": "eject",
+      "phr": [
+        {
+          "en": "eject a player",
+          "zh": "将球员罚出场"
+        },
+        {
+          "en": "eject the disc",
+          "zh": "弹出光盘"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The referee ejected two players after the fight.",
+          "zh": "打斗之后裁判罚下了两名球员。"
+        }
+      ],
+      "note": "eject 比 throw out 正式；弹出光盘、磁带也用 eject。"
+    },
+    {
+      "word": "defect",
+      "phr": [
+        {
+          "en": "a birth defect",
+          "zh": "先天缺陷"
+        },
+        {
+          "en": "a defect in",
+          "zh": "……方面的缺陷"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The car was recalled because of a defect in the braking system.",
+          "zh": "这辆车因刹车系统存在缺陷被召回。"
+        }
+      ],
+      "note": "defect 常接 in，指具体缺陷；作动词读 /dɪˈfekt/ 意为叛逃。"
+    },
+    {
+      "word": "reinforce",
+      "phr": [
+        {
+          "en": "reinforce a wall",
+          "zh": "加固墙壁"
+        },
+        {
+          "en": "reinforce stereotypes",
+          "zh": "强化刻板印象"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The evidence only served to reinforce our doubts about the plan.",
+          "zh": "这些证据只是加深了我们对计划的怀疑。"
+        }
+      ],
+      "note": "reinforce 是 re- 加 force，「再加力」；常搭 belief。"
+    },
+    {
+      "word": "casual",
+      "phr": [
+        {
+          "en": "casual clothes",
+          "zh": "便装"
+        },
+        {
+          "en": "casual worker",
+          "zh": "临时工"
+        }
+      ],
+      "ex": [
+        {
+          "en": "He turned up in casual clothes, which made him stand out at the formal dinner.",
+          "zh": "他穿着便装出现，在正式晚宴上很扎眼。"
+        }
+      ],
+      "note": "casual 与 formal 相对；casual worker 指临时工。"
+    },
+    {
+      "word": "slack",
+      "phr": [
+        {
+          "en": "slack off",
+          "zh": "松懈；偷懒"
+        },
+        {
+          "en": "a slack season",
+          "zh": "淡季"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Don't slack off now that the exam is only a week away.",
+          "zh": "考试只剩一周了，别松懈。"
+        }
+      ],
+      "note": "slack off 指偷懒松懈；生意清淡说 business is slack。"
+    },
+    {
+      "word": "rim",
+      "phr": [
+        {
+          "en": "the rim of the glass",
+          "zh": "杯口"
+        },
+        {
+          "en": "the Pacific Rim",
+          "zh": "环太平洋地区"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She wiped the rim of the glass before pouring the juice.",
+          "zh": "倒果汁前她擦了擦杯口。"
+        }
+      ],
+      "note": "rim 指圆形物的边沿，如杯口、轮辋；Pacific Rim 指环太平洋地区。"
+    },
+    {
+      "word": "property",
+      "phr": [
+        {
+          "en": "private property",
+          "zh": "私有财产"
+        },
+        {
+          "en": "physical properties",
+          "zh": "物理性质"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The police warned that anyone damaging private property would be punished.",
+          "zh": "警方警告说，破坏私有财产者将受处罚。"
+        }
+      ],
+      "note": "表「性质」时多用复数 properties，如 chemical properties。"
+    },
+    {
+      "word": "rip",
+      "phr": [
+        {
+          "en": "rip up",
+          "zh": "撕碎"
+        },
+        {
+          "en": "rip off",
+          "zh": "敲竹杠"
+        }
+      ],
+      "ex": [
+        {
+          "en": "He ripped the letter into pieces and threw it away.",
+          "zh": "他把信撕成碎片扔掉了。"
+        }
+      ],
+      "note": "rip 比 tear 更强调用力撕开；rip off 还有「敲竹杠」义。"
+    },
+    {
+      "word": "outbreak",
+      "phr": [
+        {
+          "en": "the outbreak of war",
+          "zh": "战争爆发"
+        },
+        {
+          "en": "a disease outbreak",
+          "zh": "疾病暴发"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The outbreak of the disease forced the school to close for a month.",
+          "zh": "疾病暴发迫使学校停课一个月。"
+        }
+      ],
+      "note": "outbreak 后接 of：the outbreak of war / disease。"
+    },
+    {
+      "word": "manipulate",
+      "phr": [
+        {
+          "en": "manipulate data",
+          "zh": "操纵数据"
+        },
+        {
+          "en": "manipulate public opinion",
+          "zh": "操纵舆论"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Some companies manipulate data to make their products look safer.",
+          "zh": "一些公司操纵数据，让产品看起来更安全。"
+        }
+      ],
+      "note": "manipulate 源于「用手操作」，引申为操纵他人或数据。"
+    },
+    {
+      "word": "similar",
+      "phr": [
+        {
+          "en": "be similar to",
+          "zh": "与…相似"
+        },
+        {
+          "en": "in a similar way",
+          "zh": "以类似方式"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The two brothers look very similar but have very different personalities.",
+          "zh": "这两兄弟长得很像，性格却大不相同。"
+        }
+      ],
+      "note": "similar 后接 to，不接 with；名词形式是 similarity。"
+    },
+    {
+      "word": "contradict",
+      "phr": [
+        {
+          "en": "contradict oneself",
+          "zh": "自相矛盾"
+        },
+        {
+          "en": "contradict the facts",
+          "zh": "与事实相矛盾"
+        }
+      ],
+      "ex": [
+        {
+          "en": "His account of the accident contradicts what the other witnesses said.",
+          "zh": "他对事故的描述与其他证人的说法相矛盾。"
+        }
+      ],
+      "note": "contra-（相反）加 dict（说），即「说相反的话」。"
+    },
+    {
+      "word": "melody",
+      "phr": [
+        {
+          "en": "a sweet melody",
+          "zh": "优美的旋律"
+        },
+        {
+          "en": "the main melody",
+          "zh": "主旋律"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The melody of that old song has stayed with me for years.",
+          "zh": "那首老歌的旋律我记了很多年。"
+        }
+      ],
+      "note": "melody 指可哼唱的旋律，偏音乐术语；口语常说 tune。"
+    },
+    {
+      "word": "likelihood",
+      "phr": [
+        {
+          "en": "in all likelihood",
+          "zh": "极有可能"
+        },
+        {
+          "en": "the likelihood of",
+          "zh": "……的可能性"
+        }
+      ],
+      "ex": [
+        {
+          "en": "In all likelihood, the meeting will be postponed until next week.",
+          "zh": "会议很可能推迟到下周。"
+        }
+      ],
+      "note": "in all likelihood 意为「极可能」，比 probably 更书面。"
+    },
+    {
+      "word": "converge",
+      "phr": [
+        {
+          "en": "converge on",
+          "zh": "汇集于"
+        },
+        {
+          "en": "converge with",
+          "zh": "与…趋同"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Thousands of fans converged on the stadium before the final.",
+          "zh": "决赛前，成千上万的球迷汇聚到体育场。"
+        }
+      ],
+      "note": "converge 常接 on/upon，指向一处汇集；反义词是 diverge。"
+    },
+    {
+      "word": "compose",
+      "phr": [
+        {
+          "en": "be composed of",
+          "zh": "由…组成"
+        },
+        {
+          "en": "compose music",
+          "zh": "作曲"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The committee is composed of ten members from different departments.",
+          "zh": "委员会由来自不同部门的十名成员组成。"
+        }
+      ],
+      "note": "be composed of = consist of；compose 也指使镇定。"
+    },
+    {
+      "word": "catholic",
+      "phr": [
+        {
+          "en": "the Catholic Church",
+          "zh": "天主教会"
+        },
+        {
+          "en": "catholic tastes",
+          "zh": "广泛的兴趣"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Her tastes in music are remarkably catholic, ranging from jazz to folk.",
+          "zh": "她的音乐品味非常广泛，从爵士到民谣都喜欢。"
+        }
+      ],
+      "note": "大写 Catholic 指天主教；小写 catholic 意为广泛、包罗万象。"
+    },
+    {
+      "word": "partial",
+      "phr": [
+        {
+          "en": "be partial to",
+          "zh": "偏爱"
+        },
+        {
+          "en": "partial success",
+          "zh": "部分成功"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She is rather partial to sweet coffee in the morning.",
+          "zh": "她早上相当偏爱甜咖啡。"
+        }
+      ],
+      "note": "be partial to sth 意为偏爱；作「不公」讲时近 biased。"
+    },
+    {
+      "word": "aid",
+      "phr": [
+        {
+          "en": "first aid",
+          "zh": "急救"
+        },
+        {
+          "en": "financial aid",
+          "zh": "经济援助"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The government promised more financial aid to the flood victims.",
+          "zh": "政府承诺向洪灾灾民提供更多经济援助。"
+        }
+      ],
+      "note": "first aid 指急救；aid 比 help 正式，多作不可数名词。"
+    },
+    {
+      "word": "supersonic",
+      "phr": [
+        {
+          "en": "a supersonic jet",
+          "zh": "超音速喷气机"
+        },
+        {
+          "en": "at supersonic speed",
+          "zh": "以超音速"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The company is developing a supersonic jet for business travel.",
+          "zh": "该公司正研发用于商务出行的超音速喷气机。"
+        }
+      ],
+      "note": "super-（超过）加 son（声音）再加 -ic，即超音速的。"
+    },
+    {
+      "word": "optimism",
+      "phr": [
+        {
+          "en": "cautious optimism",
+          "zh": "谨慎乐观"
+        },
+        {
+          "en": "optimism about",
+          "zh": "对…的乐观"
+        }
+      ],
+      "ex": [
+        {
+          "en": "There is growing optimism about the country's economic future.",
+          "zh": "人们对国家经济前景越来越乐观。"
+        }
+      ],
+      "note": "optimism 常与 about 连用；反义是 pessimism。"
+    },
+    {
+      "word": "confident",
+      "phr": [
+        {
+          "en": "be confident of",
+          "zh": "对…有信心"
+        },
+        {
+          "en": "a confident smile",
+          "zh": "自信的微笑"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She is confident of passing the driving test this time.",
+          "zh": "她相信这次能通过驾照考试。"
+        }
+      ],
+      "note": "confident of sth 或接 that 从句；名词是 confidence。"
+    },
+    {
+      "word": "retain",
+      "phr": [
+        {
+          "en": "retain control",
+          "zh": "保持控制"
+        },
+        {
+          "en": "retain the right",
+          "zh": "保留权利"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The old town has retained much of its original charm.",
+          "zh": "这座古镇保留了许多原有的魅力。"
+        }
+      ],
+      "note": "retain 比 keep 正式，强调继续保有，如 retain control。"
+    },
+    {
+      "word": "drastic",
+      "phr": [
+        {
+          "en": "drastic measures",
+          "zh": "严厉措施"
+        },
+        {
+          "en": "a drastic change",
+          "zh": "巨大变化"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The government took drastic measures to cut air pollution.",
+          "zh": "政府采取严厉措施减少空气污染。"
+        }
+      ],
+      "note": "drastic 多修饰 measures、changes，含猛烈而带副作用的意味。"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+ "day": 73,
+ "date": null,
+ "words": [
+  {
+   "id": 2161,
+   "word": "reciprocal",
+   "uk": "/rɪˈsɪprəkl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "相互的；互惠的"
+  },
+  {
+   "id": 2162,
+   "word": "vertical",
+   "uk": "/ˈvɜːtɪkl/",
+   "us": "/ˈvɝtɪkl/",
+   "pos": "adj.",
+   "cn": "垂直的；竖式的"
+  },
+  {
+   "id": 2163,
+   "word": "inventory",
+   "uk": "/ˈɪnvəntri/",
+   "us": "/ˈɪnvəntɔri/",
+   "pos": "n.",
+   "cn": "详细目录；存货清单"
+  },
+  {
+   "id": 2164,
+   "word": "vivid",
+   "uk": "/ˈvɪvɪd/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "鲜艳的；生动的；栩栩如生的"
+  },
+  {
+   "id": 2165,
+   "word": "flush",
+   "uk": "/flʌʃ/",
+   "us": "",
+   "pos": "vi.,adj.",
+   "cn": "发红；齐平的；同高的"
+  },
+  {
+   "id": 2166,
+   "word": "heir",
+   "uk": "/eə/",
+   "us": "/ɛr/",
+   "pos": "n.",
+   "cn": "继承人"
+  },
+  {
+   "id": 2167,
+   "word": "screw",
+   "uk": "/skruː/",
+   "us": "/skru/",
+   "pos": "n.,vt.",
+   "cn": "螺丝；用螺钉固定；拧；拧紧"
+  },
+  {
+   "id": 2168,
+   "word": "kit",
+   "uk": "/kɪt/",
+   "us": "/kit/",
+   "pos": "n.,vt.",
+   "cn": "成套工具；成套用品；配套元件；装备"
+  },
+  {
+   "id": 2169,
+   "word": "virtue",
+   "uk": "/ˈvɜːtjuː/",
+   "us": "/ˈvɝtʃʊ/",
+   "pos": "n.",
+   "cn": "善；美德；优点；长处"
+  },
+  {
+   "id": 2170,
+   "word": "emphasize",
+   "uk": "/ˈemfəsaɪz/",
+   "us": "/ˈɛmfəsaɪz/",
+   "pos": "vt.",
+   "cn": "强调；着重"
+  },
+  {
+   "id": 2171,
+   "word": "turnover",
+   "uk": "/ˈtɜːnəuvə/",
+   "us": "/ˈtɝnˈovɚ/",
+   "pos": "n.",
+   "cn": "营业额；成交量；人员调整；人员更替率"
+  },
+  {
+   "id": 2172,
+   "word": "mortal",
+   "uk": "/ˈmɔːtl/",
+   "us": "/ˈmɔrtl/",
+   "pos": "adj.,n.",
+   "cn": "终有一死的；致命的；你死我活的；不共戴天的；凡人；人类"
+  },
+  {
+   "id": 2173,
+   "word": "coverage",
+   "uk": "/ˈkʌvərɪdʒ/",
+   "us": "",
+   "pos": "n.",
+   "cn": "新闻报道；覆盖范围"
+  },
+  {
+   "id": 2174,
+   "word": "figure",
+   "uk": "/ˈfɪgə/",
+   "us": "/ˈfɪɡjɚ/",
+   "pos": "vi.,n.,vt.",
+   "cn": "出现；合乎情理；数字；人物；算术；体型；风姿；轮廓；画像；塑像；图；图形；计算；认为；猜想"
+  },
+  {
+   "id": 2175,
+   "word": "brutal",
+   "uk": "/ˈbruːtl/",
+   "us": "/ˈbrutl/",
+   "pos": "adj.",
+   "cn": "野兽般的；残忍的；无情的；冷酷的；难以忍受的"
+  },
+  {
+   "id": 2176,
+   "word": "slight",
+   "uk": "/slaɪt/",
+   "us": "",
+   "pos": "adj.,v.",
+   "cn": "轻微的；微小的；侮慢；轻视；冷落"
+  },
+  {
+   "id": 2177,
+   "word": "ore",
+   "uk": "/ɔː/",
+   "us": "/ɔr/",
+   "pos": "n.",
+   "cn": "矿；矿石"
+  },
+  {
+   "id": 2178,
+   "word": "corrupt",
+   "uk": "/kəˈrʌpt/",
+   "us": "",
+   "pos": "adj.,vt.",
+   "cn": "堕落的；腐败的；贪赃舞弊的；腐蚀；使堕落"
+  },
+  {
+   "id": 2179,
+   "word": "preclude",
+   "uk": "/prɪˈkluːd/",
+   "us": "/prɪˈklud/",
+   "pos": "vt.",
+   "cn": "排除；阻止；妨碍"
+  },
+  {
+   "id": 2180,
+   "word": "previous",
+   "uk": "/ˈpriːviəs/",
+   "us": "/ˈprivɪəs/",
+   "pos": "adj.",
+   "cn": "先的；前的；以前的"
+  },
+  {
+   "id": 2181,
+   "word": "regime",
+   "uk": "/reɪˈʒiːm/",
+   "us": "/reˈʒim/",
+   "pos": "n.",
+   "cn": "政治制度；政权"
+  },
+  {
+   "id": 2182,
+   "word": "transmit",
+   "uk": "/trænzˈmɪt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "传送；传递；传染；播送；发射"
+  },
+  {
+   "id": 2183,
+   "word": "commemorate",
+   "uk": "/kəˈmeməreɪt/",
+   "us": "/kəˈmɛməret/",
+   "pos": "vt.",
+   "cn": "纪念；庆祝"
+  },
+  {
+   "id": 2184,
+   "word": "argue",
+   "uk": "/ˈɑːgjuː/",
+   "us": "/ˈɑrgjʊ/",
+   "pos": "vi.,vt.",
+   "cn": "争论；争辩；辩论；主张；说服"
+  },
+  {
+   "id": 2185,
+   "word": "consumption",
+   "uk": "/kənˈsʌmpʃn/",
+   "us": "/kənˈsʌmpʃən/",
+   "pos": "n.",
+   "cn": "消耗；消费；肺病"
+  },
+  {
+   "id": 2186,
+   "word": "premature",
+   "uk": "/ˈpremətʃə/",
+   "us": "/,priməˈtʃʊr/",
+   "pos": "adj.",
+   "cn": "比预期时间早的；不成熟的；仓促的"
+  },
+  {
+   "id": 2187,
+   "word": "superior",
+   "uk": "/suːˈpɪəriə/",
+   "us": "/sʊˈpɪrɪɚ/",
+   "pos": "adj.,n.",
+   "cn": "上级的；较高的；优越的；有优越感的；高傲的；上级；长官"
+  },
+  {
+   "id": 2188,
+   "word": "drought",
+   "uk": "/draut/",
+   "us": "/draʊt/",
+   "pos": "n.",
+   "cn": "干旱；旱灾"
+  },
+  {
+   "id": 2189,
+   "word": "periodical",
+   "uk": "/ˌpɪəriˈɒdɪkl/",
+   "us": "/,pɪrɪˈɑdɪkl/",
+   "pos": "adj.,n.",
+   "cn": "周期的；定期的；时而发生的；期刊"
+  },
+  {
+   "id": 2190,
+   "word": "leaflet",
+   "uk": "/ˈliːflət/",
+   "us": "/ˈliflət/",
+   "pos": "v.,n.",
+   "cn": "散发传单；传单；散页印刷品；小册子"
+  }
+ ]
+}

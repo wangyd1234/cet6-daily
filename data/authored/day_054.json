@@ -1,0 +1,365 @@
+{
+  "day": 54,
+  "words": [
+    {
+      "word": "trademark",
+      "phr": [
+        {"en": "register a trademark", "zh": "注册商标"},
+        {"en": "trademark protection", "zh": "商标保护"}
+      ],
+      "ex": [
+        {"en": "The company registered its trademark in more than twenty countries last year.",
+         "zh": "该公司去年在二十多个国家注册了商标。"}
+      ],
+      "note": "trademark 指注册商标；brand 侧重品牌形象。"
+    },
+    {
+      "word": "factor",
+      "phr": [
+        {"en": "a key factor", "zh": "关键因素"},
+        {"en": "a decisive factor", "zh": "决定性因素"}
+      ],
+      "ex": [
+        {"en": "Cost was the main factor in our decision to postpone the project.",
+         "zh": "成本是我们决定推迟该项目的主要因素。"}
+      ],
+      "note": "factor 后常接 in，说明在哪方面是因素。"
+    },
+    {
+      "word": "analogous",
+      "phr": [
+        {"en": "be analogous to", "zh": "与…类似"},
+        {"en": "an analogous case", "zh": "类似的案例"}
+      ],
+      "ex": [
+        {"en": "The structure of an atom is often said to be analogous to a tiny solar system.",
+         "zh": "原子的结构常被说成类似一个微型太阳系。"}
+      ],
+      "note": "analogous 固定接 to，不接 with；名词是 analogy。"
+    },
+    {
+      "word": "substance",
+      "phr": [
+        {"en": "a chemical substance", "zh": "化学物质"},
+        {"en": "in substance", "zh": "实质上"}
+      ],
+      "ex": [
+        {"en": "Scientists found a harmful substance in the water supply of the village.",
+         "zh": "科学家在村里的供水中发现了一种有害物质。"}
+      ],
+      "note": "substance 指具体物质，抽象义常见于 in substance。"
+    },
+    {
+      "word": "complexion",
+      "phr": [
+        {"en": "a fair complexion", "zh": "白皙的肤色"},
+        {"en": "a pale complexion", "zh": "苍白的面色"}
+      ],
+      "ex": [
+        {"en": "Her fair complexion makes bright colors look especially good on her.",
+         "zh": "她白皙的肤色使亮色衣服穿在她身上特别好看。"}
+      ],
+      "note": "complexion 指天生肤色，也可引申指局面性质。"
+    },
+    {
+      "word": "continuity",
+      "phr": [
+        {"en": "maintain continuity", "zh": "保持连续性"},
+        {"en": "break the continuity", "zh": "打断连续性"}
+      ],
+      "ex": [
+        {"en": "The new manager tried to maintain continuity in the team's daily routine.",
+         "zh": "新经理努力保持团队日常工作的连续性。"}
+      ],
+      "note": "continuity 来自 continuous，指时间上不中断。"
+    },
+    {
+      "word": "sculpture",
+      "phr": [
+        {"en": "a bronze sculpture", "zh": "青铜雕塑"},
+        {"en": "modern sculpture", "zh": "现代雕塑"}
+      ],
+      "ex": [
+        {"en": "The museum has a fine collection of modern sculpture from Europe.",
+         "zh": "这家博物馆收藏了一批精美的欧洲现代雕塑。"}
+      ],
+      "note": "sculpture 不可数指雕塑艺术，可数指一件作品。"
+    },
+    {
+      "word": "target",
+      "phr": [
+        {"en": "meet the target", "zh": "达标"},
+        {"en": "a target audience", "zh": "目标受众"}
+      ],
+      "ex": [
+        {"en": "Sales this quarter failed to meet the target set by the head office.",
+         "zh": "本季度销售额未达到总部设定的目标。"}
+      ],
+      "note": "target 后常接 for，如 a target for next year。"
+    },
+    {
+      "word": "momentum",
+      "phr": [
+        {"en": "gain momentum", "zh": "势头增强"},
+        {"en": "lose momentum", "zh": "势头减弱"}
+      ],
+      "ex": [
+        {"en": "The campaign gained momentum after several famous writers voiced support.",
+         "zh": "几位知名作家表示支持后，这场运动势头渐强。"}
+      ],
+      "note": "momentum 常与 gain、lose、build 搭配，指发展势头。"
+    },
+    {
+      "word": "wax",
+      "phr": [
+        {"en": "a wax figure", "zh": "蜡像"},
+        {"en": "wax the floor", "zh": "给地板打蜡"}
+      ],
+      "ex": [
+        {"en": "The museum is famous for its lifelike wax figures of famous people.",
+         "zh": "这家博物馆以名人逼真的蜡像闻名。"}
+      ],
+      "note": "wax 作名词指蜡，作动词指上蜡；蜡像馆为 wax museum。"
+    },
+    {
+      "word": "sensation",
+      "phr": [
+        {"en": "cause a sensation", "zh": "引起轰动"},
+        {"en": "a burning sensation", "zh": "灼烧感"}
+      ],
+      "ex": [
+        {"en": "Her first novel caused a sensation and was soon translated into ten languages.",
+         "zh": "她的第一部小说引起轰动，很快被译成十种语言。"}
+      ],
+      "note": "sensation 既指身体感觉，也指轰动一时的人或事。"
+    },
+    {
+      "word": "urban",
+      "phr": [
+        {"en": "urban areas", "zh": "城市地区"},
+        {"en": "urban life", "zh": "城市生活"}
+      ],
+      "ex": [
+        {"en": "More and more young people are moving to urban areas in search of work.",
+         "zh": "越来越多年轻人迁往城市地区找工作。"}
+      ],
+      "note": "urban 与 rural 相对；动词 urbanize 指使城市化。"
+    },
+    {
+      "word": "furthermore",
+      "phr": [
+        {"en": "and furthermore", "zh": "而且；此外"},
+        {"en": "furthermore, it is worth noting", "zh": "此外值得注意的是"}
+      ],
+      "ex": [
+        {"en": "The plan is too expensive; furthermore, it would take years to complete.",
+         "zh": "该计划花费太高，而且还要多年才能完成。"}
+      ],
+      "note": "furthermore 是正式书面连接词，用于补充论点。"
+    },
+    {
+      "word": "timely",
+      "phr": [
+        {"en": "a timely reminder", "zh": "及时的提醒"},
+        {"en": "timely intervention", "zh": "及时干预"}
+      ],
+      "ex": [
+        {"en": "The doctor's timely intervention saved the patient's life.",
+         "zh": "医生及时的干预挽救了病人的生命。"}
+      ],
+      "note": "timely 作定语表及时的；in time 表及时地。"
+    },
+    {
+      "word": "cape",
+      "phr": [
+        {"en": "a flowing cape", "zh": "飘动的斗篷"},
+        {"en": "a wool cape", "zh": "羊毛披肩"}
+      ],
+      "ex": [
+        {"en": "The superhero wore a long red cape that fluttered in the wind.",
+         "zh": "那位超级英雄披着在风中飘动的红色长斗篷。"}
+      ],
+      "note": "cape 指无袖斗篷，也指伸入海中的海角。"
+    },
+    {
+      "word": "discard",
+      "phr": [
+        {"en": "discard old habits", "zh": "摒弃旧习惯"},
+        {"en": "discard waste", "zh": "丢弃废弃物"}
+      ],
+      "ex": [
+        {"en": "Please discard any documents that are no longer needed for the audit.",
+         "zh": "请丢弃审计不再需要的任何文件。"}
+      ],
+      "note": "discard 强调当作无用之物扔掉，比 throw away 正式。"
+    },
+    {
+      "word": "delicate",
+      "phr": [
+        {"en": "a delicate balance", "zh": "微妙的平衡"},
+        {"en": "delicate skin", "zh": "娇嫩的皮肤"}
+      ],
+      "ex": [
+        {"en": "The two sides have reached a delicate balance after months of talks.",
+         "zh": "经过数月谈判，双方达成了微妙的平衡。"}
+      ],
+      "note": "delicate 可指易碎、纤细或微妙，如 delicate issue。"
+    },
+    {
+      "word": "rebel",
+      "phr": [
+        {"en": "rebel against", "zh": "反抗"},
+        {"en": "a rebel army", "zh": "叛军"}
+      ],
+      "ex": [
+        {"en": "Many teenagers rebel against their parents' strict rules at some point.",
+         "zh": "许多青少年在某个阶段会反抗父母的严格规定。"}
+      ],
+      "note": "rebel 后接 against；作名词指反叛者，重音在前。"
+    },
+    {
+      "word": "subsidy",
+      "phr": [
+        {"en": "receive a subsidy", "zh": "领取补贴"},
+        {"en": "a government subsidy", "zh": "政府补贴"}
+      ],
+      "ex": [
+        {"en": "Farmers in the region receive a government subsidy for growing corn.",
+         "zh": "该地区的农民种玉米可获得政府补贴。"}
+      ],
+      "note": "subsidy 多指政府补贴，动词为 subsidize。"
+    },
+    {
+      "word": "bounce",
+      "phr": [
+        {"en": "bounce back", "zh": "恢复过来"},
+        {"en": "bounce off", "zh": "从…弹开"}
+      ],
+      "ex": [
+        {"en": "The ball bounced off the wall and rolled across the floor.",
+         "zh": "球从墙上弹开，滚过地板。"}
+      ],
+      "note": "bounce back 除弹回外，常指受挫后迅速恢复。"
+    },
+    {
+      "word": "obscene",
+      "phr": [
+        {"en": "obscene language", "zh": "下流话"},
+        {"en": "obscene profits", "zh": "暴利"}
+      ],
+      "ex": [
+        {"en": "The film was banned in some countries for its obscene language.",
+         "zh": "这部电影因语言下流在部分国家被禁。"}
+      ],
+      "note": "obscene 除淫秽外，口语可指过分到令人反感的。"
+    },
+    {
+      "word": "tissue",
+      "phr": [
+        {"en": "muscle tissue", "zh": "肌肉组织"},
+        {"en": "a box of tissues", "zh": "一盒纸巾"}
+      ],
+      "ex": [
+        {"en": "The doctor examined a sample of muscle tissue under the microscope.",
+         "zh": "医生在显微镜下检查了肌肉组织样本。"}
+      ],
+      "note": "tissue 指生物组织，日常也指纸巾。"
+    },
+    {
+      "word": "Thanksgiving",
+      "phr": [
+        {"en": "Thanksgiving Day", "zh": "感恩节"},
+        {"en": "Thanksgiving dinner", "zh": "感恩节晚餐"}
+      ],
+      "ex": [
+        {"en": "The whole family gathers at Grandma's house for Thanksgiving every year.",
+         "zh": "每年全家都到奶奶家过感恩节。"}
+      ],
+      "note": "Thanksgiving 首字母大写，问候说 Happy Thanksgiving。"
+    },
+    {
+      "word": "proficiency",
+      "phr": [
+        {"en": "language proficiency", "zh": "语言熟练程度"},
+        {"en": "a proficiency test", "zh": "水平测试"}
+      ],
+      "ex": [
+        {"en": "Applicants must show a high level of proficiency in spoken English.",
+         "zh": "申请者必须具备较高的英语口语水平。"}
+      ],
+      "note": "proficiency 常接 in，表示某方面的熟练度。"
+    },
+    {
+      "word": "modest",
+      "phr": [
+        {"en": "a modest increase", "zh": "小幅增长"},
+        {"en": "be modest about", "zh": "对…很谦虚"}
+      ],
+      "ex": [
+        {"en": "Despite his success, he remains modest about his own achievements.",
+         "zh": "尽管取得成功，他对自己的成就仍很谦逊。"}
+      ],
+      "note": "modest 除谦虚外还指数量适中，如 a modest price。"
+    },
+    {
+      "word": "cast",
+      "phr": [
+        {"en": "cast a shadow", "zh": "投下阴影"},
+        {"en": "cast a vote", "zh": "投票"}
+      ],
+      "ex": [
+        {"en": "The tall building casts a long shadow over the square in the afternoon.",
+         "zh": "下午那栋高楼在广场上投下长长的阴影。"}
+      ],
+      "note": "cast 的过去式和过去分词都是 cast。"
+    },
+    {
+      "word": "vocational",
+      "phr": [
+        {"en": "vocational training", "zh": "职业培训"},
+        {"en": "a vocational school", "zh": "职业学校"}
+      ],
+      "ex": [
+        {"en": "He chose vocational training instead of university and now runs a workshop.",
+         "zh": "他选择职业培训而非上大学，如今经营一家车间。"}
+      ],
+      "note": "vocational 来自 vocation，指技能型职业的。"
+    },
+    {
+      "word": "crush",
+      "phr": [
+        {"en": "crush the rebellion", "zh": "镇压叛乱"},
+        {"en": "crush sb's hopes", "zh": "粉碎某人的希望"}
+      ],
+      "ex": [
+        {"en": "The government sent troops to crush the rebellion in the northern province.",
+         "zh": "政府派兵镇压北部省份的叛乱。"}
+      ],
+      "note": "crush 指压碎或彻底镇压；have a crush on 意为迷恋。"
+    },
+    {
+      "word": "hatred",
+      "phr": [
+        {"en": "deep hatred", "zh": "深切的仇恨"},
+        {"en": "hatred towards", "zh": "对…的憎恨"}
+      ],
+      "ex": [
+        {"en": "Years of unfair treatment had filled the workers with hatred.",
+         "zh": "多年的不公待遇使工人们心中充满仇恨。"}
+      ],
+      "note": "hatred 后接 of、for 或 towards，是不可数名词。"
+    },
+    {
+      "word": "slice",
+      "phr": [
+        {"en": "a slice of bread", "zh": "一片面包"},
+        {"en": "a slice of cake", "zh": "一块蛋糕"}
+      ],
+      "ex": [
+        {"en": "She cut herself a thick slice of bread and spread butter on it.",
+         "zh": "她给自己切了一片厚面包，抹上黄油。"}
+      ],
+      "note": "slice 作量词用 a slice of，作动词指切成薄片。"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+ "day": 58,
+ "date": null,
+ "words": [
+  {
+   "id": 1711,
+   "word": "embarrass",
+   "uk": "/ɪmˈbærəs/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "使窘迫；使为难"
+  },
+  {
+   "id": 1712,
+   "word": "erroneous",
+   "uk": "/ɪˈrəuniəs/",
+   "us": "/ɪˈronɪəs/",
+   "pos": "adj.",
+   "cn": "错误的；不正确的"
+  },
+  {
+   "id": 1713,
+   "word": "option",
+   "uk": "/ˈɒpʃn/",
+   "us": "/ˈɑpʃən/",
+   "pos": "n.",
+   "cn": "选择；选择权；选择自由；选择的事物；选课"
+  },
+  {
+   "id": 1714,
+   "word": "acute",
+   "uk": "/əˈkjuːt/",
+   "us": "/əˈkjut/",
+   "pos": "adj.",
+   "cn": "严重的；急性的；灵敏的；敏锐的；精明的"
+  },
+  {
+   "id": 1715,
+   "word": "limitation",
+   "uk": "/ˌlɪmɪˈteɪʃn/",
+   "us": "/,lɪmɪˈteʃən/",
+   "pos": "n.",
+   "cn": "限制；限度；局限"
+  },
+  {
+   "id": 1716,
+   "word": "jog",
+   "uk": "/dʒɒg/",
+   "us": "/dʒɑɡ/",
+   "pos": "vi.,n.",
+   "cn": "慢跑；轻轻碰撞"
+  },
+  {
+   "id": 1717,
+   "word": "terrify",
+   "uk": "/ˈterɪfaɪ/",
+   "us": "/ˈtɛrəˌfaɪ/",
+   "pos": "vt.",
+   "cn": "使害怕；使惊吓"
+  },
+  {
+   "id": 1718,
+   "word": "handbook",
+   "uk": "/ˈhændbuk/",
+   "us": "/ˈhændbʊk/",
+   "pos": "n.",
+   "cn": "手册；便览"
+  },
+  {
+   "id": 1719,
+   "word": "ascertain",
+   "uk": "/ˌæsəˈteɪn/",
+   "us": "/ˈæsɚˈten/",
+   "pos": "vt.",
+   "cn": "弄清；查明；确定"
+  },
+  {
+   "id": 1720,
+   "word": "crucial",
+   "uk": "/ˈkruːʃl/",
+   "us": "/ˈkrʊʃəl/",
+   "pos": "adj.",
+   "cn": "至关重要的；决定性的"
+  },
+  {
+   "id": 1721,
+   "word": "contribute",
+   "uk": "/kənˈtrɪbjuːt/",
+   "us": "/kənˈtrɪbjut/",
+   "pos": "v.",
+   "cn": "捐献；捐款；投稿"
+  },
+  {
+   "id": 1722,
+   "word": "insert",
+   "uk": "/ɪnˈsɜːt/",
+   "us": "/ˈɪnsɝt/",
+   "pos": "vt.",
+   "cn": "插入；嵌入；登载"
+  },
+  {
+   "id": 1723,
+   "word": "faith",
+   "uk": "/feɪθ/",
+   "us": "/feθ/",
+   "pos": "n.",
+   "cn": "信任；信心；信仰；信条"
+  },
+  {
+   "id": 1724,
+   "word": "inspiration",
+   "uk": "/ˌɪnspəˈreɪʃn/",
+   "us": "/ˌɪnspəˈreʃən/",
+   "pos": "n.",
+   "cn": "灵感；鼓舞人心的人"
+  },
+  {
+   "id": 1725,
+   "word": "endurance",
+   "uk": "/ɪnˈdjuərəns/",
+   "us": "/ɪnˈdʊrəns/",
+   "pos": "n.",
+   "cn": "忍耐力；持久；耐久"
+  },
+  {
+   "id": 1726,
+   "word": "highlight",
+   "uk": "/ˈhaɪlaɪt/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "强调；突出；使显著；最精彩的部分；最重要的事件"
+  },
+  {
+   "id": 1727,
+   "word": "candidate",
+   "uk": "/ˈkændɪdət/",
+   "us": "/ˈkændɪˌdet,-dɪt/",
+   "pos": "n.",
+   "cn": "候选人；投考者；申请求职者"
+  },
+  {
+   "id": 1728,
+   "word": "strive",
+   "uk": "/straɪv/",
+   "us": "",
+   "pos": "vi.",
+   "cn": "努力；奋斗；力求"
+  },
+  {
+   "id": 1729,
+   "word": "database",
+   "uk": "/ˈdeɪtəbeɪs/",
+   "us": "/ˈdetəbes/",
+   "pos": "n.",
+   "cn": "数据库"
+  },
+  {
+   "id": 1730,
+   "word": "intelligible",
+   "uk": "/ɪnˈtelɪdʒəbl/",
+   "us": "/ɪnˈtɛlɪdʒəbl/",
+   "pos": "adj.",
+   "cn": "可理解的；明白易懂的；清楚的"
+  },
+  {
+   "id": 1731,
+   "word": "parallel",
+   "uk": "/ˈpærəlel/",
+   "us": "/ˈpærəlɛl/",
+   "pos": "adj.,n.,vt.",
+   "cn": "并列的；平行的；类似的；对应的；并联的；可相比拟的事物；相似处；平行线；平行面；纬线；与…相似；与… 相当；比得上"
+  },
+  {
+   "id": 1732,
+   "word": "reject",
+   "uk": "/rɪˈdʒekt/",
+   "us": "/rɪˈdʒɛkt/",
+   "pos": "vt.,n.",
+   "cn": "拒绝；拒纳；退回；摈弃；被拒货品；不合格产品"
+  },
+  {
+   "id": 1733,
+   "word": "hospitality",
+   "uk": "/ˌhɒspɪˈtæləti/",
+   "us": "/,hɑspɪˈtæləti/",
+   "pos": "n.",
+   "cn": "友好款待；好客"
+  },
+  {
+   "id": 1734,
+   "word": "sheer",
+   "uk": "/ʃɪə/",
+   "us": "/ʃɪr/",
+   "pos": "adv.,vi.,adj.",
+   "cn": "垂直地；陡峭地；急转向；偏离；完全的；十足的；陡峭的；垂直的；极薄的；透明的"
+  },
+  {
+   "id": 1735,
+   "word": "imitation",
+   "uk": "/ˌɪmɪˈteɪʃn/",
+   "us": "/,ɪmɪˈteʃən/",
+   "pos": "n.",
+   "cn": "模仿；仿制；伪制品；赝品"
+  },
+  {
+   "id": 1736,
+   "word": "compliment",
+   "uk": "/ˈkɒmplɪmənt/",
+   "us": "/ˈkɑːmplɪmənt/",
+   "pos": "n.,vt.",
+   "cn": "赞美；恭维；致意；问候；赞美；恭维"
+  },
+  {
+   "id": 1737,
+   "word": "blunder",
+   "uk": "/ˈblʌndə/",
+   "us": "/ˈblʌndɚ/",
+   "pos": "vi.,n.",
+   "cn": "跌跌撞撞地走；慌乱地走；犯错误；错误"
+  },
+  {
+   "id": 1738,
+   "word": "breach",
+   "uk": "/briːtʃ/",
+   "us": "/britʃ/",
+   "pos": "n.,vt.",
+   "cn": "破坏；违反；破裂；不和；缺口；裂口；攻破；在…造成缺口；破坏；违反"
+  },
+  {
+   "id": 1739,
+   "word": "original",
+   "uk": "/əˈrɪdʒənl/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "最初的；新颖的；原版的；原件；原作"
+  },
+  {
+   "id": 1740,
+   "word": "comply",
+   "uk": "/kəmˈplaɪ/",
+   "us": "",
+   "pos": "vi.",
+   "cn": "遵从；依从；服从"
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+  "day": 60,
+  "words": [
+    {
+      "word": "pamphlet",
+      "phr": [
+        {"en": "a political pamphlet", "zh": "政治小册子"},
+        {"en": "distribute pamphlets", "zh": "分发小册子"}
+      ],
+      "ex": [
+        {"en": "Volunteers handed out pamphlets explaining how to save water at home.",
+         "zh": "志愿者分发小册子，讲解家庭如何节水。"}
+      ],
+      "note": "pamphlet 指页数少的薄册子，brochure 多为宣传册。"
+    },
+    {
+      "word": "preparatory",
+      "phr": [
+        {"en": "preparatory work", "zh": "准备工作"},
+        {"en": "preparatory school", "zh": "预备学校"}
+      ],
+      "ex": [
+        {"en": "The team spent two months on preparatory work before the project began.",
+         "zh": "团队在项目开始前花了两个月做准备工作。"}
+      ],
+      "note": "preparatory 常作定语，如 preparatory work。"
+    },
+    {
+      "word": "neglect",
+      "phr": [
+        {"en": "neglect one's duty", "zh": "玩忽职守"},
+        {"en": "neglect to do sth", "zh": "疏忽未做某事"}
+      ],
+      "ex": [
+        {"en": "He was criticized for neglecting his duty during the flood.",
+         "zh": "他因在洪水期间玩忽职守而受到批评。"}
+      ],
+      "note": "neglect 指疏忽未做；ignore 指故意不理。"
+    },
+    {
+      "word": "addition",
+      "phr": [
+        {"en": "in addition", "zh": "另外；此外"},
+        {"en": "in addition to", "zh": "除…之外"}
+      ],
+      "ex": [
+        {"en": "In addition to teaching, she runs a small language club on weekends.",
+         "zh": "除了教书，她周末还办了一个小型语言俱乐部。"}
+      ],
+      "note": "in addition 单独用；in addition to 后接名词。"
+    },
+    {
+      "word": "vein",
+      "phr": [
+        {"en": "in a similar vein", "zh": "以类似的风格"},
+        {"en": "a vein of gold", "zh": "金矿脉"}
+      ],
+      "ex": [
+        {"en": "His later novels continue in a similar vein, full of quiet humour.",
+         "zh": "他后来的小说沿袭相似风格，充满平静的幽默。"}
+      ],
+      "note": "vein 指血管，也指矿脉和文风，如 in the same vein。"
+    },
+    {
+      "word": "carve",
+      "phr": [
+        {"en": "carve wood", "zh": "雕刻木头"},
+        {"en": "carve out a career", "zh": "开创事业"}
+      ],
+      "ex": [
+        {"en": "The artist spent three years carving a statue from a single block of stone.",
+         "zh": "这位艺术家花了三年时间，用一整块石头雕出一尊雕像。"}
+      ],
+      "note": "carve 指雕刻或切熟肉；carve out 引申为开创。"
+    },
+    {
+      "word": "veil",
+      "phr": [
+        {"en": "draw a veil over", "zh": "回避不谈；掩饰"},
+        {"en": "a bridal veil", "zh": "新娘面纱"}
+      ],
+      "ex": [
+        {"en": "The government tried to veil the truth behind a vague statement.",
+         "zh": "政府试图用含糊的声明掩盖真相。"}
+      ],
+      "note": "veil 作动词表掩盖；draw a veil over 指避而不谈。"
+    },
+    {
+      "word": "shrink",
+      "phr": [
+        {"en": "shrink from doing sth", "zh": "回避做某事"},
+        {"en": "shrink in the wash", "zh": "洗涤后缩水"}
+      ],
+      "ex": [
+        {"en": "Wool sweaters may shrink if you wash them in hot water.",
+         "zh": "羊毛衫用热水洗可能会缩水。"}
+      ],
+      "note": "shrink 过去式 shrank，过去分词 shrunk，注意不规则。"
+    },
+    {
+      "word": "hierarchy",
+      "phr": [
+        {"en": "a rigid hierarchy", "zh": "严格的等级制度"},
+        {"en": "social hierarchy", "zh": "社会等级"}
+      ],
+      "ex": [
+        {"en": "In a strict hierarchy, junior staff rarely question their managers openly.",
+         "zh": "在严格的等级制度里，下级员工很少公开质疑上司。"}
+      ],
+      "note": "hierarchy 指等级体系，形容词 hierarchical。"
+    },
+    {
+      "word": "ancestor",
+      "phr": [
+        {"en": "a common ancestor", "zh": "共同祖先"},
+        {"en": "distant ancestors", "zh": "远祖"}
+      ],
+      "ex": [
+        {"en": "Scientists believe humans and apes share a common ancestor.",
+         "zh": "科学家认为人类与猿类有共同祖先。"}
+      ],
+      "note": "ancestor 指祖先，对应 descendant（后代），别混。"
+    },
+    {
+      "word": "hazardous",
+      "phr": [
+        {"en": "hazardous waste", "zh": "危险废物"},
+        {"en": "hazardous to health", "zh": "危害健康"}
+      ],
+      "ex": [
+        {"en": "Workers must wear gloves when handling hazardous waste.",
+         "zh": "处理危险废物时工人必须戴手套。"}
+      ],
+      "note": "hazardous 指对健康有潜在危害，比 dangerous 正式。"
+    },
+    {
+      "word": "locality",
+      "phr": [
+        {"en": "in the locality", "zh": "在当地"},
+        {"en": "a rural locality", "zh": "乡村地区"}
+      ],
+      "ex": [
+        {"en": "Most people in the locality depend on farming for their income.",
+         "zh": "当地大多数人靠务农为生。"}
+      ],
+      "note": "locality 指附近地区，常用 in the locality。"
+    },
+    {
+      "word": "proceeding",
+      "phr": [
+        {"en": "legal proceedings", "zh": "法律诉讼"},
+        {"en": "start proceedings against", "zh": "对…提起诉讼"}
+      ],
+      "ex": [
+        {"en": "The company started legal proceedings against its former supplier.",
+         "zh": "该公司对前供应商提起了法律诉讼。"}
+      ],
+      "note": "proceeding 表诉讼常用复数 proceedings。"
+    },
+    {
+      "word": "artery",
+      "phr": [
+        {"en": "a major artery", "zh": "主要干道"},
+        {"en": "coronary artery", "zh": "冠状动脉"}
+      ],
+      "ex": [
+        {"en": "The new road has become a major artery for traffic into the city.",
+         "zh": "这条新路已成为通往市区的主要干道。"}
+      ],
+      "note": "artery 指动脉，也比喻交通干线；形容词 arterial。"
+    },
+    {
+      "word": "panic",
+      "phr": [
+        {"en": "panic buying", "zh": "恐慌抢购"},
+        {"en": "in a panic", "zh": "惊慌失措"}
+      ],
+      "ex": [
+        {"en": "Shoppers were in a panic when the supermarket announced the closure.",
+         "zh": "超市宣布停业时，顾客们惊慌失措。"}
+      ],
+      "note": "panic 过去式 panicked，需先加 k 再加 ed。"
+    },
+    {
+      "word": "underestimate",
+      "phr": [
+        {"en": "underestimate the difficulty", "zh": "低估难度"},
+        {"en": "grossly underestimate", "zh": "严重低估"}
+      ],
+      "ex": [
+        {"en": "Never underestimate the difficulty of learning a language as an adult.",
+         "zh": "永远不要低估成年后学一门语言的难度。"}
+      ],
+      "note": "underestimate 反义词 overestimate，under- 表不足。"
+    },
+    {
+      "word": "fold",
+      "phr": [
+        {"en": "fold up", "zh": "折叠起来"},
+        {"en": "fold one's arms", "zh": "双臂交叉"}
+      ],
+      "ex": [
+        {"en": "She folded the letter carefully and put it in her pocket.",
+         "zh": "她小心地把信折好，放进口袋。"}
+      ],
+      "note": "fold up 指折叠收起；unfold 是展开。"
+    },
+    {
+      "word": "transient",
+      "phr": [
+        {"en": "a transient effect", "zh": "短暂的影响"},
+        {"en": "transient population", "zh": "流动人口"}
+      ],
+      "ex": [
+        {"en": "The improvement in air quality was only transient, lasting a few days.",
+         "zh": "空气质量的改善只是暂时的，仅持续了几天。"}
+      ],
+      "note": "transient 强调转瞬即逝，比 temporary 更短暂。"
+    },
+    {
+      "word": "hurl",
+      "phr": [
+        {"en": "hurl a stone", "zh": "扔石头"},
+        {"en": "hurl abuse at", "zh": "对…破口大骂"}
+      ],
+      "ex": [
+        {"en": "The boys hurled stones into the river to see who could throw farthest.",
+         "zh": "男孩们把石头扔进河里，看谁扔得最远。"}
+      ],
+      "note": "hurl 比 throw 用力更猛；hurl abuse 指辱骂。"
+    },
+    {
+      "word": "competitive",
+      "phr": [
+        {"en": "a competitive market", "zh": "竞争激烈的市场"},
+        {"en": "competitive advantage", "zh": "竞争优势"}
+      ],
+      "ex": [
+        {"en": "Firms must keep costs low to survive in a highly competitive market.",
+         "zh": "企业必须保持低成本才能在激烈竞争中生存。"}
+      ],
+      "note": "competitive 指竞争激烈或有竞争力，competent 是胜任的。"
+    },
+    {
+      "word": "dean",
+      "phr": [
+        {"en": "the dean of students", "zh": "学生事务主任"},
+        {"en": "the dean of the law school", "zh": "法学院院长"}
+      ],
+      "ex": [
+        {"en": "The dean of students met the freshmen to explain the new rules.",
+         "zh": "学生事务主任与新生见面，解释新规定。"}
+      ],
+      "note": "dean 指大学院长或系主任，也指教长。"
+    },
+    {
+      "word": "sponge",
+      "phr": [
+        {"en": "sponge cake", "zh": "松软海绵蛋糕"},
+        {"en": "sponge off sb", "zh": "靠某人白吃白喝"}
+      ],
+      "ex": [
+        {"en": "He lost his job and had to sponge off his friends for months.",
+         "zh": "他失业后不得不靠朋友接济好几个月。"}
+      ],
+      "note": "sponge 作动词指揩擦；sponge off 指白吃白拿。"
+    },
+    {
+      "word": "abuse",
+      "phr": [
+        {"en": "abuse of power", "zh": "滥用权力"},
+        {"en": "drug abuse", "zh": "滥用药物"}
+      ],
+      "ex": [
+        {"en": "The report accused several officials of the abuse of power.",
+         "zh": "报告指控几名官员滥用职权。"}
+      ],
+      "note": "abuse 作名词读 /s/，作动词读 /z/。"
+    },
+    {
+      "word": "scheme",
+      "phr": [
+        {"en": "a pension scheme", "zh": "养老金计划"},
+        {"en": "scheme against sb", "zh": "密谋对付某人"}
+      ],
+      "ex": [
+        {"en": "The two men were arrested for scheming against the government.",
+         "zh": "两名男子因密谋反对政府而被捕。"}
+      ],
+      "note": "英式 scheme 常指正式方案，美式多用 plan。"
+    },
+    {
+      "word": "insulate",
+      "phr": [
+        {"en": "insulate a house", "zh": "给房屋隔热"},
+        {"en": "insulate against the cold", "zh": "防寒隔热"}
+      ],
+      "ex": [
+        {"en": "Thick curtains help insulate the room against the winter cold.",
+         "zh": "厚窗帘有助于让房间与冬季严寒隔绝。"}
+      ],
+      "note": "insulate 指隔热隔音，也指使免受不良影响。"
+    },
+    {
+      "word": "consequently",
+      "phr": [
+        {"en": "and consequently", "zh": "因此；因而"},
+        {"en": "consequently lead to", "zh": "因而导致"}
+      ],
+      "ex": [
+        {"en": "Heavy rain hit the region, and consequently the harvest was poor.",
+         "zh": "暴雨袭击了该地区，因此收成很差。"}
+      ],
+      "note": "consequently 表结果，正式写作中替代 so。"
+    },
+    {
+      "word": "drain",
+      "phr": [
+        {"en": "drain away", "zh": "排走；渐渐消失"},
+        {"en": "brain drain", "zh": "人才流失"}
+      ],
+      "ex": [
+        {"en": "The rain drained away quickly through the new pipes.",
+         "zh": "雨水通过新管道很快排走了。"}
+      ],
+      "note": "drain 指排水，也指精力耗尽；brain drain 指人才外流。"
+    },
+    {
+      "word": "reluctance",
+      "phr": [
+        {"en": "with reluctance", "zh": "不情愿地"},
+        {"en": "reluctance to accept", "zh": "不愿接受"}
+      ],
+      "ex": [
+        {"en": "She agreed to help with some reluctance, saying she was very busy.",
+         "zh": "她有些勉强地答应帮忙，说自己很忙。"}
+      ],
+      "note": "reluctance 形容词 reluctant，后接 to do。"
+    },
+    {
+      "word": "rape",
+      "phr": [
+        {"en": "be charged with rape", "zh": "被控强奸"},
+        {"en": "a rape case", "zh": "强奸案"}
+      ],
+      "ex": [
+        {"en": "The court sentenced him to ten years for rape.",
+         "zh": "法院以强奸罪判处他十年监禁。"}
+      ],
+      "note": "rape 多用于法律报道，常见 be charged with rape。"
+    },
+    {
+      "word": "isolate",
+      "phr": [
+        {"en": "isolate sb from", "zh": "使某人与…隔离"},
+        {"en": "isolate the area", "zh": "隔离该地区"}
+      ],
+      "ex": [
+        {"en": "Patients with the virus were isolated from other people for two weeks.",
+         "zh": "感染病毒的病人被隔离两周，与其他人分开。"}
+      ],
+      "note": "isolate 后接 from；名词 isolation，常用 in isolation。"
+    }
+  ]
+}

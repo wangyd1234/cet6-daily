@@ -1,0 +1,365 @@
+{
+  "day": 37,
+  "words": [
+    {
+      "word": "violate",
+      "phr": [
+        {"en": "violate the law", "zh": "违反法律"},
+        {"en": "violate sb's privacy", "zh": "侵犯隐私"}
+      ],
+      "ex": [
+        {"en": "Anyone who violates the traffic rules will be fined.",
+         "zh": "任何违反交通规则的人都将被罚款。"}
+      ],
+      "note": "violate 多接法律、权利、隐私等抽象对象。"
+    },
+    {
+      "word": "federal",
+      "phr": [
+        {"en": "the federal government", "zh": "联邦政府"},
+        {"en": "federal law", "zh": "联邦法律"}
+      ],
+      "ex": [
+        {"en": "The federal government announced new funding for rural schools.",
+         "zh": "联邦政府宣布为乡村学校提供新资金。"}
+      ],
+      "note": "federal 指联邦中央一级，各州的法律称 state law。"
+    },
+    {
+      "word": "verify",
+      "phr": [
+        {"en": "verify the information", "zh": "核实信息"},
+        {"en": "verify the identity", "zh": "核实身份"}
+      ],
+      "ex": [
+        {"en": "Please verify your identity before you can access the account.",
+         "zh": "请先核实身份，然后才能登入账户。"}
+      ],
+      "note": "verify 强调通过查证确认真伪，后面也可接 that 从句。"
+    },
+    {
+      "word": "excursion",
+      "phr": [
+        {"en": "go on an excursion", "zh": "去远足"},
+        {"en": "a one-day excursion", "zh": "一日游"}
+      ],
+      "ex": [
+        {"en": "The class went on a one-day excursion to the mountains.",
+         "zh": "全班去山里进行了一日远足。"}
+      ],
+      "note": "excursion 指有组织的短途出行，常与 go on 连用。"
+    },
+    {
+      "word": "inaugurate",
+      "phr": [
+        {"en": "inaugurate a president", "zh": "为总统举行就职典礼"},
+        {"en": "inaugurate a new policy", "zh": "开始实施新政策"}
+      ],
+      "ex": [
+        {"en": "The mayor will inaugurate the new library next Monday.",
+         "zh": "市长下周一将为新图书馆举行开馆仪式。"}
+      ],
+      "note": "inaugurate 指正式就职或启用，气势比 begin 隆重。"
+    },
+    {
+      "word": "undergo",
+      "phr": [
+        {"en": "undergo surgery", "zh": "接受手术"},
+        {"en": "undergo a change", "zh": "经历变化"}
+      ],
+      "ex": [
+        {"en": "The old factory has undergone major changes in the past decade.",
+         "zh": "这家老厂在过去十年经历了重大变化。"}
+      ],
+      "note": "undergo 过去式 underwent、分词 undergone，多接检查与手术。"
+    },
+    {
+      "word": "reward",
+      "phr": [
+        {"en": "a reward for", "zh": "对…的奖励"},
+        {"en": "reward sb with sth", "zh": "用某物奖励某人"}
+      ],
+      "ex": [
+        {"en": "The police offered a reward for information about the missing painting.",
+         "zh": "警方悬赏征集失踪画作的线索。"}
+      ],
+      "note": "reward 后接 for 表原因；award 指颁发奖项，注意区分。"
+    },
+    {
+      "word": "graze",
+      "phr": [
+        {"en": "graze in the field", "zh": "在田野吃草"},
+        {"en": "graze the knee", "zh": "擦破膝盖"}
+      ],
+      "ex": [
+        {"en": "Sheep graze quietly on the hillside above the village.",
+         "zh": "羊群在村子上方的山坡上安静地吃草。"}
+      ],
+      "note": "graze 兼指动物吃草与擦伤皮肤，看宾语判断词义。"
+    },
+    {
+      "word": "coupon",
+      "phr": [
+        {"en": "use a coupon", "zh": "使用优惠券"},
+        {"en": "a discount coupon", "zh": "折扣券"}
+      ],
+      "ex": [
+        {"en": "She cut the coupon from the magazine and saved ten percent.",
+         "zh": "她从杂志上剪下优惠券，省了百分之十。"}
+      ],
+      "note": "coupon 常与 use、redeem（兑换）连用。"
+    },
+    {
+      "word": "multitude",
+      "phr": [
+        {"en": "a multitude of", "zh": "大量的"},
+        {"en": "multitudes of people", "zh": "大批人群"}
+      ],
+      "ex": [
+        {"en": "There are a multitude of reasons why students choose to study abroad.",
+         "zh": "学生选择出国留学有诸多理由。"}
+      ],
+      "note": "a multitude of 后接可数名词复数，比 many 更书面。"
+    },
+    {
+      "word": "inhabit",
+      "phr": [
+        {"en": "inhabit the region", "zh": "居住在该地区"},
+        {"en": "densely inhabited", "zh": "人口稠密的"}
+      ],
+      "ex": [
+        {"en": "Rare birds inhabit the wetlands along the coast.",
+         "zh": "珍稀鸟类栖息在沿海湿地上。"}
+      ],
+      "note": "inhabit 及物，直接接地点，不说 inhabit in；名词 inhabitant。"
+    },
+    {
+      "word": "siege",
+      "phr": [
+        {"en": "lay siege to", "zh": "围攻"},
+        {"en": "under siege", "zh": "被围困"}
+      ],
+      "ex": [
+        {"en": "The city was under siege for more than three months.",
+         "zh": "这座城市被围困了三个多月。"}
+      ],
+      "note": "siege 常与 lay、lift、under 搭配，也可比喻受围攻。"
+    },
+    {
+      "word": "abstract",
+      "phr": [
+        {"en": "abstract ideas", "zh": "抽象概念"},
+        {"en": "in the abstract", "zh": "抽象地"}
+      ],
+      "ex": [
+        {"en": "Young children find abstract ideas such as time difficult to grasp.",
+         "zh": "幼儿觉得时间这类抽象概念难以理解。"}
+      ],
+      "note": "abstract 作名词指论文摘要；in the abstract 表抽象地看。"
+    },
+    {
+      "word": "agenda",
+      "phr": [
+        {"en": "on the agenda", "zh": "在议程上"},
+        {"en": "set the agenda", "zh": "设定议程"}
+      ],
+      "ex": [
+        {"en": "Climate change is high on the agenda of this year's meeting.",
+         "zh": "气候变化是今年会议的首要议题。"}
+      ],
+      "note": "agenda 原为复数，现作单数用；on the agenda 常用。"
+    },
+    {
+      "word": "degenerate",
+      "phr": [
+        {"en": "degenerate into", "zh": "恶化为"},
+        {"en": "degenerate rapidly", "zh": "迅速恶化"}
+      ],
+      "ex": [
+        {"en": "The peaceful protest soon degenerated into a violent clash.",
+         "zh": "和平抗议很快演变成暴力冲突。"}
+      ],
+      "note": "degenerate into 指局面变坏；作动词时重音在第二音节。"
+    },
+    {
+      "word": "nurture",
+      "phr": [
+        {"en": "nurture talent", "zh": "培养人才"},
+        {"en": "nurture a child", "zh": "养育孩子"}
+      ],
+      "ex": [
+        {"en": "Good teachers nurture curiosity rather than simply pass on facts.",
+         "zh": "好老师培养好奇心，而不只是传授知识。"}
+      ],
+      "note": "nature and nurture 是「先天与后天」的固定说法。"
+    },
+    {
+      "word": "destructive",
+      "phr": [
+        {"en": "destructive behaviour", "zh": "破坏性行为"},
+        {"en": "a destructive storm", "zh": "破坏性风暴"}
+      ],
+      "ex": [
+        {"en": "The storm was so destructive that the village took years to recover.",
+         "zh": "这场风暴破坏力极强，村庄多年才恢复。"}
+      ],
+      "note": "de-（向下）+ struct（建造），与 constructive 相对。"
+    },
+    {
+      "word": "appearance",
+      "phr": [
+        {"en": "make an appearance", "zh": "露面"},
+        {"en": "judge by appearance", "zh": "以貌取人"}
+      ],
+      "ex": [
+        {"en": "The singer made a brief appearance at the end of the show.",
+         "zh": "演唱会结尾这位歌手短暂露面。"}
+      ],
+      "note": "appearance 指露面或外表；to all appearances 表从外表看。"
+    },
+    {
+      "word": "culture",
+      "phr": [
+        {"en": "popular culture", "zh": "大众文化"},
+        {"en": "a culture of", "zh": "…的风气"}
+      ],
+      "ex": [
+        {"en": "The museum displays objects from cultures around the world.",
+         "zh": "这家博物馆展出世界各地文化的器物。"}
+      ],
+      "note": "culture 可数指不同文化；cell culture 指细胞培养。"
+    },
+    {
+      "word": "paternity",
+      "phr": [
+        {"en": "paternity leave", "zh": "陪产假"},
+        {"en": "paternity test", "zh": "亲子鉴定"}
+      ],
+      "ex": [
+        {"en": "New fathers in this company can take two months of paternity leave.",
+         "zh": "本公司的新爸爸可休两个月陪产假。"}
+      ],
+      "note": "paternity 指父系、父子关系，与 maternity 相对。"
+    },
+    {
+      "word": "hasty",
+      "phr": [
+        {"en": "a hasty decision", "zh": "草率的决定"},
+        {"en": "hasty conclusions", "zh": "仓促的结论"}
+      ],
+      "ex": [
+        {"en": "Don't make a hasty decision before you have all the facts.",
+         "zh": "掌握全部事实前不要草率决定。"}
+      ],
+      "note": "hasty 含贬义，指过于仓促；hurried 语气更中性。"
+    },
+    {
+      "word": "anonymous",
+      "phr": [
+        {"en": "an anonymous letter", "zh": "匿名信"},
+        {"en": "remain anonymous", "zh": "保持匿名"}
+      ],
+      "ex": [
+        {"en": "The donor chose to remain anonymous, so nobody knew where the money came from.",
+         "zh": "捐赠者选择匿名，因此没人知道这笔钱的来源。"}
+      ],
+      "note": "an-（无）+ onym（名），同根词 synonym、antonym。"
+    },
+    {
+      "word": "fake",
+      "phr": [
+        {"en": "a fake smile", "zh": "假笑"},
+        {"en": "fake documents", "zh": "伪造文件"}
+      ],
+      "ex": [
+        {"en": "The dealer was arrested for selling fake paintings to tourists.",
+         "zh": "这名画商因向游客出售假画被捕。"}
+      ],
+      "note": "fake 作形容词最常用；伪造签名常说 forge a signature。"
+    },
+    {
+      "word": "span",
+      "phr": [
+        {"en": "a span of ten years", "zh": "十年时间"},
+        {"en": "span the river", "zh": "横跨河流"}
+      ],
+      "ex": [
+        {"en": "His career spanned four decades and three continents.",
+         "zh": "他的职业生涯跨越四个十年、三大洲。"}
+      ],
+      "note": "span 指时间或空间跨度；life span 指寿命。"
+    },
+    {
+      "word": "escort",
+      "phr": [
+        {"en": "under escort", "zh": "在护送下"},
+        {"en": "escort sb home", "zh": "护送某人回家"}
+      ],
+      "ex": [
+        {"en": "Two officers escorted the visitors out of the building.",
+         "zh": "两名警官把来访者护送出了大楼。"}
+      ],
+      "note": "escort 作名词重音在前，作动词重音在后，读音不同。"
+    },
+    {
+      "word": "bizarre",
+      "phr": [
+        {"en": "a bizarre story", "zh": "离奇的故事"},
+        {"en": "bizarre behaviour", "zh": "怪异行为"}
+      ],
+      "ex": [
+        {"en": "The witness gave a bizarre account of what happened that night.",
+         "zh": "证人对那晚发生的事作了离奇的描述。"}
+      ],
+      "note": "bizarre 指离奇得令人费解，语气比 strange 更强。"
+    },
+    {
+      "word": "existence",
+      "phr": [
+        {"en": "come into existence", "zh": "产生"},
+        {"en": "in existence", "zh": "存在着的"}
+      ],
+      "ex": [
+        {"en": "The organization has been in existence for over fifty years.",
+         "zh": "这个组织已存在五十多年。"}
+      ],
+      "note": "come into existence 表开始存在；动词形式是 exist。"
+    },
+    {
+      "word": "ascribe",
+      "phr": [
+        {"en": "ascribe A to B", "zh": "把A归因于B"},
+        {"en": "be ascribed to", "zh": "被归因于"}
+      ],
+      "ex": [
+        {"en": "Scientists ascribe the rise in temperature to human activity.",
+         "zh": "科学家把气温上升归因于人类活动。"}
+      ],
+      "note": "ascribe A to B 中 A 是结果、B 是原因；近义词 attribute。"
+    },
+    {
+      "word": "threshold",
+      "phr": [
+        {"en": "on the threshold of", "zh": "即将…之时"},
+        {"en": "a high pain threshold", "zh": "高痛阈"}
+      ],
+      "ex": [
+        {"en": "We are on the threshold of a new era in medicine.",
+         "zh": "我们正处在医学新时代的开端。"}
+      ],
+      "note": "threshold 指门槛或临界点；on the threshold of 表即将。"
+    },
+    {
+      "word": "float",
+      "phr": [
+        {"en": "float on water", "zh": "浮在水面"},
+        {"en": "float in the air", "zh": "飘在空中"}
+      ],
+      "ex": [
+        {"en": "A few fallen leaves were floating slowly down the river.",
+         "zh": "几片落叶顺河缓缓漂下。"}
+      ],
+      "note": "float 指浮在液体上或悬在空中；反义词是 sink。"
+    }
+  ]
+}

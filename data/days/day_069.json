@@ -1,0 +1,246 @@
+{
+ "day": 69,
+ "date": null,
+ "words": [
+  {
+   "id": 2041,
+   "word": "specialty",
+   "uk": "/ˌspeʃəltɪ/",
+   "us": "/ˈspɛʃəlti/",
+   "pos": "n.",
+   "cn": "特产；名产；特色菜；专业；专长"
+  },
+  {
+   "id": 2042,
+   "word": "vary",
+   "uk": "/ˈveəri/",
+   "us": "/ˈveri/",
+   "pos": "vi.,vt.",
+   "cn": "变化；有差异；改变；使多样化"
+  },
+  {
+   "id": 2043,
+   "word": "readily",
+   "uk": "/ˈredɪli/",
+   "us": "/ˈrɛdɪli/",
+   "pos": "adv.",
+   "cn": "乐意地；欣然地；容易地；很快地；立即"
+  },
+  {
+   "id": 2044,
+   "word": "coherent",
+   "uk": "/kəuˈhɪərənt/",
+   "us": "/koˈhɪrənt/",
+   "pos": "adj.",
+   "cn": "条理清楚的；连贯的；一致的；协调的"
+  },
+  {
+   "id": 2045,
+   "word": "intercourse",
+   "uk": "/ˈɪntəkɔːs/",
+   "us": "/ˈɪntɚkɔrs/",
+   "pos": "n.",
+   "cn": "性交；交流；交往；交际"
+  },
+  {
+   "id": 2046,
+   "word": "convenience",
+   "uk": "/kənˈviːniəns/",
+   "us": "/kənˈvinɪəns/",
+   "pos": "n.",
+   "cn": "方便；便利设施"
+  },
+  {
+   "id": 2047,
+   "word": "decency",
+   "uk": "/ˈdiːsnsi/",
+   "us": "/ˈdisnsi/",
+   "pos": "n.",
+   "cn": "得体；宽容；大方；正派；合乎礼仪；体面"
+  },
+  {
+   "id": 2048,
+   "word": "falsehood",
+   "uk": "/ˈfɔːlshud/",
+   "us": "/ˈfɔlshʊd/",
+   "pos": "n.",
+   "cn": "谬误；虚假；谎言；说谎"
+  },
+  {
+   "id": 2049,
+   "word": "discipline",
+   "uk": "/ˈdɪsəplɪn/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "纪律；训练；惩罚；学科；训练；惩罚；处罚"
+  },
+  {
+   "id": 2050,
+   "word": "ponder",
+   "uk": "/ˈpɒndə/",
+   "us": "/ˈpɑndɚ/",
+   "pos": "v.",
+   "cn": "思索；考虑；沉思"
+  },
+  {
+   "id": 2051,
+   "word": "objective",
+   "uk": "/əbˈdʒektɪv/",
+   "us": "/əbˈdʒɛktɪv/",
+   "pos": "adj.,n.",
+   "cn": "客观的；无偏见的；目标；目的"
+  },
+  {
+   "id": 2052,
+   "word": "exert",
+   "uk": "/ɪgˈzɜːt/",
+   "us": "/ɪɡˈzɝt/",
+   "pos": "vt.",
+   "cn": "用；尽；运用；行使"
+  },
+  {
+   "id": 2053,
+   "word": "scandal",
+   "uk": "/ˈskændl/",
+   "us": "",
+   "pos": "n.",
+   "cn": "丑事；丑闻；流言蜚语；反感；愤慨"
+  },
+  {
+   "id": 2054,
+   "word": "composite",
+   "uk": "/ˈkɒmpəzɪt/",
+   "us": "/kɑmˈpɑzɪt/",
+   "pos": "adj.,n.",
+   "cn": "混合成的；综合成的；合成物；复合材料"
+  },
+  {
+   "id": 2055,
+   "word": "hinder",
+   "uk": "/ˈhɪndə/",
+   "us": "/ˈhɪndɚ/",
+   "pos": "vt.",
+   "cn": "阻碍；妨碍"
+  },
+  {
+   "id": 2056,
+   "word": "scent",
+   "uk": "/sent/",
+   "us": "/sɛnt/",
+   "pos": "n.,vt.",
+   "cn": "香味；气味；臭迹；踪迹；线索；香水；嗅到；察觉"
+  },
+  {
+   "id": 2057,
+   "word": "estimate",
+   "uk": "/ˈestɪmeɪt/",
+   "us": "/ˈɛstə,met/",
+   "pos": "vt.,n.",
+   "cn": "估计；评价；估计；评价；看法"
+  },
+  {
+   "id": 2058,
+   "word": "diploma",
+   "uk": "/dɪˈpləumə/",
+   "us": "/dɪˈplomə/",
+   "pos": "n.",
+   "cn": "毕业文凭；毕业证书；资格证书"
+  },
+  {
+   "id": 2059,
+   "word": "exhibit",
+   "uk": "/ɪgˈzɪbɪt/",
+   "us": "/ɪɡˈzɪbɪt/",
+   "pos": "vt.,n.",
+   "cn": "显示；陈列；展览；展览品"
+  },
+  {
+   "id": 2060,
+   "word": "brand",
+   "uk": "/brænd/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "商标；牌子；铭刻；打烙印于；加污名于；谴责"
+  },
+  {
+   "id": 2061,
+   "word": "suspension",
+   "uk": "/səˈspenʃn/",
+   "us": "/səˈspɛnʃən/",
+   "pos": "n.",
+   "cn": "暂停；中止；暂令停止参加；暂时剥夺；悬架；悬置机构；悬浮液；悬；挂；吊"
+  },
+  {
+   "id": 2062,
+   "word": "alcohol",
+   "uk": "/ˈælkəhɒl/",
+   "us": "/ˈælkəhɔl/",
+   "pos": "n.",
+   "cn": "酒精；乙醇"
+  },
+  {
+   "id": 2063,
+   "word": "inevitable",
+   "uk": "/ɪnˈevɪtəbl/",
+   "us": "/ɪnˈɛvɪtəbl/",
+   "pos": "adj.",
+   "cn": "不可避免的；必然的"
+  },
+  {
+   "id": 2064,
+   "word": "deny",
+   "uk": "/dɪˈnaɪ/",
+   "us": "/dɪˈnai/",
+   "pos": "vt.",
+   "cn": "否定；拒绝相信"
+  },
+  {
+   "id": 2065,
+   "word": "trench",
+   "uk": "/trentʃ/",
+   "us": "/trɛntʃ/",
+   "pos": "n.",
+   "cn": "沟；沟渠"
+  },
+  {
+   "id": 2066,
+   "word": "subtract",
+   "uk": "/səbˈtrækt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "减；减去；去掉"
+  },
+  {
+   "id": 2067,
+   "word": "recreation",
+   "uk": "/ˌrekriˈeɪʃn/",
+   "us": "/,rɛkrɪˈeʃən/",
+   "pos": "n.",
+   "cn": "娱乐活动；消遣"
+  },
+  {
+   "id": 2068,
+   "word": "frustration",
+   "uk": "/frʌˈstreɪʃn/",
+   "us": "/frʌˈstreʃən/",
+   "pos": "n.",
+   "cn": "挫败；挫折；受挫"
+  },
+  {
+   "id": 2069,
+   "word": "allowance",
+   "uk": "/əˈlauəns/",
+   "us": "/əˈlaʊəns/",
+   "pos": "n.",
+   "cn": "津贴；补贴；零用钱"
+  },
+  {
+   "id": 2070,
+   "word": "hurricane",
+   "uk": "/ˈhʌrɪkən/",
+   "us": "/ˈhʌrɪken/",
+   "pos": "n.",
+   "cn": "飓风"
+  }
+ ]
+}

@@ -1,0 +1,335 @@
+{
+  "day": 47,
+  "words": [
+    {
+      "word": "species",
+      "phr": [
+        {"en": "an endangered species", "zh": "濒危物种"},
+        {"en": "a species of", "zh": "一种…"}
+      ],
+      "ex": [
+        {"en": "This species of bird is found only on the island.", "zh": "这种鸟仅见于该岛。"}
+      ],
+      "note": "species 单复数同形：a species，many species。"
+    },
+    {
+      "word": "slip",
+      "phr": [
+        {"en": "slip on", "zh": "在…上滑倒"},
+        {"en": "a slip of the tongue", "zh": "口误"}
+      ],
+      "ex": [
+        {"en": "Be careful not to slip on the wet floor.", "zh": "小心别在湿地板上滑倒。"}
+      ],
+      "note": "slip on 滑倒，slip up 出错，slip of the tongue 口误。"
+    },
+    {
+      "word": "temperament",
+      "phr": [
+        {"en": "an artistic temperament", "zh": "艺术家的气质"},
+        {"en": "a calm temperament", "zh": "平和的性情"}
+      ],
+      "ex": [
+        {"en": "The two children have completely different temperaments and interests.", "zh": "这两个孩子的性情和兴趣完全不同。"}
+      ],
+      "note": "temperament 指天生性情；temper 更多指脾气。"
+    },
+    {
+      "word": "cite",
+      "phr": [
+        {"en": "cite an example", "zh": "举例"},
+        {"en": "cite a source", "zh": "引用出处"}
+      ],
+      "ex": [
+        {"en": "The report cites several studies to support its conclusion.", "zh": "报告引用了几项研究来支持其结论。"}
+      ],
+      "note": "cite 指引用作证据，quote 是直接引述原文。"
+    },
+    {
+      "word": "acquaintance",
+      "phr": [
+        {"en": "make sb's acquaintance", "zh": "结识某人"},
+        {"en": "a casual acquaintance", "zh": "泛泛之交"}
+      ],
+      "ex": [
+        {"en": "I made his acquaintance at a conference last year.", "zh": "我去年在一次会议上结识了他。"}
+      ],
+      "note": "acquaintance 指熟人，交情浅于 friend。"
+    },
+    {
+      "word": "moan",
+      "phr": [
+        {"en": "moan about", "zh": "抱怨…"},
+        {"en": "let out a moan", "zh": "发出呻吟"}
+      ],
+      "ex": [
+        {"en": "He is always moaning about the low pay.", "zh": "他总在抱怨工资低。"}
+      ],
+      "note": "moan about 是抱怨；groan 多指痛苦的呻吟。"
+    },
+    {
+      "word": "quench",
+      "phr": [
+        {"en": "quench one's thirst", "zh": "解渴"},
+        {"en": "quench a fire", "zh": "扑灭火焰"}
+      ],
+      "ex": [
+        {"en": "A glass of cold water was enough to quench his thirst.", "zh": "一杯凉水就足够让他解渴。"}
+      ],
+      "note": "常搭 quench one's thirst 解渴，也可说 quench a fire。"
+    },
+    {
+      "word": "shed",
+      "phr": [
+        {"en": "shed tears", "zh": "流泪"},
+        {"en": "shed light on", "zh": "阐明"}
+      ],
+      "ex": [
+        {"en": "New evidence may shed light on the cause of the fire.", "zh": "新证据可能有助于弄清火灾的起因。"}
+      ],
+      "note": "shed light on 意为阐明；shed 的过去式仍是 shed。"
+    },
+    {
+      "word": "spice",
+      "phr": [
+        {"en": "spice up", "zh": "使更有趣"},
+        {"en": "mixed spices", "zh": "混合香料"}
+      ],
+      "ex": [
+        {"en": "A little humour can spice up a dull lecture.", "zh": "一点幽默就能让枯燥的讲座变得有趣。"}
+      ],
+      "note": "spice up 意为增添趣味；spice 泛指香料。"
+    },
+    {
+      "word": "rating",
+      "phr": [
+        {"en": "approval rating", "zh": "支持率"},
+        {"en": "credit rating", "zh": "信用评级"}
+      ],
+      "ex": [
+        {"en": "The president's approval rating fell sharply after the scandal.", "zh": "丑闻之后总统的支持率大幅下降。"}
+      ],
+      "note": "rating 常用复数表收视率；credit rating 指信用评级。"
+    },
+    {
+      "word": "assertive",
+      "phr": [
+        {"en": "an assertive manner", "zh": "自信果断的态度"},
+        {"en": "become more assertive", "zh": "变得更加自信果断"}
+      ],
+      "ex": [
+        {"en": "She has learned to be more assertive in meetings.", "zh": "她学会了在会上更果断地表达自己。"}
+      ],
+      "note": "assertive 多含褒义，指自信有主见；aggressive 偏咄咄逼人。"
+    },
+    {
+      "word": "autonomous",
+      "phr": [
+        {"en": "an autonomous region", "zh": "自治区"},
+        {"en": "autonomous vehicles", "zh": "自动驾驶汽车"}
+      ],
+      "ex": [
+        {"en": "The region has been autonomous for more than fifty years.", "zh": "该地区自治已五十多年。"}
+      ],
+      "note": "auto-（自己）加 nom（法则），即自治的。"
+    },
+    {
+      "word": "referee",
+      "phr": [
+        {"en": "the referee's decision", "zh": "裁判的判罚"},
+        {"en": "act as referee", "zh": "担任裁判"}
+      ],
+      "ex": [
+        {"en": "The referee blew the whistle and ended the match.", "zh": "裁判吹响哨子，结束了比赛。"}
+      ],
+      "note": "referee 用于足球、拳击；网球裁判多用 umpire。"
+    },
+    {
+      "word": "aerial",
+      "phr": [
+        {"en": "aerial photography", "zh": "航空摄影"},
+        {"en": "an aerial view", "zh": "鸟瞰图"}
+      ],
+      "ex": [
+        {"en": "The aerial view of the city shows how densely it is built.", "zh": "城市的鸟瞰图显示出它的建筑密度之高。"}
+      ],
+      "note": "aerial 作名词在英式英语中指天线；aerial view 是鸟瞰。"
+    },
+    {
+      "word": "trial",
+      "phr": [
+        {"en": "a trial run", "zh": "试运行"},
+        {"en": "stand trial", "zh": "受审"}
+      ],
+      "ex": [
+        {"en": "The new drug is still undergoing clinical trials in three hospitals.", "zh": "这种新药仍在三家医院进行临床试验。"}
+      ],
+      "note": "trial 表试验常用复数 trials；on trial 指受审或试用中。"
+    },
+    {
+      "word": "perception",
+      "phr": [
+        {"en": "public perception", "zh": "公众看法"},
+        {"en": "a perception of", "zh": "对…的认识"}
+      ],
+      "ex": [
+        {"en": "The media can strongly influence public perception of crime.", "zh": "媒体能强烈影响公众对犯罪的看法。"}
+      ],
+      "note": "perception 常与 of 连用；动词是 perceive。"
+    },
+    {
+      "word": "elapse",
+      "phr": [
+        {"en": "as time elapses", "zh": "随着时间流逝"},
+        {"en": "years elapse", "zh": "岁月流逝"}
+      ],
+      "ex": [
+        {"en": "Several months elapsed before we heard from him again.", "zh": "过了好几个月我们才再次收到他的消息。"}
+      ],
+      "note": "elapse 只用于时间，主语是 time、months、years。"
+    },
+    {
+      "word": "symmetry",
+      "phr": [
+        {"en": "perfect symmetry", "zh": "完美的对称"},
+        {"en": "the symmetry of", "zh": "…的对称性"}
+      ],
+      "ex": [
+        {"en": "The building is admired for the perfect symmetry of its design.", "zh": "这座建筑因设计完美对称而备受赞赏。"}
+      ],
+      "note": "sym-（共同）加 metry（测量），形容词是 symmetrical。"
+    },
+    {
+      "word": "visualize",
+      "phr": [
+        {"en": "visualize doing sth", "zh": "想象做某事"},
+        {"en": "visualize the outcome", "zh": "设想结果"}
+      ],
+      "ex": [
+        {"en": "Try to visualize yourself giving the speech calmly.", "zh": "试着想象自己从容地发表演讲。"}
+      ],
+      "note": "visualize 后接动名词或 oneself doing。"
+    },
+    {
+      "word": "reap",
+      "phr": [
+        {"en": "reap the benefits", "zh": "获得好处"},
+        {"en": "reap what you sow", "zh": "种瓜得瓜"}
+      ],
+      "ex": [
+        {"en": "Companies that invest in training reap the benefits in the long run.", "zh": "投资培训的公司在长期中会获得回报。"}
+      ],
+      "note": "reap 本义收割，reap the benefits 是高频搭配。"
+    },
+    {
+      "word": "insect",
+      "phr": [
+        {"en": "an insect bite", "zh": "昆虫叮咬"},
+        {"en": "insect repellent", "zh": "驱虫剂"}
+      ],
+      "ex": [
+        {"en": "Some insects can cause serious damage to crops.", "zh": "有些昆虫会对庄稼造成严重损害。"}
+      ],
+      "note": "insect 可数，泛指时用复数；pest 多指害虫。"
+    },
+    {
+      "word": "presume",
+      "phr": [
+        {"en": "presume that", "zh": "假定…"},
+        {"en": "presume to do", "zh": "冒昧做某事"}
+      ],
+      "ex": [
+        {"en": "I presume you have already read the report.", "zh": "我想你已经读过这份报告了。"}
+      ],
+      "note": "presume 比 assume 更强调有依据的推断。"
+    },
+    {
+      "word": "complement",
+      "phr": [
+        {"en": "complement each other", "zh": "相互补充"},
+        {"en": "a perfect complement to", "zh": "…的完美补充"}
+      ],
+      "ex": [
+        {"en": "The two colours complement each other beautifully in this design.", "zh": "在这个设计里两种颜色相互映衬得很美。"}
+      ],
+      "note": "complement 是补充使完整，compliment 是赞美。"
+    },
+    {
+      "word": "cable",
+      "phr": [
+        {"en": "cable car", "zh": "缆车"},
+        {"en": "a power cable", "zh": "电力电缆"}
+      ],
+      "ex": [
+        {"en": "The cable car takes visitors to the top of the mountain.", "zh": "缆车把游客送到山顶。"}
+      ],
+      "note": "cable car 缆车，cable TV 有线电视。"
+    },
+    {
+      "word": "nasty",
+      "phr": [
+        {"en": "a nasty habit", "zh": "坏习惯"},
+        {"en": "a nasty accident", "zh": "严重的事故"}
+      ],
+      "ex": [
+        {"en": "He developed a nasty habit of interrupting others.", "zh": "他养成了打断别人说话的坏习惯。"}
+      ],
+      "note": "nasty 除讨厌外还表严重，如 a nasty fall。"
+    },
+    {
+      "word": "intense",
+      "phr": [
+        {"en": "intense competition", "zh": "激烈竞争"},
+        {"en": "intense heat", "zh": "酷热"}
+      ],
+      "ex": [
+        {"en": "The competition for these jobs is extremely intense.", "zh": "这些职位的竞争极其激烈。"}
+      ],
+      "note": "intense 指程度强烈；intensive 指密集的。"
+    },
+    {
+      "word": "border",
+      "phr": [
+        {"en": "cross the border", "zh": "越过边境"},
+        {"en": "border on", "zh": "与…接壤"}
+      ],
+      "ex": [
+        {"en": "The village lies on the border between the two countries.", "zh": "这个村庄位于两国交界处。"}
+      ],
+      "note": "border on 除接壤外还表近乎，如 border on rudeness。"
+    },
+    {
+      "word": "estate",
+      "phr": [
+        {"en": "real estate", "zh": "房地产"},
+        {"en": "a housing estate", "zh": "住宅区"}
+      ],
+      "ex": [
+        {"en": "He made his fortune in real estate before he was thirty.", "zh": "他三十岁前靠房地产发了财。"}
+      ],
+      "note": "real estate 是房地产的固定说法；estate 还指遗产。"
+    },
+    {
+      "word": "articulate",
+      "phr": [
+        {"en": "an articulate speaker", "zh": "口才好的演讲者"},
+        {"en": "articulate one's views", "zh": "明确表达观点"}
+      ],
+      "ex": [
+        {"en": "She is an articulate speaker who can explain complex ideas simply.", "zh": "她口才很好，能把复杂观点讲得很简单。"}
+      ],
+      "note": "articulate 作形容词重音在第二音节，作动词指清晰表达。"
+    },
+    {
+      "word": "adhere",
+      "phr": [
+        {"en": "adhere to the rules", "zh": "遵守规则"},
+        {"en": "adhere to a surface", "zh": "附着在表面"}
+      ],
+      "ex": [
+        {"en": "All members must adhere to the club's rules.", "zh": "所有会员都必须遵守俱乐部的规定。"}
+      ],
+      "note": "adhere 不及物，须接 to：adhere to the rules 遵守规则。"
+    }
+  ]
+}

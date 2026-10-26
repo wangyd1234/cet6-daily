@@ -1,0 +1,246 @@
+{
+ "day": 15,
+ "date": null,
+ "words": [
+  {
+   "id": 421,
+   "word": "ozone",
+   "uk": "/ˈəuzəun/",
+   "us": "/ˈozon/",
+   "pos": "n.",
+   "cn": "臭氧"
+  },
+  {
+   "id": 422,
+   "word": "indefinite",
+   "uk": "/ɪnˈdefɪnət/",
+   "us": "/ɪnˈdɛfɪnət/",
+   "pos": "adj.",
+   "cn": "无限期的；模糊的；不确定的"
+  },
+  {
+   "id": 423,
+   "word": "disaster",
+   "uk": "/dɪˈzɑːstə/",
+   "us": "/dɪˈzæstɚ/",
+   "pos": "n.",
+   "cn": "灾难；灾祸；天灾；彻底的失败"
+  },
+  {
+   "id": 424,
+   "word": "ecology",
+   "uk": "/iˈkɒlədʒi/",
+   "us": "/ɪˈkɑlədʒi/",
+   "pos": "n.",
+   "cn": "生态；生态学"
+  },
+  {
+   "id": 425,
+   "word": "minimal",
+   "uk": "/ˈmɪnɪməl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "最小的；最低限度的"
+  },
+  {
+   "id": 426,
+   "word": "cocktail",
+   "uk": "/ˈkɒkteɪl/",
+   "us": "/ˈkɑktel/",
+   "pos": "n.",
+   "cn": "鸡尾酒；餐前开胃小吃；混合物"
+  },
+  {
+   "id": 427,
+   "word": "enhance",
+   "uk": "/ɪnˈhɑːns/",
+   "us": "/ɪnˈhæns/",
+   "pos": "vt.",
+   "cn": "提高；增加；加强"
+  },
+  {
+   "id": 428,
+   "word": "convention",
+   "uk": "/kənˈvenʃn/",
+   "us": "/kənˈvɛnʃən/",
+   "pos": "n.",
+   "cn": "习俗；惯例；公约；会议"
+  },
+  {
+   "id": 429,
+   "word": "disease",
+   "uk": "/dɪˈziːz/",
+   "us": "/dɪˈziz/",
+   "pos": "n.",
+   "cn": "病；疾病；不健全；弊端"
+  },
+  {
+   "id": 430,
+   "word": "calcium",
+   "uk": "/ˈkælsiəm/",
+   "us": "/ˈkælsɪəm/",
+   "pos": "n.",
+   "cn": "钙"
+  },
+  {
+   "id": 431,
+   "word": "notwithstanding",
+   "uk": "/ˌnɒtwɪθˈstændɪŋ/",
+   "us": "/,nɑtwɪθˈstændɪŋ/",
+   "pos": "adv.",
+   "cn": "尽管"
+  },
+  {
+   "id": 432,
+   "word": "suspicion",
+   "uk": "/səˈspɪʃn/",
+   "us": "/səˈspɪʃən/",
+   "pos": "n.",
+   "cn": "怀疑；疑心；猜疑；一点儿；少量"
+  },
+  {
+   "id": 433,
+   "word": "purchase",
+   "uk": "/ˈpɜːtʃəs/",
+   "us": "/ˈpɝtʃəs/",
+   "pos": "vt.,n.",
+   "cn": "买；购买；购买；购买的物品"
+  },
+  {
+   "id": 434,
+   "word": "refusal",
+   "uk": "/rɪˈfjuːzl/",
+   "us": "/rɪˈfjuzl/",
+   "pos": "n.",
+   "cn": "拒绝"
+  },
+  {
+   "id": 435,
+   "word": "disposable",
+   "uk": "/dɪˈspəuzəbl/",
+   "us": "/dɪˈspozəbl/",
+   "pos": "adj.,n.",
+   "cn": "可任意使用的；一次性物品；不回收物品"
+  },
+  {
+   "id": 436,
+   "word": "bypass",
+   "uk": "/ˈbaɪpɑːs/",
+   "us": "/ˈbaɪpæs/",
+   "pos": "n.,vt.",
+   "cn": "旁道；迂回道；绕过；绕…走；越过；置…于不顾"
+  },
+  {
+   "id": 437,
+   "word": "silicon",
+   "uk": "/ˈsɪlɪkən/",
+   "us": "",
+   "pos": "n.",
+   "cn": "硅"
+  },
+  {
+   "id": 438,
+   "word": "clarity",
+   "uk": "/ˈklærəti/",
+   "us": "",
+   "pos": "n.",
+   "cn": "清楚；明晰"
+  },
+  {
+   "id": 439,
+   "word": "fund",
+   "uk": "/fʌnd/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "资金；基金；存款；为…提供资金"
+  },
+  {
+   "id": 440,
+   "word": "typical",
+   "uk": "/ˈtɪpɪkl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "典型的；有代表性的"
+  },
+  {
+   "id": 441,
+   "word": "recipient",
+   "uk": "/rɪˈsɪpiənt/",
+   "us": "/rɪˈsɪpɪənt/",
+   "pos": "n.",
+   "cn": "接受者；接收者"
+  },
+  {
+   "id": 442,
+   "word": "commonwealth",
+   "uk": "/ˈkɒmənwelθ/",
+   "us": "/ˈkɑmənˈwɛlθ/",
+   "pos": "n.",
+   "cn": "[C-]英联邦；联邦；联合体"
+  },
+  {
+   "id": 443,
+   "word": "watt",
+   "uk": "/wɒt/",
+   "us": "/wɑt/",
+   "pos": "n.",
+   "cn": "瓦"
+  },
+  {
+   "id": 444,
+   "word": "buzz",
+   "uk": "/bʌz/",
+   "us": "",
+   "pos": "vi.,n.",
+   "cn": "发出嗡嗡声；忙乱；急行；发出嘈杂的谈话声；嗡嗡声；嘈杂的谈话声"
+  },
+  {
+   "id": 445,
+   "word": "finance",
+   "uk": "/ˈfaɪnæns/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "财政；金融；财源；财务情况；为…提供资金"
+  },
+  {
+   "id": 446,
+   "word": "incur",
+   "uk": "/ɪnˈkɜː/",
+   "us": "/ɪnˈkɝ/",
+   "pos": "vt.",
+   "cn": "招致；引起；遭受"
+  },
+  {
+   "id": 447,
+   "word": "notorious",
+   "uk": "/nəuˈtɔːriəs/",
+   "us": "/noˈtɔrɪəs/",
+   "pos": "adj.",
+   "cn": "臭名昭著的；声名狼藉的"
+  },
+  {
+   "id": 448,
+   "word": "assassination",
+   "uk": "/əˌsæsɪˈneɪʃn/",
+   "us": "/əˌsæsəˈneɪʃn/",
+   "pos": "n.",
+   "cn": "刺杀；暗杀"
+  },
+  {
+   "id": 449,
+   "word": "infant",
+   "uk": "/ˈɪnfənt/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "婴儿的；幼稚的；婴儿"
+  },
+  {
+   "id": 450,
+   "word": "gland",
+   "uk": "/glænd/",
+   "us": "/ɡlænd/",
+   "pos": "n.",
+   "cn": "腺"
+  }
+ ]
+}

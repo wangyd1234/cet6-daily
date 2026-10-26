@@ -1,0 +1,246 @@
+{
+ "day": 26,
+ "date": null,
+ "words": [
+  {
+   "id": 751,
+   "word": "casualty",
+   "uk": "/ˈkæʒuəlti/",
+   "us": "",
+   "pos": "n.",
+   "cn": "伤亡人员；死伤者；受害人；损失的东西"
+  },
+  {
+   "id": 752,
+   "word": "gauge",
+   "uk": "/geɪdʒ/",
+   "us": "/gedʒ/",
+   "pos": "n.,vt.",
+   "cn": "测量仪表；厚度；直径；规格、尺寸；估计；判断；计量；度量"
+  },
+  {
+   "id": 753,
+   "word": "oriental",
+   "uk": "/ˌɒːriˈentl/",
+   "us": "/ˌɔrɪˈɛntl/",
+   "pos": "adj.",
+   "cn": "东方的；东方人的；东方文化的"
+  },
+  {
+   "id": 754,
+   "word": "electrical",
+   "uk": "/ɪˈlektrɪkl/",
+   "us": "/ɪˈlɛktrɪkl/",
+   "pos": "adj.",
+   "cn": "电的；电气科学的"
+  },
+  {
+   "id": 755,
+   "word": "stall",
+   "uk": "/stɔːl/",
+   "us": "/stɔl/",
+   "pos": "v.,n.",
+   "cn": "熄火；拖延；推迟；货摊"
+  },
+  {
+   "id": 756,
+   "word": "protest",
+   "uk": "/prəˈtest/",
+   "us": "/prəˈtɛst;protɛst/",
+   "pos": "v.,n.",
+   "cn": "['prəutest]；抗议；反对"
+  },
+  {
+   "id": 757,
+   "word": "sensitive",
+   "uk": "/ˈsensətɪv/",
+   "us": "/ˈsɛnsətɪv/",
+   "pos": "adj.",
+   "cn": "敏感的；灵敏的；神经过敏的；容易生气的；易受伤害的"
+  },
+  {
+   "id": 758,
+   "word": "classification",
+   "uk": "/ˌklæsɪfɪˈkeɪʃn/",
+   "us": "/,klæsɪfɪˈkeʃən/",
+   "pos": "n.",
+   "cn": "分类；分级；分类法；类别；级别"
+  },
+  {
+   "id": 759,
+   "word": "brew",
+   "uk": "/bruː/",
+   "us": "/brʊ/",
+   "pos": "vi.,vt.,n.",
+   "cn": "冲泡；酝酿；行将发生；酿造；冲泡；冲泡的饮料"
+  },
+  {
+   "id": 760,
+   "word": "vacant",
+   "uk": "/ˈveɪkənt/",
+   "us": "/ˈvekənt/",
+   "pos": "adj.",
+   "cn": "空的；未被占用的；空缺的；茫然的；空虚的"
+  },
+  {
+   "id": 761,
+   "word": "menace",
+   "uk": "/ˈmenəs/",
+   "us": "/ˈmɛnəs/",
+   "pos": "n.,vt.",
+   "cn": "具有危险性的人；威胁；威吓；威胁；威吓"
+  },
+  {
+   "id": 762,
+   "word": "afford",
+   "uk": "/əˈfɔːd/",
+   "us": "/əˈfɔrd/",
+   "pos": "vt.",
+   "cn": "担负得起；提供"
+  },
+  {
+   "id": 763,
+   "word": "invalid",
+   "uk": "/ɪnˈvælɪd/",
+   "us": "/ˈɪnvəlɪd；ɪnˈvælɪd/",
+   "pos": "adj.,n.",
+   "cn": "无效的；作废的；无可靠根据的；站不住脚的；病弱者；残疾者"
+  },
+  {
+   "id": 764,
+   "word": "curse",
+   "uk": "/kɜːs/",
+   "us": "/kɝs/",
+   "pos": "v.,n.",
+   "cn": "诅咒；咒骂；天谴；祸害；祸根；咒骂；诅咒；咒语"
+  },
+  {
+   "id": 765,
+   "word": "legitimate",
+   "uk": "/lɪˈdʒɪtɪmət/",
+   "us": "/ləˈdʒɪtəmɪt/",
+   "pos": "adj.,vt.",
+   "cn": "合情合理的；合理的；法律认可的；使合法"
+  },
+  {
+   "id": 766,
+   "word": "appease",
+   "uk": "/əˈpiːz/",
+   "us": "/əˈpiz/",
+   "pos": "vt.",
+   "cn": "平息；抚慰；姑息"
+  },
+  {
+   "id": 767,
+   "word": "sieve",
+   "uk": "/sɪv/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "筛子；漏勺；筛；滤"
+  },
+  {
+   "id": 768,
+   "word": "whereby",
+   "uk": "/weəˈbaɪ/",
+   "us": "/wɛrˈbai/",
+   "pos": "adv.",
+   "cn": "凭此；借以；由于"
+  },
+  {
+   "id": 769,
+   "word": "evaluate",
+   "uk": "/ɪˈvæljueɪt/",
+   "us": "/ɪˈvæljʊˈet/",
+   "pos": "vt.",
+   "cn": "评价；估…的价"
+  },
+  {
+   "id": 770,
+   "word": "status",
+   "uk": "/ˈsteɪtəs/",
+   "us": "/ˈstetəs/",
+   "pos": "n.",
+   "cn": "地位；身份；情形；状况"
+  },
+  {
+   "id": 771,
+   "word": "machinery",
+   "uk": "/məˈʃiːnəri/",
+   "us": "/məˈʃinəri/",
+   "pos": "n.",
+   "cn": "机器；机械"
+  },
+  {
+   "id": 772,
+   "word": "shield",
+   "uk": "/ʃiːld/",
+   "us": "/ʃild/",
+   "pos": "n.,vt.",
+   "cn": "防护物；护罩；盾；保护；防护"
+  },
+  {
+   "id": 773,
+   "word": "skip",
+   "uk": "/skɪp/",
+   "us": "",
+   "pos": "vi.,vt.,n.",
+   "cn": "跳；蹦跳；跳绳；跳过；略过；漏过；跳；蹦跳"
+  },
+  {
+   "id": 774,
+   "word": "instantaneous",
+   "uk": "/ˌɪnstənˈteɪniəs/",
+   "us": "/,ɪnstənˈtenɪəs/",
+   "pos": "adj.",
+   "cn": "瞬间的；即刻的"
+  },
+  {
+   "id": 775,
+   "word": "phenomenon",
+   "uk": "/fəˈnɒmɪnən/",
+   "us": "/fəˈnɑmɪnən/",
+   "pos": "n.",
+   "cn": "现象；迹象；非凡的人"
+  },
+  {
+   "id": 776,
+   "word": "quarterly",
+   "uk": "/ˈkwɔːtəli/",
+   "us": "/ˈkwɔrtɚli/",
+   "pos": "adv.,adj.,n.",
+   "cn": "按季度；一季一次；季度的；每季一次的；季刊"
+  },
+  {
+   "id": 777,
+   "word": "notify",
+   "uk": "/ˈnəutɪfaɪ/",
+   "us": "/ˈnotəˈfai/",
+   "pos": "vt.",
+   "cn": "通知；告知；报告"
+  },
+  {
+   "id": 778,
+   "word": "bibliography",
+   "uk": "/ˌbɪbliˈɒgrəfi/",
+   "us": "/,bɪblɪˈɑɡrəfi/",
+   "pos": "n.",
+   "cn": "参考书目；书目"
+  },
+  {
+   "id": 779,
+   "word": "stream",
+   "uk": "/striːm/",
+   "us": "/strim/",
+   "pos": "v.,n.",
+   "cn": "流出；涌出；河；溪流；一股；一串"
+  },
+  {
+   "id": 780,
+   "word": "recur",
+   "uk": "/rɪˈkɜː/",
+   "us": "/rɪˈkɝ/",
+   "pos": "vi.",
+   "cn": "再发生；重现"
+  }
+ ]
+}

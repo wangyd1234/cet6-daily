@@ -1,0 +1,365 @@
+{
+  "day": 39,
+  "words": [
+    {
+      "word": "tract",
+      "phr": [
+        {"en": "a tract of land", "zh": "一片土地"},
+        {"en": "distribute tracts", "zh": "分发传单"}
+      ],
+      "ex": [
+        {"en": "Volunteers stood at the station to distribute tracts about the new health policy.",
+         "zh": "志愿者站在车站，发放介绍新医疗政策的传单。"}
+      ],
+      "note": "tract 指大片土地或宣传小册子；a tract of land 是一片土地。"
+    },
+    {
+      "word": "configuration",
+      "phr": [
+        {"en": "system configuration", "zh": "系统配置"},
+        {"en": "change the configuration", "zh": "更改配置"}
+      ],
+      "ex": [
+        {"en": "You can change the configuration of the screen in the settings menu.",
+         "zh": "你可以在设置菜单中更改屏幕的配置。"}
+      ],
+      "note": "configure 是动词，configuration 指配置、布局。"
+    },
+    {
+      "word": "mercury",
+      "phr": [
+        {"en": "a mercury thermometer", "zh": "水银温度计"},
+        {"en": "mercury levels", "zh": "汞含量"}
+      ],
+      "ex": [
+        {"en": "The nurse shook the mercury thermometer before taking my temperature.",
+         "zh": "护士甩了甩水银温度计，然后给我量体温。"}
+      ],
+      "note": "mercury 意为水银，化学符号 Hg；大写指水星。"
+    },
+    {
+      "word": "frequent",
+      "phr": [
+        {"en": "frequent visits", "zh": "频繁的拜访"},
+        {"en": "a frequent visitor", "zh": "常客"}
+      ],
+      "ex": [
+        {"en": "Her frequent visits to the library helped her improve her reading skills.",
+         "zh": "她经常去图书馆，这帮助她提高了阅读能力。"}
+      ],
+      "note": "frequent 作形容词重音在前，作动词意为“常去”。"
+    },
+    {
+      "word": "chunk",
+      "phr": [
+        {"en": "a chunk of ice", "zh": "一大块冰"},
+        {"en": "a chunk of time", "zh": "一大段时间"}
+      ],
+      "ex": [
+        {"en": "He cut the meat into small chunks and added them to the soup.",
+         "zh": "他把肉切成小块，放进汤里。"}
+      ],
+      "note": "chunk 指厚块、大块；a chunk of time 表一大段时间。"
+    },
+    {
+      "word": "interact",
+      "phr": [
+        {"en": "interact with", "zh": "与…互动"},
+        {"en": "interact with others", "zh": "与他人交流"}
+      ],
+      "ex": [
+        {"en": "Children learn social skills when they interact with others in group games.",
+         "zh": "孩子们在集体游戏中与他人互动时学习社交技能。"}
+      ],
+      "note": "interact with sb 是固定搭配；名词为 interaction。"
+    },
+    {
+      "word": "commonplace",
+      "phr": [
+        {"en": "a commonplace event", "zh": "寻常小事"},
+        {"en": "become commonplace", "zh": "变得司空见惯"}
+      ],
+      "ex": [
+        {"en": "Smartphones have become commonplace among students in just a few years.",
+         "zh": "短短几年间，智能手机在学生中已变得很普遍。"}
+      ],
+      "note": "commonplace 表“司空见惯的”，比 common 更强调不稀奇。"
+    },
+    {
+      "word": "aggregate",
+      "phr": [
+        {"en": "in aggregate", "zh": "总计；总体上"},
+        {"en": "aggregate demand", "zh": "总需求"}
+      ],
+      "ex": [
+        {"en": "In aggregate, the company's sales rose by five percent last year.",
+         "zh": "总体来看，公司去年的销售额增长了百分之五。"}
+      ],
+      "note": "aggregate 作名词读 /ˈæɡrɪɡət/，作动词读 /ˈæɡrɪɡeɪt/。"
+    },
+    {
+      "word": "seemingly",
+      "phr": [
+        {"en": "seemingly endless", "zh": "似乎没完没了的"},
+        {"en": "seemingly harmless", "zh": "看似无害的"}
+      ],
+      "ex": [
+        {"en": "The seemingly simple task took the whole team three days to finish.",
+         "zh": "这项看似简单的任务花了整个团队三天才完成。"}
+      ],
+      "note": "seemingly 意为“看似”，常用于 seemingly endless 等搭配。"
+    },
+    {
+      "word": "attendant",
+      "phr": [
+        {"en": "a flight attendant", "zh": "空乘人员"},
+        {"en": "attendant problems", "zh": "随之而来的问题"}
+      ],
+      "ex": [
+        {"en": "The flight attendant asked all passengers to fasten their seat belts.",
+         "zh": "空乘人员请所有乘客系好安全带。"}
+      ],
+      "note": "attendant 作形容词表“伴随的”，常修饰 problems、risks。"
+    },
+    {
+      "word": "array",
+      "phr": [
+        {"en": "an array of", "zh": "一系列；大量"},
+        {"en": "a wide array of", "zh": "各种各样的"}
+      ],
+      "ex": [
+        {"en": "The store offers a wide array of fresh fruit and vegetables.",
+         "zh": "这家店供应各种各样的新鲜水果和蔬菜。"}
+      ],
+      "note": "an array of 后接可数名词复数，表“大量、一系列”。"
+    },
+    {
+      "word": "parameter",
+      "phr": [
+        {"en": "set the parameters", "zh": "设定参数"},
+        {"en": "within the parameters", "zh": "在范围内"}
+      ],
+      "ex": [
+        {"en": "Engineers adjusted several parameters to make the engine run more smoothly.",
+         "zh": "工程师调整了几个参数，让发动机运行得更平稳。"}
+      ],
+      "note": "parameter 多用于技术语境指参数，也指界限、范围。"
+    },
+    {
+      "word": "extinct",
+      "phr": [
+        {"en": "become extinct", "zh": "灭绝"},
+        {"en": "an extinct volcano", "zh": "死火山"}
+      ],
+      "ex": [
+        {"en": "Many species will become extinct if their habitats are destroyed.",
+         "zh": "如果栖息地被破坏，许多物种将会灭绝。"}
+      ],
+      "note": "extinct 指物种已灭绝或火山已死；名词是 extinction。"
+    },
+    {
+      "word": "discriminate",
+      "phr": [
+        {"en": "discriminate against", "zh": "歧视"},
+        {"en": "discriminate between", "zh": "区分"}
+      ],
+      "ex": [
+        {"en": "It is illegal for employers to discriminate against workers because of age.",
+         "zh": "雇主因年龄歧视员工是违法的。"}
+      ],
+      "note": "discriminate 后接 against 表歧视，接 between 表区分。"
+    },
+    {
+      "word": "degrade",
+      "phr": [
+        {"en": "degrade the soil", "zh": "使土壤退化"},
+        {"en": "degrade the quality of life", "zh": "降低生活质量"}
+      ],
+      "ex": [
+        {"en": "Heavy grazing can degrade the soil within a few years.",
+         "zh": "过度放牧会在几年内使土壤退化。"}
+      ],
+      "note": "degrade 指使退化、有辱人格；名词是 degradation。"
+    },
+    {
+      "word": "opaque",
+      "phr": [
+        {"en": "an opaque glass", "zh": "不透明的玻璃"},
+        {"en": "opaque language", "zh": "晦涩的语言"}
+      ],
+      "ex": [
+        {"en": "The bathroom window is made of opaque glass so nobody can see in.",
+         "zh": "浴室窗户用的是不透明玻璃，没人能看进来。"}
+      ],
+      "note": "opaque 本指不透明，引申指文字、说法晦涩难懂。"
+    },
+    {
+      "word": "repay",
+      "phr": [
+        {"en": "repay a loan", "zh": "偿还贷款"},
+        {"en": "repay sb's kindness", "zh": "报答某人的好意"}
+      ],
+      "ex": [
+        {"en": "She worked two jobs to repay the loan she took for college.",
+         "zh": "她打两份工来偿还上大学时借的贷款。"}
+      ],
+      "note": "repay 可接钱或人；repay sb for sth 表示为某事报答。"
+    },
+    {
+      "word": "monetary",
+      "phr": [
+        {"en": "monetary policy", "zh": "货币政策"},
+        {"en": "monetary value", "zh": "货币价值"}
+      ],
+      "ex": [
+        {"en": "The central bank tightened monetary policy to control rising prices.",
+         "zh": "央行收紧货币政策以控制物价上涨。"}
+      ],
+      "note": "monetary 来自 money，常搭配 policy、value、system。"
+    },
+    {
+      "word": "grave",
+      "phr": [
+        {"en": "a grave mistake", "zh": "严重错误"},
+        {"en": "a grave situation", "zh": "严峻的形势"}
+      ],
+      "ex": [
+        {"en": "Leaving the gas on was a grave mistake that could have killed us.",
+         "zh": "没关煤气是个严重错误，可能让我们丧命。"}
+      ],
+      "note": "grave 作形容词表“严重的”，比 serious 更书面；作名词是坟墓。"
+    },
+    {
+      "word": "advantage",
+      "phr": [
+        {"en": "take advantage of", "zh": "利用"},
+        {"en": "a competitive advantage", "zh": "竞争优势"}
+      ],
+      "ex": [
+        {"en": "Students should take advantage of the library before the exam week.",
+         "zh": "学生应趁考试周前好好利用图书馆。"}
+      ],
+      "note": "take advantage of 可指利用，也可指占某人便宜。"
+    },
+    {
+      "word": "controversy",
+      "phr": [
+        {"en": "spark controversy", "zh": "引发争议"},
+        {"en": "a heated controversy", "zh": "激烈的争论"}
+      ],
+      "ex": [
+        {"en": "The new tax plan sparked a heated controversy across the country.",
+         "zh": "新税收方案在全国引发了激烈争论。"}
+      ],
+      "note": "controversy 常接 over/about，形容词 controversial。"
+    },
+    {
+      "word": "command",
+      "phr": [
+        {"en": "command respect", "zh": "赢得尊重"},
+        {"en": "under sb's command", "zh": "由某人指挥"}
+      ],
+      "ex": [
+        {"en": "A good teacher can command respect without raising his voice.",
+         "zh": "好老师不用提高声音也能赢得尊重。"}
+      ],
+      "note": "command respect 是固定搭配，表赢得尊重。"
+    },
+    {
+      "word": "compulsory",
+      "phr": [
+        {"en": "compulsory education", "zh": "义务教育"},
+        {"en": "a compulsory course", "zh": "必修课"}
+      ],
+      "ex": [
+        {"en": "Nine years of compulsory education is free for every child in the country.",
+         "zh": "全国每个孩子都享有九年免费义务教育。"}
+      ],
+      "note": "compulsory 指规定必须做的；选修课是 optional course。"
+    },
+    {
+      "word": "performance",
+      "phr": [
+        {"en": "a live performance", "zh": "现场演出"},
+        {"en": "improve performance", "zh": "提高表现"}
+      ],
+      "ex": [
+        {"en": "The band gave a live performance in the park on Saturday evening.",
+         "zh": "周六晚上乐队在公园进行了现场演出。"}
+      ],
+      "note": "performance 可指演出，也可指工作表现和机器性能。"
+    },
+    {
+      "word": "serial",
+      "phr": [
+        {"en": "a TV serial", "zh": "电视连续剧"},
+        {"en": "serial numbers", "zh": "序列号"}
+      ],
+      "ex": [
+        {"en": "The shop checks the serial numbers of every camera it repairs.",
+         "zh": "这家店会核对每台维修相机的序列号。"}
+      ],
+      "note": "serial 强调连续编号或连载；a TV serial 指连续剧。"
+    },
+    {
+      "word": "anticipate",
+      "phr": [
+        {"en": "anticipate problems", "zh": "预见问题"},
+        {"en": "as anticipated", "zh": "正如所料"}
+      ],
+      "ex": [
+        {"en": "Organizers anticipate a large crowd at the concert this weekend.",
+         "zh": "主办方预计本周末的音乐会将有大量观众。"}
+      ],
+      "note": "anticipate 后可接名词或动名词，不接 to do。"
+    },
+    {
+      "word": "detach",
+      "phr": [
+        {"en": "detach from", "zh": "与…分离"},
+        {"en": "detach the label", "zh": "撕下标签"}
+      ],
+      "ex": [
+        {"en": "You can detach the keyboard from the tablet and use it alone.",
+         "zh": "你可以把键盘从平板上拆下来单独使用。"}
+      ],
+      "note": "detach 表拆下、分开，反义词是 attach。"
+    },
+    {
+      "word": "slash",
+      "phr": [
+        {"en": "slash prices", "zh": "大幅降价"},
+        {"en": "slash the budget", "zh": "大幅削减预算"}
+      ],
+      "ex": [
+        {"en": "The company had to slash its budget after sales fell sharply.",
+         "zh": "销量骤降后，公司只得大幅削减预算。"}
+      ],
+      "note": "slash 表大幅削减，比 cut 语气更强；也指斜线号。"
+    },
+    {
+      "word": "fabricate",
+      "phr": [
+        {"en": "fabricate evidence", "zh": "伪造证据"},
+        {"en": "fabricate a story", "zh": "编造故事"}
+      ],
+      "ex": [
+        {"en": "He was accused of trying to fabricate evidence for the trial.",
+         "zh": "他被指控试图为审判伪造证据。"}
+      ],
+      "note": "fabricate 原指制造，现多指编造、伪造。"
+    },
+    {
+      "word": "comic",
+      "phr": [
+        {"en": "a comic book", "zh": "漫画书"},
+        {"en": "a comic actor", "zh": "喜剧演员"}
+      ],
+      "ex": [
+        {"en": "My brother spends his weekends reading comic books and playing games.",
+         "zh": "我弟弟周末都在看漫画和打游戏。"}
+      ],
+      "note": "comic 作名词指漫画；作形容词指滑稽的。"
+    }
+  ]
+}

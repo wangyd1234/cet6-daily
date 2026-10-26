@@ -1,0 +1,246 @@
+{
+ "day": 67,
+ "date": null,
+ "words": [
+  {
+   "id": 1981,
+   "word": "chronic",
+   "uk": "/ˈkrɒnɪk/",
+   "us": "/ˈkrɑnɪk/",
+   "pos": "adj.",
+   "cn": "慢性的；久病的；长久的；不断的；积习难改的"
+  },
+  {
+   "id": 1982,
+   "word": "toxic",
+   "uk": "/ˈtɒksɪk/",
+   "us": "/ˈtɑksɪk/",
+   "pos": "adj.",
+   "cn": "有毒的；因中毒引起的"
+  },
+  {
+   "id": 1983,
+   "word": "contest",
+   "uk": "/ˈkɒntest/",
+   "us": "/kənˈtɛst/",
+   "pos": "n.,vt.",
+   "cn": "竞赛；争夺；争夺；与…竞争；对…提出质疑；辩驳"
+  },
+  {
+   "id": 1984,
+   "word": "author",
+   "uk": "/ˈɔːθə/",
+   "us": "/ˈɔθɚ/",
+   "pos": "n.",
+   "cn": "著作家；作者"
+  },
+  {
+   "id": 1985,
+   "word": "lever",
+   "uk": "/ˈliːvə/",
+   "us": "/ˈlɛvɚ/",
+   "pos": "n.,vt.",
+   "cn": "杠；杠杆；途径；手段；工具；撬动；撬起"
+  },
+  {
+   "id": 1986,
+   "word": "preserve",
+   "uk": "/prɪˈzɜːv/",
+   "us": "/prɪˈzɝv/",
+   "pos": "vt.",
+   "cn": "保护；维持；保存；保藏；腌制"
+  },
+  {
+   "id": 1987,
+   "word": "establish",
+   "uk": "/ɪˈstæblɪʃ/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "建立；设立；确立；证实"
+  },
+  {
+   "id": 1988,
+   "word": "expansion",
+   "uk": "/ɪkˈspænʃn/",
+   "us": "/ɪkˈspænʃən/",
+   "pos": "n.",
+   "cn": "扩大；扩充；扩张；膨胀"
+  },
+  {
+   "id": 1989,
+   "word": "wrench",
+   "uk": "/rentʃ/",
+   "us": "/rɛntʃ/",
+   "pos": "vt.,n.",
+   "cn": "猛拧；猛扭；挣脱；使扭伤；痛苦；难受；猛扭；猛拉；扳手"
+  },
+  {
+   "id": 1990,
+   "word": "relevant",
+   "uk": "/ˈreləvənt/",
+   "us": "/ˈrɛləvənt/",
+   "pos": "adj.",
+   "cn": "有关的；切题的"
+  },
+  {
+   "id": 1991,
+   "word": "expand",
+   "uk": "/ɪkˈspænd/",
+   "us": "",
+   "pos": "v.",
+   "cn": "扩大；膨胀"
+  },
+  {
+   "id": 1992,
+   "word": "gaze",
+   "uk": "/geɪz/",
+   "us": "/ɡeɪz/",
+   "pos": "vi.,n.",
+   "cn": "凝视；盯；注视"
+  },
+  {
+   "id": 1993,
+   "word": "proclaim",
+   "uk": "/prəˈkleɪm/",
+   "us": "/prəˈklem/",
+   "pos": "vt.",
+   "cn": "宣告；宣布；声明；显示"
+  },
+  {
+   "id": 1994,
+   "word": "magistrate",
+   "uk": "/ˈmædʒɪstreɪt/",
+   "us": "/ˈmædʒɪsˈtret/",
+   "pos": "n.",
+   "cn": "地方行政官；地方法官；治安官"
+  },
+  {
+   "id": 1995,
+   "word": "retrieve",
+   "uk": "/rɪˈtriːv/",
+   "us": "/rɪˈtriv/",
+   "pos": "vi.",
+   "cn": "重新得到；取回；收回；挽回；补救；检索"
+  },
+  {
+   "id": 1996,
+   "word": "survey",
+   "uk": "/ˈsɜːveɪ/",
+   "us": "/ˈsɝˌve;(forv.)sɝˈve/",
+   "pos": "v.,n.",
+   "cn": "俯瞰；眺望；全面审视；调查；测量；勘定；[sə'veɪ]"
+  },
+  {
+   "id": 1997,
+   "word": "jeopardize",
+   "uk": "/ˈdʒepədaɪz/",
+   "us": "/ˈdʒɛpɚdaɪz/",
+   "pos": "vt.",
+   "cn": "危及；危害"
+  },
+  {
+   "id": 1998,
+   "word": "spy",
+   "uk": "/spaɪ/",
+   "us": "",
+   "pos": "vi.,n.,vt.",
+   "cn": "当间谍；暗中监视；间谍；看见；发现"
+  },
+  {
+   "id": 1999,
+   "word": "displace",
+   "uk": "/dɪsˈpleɪs/",
+   "us": "/dɪsˈples/",
+   "pos": "vt.",
+   "cn": "取代；替代；迫使…离开家园；使离开原位"
+  },
+  {
+   "id": 2000,
+   "word": "predominant",
+   "uk": "/prɪˈdɒmɪnənt/",
+   "us": "/prɪˈdɑmənənt/",
+   "pos": "adj.",
+   "cn": "占主导地位的；显著的"
+  },
+  {
+   "id": 2001,
+   "word": "recipe",
+   "uk": "/ˈresəpi/",
+   "us": "/ˈrɛsəpi/",
+   "pos": "n.",
+   "cn": "烹饪法；食谱；方法；秘诀；诀窍"
+  },
+  {
+   "id": 2002,
+   "word": "ideology",
+   "uk": "/ˌaɪdiˈɒlədʒi/",
+   "us": "/,aidiˈɔlədʒi,,idi-/",
+   "pos": "n.",
+   "cn": "思想；思想意识"
+  },
+  {
+   "id": 2003,
+   "word": "mental",
+   "uk": "/ˈmentl/",
+   "us": "/ˈmɛntl/",
+   "pos": "adj.",
+   "cn": "心理的；精神的；思想上的；精神病的；智力的"
+  },
+  {
+   "id": 2004,
+   "word": "decent",
+   "uk": "/ˈdiːsnt/",
+   "us": "/ˈdisnt/",
+   "pos": "adj.",
+   "cn": "像样的；过得去的；体面的；宽厚的；大方的；正派的；合乎礼仪的；得体的"
+  },
+  {
+   "id": 2005,
+   "word": "seam",
+   "uk": "/siːm/",
+   "us": "/sim/",
+   "pos": "n.",
+   "cn": "缝；接缝；煤层"
+  },
+  {
+   "id": 2006,
+   "word": "investigate",
+   "uk": "/ɪnˈvestɪgeɪt/",
+   "us": "/ɪnˈvɛstɪɡet/",
+   "pos": "v.",
+   "cn": "调查；研究"
+  },
+  {
+   "id": 2007,
+   "word": "racial",
+   "uk": "/ˈreɪʃl/",
+   "us": "/ˈreʃl/",
+   "pos": "adj.",
+   "cn": "种族的；人种的"
+  },
+  {
+   "id": 2008,
+   "word": "illusion",
+   "uk": "/ɪˈluːʒn/",
+   "us": "/ɪˈluʒn/",
+   "pos": "n.",
+   "cn": "幻想；错误的观念；错觉；幻觉；假象"
+  },
+  {
+   "id": 2009,
+   "word": "considerable",
+   "uk": "/kənˈsɪdərəbl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "相当大的；重要的"
+  },
+  {
+   "id": 2010,
+   "word": "productivity",
+   "uk": "/ˌprɒdʌkˈtɪvəti/",
+   "us": "/,prodʌkˈtɪvəti/",
+   "pos": "n.",
+   "cn": "生产力；生产率"
+  }
+ ]
+}

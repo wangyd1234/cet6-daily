@@ -1,0 +1,365 @@
+{
+  "day": 65,
+  "words": [
+    {
+      "word": "majority",
+      "phr": [
+        {"en": "the majority of students", "zh": "大多数学生"},
+        {"en": "win by a majority", "zh": "以多数票获胜"}
+      ],
+      "ex": [
+        {"en": "The majority of members voted in favour of the new budget.",
+         "zh": "大多数成员投票支持新预算。"}
+      ],
+      "note": "the majority of 后接复数名词，谓语随之用复数。"
+    },
+    {
+      "word": "drag",
+      "phr": [
+        {"en": "drag one's feet", "zh": "故意拖延"},
+        {"en": "drag sth out", "zh": "把…拖长"}
+      ],
+      "ex": [
+        {"en": "We dragged the heavy box across the floor to the door.",
+         "zh": "我们把沉重的箱子拖过地板，拉到门口。"}
+      ],
+      "note": "drag one's feet 指故意拖延，drag out 指拖长。"
+    },
+    {
+      "word": "zinc",
+      "phr": [
+        {"en": "zinc oxide", "zh": "氧化锌"},
+        {"en": "a zinc roof", "zh": "锌皮屋顶"}
+      ],
+      "ex": [
+        {"en": "The roof is covered with zinc sheets that shine in the sun.",
+         "zh": "屋顶覆盖着在阳光下闪亮的锌板。"}
+      ],
+      "note": "不可数名词，指锌，化学符号为 Zn。"
+    },
+    {
+      "word": "costume",
+      "phr": [
+        {"en": "a costume party", "zh": "化装舞会"},
+        {"en": "traditional costume", "zh": "传统服饰"}
+      ],
+      "ex": [
+        {"en": "The children wore colourful costumes in the school play last night.",
+         "zh": "昨晚孩子们在学校演出中穿着色彩鲜艳的戏服。"}
+      ],
+      "note": "指戏服或民族服装，不指日常穿的衣服。"
+    },
+    {
+      "word": "clamp",
+      "phr": [
+        {"en": "clamp down on", "zh": "严厉打击"},
+        {"en": "clamp the boards together", "zh": "把木板夹在一起"}
+      ],
+      "ex": [
+        {"en": "The city has clamped down on cars parked on the pavement.",
+         "zh": "该市已严厉打击在人行道上停车的行为。"}
+      ],
+      "note": "clamp down on 指严厉打击，本义是用夹具夹紧。"
+    },
+    {
+      "word": "issue",
+      "phr": [
+        {"en": "an important issue", "zh": "重要问题"},
+        {"en": "issue a statement", "zh": "发表声明"}
+      ],
+      "ex": [
+        {"en": "The company issued a statement denying the rumours about layoffs.",
+         "zh": "公司发表声明，否认有关裁员的传言。"}
+      ],
+      "note": "作名词指议题，作动词指发布、发放。"
+    },
+    {
+      "word": "maturity",
+      "phr": [
+        {"en": "reach maturity", "zh": "达到成熟"},
+        {"en": "emotional maturity", "zh": "情感成熟"}
+      ],
+      "ex": [
+        {"en": "He showed great maturity in the way he handled the criticism.",
+         "zh": "他处理批评的方式显示出极大的成熟。"}
+      ],
+      "note": "指成熟，reach maturity 表达到成熟期。"
+    },
+    {
+      "word": "vain",
+      "phr": [
+        {"en": "in vain", "zh": "徒劳"},
+        {"en": "a vain attempt", "zh": "徒劳的尝试"}
+      ],
+      "ex": [
+        {"en": "They searched in vain for the missing child for three days.",
+         "zh": "他们搜寻了三天，仍未找到走失的孩子。"}
+      ],
+      "note": "in vain 指徒劳无功，vain 也可指自负的。"
+    },
+    {
+      "word": "decree",
+      "phr": [
+        {"en": "issue a decree", "zh": "颁布法令"},
+        {"en": "by royal decree", "zh": "依据皇家法令"}
+      ],
+      "ex": [
+        {"en": "The government issued a decree banning single-use plastics.",
+         "zh": "政府颁布法令，禁止使用一次性塑料制品。"}
+      ],
+      "note": "指官方法令或判决，语气正式，多用于政府。"
+    },
+    {
+      "word": "conservation",
+      "phr": [
+        {"en": "energy conservation", "zh": "节能"},
+        {"en": "wildlife conservation", "zh": "野生动物保护"}
+      ],
+      "ex": [
+        {"en": "The group works on wildlife conservation in the mountains.",
+         "zh": "该组织从事山区的野生动物保护工作。"}
+      ],
+      "note": "指保护与节约，注意与 conversation 区分。"
+    },
+    {
+      "word": "supplement",
+      "phr": [
+        {"en": "a dietary supplement", "zh": "膳食补充剂"},
+        {"en": "supplement one's income", "zh": "增加收入"}
+      ],
+      "ex": [
+        {"en": "He took a part-time job to supplement his income.",
+         "zh": "他做了一份兼职来补贴收入。"}
+      ],
+      "note": "作动词指补充增补，名词指补充物或增刊。"
+    },
+    {
+      "word": "contrast",
+      "phr": [
+        {"en": "in contrast to", "zh": "与…相比"},
+        {"en": "a sharp contrast", "zh": "鲜明的对比"}
+      ],
+      "ex": [
+        {"en": "In contrast to his brother, Tom enjoys quiet evenings at home.",
+         "zh": "与弟弟不同，汤姆喜欢在家安静地度过夜晚。"}
+      ],
+      "note": "in contrast to 表对比，by contrast 表相比之下。"
+    },
+    {
+      "word": "verdict",
+      "phr": [
+        {"en": "reach a verdict", "zh": "作出裁决"},
+        {"en": "a guilty verdict", "zh": "有罪判决"}
+      ],
+      "ex": [
+        {"en": "The jury reached a verdict after six hours of discussion.",
+         "zh": "陪审团经过六小时讨论后作出裁决。"}
+      ],
+      "note": "指陪审团的裁定，也可指最终的定论。"
+    },
+    {
+      "word": "stereo",
+      "phr": [
+        {"en": "a stereo system", "zh": "立体声音响"},
+        {"en": "in stereo", "zh": "以立体声"}
+      ],
+      "ex": [
+        {"en": "He turned up the stereo and the whole room shook.",
+         "zh": "他把音响的声音调大，整个房间都震动了。"}
+      ],
+      "note": "指立体声音响，in stereo 表以立体声播放。"
+    },
+    {
+      "word": "defy",
+      "phr": [
+        {"en": "defy the law", "zh": "违抗法律"},
+        {"en": "defy description", "zh": "难以描述"}
+      ],
+      "ex": [
+        {"en": "Some drivers openly defy the speed limits in this area.",
+         "zh": "这一地区有些司机公然违反限速规定。"}
+      ],
+      "note": "指违抗；defy description 表美得难以描述。"
+    },
+    {
+      "word": "doctrine",
+      "phr": [
+        {"en": "religious doctrine", "zh": "宗教教义"},
+        {"en": "political doctrine", "zh": "政治主张"}
+      ],
+      "ex": [
+        {"en": "The party has never questioned its basic economic doctrine.",
+         "zh": "该党从未质疑过自己的基本经济信条。"}
+      ],
+      "note": "指教义或主义，多用于宗教、政治领域。"
+    },
+    {
+      "word": "paragraph",
+      "phr": [
+        {"en": "the first paragraph", "zh": "第一段"},
+        {"en": "a new paragraph", "zh": "新的一段"}
+      ],
+      "ex": [
+        {"en": "Please read the first paragraph and answer the questions below.",
+         "zh": "请阅读第一段，并回答下面的问题。"}
+      ],
+      "note": "由 para-(旁)加 graph(写)构成，指段落。"
+    },
+    {
+      "word": "mediate",
+      "phr": [
+        {"en": "mediate between", "zh": "在…之间调解"},
+        {"en": "mediate a dispute", "zh": "调解争端"}
+      ],
+      "ex": [
+        {"en": "A senior official was sent to mediate between the two sides.",
+         "zh": "一位高级官员被派去在双方之间调解。"}
+      ],
+      "note": "mediate between 指在双方间调解，名词为 mediator。"
+    },
+    {
+      "word": "pursuit",
+      "phr": [
+        {"en": "in pursuit of", "zh": "追求"},
+        {"en": "the pursuit of happiness", "zh": "追求幸福"}
+      ],
+      "ex": [
+        {"en": "She moved abroad in pursuit of a better career.",
+         "zh": "为了追求更好的职业，她移居国外。"}
+      ],
+      "note": "in pursuit of 表追求，动词形式为 pursue。"
+    },
+    {
+      "word": "prophet",
+      "phr": [
+        {"en": "a false prophet", "zh": "假先知"},
+        {"en": "the words of the prophet", "zh": "先知的话"}
+      ],
+      "ex": [
+        {"en": "In ancient times people often turned to a prophet for guidance.",
+         "zh": "古时候人们常向先知寻求指引。"}
+      ],
+      "note": "指先知、预言者，注意与 profit 区分。"
+    },
+    {
+      "word": "cycle",
+      "phr": [
+        {"en": "a vicious cycle", "zh": "恶性循环"},
+        {"en": "cycle to work", "zh": "骑车上班"}
+      ],
+      "ex": [
+        {"en": "Lack of sleep can create a vicious cycle of stress and illness.",
+         "zh": "睡眠不足会造成压力与疾病的恶性循环。"}
+      ],
+      "note": "指循环或自行车，vicious cycle 指恶性循环。"
+    },
+    {
+      "word": "amplify",
+      "phr": [
+        {"en": "amplify the sound", "zh": "放大声音"},
+        {"en": "amplify the effect", "zh": "增强效果"}
+      ],
+      "ex": [
+        {"en": "The speakers amplified her voice so that everyone could hear.",
+         "zh": "扩音器把她的声音放大，让每个人都能听见。"}
+      ],
+      "note": "指放大声音，也指增强效果或详述观点。"
+    },
+    {
+      "word": "lure",
+      "phr": [
+        {"en": "lure sb into doing sth", "zh": "诱使某人做某事"},
+        {"en": "lure sb away", "zh": "把某人引诱走"}
+      ],
+      "ex": [
+        {"en": "Higher salaries lured many young engineers to the private sector.",
+         "zh": "更高的薪水吸引了许多年轻工程师进入私营部门。"}
+      ],
+      "note": "lure sb into doing 指诱使某人做某事，多含贬义。"
+    },
+    {
+      "word": "disposal",
+      "phr": [
+        {"en": "at sb's disposal", "zh": "供某人支配"},
+        {"en": "waste disposal", "zh": "垃圾处理"}
+      ],
+      "ex": [
+        {"en": "Proper waste disposal is a serious problem in many cities.",
+         "zh": "妥善处理垃圾在许多城市都是严峻的问题。"}
+      ],
+      "note": "at sb's disposal 表供某人使用，也指处理。"
+    },
+    {
+      "word": "settlement",
+      "phr": [
+        {"en": "reach a settlement", "zh": "达成和解"},
+        {"en": "a peace settlement", "zh": "和平协议"}
+      ],
+      "ex": [
+        {"en": "The two firms reached a settlement out of court last week.",
+         "zh": "两家公司上周在庭外达成和解。"}
+      ],
+      "note": "reach a settlement 指达成和解，动词为 settle。"
+    },
+    {
+      "word": "whirl",
+      "phr": [
+        {"en": "in a whirl", "zh": "忙乱之中"},
+        {"en": "whirl around", "zh": "转过身"}
+      ],
+      "ex": [
+        {"en": "The dancers whirled around the floor to the music.",
+         "zh": "舞者们伴着音乐在地板上旋转。"}
+      ],
+      "note": "指快速旋转，也指思绪纷乱；in a whirl 表忙乱。"
+    },
+    {
+      "word": "recede",
+      "phr": [
+        {"en": "the flood waters recede", "zh": "洪水退去"},
+        {"en": "recede into the distance", "zh": "渐渐消失在远方"}
+      ],
+      "ex": [
+        {"en": "As the flood waters receded, villagers returned to their homes.",
+         "zh": "洪水退去后，村民返回了家园。"}
+      ],
+      "note": "指潮水退去、记忆变淡或发际线后移。"
+    },
+    {
+      "word": "literature",
+      "phr": [
+        {"en": "English literature", "zh": "英国文学"},
+        {"en": "the literature on the subject", "zh": "关于该课题的文献"}
+      ],
+      "ex": [
+        {"en": "She studied English literature at university and later became a teacher.",
+         "zh": "她在大学学习英国文学，后来当了老师。"}
+      ],
+      "note": "指文学或文献，为不可数名词，没有复数形式。"
+    },
+    {
+      "word": "digest",
+      "phr": [
+        {"en": "digest the information", "zh": "消化信息"},
+        {"en": "a news digest", "zh": "新闻摘要"}
+      ],
+      "ex": [
+        {"en": "It took me a while to digest all the information in the report.",
+         "zh": "我花了一段时间才消化报告中的全部信息。"}
+      ],
+      "note": "作动词读 /daɪˈdʒest/，作名词时指文摘。"
+    },
+    {
+      "word": "slump",
+      "phr": [
+        {"en": "an economic slump", "zh": "经济萧条"},
+        {"en": "a slump in sales", "zh": "销量暴跌"}
+      ],
+      "ex": [
+        {"en": "Sales slumped sharply after the new tax was introduced.",
+         "zh": "新税实施后销量大幅下跌。"}
+      ],
+      "note": "指销量、价格暴跌，也指经济萧条期。"
+    }
+  ]
+}

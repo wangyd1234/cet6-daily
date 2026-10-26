@@ -1,0 +1,605 @@
+{
+  "day": 27,
+  "words": [
+    {
+      "word": "coalition",
+      "phr": [
+        {
+          "en": "form a coalition",
+          "zh": "组成联盟"
+        },
+        {
+          "en": "a coalition government",
+          "zh": "联合政府"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The two parties formed a coalition after neither won a clear majority.",
+          "zh": "两党在均未赢得明显多数后组成联盟。"
+        }
+      ],
+      "note": "coalition 指政党为共同目的结成的临时同盟，常搭配 form。"
+    },
+    {
+      "word": "generalize",
+      "phr": [
+        {
+          "en": "generalize from",
+          "zh": "从…中归纳"
+        },
+        {
+          "en": "generalize about",
+          "zh": "泛泛而谈"
+        }
+      ],
+      "ex": [
+        {
+          "en": "It is risky to generalize from a single case to the whole population.",
+          "zh": "仅凭单个案例推断整个群体是有风险的。"
+        }
+      ],
+      "note": "generalize from 表归纳来源，generalize about 表泛论。"
+    },
+    {
+      "word": "accumulate",
+      "phr": [
+        {
+          "en": "accumulate wealth",
+          "zh": "积累财富"
+        },
+        {
+          "en": "accumulate evidence",
+          "zh": "收集证据"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Dust had accumulated on the shelves during the long holiday.",
+          "zh": "长假期间书架上积了一层灰。"
+        }
+      ],
+      "note": "accumulate 强调逐渐积累，可及物也可不及物。"
+    },
+    {
+      "word": "crime",
+      "phr": [
+        {
+          "en": "commit a crime",
+          "zh": "犯罪"
+        },
+        {
+          "en": "violent crime",
+          "zh": "暴力犯罪"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The police are investigating a series of crimes in the neighbourhood.",
+          "zh": "警方正在调查该社区发生的一系列案件。"
+        }
+      ],
+      "note": "commit a crime 为固定搭配；crime rate 指犯罪率。"
+    },
+    {
+      "word": "dwarf",
+      "phr": [
+        {
+          "en": "dwarf star",
+          "zh": "矮星"
+        },
+        {
+          "en": "be dwarfed by",
+          "zh": "因…而显得渺小"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The new tower dwarfs every other building in the city centre.",
+          "zh": "这座新塔楼使市中心的其它建筑都相形见绌。"
+        }
+      ],
+      "note": "dwarf 作动词表“使相形见绌”，常用 be dwarfed by。"
+    },
+    {
+      "word": "heave",
+      "phr": [
+        {
+          "en": "heave a sigh",
+          "zh": "叹一口气"
+        },
+        {
+          "en": "heave into view",
+          "zh": "出现在视野中"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She heaved the heavy suitcase onto the luggage rack.",
+          "zh": "她使劲把沉重的行李箱抬上行李架。"
+        }
+      ],
+      "note": "heave 强调用力举起；heave a sigh 为叹气搭配。"
+    },
+    {
+      "word": "leisure",
+      "phr": [
+        {
+          "en": "leisure time",
+          "zh": "空闲时间"
+        },
+        {
+          "en": "at leisure",
+          "zh": "有空时；从容地"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Many people spend their leisure time watching short videos on their phones.",
+          "zh": "许多人把空闲时间花在手机上看短视频。"
+        }
+      ],
+      "note": "at leisure 意为“有空时、从容地”；leisure time 指空闲时间。"
+    },
+    {
+      "word": "nourish",
+      "phr": [
+        {
+          "en": "nourish the body",
+          "zh": "滋养身体"
+        },
+        {
+          "en": "nourish a hope",
+          "zh": "怀有希望"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Fresh vegetables and whole grains nourish the body and support the immune system.",
+          "zh": "新鲜蔬菜和全谷物滋养身体并支持免疫系统。"
+        }
+      ],
+      "note": "nourish 本义“滋养”，引申为“怀有（希望）”。"
+    },
+    {
+      "word": "grease",
+      "phr": [
+        {
+          "en": "grease the pan",
+          "zh": "给平底锅抹油"
+        },
+        {
+          "en": "grease the wheels",
+          "zh": "使事情顺利进行"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Grease the pan lightly before you pour in the batter.",
+          "zh": "倒入面糊前先给平底锅抹一层薄油。"
+        }
+      ],
+      "note": "grease 作名词指油脂，作动词指给…涂油。"
+    },
+    {
+      "word": "allege",
+      "phr": [
+        {
+          "en": "be alleged to",
+          "zh": "据称"
+        },
+        {
+          "en": "alleged misconduct",
+          "zh": "被指控的不当行为"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The company is alleged to have hidden the safety report from regulators.",
+          "zh": "该公司被指称向监管机构隐瞒了安全报告。"
+        }
+      ],
+      "note": "allege 常用被动 be alleged to do，语气正式而带不确定。"
+    },
+    {
+      "word": "pilgrim",
+      "phr": [
+        {
+          "en": "a crowd of pilgrims",
+          "zh": "一群朝圣者"
+        },
+        {
+          "en": "a steady stream of pilgrims",
+          "zh": "络绎不绝的朝圣者"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Every spring thousands of pilgrims walk to the mountain temple.",
+          "zh": "每年春天都有成千上万的朝圣者步行前往山中寺庙。"
+        }
+      ],
+      "note": "pilgrim 指朝圣者，其朝圣之旅为 pilgrimage。"
+    },
+    {
+      "word": "trigger",
+      "phr": [
+        {
+          "en": "trigger a reaction",
+          "zh": "引发反应"
+        },
+        {
+          "en": "pull the trigger",
+          "zh": "扣动扳机"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The new policy triggered a wave of protests across the country.",
+          "zh": "新政策在全国引发了抗议浪潮。"
+        }
+      ],
+      "note": "trigger 作动词表“引发”，常接 reaction、debate。"
+    },
+    {
+      "word": "assimilate",
+      "phr": [
+        {
+          "en": "assimilate into",
+          "zh": "融入"
+        },
+        {
+          "en": "assimilate information",
+          "zh": "吸收信息"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Children usually assimilate a new language faster than adults do.",
+          "zh": "儿童通常比成人更快地吸收一门新语言。"
+        }
+      ],
+      "note": "assimilate 指吸收知识或被同化，融入用 assimilate into。"
+    },
+    {
+      "word": "positive",
+      "phr": [
+        {
+          "en": "a positive attitude",
+          "zh": "积极的态度"
+        },
+        {
+          "en": "positive feedback",
+          "zh": "正面反馈"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She kept a positive attitude even when the project ran into trouble.",
+          "zh": "即使项目遇到困难，她仍保持积极的态度。"
+        }
+      ],
+      "note": "positive 表“积极的、肯定的”，反义词 negative。"
+    },
+    {
+      "word": "segregate",
+      "phr": [
+        {
+          "en": "segregate A from B",
+          "zh": "把A与B分开"
+        },
+        {
+          "en": "racially segregated",
+          "zh": "实行种族隔离的"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The school was accused of segregating students with disabilities from their peers.",
+          "zh": "这所学校被指责把残障学生与同学隔离开来。"
+        }
+      ],
+      "note": "segregate 常与 from 连用，指按种族等强行分开。"
+    },
+    {
+      "word": "addict",
+      "phr": [
+        {
+          "en": "drug addict",
+          "zh": "吸毒成瘾者"
+        },
+        {
+          "en": "be addicted to",
+          "zh": "对…上瘾"
+        }
+      ],
+      "ex": [
+        {
+          "en": "He became a video game addict in his first year at university.",
+          "zh": "上大学的头一年他就成了电子游戏成瘾者。"
+        }
+      ],
+      "note": "addict 作名词重音在前；be addicted to 中 to 为介词。"
+    },
+    {
+      "word": "prospect",
+      "phr": [
+        {
+          "en": "job prospects",
+          "zh": "就业前景"
+        },
+        {
+          "en": "the prospect of",
+          "zh": "…的可能性"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Graduates with strong digital skills have better job prospects this year.",
+          "zh": "掌握扎实数字技能的毕业生今年就业前景更好。"
+        }
+      ],
+      "note": "prospect 表“前景”常用复数 prospects。"
+    },
+    {
+      "word": "withhold",
+      "phr": [
+        {
+          "en": "withhold information",
+          "zh": "隐瞒信息"
+        },
+        {
+          "en": "withhold payment",
+          "zh": "拒付"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The witness was accused of withholding key information from the court.",
+          "zh": "该证人被指控向法庭隐瞒关键信息。"
+        }
+      ],
+      "note": "withhold 强调故意不给，常接 information、payment。"
+    },
+    {
+      "word": "comparable",
+      "phr": [
+        {
+          "en": "be comparable to",
+          "zh": "可与…相比"
+        },
+        {
+          "en": "comparable data",
+          "zh": "可比数据"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The two cities are comparable in size but very different in culture.",
+          "zh": "这两座城市规模相当，但文化差异很大。"
+        }
+      ],
+      "note": "comparable to 表“比得上”，with 表“可作比较”。"
+    },
+    {
+      "word": "discreet",
+      "phr": [
+        {
+          "en": "be discreet about",
+          "zh": "对…谨慎"
+        },
+        {
+          "en": "at a discreet distance",
+          "zh": "在适当的距离"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She was very discreet about her friend's private affairs.",
+          "zh": "她对朋友的私事非常谨慎，不随便谈论。"
+        }
+      ],
+      "note": "discreet 是“谨慎的”；discrete 是“分离的、离散的”。"
+    },
+    {
+      "word": "specialize",
+      "phr": [
+        {
+          "en": "specialize in",
+          "zh": "专攻"
+        },
+        {
+          "en": "be highly specialized",
+          "zh": "高度专业化"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She specializes in international trade law at a large firm.",
+          "zh": "她在一家大型律所专攻国际贸易法。"
+        }
+      ],
+      "note": "specialize 后固定接 in，不接 on。"
+    },
+    {
+      "word": "instance",
+      "phr": [
+        {
+          "en": "for instance",
+          "zh": "例如"
+        },
+        {
+          "en": "in this instance",
+          "zh": "在此情况下"
+        }
+      ],
+      "ex": [
+        {
+          "en": "For instance, many students study late at night before an exam.",
+          "zh": "例如，许多学生在考试前熬夜学习。"
+        }
+      ],
+      "note": "for instance 与 for example 同义，也指“实例”。"
+    },
+    {
+      "word": "presumably",
+      "phr": [
+        {
+          "en": "presumably because",
+          "zh": "大概因为"
+        },
+        {
+          "en": "presumably true",
+          "zh": "大概是真的"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The meeting was cancelled, presumably because the manager was ill.",
+          "zh": "会议取消了，大概是因为经理生病了。"
+        }
+      ],
+      "note": "presumably 表“据推测”，强调推断有依据。"
+    },
+    {
+      "word": "bonus",
+      "phr": [
+        {
+          "en": "annual bonus",
+          "zh": "年度奖金"
+        },
+        {
+          "en": "cash bonus",
+          "zh": "现金奖励"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Employees received a generous bonus for meeting their sales targets.",
+          "zh": "员工因完成销售指标而获得丰厚的奖金。"
+        }
+      ],
+      "note": "bonus 指工资外的奖金，复数为 bonuses。"
+    },
+    {
+      "word": "recognition",
+      "phr": [
+        {
+          "en": "gain recognition",
+          "zh": "获得认可"
+        },
+        {
+          "en": "in recognition of",
+          "zh": "为表彰…"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The scientist finally gained international recognition for her research.",
+          "zh": "这位科学家的研究最终获得了国际认可。"
+        }
+      ],
+      "note": "in recognition of 意为“为表彰”，另有“认出”义。"
+    },
+    {
+      "word": "banquet",
+      "phr": [
+        {
+          "en": "hold a banquet",
+          "zh": "举行宴会"
+        },
+        {
+          "en": "wedding banquet",
+          "zh": "婚宴"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The hotel prepared a grand banquet for the visiting delegation.",
+          "zh": "酒店为来访代表团准备了盛大的宴会。"
+        }
+      ],
+      "note": "banquet 指正式大型宴会，比 dinner 隆重。"
+    },
+    {
+      "word": "thrill",
+      "phr": [
+        {
+          "en": "be thrilled to hear",
+          "zh": "听到…很激动"
+        },
+        {
+          "en": "a thrill of excitement",
+          "zh": "一阵激动"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The children were thrilled to see the pandas at the zoo.",
+          "zh": "孩子们在动物园看到熊猫非常兴奋。"
+        }
+      ],
+      "note": "thrill 作动词常用被动 be thrilled to do，名词指兴奋感。"
+    },
+    {
+      "word": "aisle",
+      "phr": [
+        {
+          "en": "aisle seat",
+          "zh": "靠过道的座位"
+        },
+        {
+          "en": "walk down the aisle",
+          "zh": "步入婚姻殿堂"
+        }
+      ],
+      "ex": [
+        {
+          "en": "I always book an aisle seat so that I can stretch my legs.",
+          "zh": "我总是订靠过道的座位，好伸展双腿。"
+        }
+      ],
+      "note": "aisle 中 s 不发音；座位分 aisle seat 与 window seat。"
+    },
+    {
+      "word": "convene",
+      "phr": [
+        {
+          "en": "convene a meeting",
+          "zh": "召开会议"
+        },
+        {
+          "en": "convene a summit",
+          "zh": "召开峰会"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The chairman convened an emergency meeting to discuss the crisis.",
+          "zh": "主席召开紧急会议讨论这场危机。"
+        }
+      ],
+      "note": "convene 可及物表“召集”，也可不及物表“开会”。"
+    },
+    {
+      "word": "arrangement",
+      "phr": [
+        {
+          "en": "make arrangements for",
+          "zh": "为…作安排"
+        },
+        {
+          "en": "seating arrangement",
+          "zh": "座位安排"
+        }
+      ],
+      "ex": [
+        {
+          "en": "All the travel arrangements were made well before the conference began.",
+          "zh": "所有出行安排都在会议开始前就做好了。"
+        }
+      ],
+      "note": "表“安排”常用复数 arrangements，搭配 for。"
+    }
+  ]
+}

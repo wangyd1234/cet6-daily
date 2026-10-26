@@ -1,0 +1,246 @@
+{
+ "day": 43,
+ "date": null,
+ "words": [
+  {
+   "id": 1261,
+   "word": "finite",
+   "uk": "/ˈfaɪnaɪt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "有限的；有限制的；限定的"
+  },
+  {
+   "id": 1262,
+   "word": "amend",
+   "uk": "/əˈmend/",
+   "us": "/əˈmɛnd/",
+   "pos": "vt.,n.",
+   "cn": "修改；修订；改进；赔罪；赔偿"
+  },
+  {
+   "id": 1263,
+   "word": "erupt",
+   "uk": "/ɪˈrʌpt/",
+   "us": "",
+   "pos": "vi.",
+   "cn": "喷发；喷出；爆发；突然发生"
+  },
+  {
+   "id": 1264,
+   "word": "exquisite",
+   "uk": "/ɪkˈskwɪzɪt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "精美的；精致的；敏锐的；有高度鉴赏力的；剧烈的；感觉强烈的"
+  },
+  {
+   "id": 1265,
+   "word": "collide",
+   "uk": "/kəˈlaɪd/",
+   "us": "",
+   "pos": "vi.",
+   "cn": "碰撞；互撞；冲突；抵触"
+  },
+  {
+   "id": 1266,
+   "word": "remedy",
+   "uk": "/ˈremədi/",
+   "us": "/ˈrɛmədi/",
+   "pos": "n.,vt.",
+   "cn": "补救办法；纠正办法；药品；治疗法；补救；纠正；医治；治疗"
+  },
+  {
+   "id": 1267,
+   "word": "cardinal",
+   "uk": "/ˈkɑːdɪnl/",
+   "us": "/ˈkɑrdɪnl/",
+   "pos": "adj.,n.",
+   "cn": "最重要的；基本的；红衣主教；【数】基数"
+  },
+  {
+   "id": 1268,
+   "word": "consent",
+   "uk": "/kənˈsent/",
+   "us": "/kənˈsɛnt/",
+   "pos": "n.,vi.",
+   "cn": "同意；赞成"
+  },
+  {
+   "id": 1269,
+   "word": "insist",
+   "uk": "/ɪnˈsɪst/",
+   "us": "",
+   "pos": "v.",
+   "cn": "坚持；坚持要求；坚决认为"
+  },
+  {
+   "id": 1270,
+   "word": "fusion",
+   "uk": "/ˈfjuːʒn/",
+   "us": "/ˈfjʊʒən/",
+   "pos": "n.",
+   "cn": "联合；合并；核聚变"
+  },
+  {
+   "id": 1271,
+   "word": "volume",
+   "uk": "/ˈvɒljuːm/",
+   "us": "/ˈvɑljum/",
+   "pos": "n.",
+   "cn": "卷；册；书卷；容积；体积；音量；响度"
+  },
+  {
+   "id": 1272,
+   "word": "mutual",
+   "uk": "/ˈmjuːtʃuəl/",
+   "us": "/ˈmjutʃuəl/",
+   "pos": "adj.",
+   "cn": "相互的；共同的"
+  },
+  {
+   "id": 1273,
+   "word": "therefore",
+   "uk": "/ˈðeəfɔː/",
+   "us": "/ˈðɛrfɔr/",
+   "pos": "adv.",
+   "cn": "因此；所以"
+  },
+  {
+   "id": 1274,
+   "word": "exchange",
+   "uk": "/ɪksˈtʃeɪndʒ/",
+   "us": "/ɪksˈtʃendʒ/",
+   "pos": "vt.,n.",
+   "cn": "交换；交流；兑换"
+  },
+  {
+   "id": 1275,
+   "word": "indignant",
+   "uk": "/ɪnˈdɪgnənt/",
+   "us": "/ɪnˈdɪɡnənt/",
+   "pos": "adj.",
+   "cn": "愤怒的；愤慨的；义愤的"
+  },
+  {
+   "id": 1276,
+   "word": "hesitate",
+   "uk": "/ˈhezɪteɪt/",
+   "us": "/ˈhɛzətet/",
+   "pos": "vi.",
+   "cn": "犹豫；踌躇；含糊；不情愿"
+  },
+  {
+   "id": 1277,
+   "word": "decimal",
+   "uk": "/ˈdesɪml/",
+   "us": "/ˈdɛsɪml/",
+   "pos": "adj.,n.",
+   "cn": "十进位的；小数"
+  },
+  {
+   "id": 1278,
+   "word": "cynical",
+   "uk": "/ˈsɪnɪkl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "愤世嫉俗的；怀疑的"
+  },
+  {
+   "id": 1279,
+   "word": "ventilate",
+   "uk": "/ˈventɪleɪt/",
+   "us": "/ˈvɛntɪlet/",
+   "pos": "vt.",
+   "cn": "使通风；把…公开；公开讨论"
+  },
+  {
+   "id": 1280,
+   "word": "scoop",
+   "uk": "/skuːp/",
+   "us": "/skup/",
+   "pos": "v.,n.",
+   "cn": "舀出；抢在之前报道新闻；勺子；抢先报道的新闻"
+  },
+  {
+   "id": 1281,
+   "word": "companion",
+   "uk": "/kəmˈpæniən/",
+   "us": "/kəmˈpænɪən/",
+   "pos": "n.",
+   "cn": "同伴；共事者；伴侣"
+  },
+  {
+   "id": 1282,
+   "word": "culminate",
+   "uk": "/ˈkʌlmɪneɪt/",
+   "us": "/ˈkʌlmɪnet/",
+   "pos": "vi.",
+   "cn": "告终"
+  },
+  {
+   "id": 1283,
+   "word": "breakdown",
+   "uk": "/ˈbreɪkdaun/",
+   "us": "/ˈbrekˈdaʊn/",
+   "pos": "n.",
+   "cn": "垮台；破裂；衰竭；衰弱；损坏；故障；明细；清单"
+  },
+  {
+   "id": 1284,
+   "word": "directory",
+   "uk": "/dəˈrektəri/",
+   "us": "/dəˈrɛktəri;(also)daɪˈrɛktəri/",
+   "pos": "n.",
+   "cn": "人名地址录；工商行名录；号码簿"
+  },
+  {
+   "id": 1285,
+   "word": "behave",
+   "uk": "/bɪˈheɪv/",
+   "us": "/bɪˈhev/",
+   "pos": "vi.,vt.",
+   "cn": "表现；举止；运转；做出反应；检点自己的行为"
+  },
+  {
+   "id": 1286,
+   "word": "accomplish",
+   "uk": "/əˈkʌmplɪʃ/",
+   "us": "/əˈkɑmplɪʃ/",
+   "pos": "vt.",
+   "cn": "达到；完成"
+  },
+  {
+   "id": 1287,
+   "word": "strand",
+   "uk": "/strænd/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "股；缕；一个组成部分；使搁浅"
+  },
+  {
+   "id": 1288,
+   "word": "constituent",
+   "uk": "/kənˈstɪtjuənt/",
+   "us": "/kənˈstɪtʃuənt/",
+   "pos": "adj.,n.",
+   "cn": "组成的；构成的；选民；选区居民；成分；组成；配料"
+  },
+  {
+   "id": 1289,
+   "word": "engine",
+   "uk": "/ˈendʒɪn/",
+   "us": "/ˈɛndʒɪn/",
+   "pos": "n.",
+   "cn": "引擎；发动机；机车"
+  },
+  {
+   "id": 1290,
+   "word": "irritate",
+   "uk": "/ˈɪrɪteɪt/",
+   "us": "/ˈɪrɪtet/",
+   "pos": "vt.",
+   "cn": "使恼怒；使烦躁；使不适；使疼痛"
+  }
+ ]
+}

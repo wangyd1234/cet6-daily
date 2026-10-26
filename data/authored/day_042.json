@@ -1,0 +1,365 @@
+{
+  "day": 42,
+  "words": [
+    {
+      "word": "weird",
+      "phr": [
+        {"en": "a weird feeling", "zh": "奇怪的感觉"},
+        {"en": "a weird noise", "zh": "古怪的声音"}
+      ],
+      "ex": [
+        {"en": "I had a weird feeling that someone was watching me.",
+         "zh": "我有一种奇怪的感觉，好像有人在看着我。"}
+      ],
+      "note": "weird 口语常用，比 strange 更强调怪得离谱，常修饰感觉、声音。"
+    },
+    {
+      "word": "characterize",
+      "phr": [
+        {"en": "be characterized by", "zh": "以…为特征"},
+        {"en": "characterize sb as", "zh": "把某人描述为"}
+      ],
+      "ex": [
+        {"en": "The region is characterized by hot summers and mild winters.",
+         "zh": "该地区的特点是夏季炎热、冬季温和。"}
+      ],
+      "note": "characterize 多用被动 be characterized by 表以…为特征。"
+    },
+    {
+      "word": "descent",
+      "phr": [
+        {"en": "of Chinese descent", "zh": "华裔"},
+        {"en": "a steep descent", "zh": "陡峭的下坡"}
+      ],
+      "ex": [
+        {"en": "The plane began its descent towards the runway.",
+         "zh": "飞机开始向跑道下降。"}
+      ],
+      "note": "descent 是 descend 的名词；别与 decent（得体的）混淆。"
+    },
+    {
+      "word": "ridiculous",
+      "phr": [
+        {"en": "look ridiculous", "zh": "显得可笑"},
+        {"en": "a ridiculous idea", "zh": "荒谬的想法"}
+      ],
+      "ex": [
+        {"en": "It seemed ridiculous to worry about such a small problem.",
+         "zh": "为这么小的问题担心似乎很可笑。"}
+      ],
+      "note": "ridiculous 语气较强，口语常用；动词 ridicule 表“嘲笑”。"
+    },
+    {
+      "word": "turbulent",
+      "phr": [
+        {"en": "turbulent times", "zh": "动荡的时期"},
+        {"en": "turbulent waters", "zh": "汹涌的水域"}
+      ],
+      "ex": [
+        {"en": "The country went through a turbulent period of political change.",
+         "zh": "这个国家经历了一段政治变革的动荡时期。"}
+      ],
+      "note": "turbulent 源自“搅动”，可形容时局、气流和水流。"
+    },
+    {
+      "word": "overt",
+      "phr": [
+        {"en": "overt hostility", "zh": "公开的敌意"},
+        {"en": "overt discrimination", "zh": "公开的歧视"}
+      ],
+      "ex": [
+        {"en": "There was no overt conflict between the two departments.",
+         "zh": "两个部门之间没有公开的冲突。"}
+      ],
+      "note": "overt 与 covert（隐蔽的）相对，多形容态度或行为。"
+    },
+    {
+      "word": "refute",
+      "phr": [
+        {"en": "refute an argument", "zh": "驳斥论点"},
+        {"en": "refute a claim", "zh": "驳倒说法"}
+      ],
+      "ex": [
+        {"en": "The lawyer used new evidence to refute the accusation.",
+         "zh": "律师用新证据驳倒了这项指控。"}
+      ],
+      "note": "refute 强调用证据驳倒；表示“拒绝”的是 refuse，勿混。"
+    },
+    {
+      "word": "precedent",
+      "phr": [
+        {"en": "set a precedent", "zh": "开先例"},
+        {"en": "follow a precedent", "zh": "遵循先例"}
+      ],
+      "ex": [
+        {"en": "The court's decision set a precedent for similar cases.",
+         "zh": "法院的判决为类似案件开了先例。"}
+      ],
+      "note": "set a precedent 是高频搭配，precedent 重音在第一个音节。"
+    },
+    {
+      "word": "severe",
+      "phr": [
+        {"en": "severe weather", "zh": "恶劣的天气"},
+        {"en": "a severe shortage", "zh": "严重的短缺"}
+      ],
+      "ex": [
+        {"en": "The drought caused a severe shortage of drinking water.",
+         "zh": "干旱造成饮用水严重短缺。"}
+      ],
+      "note": "severe 比 serious 更强调严厉或严酷的程度。"
+    },
+    {
+      "word": "emerge",
+      "phr": [
+        {"en": "emerge from", "zh": "从…中出现"},
+        {"en": "emerge as", "zh": "脱颖而出成为"}
+      ],
+      "ex": [
+        {"en": "New details about the accident emerged during the investigation.",
+         "zh": "调查过程中出现了有关这起事故的新细节。"}
+      ],
+      "note": "emerge 后接 from 表来源，emerge as 表最终成为某种角色。"
+    },
+    {
+      "word": "exemplify",
+      "phr": [
+        {"en": "exemplify the spirit of", "zh": "体现…的精神"},
+        {"en": "exemplify a trend", "zh": "体现一种趋势"}
+      ],
+      "ex": [
+        {"en": "Her early paintings exemplify the spirit of the movement.",
+         "zh": "她早期的画作体现了这场运动的精神。"}
+      ],
+      "note": "exemplify 是 example 的同源动词，指“作为…的典型”。"
+    },
+    {
+      "word": "lease",
+      "phr": [
+        {"en": "sign a lease", "zh": "签租约"},
+        {"en": "renew a lease", "zh": "续签租约"}
+      ],
+      "ex": [
+        {"en": "They signed a three-year lease on the apartment.",
+         "zh": "他们签下了这套公寓的三年租约。"}
+      ],
+      "note": "lease 多指房屋、土地的租约；合同到期说 the lease expires。"
+    },
+    {
+      "word": "exploit",
+      "phr": [
+        {"en": "exploit natural resources", "zh": "开发自然资源"},
+        {"en": "exploit workers", "zh": "剥削工人"}
+      ],
+      "ex": [
+        {"en": "The company was accused of exploiting its workers.",
+         "zh": "这家公司被指控剥削工人。"}
+      ],
+      "note": "exploit 一词两义：开发资源与剥削他人，注意结合语境。"
+    },
+    {
+      "word": "slap",
+      "phr": [
+        {"en": "a slap in the face", "zh": "一记耳光；公然侮辱"},
+        {"en": "a slap on the wrist", "zh": "轻微的处罚"}
+      ],
+      "ex": [
+        {"en": "She slapped him in the face and walked away.",
+         "zh": "她打了他一记耳光，然后走开了。"}
+      ],
+      "note": "slap 表示掌击；a slap on the wrist 指象征性的轻罚。"
+    },
+    {
+      "word": "anniversary",
+      "phr": [
+        {"en": "wedding anniversary", "zh": "结婚周年纪念"},
+        {"en": "celebrate an anniversary", "zh": "庆祝周年纪念"}
+      ],
+      "ex": [
+        {"en": "They celebrated their tenth wedding anniversary with a small party.",
+         "zh": "他们办了个小型聚会庆祝结婚十周年。"}
+      ],
+      "note": "anniversary 前用序数词，如 tenth anniversary。"
+    },
+    {
+      "word": "register",
+      "phr": [
+        {"en": "register for a course", "zh": "报名课程"},
+        {"en": "register a company", "zh": "注册公司"}
+      ],
+      "ex": [
+        {"en": "You must register for the exam before the end of the month.",
+         "zh": "你必须在月底前报名参加考试。"}
+      ],
+      "note": "register for 后接活动，register with 后接机构。"
+    },
+    {
+      "word": "communicate",
+      "phr": [
+        {"en": "communicate with", "zh": "与…交流"},
+        {"en": "communicate effectively", "zh": "有效沟通"}
+      ],
+      "ex": [
+        {"en": "Good managers communicate clearly with their teams every day.",
+         "zh": "优秀的管理者每天都与团队进行清晰的沟通。"}
+      ],
+      "note": "communicate with sb 表“与某人交流”，比 talk 正式。"
+    },
+    {
+      "word": "evidence",
+      "phr": [
+        {"en": "scientific evidence", "zh": "科学证据"},
+        {"en": "give evidence", "zh": "作证；提供证词"}
+      ],
+      "ex": [
+        {"en": "There is little evidence to support his claim.",
+         "zh": "几乎没有证据支持他的说法。"}
+      ],
+      "note": "evidence 不可数，说 a piece of evidence，不加 -s。"
+    },
+    {
+      "word": "jerk",
+      "phr": [
+        {"en": "jerk back", "zh": "猛地向后一缩"},
+        {"en": "a sudden jerk", "zh": "突然的一拉"}
+      ],
+      "ex": [
+        {"en": "The old train started with a sudden jerk.",
+         "zh": "那列旧火车猛地一颠，开动了。"}
+      ],
+      "note": "jerk 指猛地一动，口语中也可指“讨厌的家伙”。"
+    },
+    {
+      "word": "fling",
+      "phr": [
+        {"en": "fling open", "zh": "猛地推开"},
+        {"en": "fling sth aside", "zh": "把某物扔到一边"}
+      ],
+      "ex": [
+        {"en": "He tends to fling his clothes onto the floor.",
+         "zh": "他总把衣服随手扔在地板上。"}
+      ],
+      "note": "fling 强调用力扔，过去式和过去分词都是 flung。"
+    },
+    {
+      "word": "stun",
+      "phr": [
+        {"en": "stun the audience", "zh": "使观众震惊"},
+        {"en": "be stunned by", "zh": "被…惊呆了"}
+      ],
+      "ex": [
+        {"en": "The news of his resignation stunned his colleagues.",
+         "zh": "他辞职的消息让同事们大为震惊。"}
+      ],
+      "note": "stun 表“使震惊”，形容词 stunning 则表“极美的”。"
+    },
+    {
+      "word": "acid",
+      "phr": [
+        {"en": "acid rain", "zh": "酸雨"},
+        {"en": "the acid test", "zh": "严峻的考验"}
+      ],
+      "ex": [
+        {"en": "Acid rain has damaged many forests in the region.",
+         "zh": "酸雨已经损害了该地区的许多森林。"}
+      ],
+      "note": "acid 作形容词还表“尖刻的”，如 acid remarks。"
+    },
+    {
+      "word": "autonomy",
+      "phr": [
+        {"en": "regional autonomy", "zh": "区域自治"},
+        {"en": "enjoy autonomy", "zh": "享有自主权"}
+      ],
+      "ex": [
+        {"en": "The new law gives local governments greater autonomy.",
+         "zh": "新法律赋予地方政府更大的自主权。"}
+      ],
+      "note": "autonomy 由 auto（自己）加 nom（法则）构成，即自治。"
+    },
+    {
+      "word": "transmission",
+      "phr": [
+        {"en": "the transmission of disease", "zh": "疾病的传播"},
+        {"en": "data transmission", "zh": "数据传输"}
+      ],
+      "ex": [
+        {"en": "The transmission of the disease was slowed by travel bans.",
+         "zh": "旅行禁令减缓了这种疾病的传播。"}
+      ],
+      "note": "transmission 是 transmit 的名词，可指信号、疾病或权力的传递。"
+    },
+    {
+      "word": "blush",
+      "phr": [
+        {"en": "blush with embarrassment", "zh": "窘得脸红"},
+        {"en": "make sb blush", "zh": "使某人脸红"}
+      ],
+      "ex": [
+        {"en": "She blushed when everyone turned to look at her.",
+         "zh": "大家都转头看她时，她脸红了。"}
+      ],
+      "note": "blush 指因害羞脸红；flush 多指因激动或饮酒脸红。"
+    },
+    {
+      "word": "dubious",
+      "phr": [
+        {"en": "be dubious about", "zh": "对…持怀疑态度"},
+        {"en": "a dubious claim", "zh": "可疑的说法"}
+      ],
+      "ex": [
+        {"en": "I am dubious about the accuracy of these figures.",
+         "zh": "我怀疑这些数字的准确性。"}
+      ],
+      "note": "dubious 后接 about 表怀疑，比 doubtful 更正式。"
+    },
+    {
+      "word": "intuition",
+      "phr": [
+        {"en": "trust your intuition", "zh": "相信自己的直觉"},
+        {"en": "by intuition", "zh": "凭直觉"}
+      ],
+      "ex": [
+        {"en": "Her intuition told her that something was wrong.",
+         "zh": "她的直觉告诉她出事了。"}
+      ],
+      "note": "intuition 常加 a；形容词 intuitive 表“直觉的”。"
+    },
+    {
+      "word": "artillery",
+      "phr": [
+        {"en": "heavy artillery", "zh": "重型火炮"},
+        {"en": "artillery fire", "zh": "炮火"}
+      ],
+      "ex": [
+        {"en": "Artillery fire could be heard from the front line.",
+         "zh": "前线传来炮火声。"}
+      ],
+      "note": "artillery 是不可数集合名词，常作定语修饰 fire。"
+    },
+    {
+      "word": "educational",
+      "phr": [
+        {"en": "the educational system", "zh": "教育体制"},
+        {"en": "educational reform", "zh": "教育改革"}
+      ],
+      "ex": [
+        {"en": "The government promised to reform the educational system.",
+         "zh": "政府承诺改革教育体制。"}
+      ],
+      "note": "educational 指“与教育有关的”，educated 指“受过教育的”。"
+    },
+    {
+      "word": "pose",
+      "phr": [
+        {"en": "pose a threat", "zh": "构成威胁"},
+        {"en": "pose for a photo", "zh": "摆姿势拍照"}
+      ],
+      "ex": [
+        {"en": "Climate change poses a serious threat to coastal cities.",
+         "zh": "气候变化对沿海城市构成严重威胁。"}
+      ],
+      "note": "pose a threat/risk 是高频搭配，不表示“提出威胁”。"
+    }
+  ]
+}

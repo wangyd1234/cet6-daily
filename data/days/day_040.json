@@ -1,0 +1,246 @@
+{
+ "day": 40,
+ "date": null,
+ "words": [
+  {
+   "id": 1171,
+   "word": "perfection",
+   "uk": "/pəˈfekʃn/",
+   "us": "/pɚˈfɛkʃən/",
+   "pos": "n.",
+   "cn": "完美；完善"
+  },
+  {
+   "id": 1172,
+   "word": "vague",
+   "uk": "/veɪg/",
+   "us": "/veɡ/",
+   "pos": "adj.",
+   "cn": "不明确的；含糊的；暧昧的"
+  },
+  {
+   "id": 1173,
+   "word": "pope",
+   "uk": "/pəup/",
+   "us": "/pop/",
+   "pos": "n.",
+   "cn": "教皇；罗马主教"
+  },
+  {
+   "id": 1174,
+   "word": "exception",
+   "uk": "/ɪkˈsepʃn/",
+   "us": "/ɪkˈsɛpʃən/",
+   "pos": "n.",
+   "cn": "例外；除外"
+  },
+  {
+   "id": 1175,
+   "word": "ego",
+   "uk": "/ˈiːgəu/",
+   "us": "/ˈiɡo/",
+   "pos": "n.",
+   "cn": "自我；自己；自尊"
+  },
+  {
+   "id": 1176,
+   "word": "urge",
+   "uk": "/ɜːdʒ/",
+   "us": "/ɝdʒ/",
+   "pos": "vt.,n.",
+   "cn": "鼓励；推进；催促；竭力主张；强烈要求；冲动；强烈的欲望"
+  },
+  {
+   "id": 1177,
+   "word": "spouse",
+   "uk": "/spaus/",
+   "us": "/spaʊs/",
+   "pos": "n.",
+   "cn": "配偶"
+  },
+  {
+   "id": 1178,
+   "word": "score",
+   "uk": "/skɔː/",
+   "us": "/skɔ/",
+   "pos": "n.,vt.",
+   "cn": "得分；比数；成绩；二十；分；给…打分；画线于；获胜"
+  },
+  {
+   "id": 1179,
+   "word": "isle",
+   "uk": "/aɪl/",
+   "us": "",
+   "pos": "n.",
+   "cn": "小岛；岛"
+  },
+  {
+   "id": 1180,
+   "word": "enclosure",
+   "uk": "/ɪnˈkləuʒə/",
+   "us": "/ɪnˈkloʒɚ/",
+   "pos": "n.",
+   "cn": "四周有篱笆的场地；围场；附件"
+  },
+  {
+   "id": 1181,
+   "word": "graduate",
+   "uk": "/ˈɡradʒʊeɪt/",
+   "us": "/ˈɡrædʒuˌet/",
+   "pos": "adj.,v.,n.",
+   "cn": "研究生的；毕业；毕业生；研究生"
+  },
+  {
+   "id": 1182,
+   "word": "famine",
+   "uk": "/ˈfæmɪn/",
+   "us": "",
+   "pos": "n.",
+   "cn": "饥荒；严重的缺乏"
+  },
+  {
+   "id": 1183,
+   "word": "quota",
+   "uk": "/ˈkwəutə/",
+   "us": "/ˈkwotə/",
+   "pos": "n.",
+   "cn": "定额；限额；配额"
+  },
+  {
+   "id": 1184,
+   "word": "unanimous",
+   "uk": "/juˈnænɪməs/",
+   "us": "/jʊˈnænəməs/",
+   "pos": "adj.",
+   "cn": "全体一致的；一致同意的"
+  },
+  {
+   "id": 1185,
+   "word": "scorn",
+   "uk": "/skɔːn/",
+   "us": "/skɔrn/",
+   "pos": "n.,vt.",
+   "cn": "轻蔑；鄙视；轻蔑；鄙视；拒绝；不屑"
+  },
+  {
+   "id": 1186,
+   "word": "thermal",
+   "uk": "/ˈθɜːml/",
+   "us": "/ˈθɝml/",
+   "pos": "adj.",
+   "cn": "热的；由热造成的；保暖的"
+  },
+  {
+   "id": 1187,
+   "word": "sulfur",
+   "uk": "/ˈsʌlfə/",
+   "us": "/ˈsʌlfɚ/",
+   "pos": "n.",
+   "cn": "硫"
+  },
+  {
+   "id": 1188,
+   "word": "visual",
+   "uk": "/ˈvɪʒuəl/",
+   "us": "/ˈvɪʒʊəl/",
+   "pos": "adj.",
+   "cn": "看的；视觉的"
+  },
+  {
+   "id": 1189,
+   "word": "terrain",
+   "uk": "/təˈreɪn/",
+   "us": "/tɛˈren/",
+   "pos": "n.",
+   "cn": "地形；地势"
+  },
+  {
+   "id": 1190,
+   "word": "grief",
+   "uk": "/griːf/",
+   "us": "/ɡrif/",
+   "pos": "n.",
+   "cn": "悲伤；悲痛；悲伤的事；悲痛的缘由"
+  },
+  {
+   "id": 1191,
+   "word": "rap",
+   "uk": "/ræp/",
+   "us": "",
+   "pos": "vi.,vt.,n.",
+   "cn": "说唱；敲击；急敲；突然厉声说出；责备；训斥；敲击；急敲"
+  },
+  {
+   "id": 1192,
+   "word": "upgrade",
+   "uk": "/ˌʌpˈgreɪd/",
+   "us": "/,ʌpˈɡred/",
+   "pos": "vt.,n.",
+   "cn": "提升；使升级；向上的斜坡"
+  },
+  {
+   "id": 1193,
+   "word": "instruct",
+   "uk": "/ɪnˈstrʌkt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "教；指示；通知；教育"
+  },
+  {
+   "id": 1194,
+   "word": "appendix",
+   "uk": "/əˈpendɪks/",
+   "us": "/əˈpɛndɪks/",
+   "pos": "n.",
+   "cn": "阑尾；附录"
+  },
+  {
+   "id": 1195,
+   "word": "virtually",
+   "uk": "/ˈvɜːtʃuəli/",
+   "us": "/ˈvɜrtʃuəli/",
+   "pos": "adv.",
+   "cn": "事实上；实质上"
+  },
+  {
+   "id": 1196,
+   "word": "agreeable",
+   "uk": "/əˈgriːəbl/",
+   "us": "/əˈɡriəbl/",
+   "pos": "adj.",
+   "cn": "令人愉快的；惬意的；同意的；乐意的"
+  },
+  {
+   "id": 1197,
+   "word": "economy",
+   "uk": "/iˈkɒnəmi/",
+   "us": "/ɪˈkɑnəmɪ/",
+   "pos": "n.",
+   "cn": "经济；节约；节省"
+  },
+  {
+   "id": 1198,
+   "word": "community",
+   "uk": "/kəˈmjuːnəti/",
+   "us": "/kəˈmjunətɪ/",
+   "pos": "n.",
+   "cn": "社区；社会；公社；团体；界；群落"
+  },
+  {
+   "id": 1199,
+   "word": "version",
+   "uk": "/ˈvɜːʃn/",
+   "us": "/ˈvɝʒn/",
+   "pos": "n.",
+   "cn": "译文；说法；改写本"
+  },
+  {
+   "id": 1200,
+   "word": "sprinkle",
+   "uk": "/ˈsprɪŋkl/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "撒；洒；少量；少数"
+  }
+ ]
+}

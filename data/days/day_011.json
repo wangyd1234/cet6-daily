@@ -1,0 +1,246 @@
+{
+ "day": 11,
+ "date": null,
+ "words": [
+  {
+   "id": 301,
+   "word": "integrity",
+   "uk": "/ɪnˈtegrəti/",
+   "us": "/ɪnˈtɛɡrəti/",
+   "pos": "n.",
+   "cn": "正直；诚实；诚恳；完整；完全；完善"
+  },
+  {
+   "id": 302,
+   "word": "refrain",
+   "uk": "/rɪˈfreɪn/",
+   "us": "/rɪˈfren/",
+   "pos": "vi.,n.",
+   "cn": "抑制；克制；戒除；叠句；副歌"
+  },
+  {
+   "id": 303,
+   "word": "pact",
+   "uk": "/pækt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "契约；协定；条约"
+  },
+  {
+   "id": 304,
+   "word": "notation",
+   "uk": "/nəuˈteɪʃn/",
+   "us": "/noˈteʃən/",
+   "pos": "n.",
+   "cn": "记号；标记法"
+  },
+  {
+   "id": 305,
+   "word": "merge",
+   "uk": "/mɜːdʒ/",
+   "us": "/mɝdʒ/",
+   "pos": "v.",
+   "cn": "结合；合并；合为一体"
+  },
+  {
+   "id": 306,
+   "word": "liable",
+   "uk": "/ˈlaɪəbl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "易于…的；可能的"
+  },
+  {
+   "id": 307,
+   "word": "recycle",
+   "uk": "/ˌriːˈsaɪkl/",
+   "us": "/,riˈsaɪkl/",
+   "pos": "vt.",
+   "cn": "回收利用"
+  },
+  {
+   "id": 308,
+   "word": "dock",
+   "uk": "/ˈdɒk/",
+   "us": "/dɑk/",
+   "pos": "vi.,n.,vt.",
+   "cn": "靠码头；进港；码头；船埠；被告席；使靠码头；扣"
+  },
+  {
+   "id": 309,
+   "word": "marsh",
+   "uk": "/mɑːʃ/",
+   "us": "/mɑrʃ/",
+   "pos": "n.",
+   "cn": "沼泽；湿地"
+  },
+  {
+   "id": 310,
+   "word": "element",
+   "uk": "/ˈelɪmənt/",
+   "us": "/ˈɛləmənt/",
+   "pos": "n.",
+   "cn": "成分；要素；元素；基础；纲要；自然力"
+  },
+  {
+   "id": 311,
+   "word": "confidential",
+   "uk": "/ˌkɒnfɪˈdenʃl/",
+   "us": "/,kɑnfɪˈdɛnʃl/",
+   "pos": "adj.",
+   "cn": "秘密的；机密的；表示信任的；担任机密工作的"
+  },
+  {
+   "id": 312,
+   "word": "abundant",
+   "uk": "/əˈbʌndənt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "丰富的；富裕的；大量的；充足的"
+  },
+  {
+   "id": 313,
+   "word": "exclaim",
+   "uk": "/ɪkˈskleɪm/",
+   "us": "/ɪkˈsklem/",
+   "pos": "vi.",
+   "cn": "呼喊；惊叫"
+  },
+  {
+   "id": 314,
+   "word": "ballet",
+   "uk": "/ˈbæleɪ/",
+   "us": "/bæˈle/",
+   "pos": "n.",
+   "cn": "芭蕾舞；芭蕾舞剧；芭蕾舞团"
+  },
+  {
+   "id": 315,
+   "word": "mute",
+   "uk": "/mjuːt/",
+   "us": "/mjut/",
+   "pos": "adj.,vt.",
+   "cn": "缄默的；无声的；哑的；不会说话的；不发音的；消除；减轻"
+  },
+  {
+   "id": 316,
+   "word": "courtesy",
+   "uk": "/ˈkɜːtəsi/",
+   "us": "/ˈkɝtəsi/",
+   "pos": "n.",
+   "cn": "谦恭有礼；有礼貌的举止"
+  },
+  {
+   "id": 317,
+   "word": "deteriorate",
+   "uk": "/dɪˈtɪəriəreɪt/",
+   "us": "/dɪˈtɪrɪəret/",
+   "pos": "vi.",
+   "cn": "恶化；变坏"
+  },
+  {
+   "id": 318,
+   "word": "warehouse",
+   "uk": "/ˈweəhaus/",
+   "us": "/ˈwɛrhaʊs/",
+   "pos": "n.",
+   "cn": "仓库；货栈"
+  },
+  {
+   "id": 319,
+   "word": "recognize",
+   "uk": "/ˈrekəgnaɪz/",
+   "us": "/ˈrɛkəɡˌnaɪz/",
+   "pos": "vt.",
+   "cn": "认出；识别；承认；确认；认可；赏识；表彰；报偿"
+  },
+  {
+   "id": 320,
+   "word": "restraint",
+   "uk": "/rɪˈstreɪnt/",
+   "us": "/rɪˈstrent/",
+   "pos": "n.",
+   "cn": "抑制；限制；克制；约束措施；约束条件"
+  },
+  {
+   "id": 321,
+   "word": "pollutant",
+   "uk": "/pəˈluːtənt/",
+   "us": "/pəˈlutənt/",
+   "pos": "n.",
+   "cn": "污染物质"
+  },
+  {
+   "id": 322,
+   "word": "bamboo",
+   "uk": "/ˌbæmˈbuː/",
+   "us": "/,bæmˈbu/",
+   "pos": "n.",
+   "cn": "竹；竹子"
+  },
+  {
+   "id": 323,
+   "word": "input",
+   "uk": "/ˈɪnput/",
+   "us": "/ˈɪnˈpʊt/",
+   "pos": "n.,vt.",
+   "cn": "输入；投入的资金；输入的数据；把…输入计算机"
+  },
+  {
+   "id": 324,
+   "word": "induce",
+   "uk": "/ɪnˈdjuːs/",
+   "us": "/ɪnˈdus/",
+   "pos": "vt.",
+   "cn": "引导；劝；引起；导致"
+  },
+  {
+   "id": 325,
+   "word": "abnormal",
+   "uk": "/æbˈnɔːml/",
+   "us": "/æbˈnɔːrml/",
+   "pos": "adj.",
+   "cn": "反常的；异常的"
+  },
+  {
+   "id": 326,
+   "word": "shrewd",
+   "uk": "/ʃruːd/",
+   "us": "/ʃrud/",
+   "pos": "adj.",
+   "cn": "机灵的；敏锐的；精明的"
+  },
+  {
+   "id": 327,
+   "word": "stereotype",
+   "uk": "/ˈsteriətaɪp/",
+   "us": "/ˈstɛrɪətaɪp/",
+   "pos": "n.,vt.",
+   "cn": "陈规；老套；固定的模式；对…形成固定看法"
+  },
+  {
+   "id": 328,
+   "word": "molecule",
+   "uk": "/ˈmɒlɪkjuːl/",
+   "us": "/ˈmɑlɪkjul/",
+   "pos": "n.",
+   "cn": "分子"
+  },
+  {
+   "id": 329,
+   "word": "enroll",
+   "uk": "/ɪnˈrəul/",
+   "us": "/ɪnˈrol/",
+   "pos": "vi.,vt.",
+   "cn": "入学；加入；招收；吸收"
+  },
+  {
+   "id": 330,
+   "word": "resign",
+   "uk": "/rɪˈzaɪn/",
+   "us": "",
+   "pos": "vi.,vt.",
+   "cn": "辞职；听任；辞去；放弃；使顺从"
+  }
+ ]
+}

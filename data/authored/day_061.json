@@ -1,0 +1,365 @@
+{
+  "day": 61,
+  "words": [
+    {
+      "word": "popularity",
+      "phr": [
+        {"en": "gain popularity", "zh": "受欢迎；流行起来"},
+        {"en": "the popularity of", "zh": "…的受欢迎程度"}
+      ],
+      "ex": [
+        {"en": "Online courses have gained popularity among working adults.",
+         "zh": "网络课程在职成年人中越来越受欢迎。"}
+      ],
+      "note": "popularity 常搭 gain/lose popularity。"
+    },
+    {
+      "word": "nickname",
+      "phr": [
+        {"en": "earn the nickname", "zh": "获得这个绰号"},
+        {"en": "a childhood nickname", "zh": "儿时的绰号"}
+      ],
+      "ex": [
+        {"en": "His teammates nicknamed him Tiger because of his speed.",
+         "zh": "队友因他速度快，给他起了个绰号叫“老虎”。"}
+      ],
+      "note": "nickname 可作动词，用 nickname sb sth。"
+    },
+    {
+      "word": "subsequent",
+      "phr": [
+        {"en": "subsequent to", "zh": "在…之后"},
+        {"en": "subsequent events", "zh": "后来发生的事"}
+      ],
+      "ex": [
+        {"en": "The first meeting was brief, and subsequent discussions lasted for hours.",
+         "zh": "第一次会面很简短，随后的讨论持续了数小时。"}
+      ],
+      "note": "subsequent 后接 to，副词 subsequently。"
+    },
+    {
+      "word": "metabolic",
+      "phr": [
+        {"en": "metabolic rate", "zh": "代谢率"},
+        {"en": "metabolic disease", "zh": "代谢疾病"}
+      ],
+      "ex": [
+        {"en": "Regular exercise can raise your metabolic rate and help control weight.",
+         "zh": "经常锻炼能提高你的代谢率，有助于控制体重。"}
+      ],
+      "note": "metabolic 名词是 metabolism，表代谢的。"
+    },
+    {
+      "word": "humanity",
+      "phr": [
+        {"en": "the future of humanity", "zh": "人类的未来"},
+        {"en": "a crime against humanity", "zh": "反人类罪"}
+      ],
+      "ex": [
+        {"en": "Climate change is one of the greatest challenges facing humanity today.",
+         "zh": "气候变化是当今人类面临的最大挑战之一。"}
+      ],
+      "note": "humanity 表人类不可数；the humanities 为人文学科。"
+    },
+    {
+      "word": "innovation",
+      "phr": [
+        {"en": "technological innovation", "zh": "技术创新"},
+        {"en": "encourage innovation", "zh": "鼓励创新"}
+      ],
+      "ex": [
+        {"en": "The company invests heavily in technological innovation to stay ahead.",
+         "zh": "公司大力投资技术创新以保持领先。"}
+      ],
+      "note": "innovation 可数指新事物，不可数指创新。"
+    },
+    {
+      "word": "litter",
+      "phr": [
+        {"en": "drop litter", "zh": "乱扔垃圾"},
+        {"en": "litter bin", "zh": "垃圾箱"}
+      ],
+      "ex": [
+        {"en": "Visitors are asked not to drop litter in the park.",
+         "zh": "请游客不要在公园里乱扔垃圾。"}
+      ],
+      "note": "litter 作动词指乱扔；英式 litter bin 即垃圾箱。"
+    },
+    {
+      "word": "charge",
+      "phr": [
+        {"en": "free of charge", "zh": "免费"},
+        {"en": "be charged with", "zh": "被指控…"}
+      ],
+      "ex": [
+        {"en": "The hotel charges extra for breakfast and internet access.",
+         "zh": "酒店早餐和上网另收费。"}
+      ],
+      "note": "charge sb for sth 收费；in charge of 表负责。"
+    },
+    {
+      "word": "shutter",
+      "phr": [
+        {"en": "press the shutter", "zh": "按下快门"},
+        {"en": "close the shutters", "zh": "关上窗板"}
+      ],
+      "ex": [
+        {"en": "She pressed the shutter just as the sun rose over the hills.",
+         "zh": "太阳从山头升起时，她按下了快门。"}
+      ],
+      "note": "shutter 指窗板，也指相机快门。"
+    },
+    {
+      "word": "alternate",
+      "phr": [
+        {"en": "alternate between", "zh": "在…之间交替"},
+        {"en": "on alternate days", "zh": "每隔一天"}
+      ],
+      "ex": [
+        {"en": "The nurse alternates between day and night shifts every two weeks.",
+         "zh": "这位护士每两周在日班和夜班之间轮换。"}
+      ],
+      "note": "alternate 形容词重音在后，动词重音在前。"
+    },
+    {
+      "word": "biography",
+      "phr": [
+        {"en": "a biography of sb", "zh": "某人的传记"},
+        {"en": "write a biography", "zh": "撰写传记"}
+      ],
+      "ex": [
+        {"en": "She is writing a biography of the scientist who discovered penicillin.",
+         "zh": "她正在写那位发现青霉素的科学家的传记。"}
+      ],
+      "note": "biography 传记，autobiography 是自传。"
+    },
+    {
+      "word": "procedure",
+      "phr": [
+        {"en": "follow the procedure", "zh": "遵循程序"},
+        {"en": "standard procedure", "zh": "标准程序"}
+      ],
+      "ex": [
+        {"en": "Staff must follow the safety procedure before entering the laboratory.",
+         "zh": "员工进入实验室前必须遵守安全程序。"}
+      ],
+      "note": "procedure 指固定步骤，process 强调过程。"
+    },
+    {
+      "word": "sample",
+      "phr": [
+        {"en": "a blood sample", "zh": "血样"},
+        {"en": "a free sample", "zh": "免费样品"}
+      ],
+      "ex": [
+        {"en": "The doctor took a blood sample and sent it to the lab.",
+         "zh": "医生取了血样，送到实验室。"}
+      ],
+      "note": "sample 作动词可指抽样调查或品尝。"
+    },
+    {
+      "word": "plunge",
+      "phr": [
+        {"en": "plunge into", "zh": "投入；跳入"},
+        {"en": "prices plunge", "zh": "价格暴跌"}
+      ],
+      "ex": [
+        {"en": "Share prices plunged after the company announced its losses.",
+         "zh": "公司公布亏损后，股价暴跌。"}
+      ],
+      "note": "plunge 指突然下跌或跳入，常搭 into。"
+    },
+    {
+      "word": "skeptical",
+      "phr": [
+        {"en": "be skeptical about", "zh": "对…持怀疑态度"},
+        {"en": "a skeptical look", "zh": "怀疑的神色"}
+      ],
+      "ex": [
+        {"en": "Many economists remain skeptical about the accuracy of the forecast.",
+         "zh": "许多经济学家仍对预测的准确性持怀疑态度。"}
+      ],
+      "note": "美式 skeptical，英式 sceptical，后接 about。"
+    },
+    {
+      "word": "ultraviolet",
+      "phr": [
+        {"en": "ultraviolet rays", "zh": "紫外线"},
+        {"en": "ultraviolet light", "zh": "紫外光"}
+      ],
+      "ex": [
+        {"en": "Too much ultraviolet light can damage your skin and eyes.",
+         "zh": "过多的紫外线会损伤皮肤和眼睛。"}
+      ],
+      "note": "ultraviolet 缩写 UV，前缀 ultra- 表超出。"
+    },
+    {
+      "word": "planetary",
+      "phr": [
+        {"en": "the planetary system", "zh": "行星系统"},
+        {"en": "planetary science", "zh": "行星科学"}
+      ],
+      "ex": [
+        {"en": "Scientists are studying how planetary systems form around young stars.",
+         "zh": "科学家正在研究行星系统如何围绕年轻恒星形成。"}
+      ],
+      "note": "planetary 由 planet 加 -ary 构成，指行星的。"
+    },
+    {
+      "word": "visa",
+      "phr": [
+        {"en": "apply for a visa", "zh": "申请签证"},
+        {"en": "a student visa", "zh": "学生签证"}
+      ],
+      "ex": [
+        {"en": "You need to apply for a visa at least a month before you travel.",
+         "zh": "你至少要在出行前一个月申请签证。"}
+      ],
+      "note": "visa 可数，常搭 apply for a visa。"
+    },
+    {
+      "word": "diagnose",
+      "phr": [
+        {"en": "be diagnosed with", "zh": "被诊断患有…"},
+        {"en": "diagnose a disease", "zh": "诊断疾病"}
+      ],
+      "ex": [
+        {"en": "He was diagnosed with diabetes during a routine medical check.",
+         "zh": "他在一次常规体检中被诊断出患有糖尿病。"}
+      ],
+      "note": "diagnose 常搭 be diagnosed with。"
+    },
+    {
+      "word": "petition",
+      "phr": [
+        {"en": "sign a petition", "zh": "签署请愿书"},
+        {"en": "petition sb for sth", "zh": "向某人请求某事"}
+      ],
+      "ex": [
+        {"en": "More than ten thousand residents signed the petition against the new road.",
+         "zh": "一万多名居民签署了反对修建新路的请愿书。"}
+      ],
+      "note": "petition 可作动词，petition sb for sth。"
+    },
+    {
+      "word": "vicinity",
+      "phr": [
+        {"en": "in the vicinity of", "zh": "在…附近"},
+        {"en": "the immediate vicinity", "zh": "紧邻地区"}
+      ],
+      "ex": [
+        {"en": "There are no hotels in the vicinity of the airport.",
+         "zh": "机场附近没有旅馆。"}
+      ],
+      "note": "vicinity 常用 in the vicinity of。"
+    },
+    {
+      "word": "naive",
+      "phr": [
+        {"en": "be naive about", "zh": "对…过于天真"},
+        {"en": "a naive question", "zh": "幼稚的问题"}
+      ],
+      "ex": [
+        {"en": "It would be naive to expect quick results from such a reform.",
+         "zh": "指望这样的改革迅速见效未免太天真。"}
+      ],
+      "note": "naive 指轻信幼稚，childlike 指天真可爱。"
+    },
+    {
+      "word": "essential",
+      "phr": [
+        {"en": "be essential to", "zh": "对…必不可少"},
+        {"en": "the bare essentials", "zh": "最基本的必需品"}
+      ],
+      "ex": [
+        {"en": "Clean water is essential to public health in every country.",
+         "zh": "清洁的水对每个国家的公共卫生都必不可少。"}
+      ],
+      "note": "essential 后接 to/for；essentials 指必需品。"
+    },
+    {
+      "word": "expenditure",
+      "phr": [
+        {"en": "public expenditure", "zh": "公共支出"},
+        {"en": "cut expenditure", "zh": "削减开支"}
+      ],
+      "ex": [
+        {"en": "The government plans to increase expenditure on education next year.",
+         "zh": "政府计划明年增加教育支出。"}
+      ],
+      "note": "expenditure 常与 on 连用，表某方面支出。"
+    },
+    {
+      "word": "vent",
+      "phr": [
+        {"en": "vent one's anger", "zh": "发泄怒气"},
+        {"en": "an air vent", "zh": "通风口"}
+      ],
+      "ex": [
+        {"en": "He vented his anger on the staff when the plan failed.",
+         "zh": "计划失败后，他把怒气发泄在员工身上。"}
+      ],
+      "note": "vent 作动词常搭 on，如 vent anger on sb。"
+    },
+    {
+      "word": "haunt",
+      "phr": [
+        {"en": "be haunted by memories", "zh": "被回忆缠绕"},
+        {"en": "a haunted house", "zh": "闹鬼的房子"}
+      ],
+      "ex": [
+        {"en": "She was haunted by memories of the accident for years.",
+         "zh": "那起事故的回忆多年来一直缠绕着她。"}
+      ],
+      "note": "haunt 指鬼魂出没，也指记忆萦绕心头。"
+    },
+    {
+      "word": "precede",
+      "phr": [
+        {"en": "be preceded by", "zh": "在…之前发生"},
+        {"en": "immediately precede", "zh": "紧接在…之前"}
+      ],
+      "ex": [
+        {"en": "A short silence preceded his answer, which made everyone nervous.",
+         "zh": "他回答前短暂沉默，让大家有些不安。"}
+      ],
+      "note": "precede 是动词，precedent 是名词先例。"
+    },
+    {
+      "word": "gasp",
+      "phr": [
+        {"en": "gasp for breath", "zh": "大口喘气"},
+        {"en": "gasp in surprise", "zh": "惊讶得倒抽气"}
+      ],
+      "ex": [
+        {"en": "The audience gasped in surprise when the magician disappeared.",
+         "zh": "魔术师消失时，观众惊讶得倒抽一口气。"}
+      ],
+      "note": "gasp for breath 指急促呼吸；名词 gasp。"
+    },
+    {
+      "word": "stroll",
+      "phr": [
+        {"en": "take a stroll", "zh": "散步"},
+        {"en": "stroll along", "zh": "沿着…漫步"}
+      ],
+      "ex": [
+        {"en": "They took a leisurely stroll along the river after dinner.",
+         "zh": "晚饭后他们沿河悠闲散步。"}
+      ],
+      "note": "stroll 指悠闲散步，比 walk 更显轻松。"
+    },
+    {
+      "word": "furnish",
+      "phr": [
+        {"en": "furnish sb with sth", "zh": "向某人提供某物"},
+        {"en": "furnish a room", "zh": "给房间配家具"}
+      ],
+      "ex": [
+        {"en": "The flat is furnished with a bed, a desk and two chairs.",
+         "zh": "这套公寓配有床、书桌和两把椅子。"}
+      ],
+      "note": "furnish sb with sth 表提供；furnished 带家具。"
+    }
+  ]
+}

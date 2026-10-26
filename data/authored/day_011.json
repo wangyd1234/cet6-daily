@@ -1,0 +1,365 @@
+{
+  "day": 11,
+  "words": [
+    {
+      "word": "integrity",
+      "phr": [
+        {"en": "personal integrity", "zh": "个人操守"},
+        {"en": "territorial integrity", "zh": "领土完整"}
+      ],
+      "ex": [
+        {"en": "She is respected for her honesty and integrity at work.",
+         "zh": "她因工作中的诚实正直而受人尊敬。"}
+      ],
+      "note": "integrity 兼指正直与完整，后者见 territorial integrity。"
+    },
+    {
+      "word": "refrain",
+      "phr": [
+        {"en": "refrain from doing sth", "zh": "克制不做某事"},
+        {"en": "refrain from smoking", "zh": "忍住不吸烟"}
+      ],
+      "ex": [
+        {"en": "Please refrain from using your phone during the performance.",
+         "zh": "演出期间请勿使用手机。"}
+      ],
+      "note": "refrain from 后接动名词，是正式用语。"
+    },
+    {
+      "word": "pact",
+      "phr": [
+        {"en": "sign a pact", "zh": "签订协定"},
+        {"en": "a peace pact", "zh": "和平协定"}
+      ],
+      "ex": [
+        {"en": "The two countries signed a pact to protect shared rivers.",
+         "zh": "两国签署协定，共同保护共有的河流。"}
+      ],
+      "note": "pact 多指国家或团体间的正式协定。"
+    },
+    {
+      "word": "notation",
+      "phr": [
+        {"en": "musical notation", "zh": "乐谱记号"},
+        {"en": "mathematical notation", "zh": "数学符号"}
+      ],
+      "ex": [
+        {"en": "The composer wrote the piece using a notation of his own invention.",
+         "zh": "作曲家用了自己发明的记谱法来写这首曲子。"}
+      ],
+      "note": "notation 指符号体系，如 musical notation。"
+    },
+    {
+      "word": "merge",
+      "phr": [
+        {"en": "merge with sth", "zh": "与某物合并"},
+        {"en": "merge into sth", "zh": "融入某物"}
+      ],
+      "ex": [
+        {"en": "The two banks merged last year to cut costs.",
+         "zh": "两家银行去年合并以削减成本。"}
+      ],
+      "note": "merge 常接 with 或 into；名词 merger 指公司合并。"
+    },
+    {
+      "word": "liable",
+      "phr": [
+        {"en": "be liable to do sth", "zh": "易于做某事"},
+        {"en": "be liable for sth", "zh": "对某事负有责任"}
+      ],
+      "ex": [
+        {"en": "Such old bridges are liable to collapse in an earthquake.",
+         "zh": "这样的旧桥在地震中容易坍塌。"}
+      ],
+      "note": "be liable to do 表易于；be liable for 表负责任。"
+    },
+    {
+      "word": "recycle",
+      "phr": [
+        {"en": "recycle waste", "zh": "回收废物"},
+        {"en": "recycled paper", "zh": "再生纸"}
+      ],
+      "ex": [
+        {"en": "Our school recycles paper and plastic bottles every week.",
+         "zh": "我们学校每周回收纸张和塑料瓶。"}
+      ],
+      "note": "re- 表再 + cycle 循环；recyclable 是可回收的。"
+    },
+    {
+      "word": "dock",
+      "phr": [
+        {"en": "leave the dock", "zh": "离开码头"},
+        {"en": "dock workers", "zh": "码头工人"}
+      ],
+      "ex": [
+        {"en": "The ship docked at the port just before sunset.",
+         "zh": "船在日落前靠了港。"}
+      ],
+      "note": "dock 作动词指船靠码头；at the dock 在码头。"
+    },
+    {
+      "word": "marsh",
+      "phr": [
+        {"en": "salt marsh", "zh": "盐沼"},
+        {"en": "marsh plants", "zh": "沼泽植物"}
+      ],
+      "ex": [
+        {"en": "Thousands of birds nest in the salt marshes along this coast.",
+         "zh": "成千上万的鸟在这片海岸的盐沼里筑巢。"}
+      ],
+      "note": "marsh 指常年积水的低湿地；salt marsh 是固定说法。"
+    },
+    {
+      "word": "element",
+      "phr": [
+        {"en": "a key element", "zh": "关键要素"},
+        {"en": "be in one's element", "zh": "如鱼得水"}
+      ],
+      "ex": [
+        {"en": "Trust is a key element of any successful partnership.",
+         "zh": "信任是任何成功合作的关键要素。"}
+      ],
+      "note": "element 指构成整体的要素；be in one's element 表得心应手。"
+    },
+    {
+      "word": "confidential",
+      "phr": [
+        {"en": "confidential information", "zh": "机密信息"},
+        {"en": "keep sth confidential", "zh": "对某事保密"}
+      ],
+      "ex": [
+        {"en": "All personal details will be kept strictly confidential.",
+         "zh": "所有个人信息将被严格保密。"}
+      ],
+      "note": "confident 是有信心，confidential 是机密的，勿混。"
+    },
+    {
+      "word": "abundant",
+      "phr": [
+        {"en": "abundant evidence", "zh": "大量证据"},
+        {"en": "be abundant in sth", "zh": "富于某物"}
+      ],
+      "ex": [
+        {"en": "There is abundant evidence that exercise lowers stress.",
+         "zh": "有大量证据表明锻炼能减轻压力。"}
+      ],
+      "note": "abundant 接不可数或复数名词；be abundant in 表盛产。"
+    },
+    {
+      "word": "exclaim",
+      "phr": [
+        {"en": "exclaim in surprise", "zh": "惊讶地叫出声"},
+        {"en": "exclaim at sth", "zh": "对某事惊叹"}
+      ],
+      "ex": [
+        {"en": "She exclaimed in surprise when she saw the size of the cake.",
+         "zh": "看到蛋糕那么大，她惊讶地叫了起来。"}
+      ],
+      "note": "exclaim 指因强烈情绪喊出，常接 in surprise。"
+    },
+    {
+      "word": "ballet",
+      "phr": [
+        {"en": "a ballet dancer", "zh": "芭蕾舞演员"},
+        {"en": "watch a ballet", "zh": "看芭蕾舞"}
+      ],
+      "ex": [
+        {"en": "She has studied ballet since she was five years old.",
+         "zh": "她从五岁起就学习芭蕾舞。"}
+      ],
+      "note": "ballet 的 t 不发音；a ballet 可指一部舞剧。"
+    },
+    {
+      "word": "mute",
+      "phr": [
+        {"en": "remain mute", "zh": "保持沉默"},
+        {"en": "mute the sound", "zh": "把声音调成静音"}
+      ],
+      "ex": [
+        {"en": "She remained mute throughout the meeting, refusing to answer.",
+         "zh": "整场会议她一言不发，拒不作答。"}
+      ],
+      "note": "mute 指不发声；mute the sound 意为消音。"
+    },
+    {
+      "word": "courtesy",
+      "phr": [
+        {"en": "a courtesy call", "zh": "礼节性拜访"},
+        {"en": "by courtesy of sb", "zh": "承蒙某人提供"}
+      ],
+      "ex": [
+        {"en": "It is common courtesy to thank the host before you leave.",
+         "zh": "离开前向主人道谢是基本的礼貌。"}
+      ],
+      "note": "courtesy 比 politeness 正式；by courtesy of 表承蒙。"
+    },
+    {
+      "word": "deteriorate",
+      "phr": [
+        {"en": "deteriorate rapidly", "zh": "迅速恶化"},
+        {"en": "deteriorate into sth", "zh": "恶化为某事"}
+      ],
+      "ex": [
+        {"en": "His health deteriorated rapidly after he stopped taking the medicine.",
+         "zh": "停药后，他的健康状况迅速恶化。"}
+      ],
+      "note": "deteriorate 不及物；名词是 deterioration。"
+    },
+    {
+      "word": "warehouse",
+      "phr": [
+        {"en": "a warehouse worker", "zh": "仓库工人"},
+        {"en": "store goods in a warehouse", "zh": "把货物存入仓库"}
+      ],
+      "ex": [
+        {"en": "The goods were moved to a warehouse outside the city.",
+         "zh": "货物被运到城外的一座仓库。"}
+      ],
+      "note": "ware 指货物，house 指房屋，warehouse 指仓库。"
+    },
+    {
+      "word": "recognize",
+      "phr": [
+        {"en": "recognize sb by sth", "zh": "凭某物认出某人"},
+        {"en": "be widely recognized as", "zh": "被广泛认为是"}
+      ],
+      "ex": [
+        {"en": "I hardly recognized her after so many years.",
+         "zh": "这么多年过去，我几乎认不出她了。"}
+      ],
+      "note": "recognize 指认出或承认；recognize sb as 表承认身份。"
+    },
+    {
+      "word": "restraint",
+      "phr": [
+        {"en": "show restraint", "zh": "表现克制"},
+        {"en": "without restraint", "zh": "无节制地"}
+      ],
+      "ex": [
+        {"en": "The police showed great restraint in dealing with the crowd.",
+         "zh": "警方在处理人群时表现出极大的克制。"}
+      ],
+      "note": "restraint 指克制或限制；动词 restrain 常接 from。"
+    },
+    {
+      "word": "pollutant",
+      "phr": [
+        {"en": "air pollutants", "zh": "空气污染物"},
+        {"en": "reduce pollutants", "zh": "减少污染物"}
+      ],
+      "ex": [
+        {"en": "Factories along the river release pollutants into the water every day.",
+         "zh": "沿河的工厂每天向水中排放污染物。"}
+      ],
+      "note": "pollutant 可数；pollute 是动词，pollution 是名词。"
+    },
+    {
+      "word": "bamboo",
+      "phr": [
+        {"en": "bamboo shoots", "zh": "竹笋"},
+        {"en": "a bamboo chair", "zh": "竹椅"}
+      ],
+      "ex": [
+        {"en": "Pandas spend most of the day eating bamboo.",
+         "zh": "熊猫一天中大部分时间都在吃竹子。"}
+      ],
+      "note": "bamboo 不可数，作定语用单数，如 bamboo shoots。"
+    },
+    {
+      "word": "input",
+      "phr": [
+        {"en": "input data", "zh": "输入数据"},
+        {"en": "valuable input", "zh": "宝贵的意见"}
+      ],
+      "ex": [
+        {"en": "We welcome input from everyone before the plan is final.",
+         "zh": "计划定稿前，我们欢迎所有人提意见。"}
+      ],
+      "note": "input 指意见或数据时不可数；过去式也可用 inputted。"
+    },
+    {
+      "word": "induce",
+      "phr": [
+        {"en": "induce sb to do sth", "zh": "劝某人做某事"},
+        {"en": "induce sleep", "zh": "引起睡意"}
+      ],
+      "ex": [
+        {"en": "Nothing could induce him to change his mind about leaving.",
+         "zh": "什么也不能促使他改变离开的主意。"}
+      ],
+      "note": "induce sb to do 表劝诱；也可指引起某状态。"
+    },
+    {
+      "word": "abnormal",
+      "phr": [
+        {"en": "abnormal behaviour", "zh": "异常行为"},
+        {"en": "abnormal weather", "zh": "异常天气"}
+      ],
+      "ex": [
+        {"en": "The doctor found nothing abnormal in the test results.",
+         "zh": "医生在检查结果中没发现任何异常。"}
+      ],
+      "note": "ab- 表偏离，normal 表正常，故为反常的。"
+    },
+    {
+      "word": "shrewd",
+      "phr": [
+        {"en": "a shrewd businessman", "zh": "精明的商人"},
+        {"en": "a shrewd guess", "zh": "敏锐的猜测"}
+      ],
+      "ex": [
+        {"en": "She made a shrewd guess about what the manager would decide.",
+         "zh": "她对经理会如何决定作出了敏锐的猜测。"}
+      ],
+      "note": "shrewd 褒义，指精明有眼光，比 clever 更实际。"
+    },
+    {
+      "word": "stereotype",
+      "phr": [
+        {"en": "a racial stereotype", "zh": "种族刻板印象"},
+        {"en": "break the stereotype", "zh": "打破刻板印象"}
+      ],
+      "ex": [
+        {"en": "The film challenges the stereotype that engineers lack social skills.",
+         "zh": "这部电影挑战了工程师缺乏社交能力这一刻板印象。"}
+      ],
+      "note": "stereotype 常与 challenge、break 连用。"
+    },
+    {
+      "word": "molecule",
+      "phr": [
+        {"en": "a water molecule", "zh": "水分子"},
+        {"en": "a molecule of sugar", "zh": "一个糖分子"}
+      ],
+      "ex": [
+        {"en": "A water molecule consists of two hydrogen atoms and one oxygen atom.",
+         "zh": "一个水分子由两个氢原子和一个氧原子构成。"}
+      ],
+      "note": "molecule 是分子，atom 是原子；形容词 molecular。"
+    },
+    {
+      "word": "enroll",
+      "phr": [
+        {"en": "enroll in a course", "zh": "报名参加课程"},
+        {"en": "enroll at a university", "zh": "在大学注册入学"}
+      ],
+      "ex": [
+        {"en": "More than three hundred students enrolled in the evening course.",
+         "zh": "三百多名学生报名了这门晚间课程。"}
+      ],
+      "note": "英式拼作 enrol，美式 enroll；后接 in。"
+    },
+    {
+      "word": "resign",
+      "phr": [
+        {"en": "resign from a post", "zh": "辞去职务"},
+        {"en": "resign oneself to sth", "zh": "无奈接受某事"}
+      ],
+      "ex": [
+        {"en": "He resigned from the board after the scandal became public.",
+         "zh": "丑闻公开后，他从董事会辞职。"}
+      ],
+      "note": "resign from 表辞去职务；be resigned to 表无奈接受。"
+    }
+  ]
+}

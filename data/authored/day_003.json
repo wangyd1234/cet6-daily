@@ -1,0 +1,365 @@
+{
+  "day": 3,
+  "words": [
+    {
+      "word": "resume",
+      "phr": [
+        {"en": "resume work", "zh": "恢复工作"},
+        {"en": "resume one's studies", "zh": "恢复学业"}
+      ],
+      "ex": [
+        {"en": "She resumed her studies after a year of working abroad.",
+         "zh": "在国外工作一年后，她恢复了学业。"}
+      ],
+      "note": "作「重新开始」时重音在第二音节；作「简历」时重音在前。"
+    },
+    {
+      "word": "provocative",
+      "phr": [
+        {"en": "a provocative remark", "zh": "挑衅性的言论"},
+        {"en": "provocative behaviour", "zh": "挑衅行为"}
+      ],
+      "ex": [
+        {"en": "His provocative remarks about the new policy angered many of the listeners.",
+         "zh": "他就新政策发表的挑衅性言论激怒了许多听众。"}
+      ],
+      "note": "provoke（激起）+ -ative；provocative 多指故意惹人反应。"
+    },
+    {
+      "word": "committee",
+      "phr": [
+        {"en": "a committee member", "zh": "委员会成员"},
+        {"en": "set up a committee", "zh": "成立委员会"}
+      ],
+      "ex": [
+        {"en": "The committee will meet on Friday to discuss next year's budget.",
+         "zh": "委员会将于周五开会讨论明年的预算。"}
+      ],
+      "note": "com + mit + tee，注意双写 t 和 e；committee 是集体名词。"
+    },
+    {
+      "word": "posture",
+      "phr": [
+        {"en": "good posture", "zh": "良好的体态"},
+        {"en": "a defensive posture", "zh": "防御姿态"}
+      ],
+      "ex": [
+        {"en": "Sitting at a desk for hours can damage your posture and cause back pain.",
+         "zh": "长时间伏案会损害体态并引起背痛。"}
+      ],
+      "note": "posture 可指身体姿势，也可指公开摆出的「姿态、立场」。"
+    },
+    {
+      "word": "spiral",
+      "phr": [
+        {"en": "a downward spiral", "zh": "螺旋式下降"},
+        {"en": "spiral out of control", "zh": "急剧失控"}
+      ],
+      "ex": [
+        {"en": "After the layoffs, the company's losses began to spiral out of control.",
+         "zh": "裁员之后，公司的亏损开始急剧失控。"}
+      ],
+      "note": "spiral 由「螺旋」引申为「急剧上升或恶化」，常接 out of control。"
+    },
+    {
+      "word": "subtle",
+      "phr": [
+        {"en": "a subtle difference", "zh": "细微的差别"},
+        {"en": "a subtle change", "zh": "微妙的变化"}
+      ],
+      "ex": [
+        {"en": "There is a subtle difference between these two shades of blue.",
+         "zh": "这两种蓝色之间有细微的差别。"}
+      ],
+      "note": "subtle 与 slight 都表「细微」，subtle 强调不易察觉；b 不发音。"
+    },
+    {
+      "word": "component",
+      "phr": [
+        {"en": "a key component", "zh": "关键部件"},
+        {"en": "electronic components", "zh": "电子元件"}
+      ],
+      "ex": [
+        {"en": "The new engine has fewer components, so it is cheaper to repair.",
+         "zh": "新发动机的零件更少，因此维修费用更低。"}
+      ],
+      "note": "com-（一起）+ pon（放置）+ -ent → 组装在一起的部件。"
+    },
+    {
+      "word": "overwhelm",
+      "phr": [
+        {"en": "be overwhelmed by", "zh": "被…压倒"},
+        {"en": "an overwhelming majority", "zh": "压倒性多数"}
+      ],
+      "ex": [
+        {"en": "She felt overwhelmed by the amount of work before the deadline.",
+         "zh": "面对截止日期前的大量工作，她感到不知所措。"}
+      ],
+      "note": "overwhelm 指气势或数量上压过来；overwhelming 表「压倒性的」。"
+    },
+    {
+      "word": "suite",
+      "phr": [
+        {"en": "a hotel suite", "zh": "酒店套房"},
+        {"en": "a suite of software", "zh": "一套软件"}
+      ],
+      "ex": [
+        {"en": "They booked a suite on the top floor for their anniversary.",
+         "zh": "他们为结婚纪念日在顶层订了一间套房。"}
+      ],
+      "note": "suite 与 sweet 同音；a suite of 指成套的一组事物。"
+    },
+    {
+      "word": "consultant",
+      "phr": [
+        {"en": "a management consultant", "zh": "管理顾问"},
+        {"en": "a financial consultant", "zh": "财务顾问"}
+      ],
+      "ex": [
+        {"en": "The company hired a consultant to improve its customer service.",
+         "zh": "公司聘请了一位顾问来改善客户服务。"}
+      ],
+      "note": "consult（咨询）+ -ant（人）→ 顾问；动词 consult 也表「查阅」。"
+    },
+    {
+      "word": "disguise",
+      "phr": [
+        {"en": "in disguise", "zh": "化了装的"},
+        {"en": "disguise oneself as", "zh": "把自己伪装成"}
+      ],
+      "ex": [
+        {"en": "The thief entered the building in disguise and left unnoticed.",
+         "zh": "窃贼化了装进入大楼，离开时无人察觉。"}
+      ],
+      "note": "in disguise 是固定短语；disguise 作动词重音在第二音节。"
+    },
+    {
+      "word": "imperial",
+      "phr": [
+        {"en": "the imperial palace", "zh": "皇宫"},
+        {"en": "imperial units", "zh": "英制单位"}
+      ],
+      "ex": [
+        {"en": "The museum was once part of the imperial palace of the old dynasty.",
+         "zh": "这座博物馆曾属于旧王朝的皇宫。"}
+      ],
+      "note": "imper-（统治）+ -ial；imperial units 指英制单位。"
+    },
+    {
+      "word": "facet",
+      "phr": [
+        {"en": "an important facet of", "zh": "…的重要方面"},
+        {"en": "every facet of life", "zh": "生活的方方面面"}
+      ],
+      "ex": [
+        {"en": "Online privacy is only one facet of the wider digital security problem.",
+         "zh": "网络隐私只是更广泛的数字安全问题的一个方面。"}
+      ],
+      "note": "facet 原指宝石的「刻面」，引申为事物的「一个方面」。"
+    },
+    {
+      "word": "liberal",
+      "phr": [
+        {"en": "a liberal attitude", "zh": "开明的态度"},
+        {"en": "liberal arts", "zh": "人文学科"}
+      ],
+      "ex": [
+        {"en": "Her parents hold liberal views on education and let her choose her own path.",
+         "zh": "她父母在教育上持开明态度，让她自己选择道路。"}
+      ],
+      "note": "liber（自由）+ -al；liberal arts 指人文学科，不是「自由艺术」。"
+    },
+    {
+      "word": "surgery",
+      "phr": [
+        {"en": "undergo surgery", "zh": "接受手术"},
+        {"en": "plastic surgery", "zh": "整形手术"}
+      ],
+      "ex": [
+        {"en": "He needs surgery on his knee and will be off work for a month.",
+         "zh": "他的膝盖需要手术，将停工一个月。"}
+      ],
+      "note": "surgery 指「外科、手术」；英式口语中也指「诊所」。"
+    },
+    {
+      "word": "harmony",
+      "phr": [
+        {"en": "in harmony with", "zh": "与…协调一致"},
+        {"en": "live in harmony", "zh": "和睦相处"}
+      ],
+      "ex": [
+        {"en": "The two communities have lived in harmony for more than a century.",
+         "zh": "这两个社区和睦相处已有一百多年。"}
+      ],
+      "note": "harmony 常与 in 连用：in harmony with 表「与…协调」。"
+    },
+    {
+      "word": "violent",
+      "phr": [
+        {"en": "a violent crime", "zh": "暴力犯罪"},
+        {"en": "a violent storm", "zh": "猛烈的暴风雨"}
+      ],
+      "ex": [
+        {"en": "A violent storm hit the coast last night and damaged several houses.",
+         "zh": "昨夜一场猛烈的暴风雨袭击了海岸，损坏了几座房屋。"}
+      ],
+      "note": "violent 既修饰人（暴力），也修饰自然现象（猛烈）；名词 violence。"
+    },
+    {
+      "word": "resolve",
+      "phr": [
+        {"en": "resolve a problem", "zh": "解决问题"},
+        {"en": "resolve to do sth", "zh": "决心做某事"}
+      ],
+      "ex": [
+        {"en": "The two sides finally resolved the dispute without going to court.",
+         "zh": "双方最终未上法庭就解决了纠纷。"}
+      ],
+      "note": "表「决心」时后接 to do；表「解决」时比 solve 更正式。"
+    },
+    {
+      "word": "cozy",
+      "phr": [
+        {"en": "a cozy little room", "zh": "舒适的小房间"},
+        {"en": "feel cozy", "zh": "感到温暖舒适"}
+      ],
+      "ex": [
+        {"en": "We spent the whole evening in a cozy café near the river.",
+         "zh": "我们在河边一家舒适的小咖啡馆待了一整晚。"}
+      ],
+      "note": "美式拼 cozy，英式拼 cosy；多指小而温暖的舒适感。"
+    },
+    {
+      "word": "confront",
+      "phr": [
+        {"en": "confront a problem", "zh": "直面问题"},
+        {"en": "be confronted with", "zh": "面临"}
+      ],
+      "ex": [
+        {"en": "Young graduates are often confronted with difficult choices about their future.",
+         "zh": "年轻毕业生常常面临关于未来的艰难选择。"}
+      ],
+      "note": "confront 是及物动词；be confronted with 表「面临」。"
+    },
+    {
+      "word": "dominate",
+      "phr": [
+        {"en": "dominate the market", "zh": "主导市场"},
+        {"en": "dominate the conversation", "zh": "主导谈话"}
+      ],
+      "ex": [
+        {"en": "A few large firms dominate the market and set most of the prices.",
+         "zh": "少数大公司主导市场，并决定大部分价格。"}
+      ],
+      "note": "domin（主人）+ -ate；指占主导地位，名词 dominance。"
+    },
+    {
+      "word": "imitate",
+      "phr": [
+        {"en": "imitate a sound", "zh": "模仿声音"},
+        {"en": "imitate one's style", "zh": "模仿某人风格"}
+      ],
+      "ex": [
+        {"en": "Young children often imitate the way their parents speak.",
+         "zh": "幼儿常常模仿父母说话的方式。"}
+      ],
+      "note": "imitate 直接接宾语，不说 imitate from；名词 imitation。"
+    },
+    {
+      "word": "deadly",
+      "phr": [
+        {"en": "a deadly disease", "zh": "致命的疾病"},
+        {"en": "deadly serious", "zh": "极其严肃"}
+      ],
+      "ex": [
+        {"en": "The snake's bite can be deadly if the patient is not treated quickly.",
+         "zh": "如果病人得不到及时治疗，这种蛇咬伤可能致命。"}
+      ],
+      "note": "deadly 作形容词表「致命的」，作副词表「极其」，如 deadly serious。"
+    },
+    {
+      "word": "compute",
+      "phr": [
+        {"en": "compute the cost", "zh": "计算成本"},
+        {"en": "compute the distance", "zh": "计算距离"}
+      ],
+      "ex": [
+        {"en": "The software computes the total cost of the trip in a few seconds.",
+         "zh": "该软件几秒钟就算出了这次出行的总费用。"}
+      ],
+      "note": "compute 偏正式、技术性，日常多说 calculate。"
+    },
+    {
+      "word": "institution",
+      "phr": [
+        {"en": "a financial institution", "zh": "金融机构"},
+        {"en": "an educational institution", "zh": "教育机构"}
+      ],
+      "ex": [
+        {"en": "The university is one of the oldest educational institutions in the country.",
+         "zh": "这所大学是该国最古老的教育机构之一。"}
+      ],
+      "note": "institution 兼指「机构」与「制度」，如婚姻制度。"
+    },
+    {
+      "word": "huddle",
+      "phr": [
+        {"en": "huddle together", "zh": "挤在一起"},
+        {"en": "huddle around", "zh": "围在…周围"}
+      ],
+      "ex": [
+        {"en": "The children huddled together under the umbrella while the rain poured down.",
+         "zh": "大雨倾盆时，孩子们挤在伞下。"}
+      ],
+      "note": "huddle 指因寒冷或害怕而蜷缩、挤在一起，常与 together 连用。"
+    },
+    {
+      "word": "skeleton",
+      "phr": [
+        {"en": "a skeleton staff", "zh": "最少人员"},
+        {"en": "the human skeleton", "zh": "人体骨骼"}
+      ],
+      "ex": [
+        {"en": "At night the office runs on a skeleton staff of just three people.",
+         "zh": "夜间办公室只留三名骨干人员运转。"}
+      ],
+      "note": "a skeleton staff 指维持运转的最少人员；skeleton 也指「框架」。"
+    },
+    {
+      "word": "ambition",
+      "phr": [
+        {"en": "achieve one's ambition", "zh": "实现抱负"},
+        {"en": "political ambition", "zh": "政治野心"}
+      ],
+      "ex": [
+        {"en": "Her ambition is to become the first woman to lead the firm.",
+         "zh": "她的抱负是成为这家公司首位女性掌门人。"}
+      ],
+      "note": "ambition 可褒可贬：抱负或野心；形容词 ambitious。"
+    },
+    {
+      "word": "intersection",
+      "phr": [
+        {"en": "a busy intersection", "zh": "繁忙的十字路口"},
+        {"en": "the intersection of two lines", "zh": "两线的交点"}
+      ],
+      "ex": [
+        {"en": "Turn left at the next intersection and the library will be on your right.",
+         "zh": "在下一个路口左转，图书馆就在你右边。"}
+      ],
+      "note": "inter-（在…之间）+ sect（切）→ 相交之处、十字路口。"
+    },
+    {
+      "word": "exceed",
+      "phr": [
+        {"en": "exceed expectations", "zh": "超出预期"},
+        {"en": "exceed the limit", "zh": "超过限制"}
+      ],
+      "ex": [
+        {"en": "The results exceeded all expectations and surprised even the researchers.",
+         "zh": "结果超出了所有人的预期，连研究人员都感到惊讶。"}
+      ],
+      "note": "exceed 直接接宾语，不说 exceed more than；名词 excess。"
+    }
+  ]
+}

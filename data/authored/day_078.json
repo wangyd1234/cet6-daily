@@ -1,0 +1,335 @@
+{
+ "day": 78,
+ "words": [
+  {
+   "word": "gigantic",
+   "phr": [
+    {"en": "a gigantic statue", "zh": "巨大的雕像"},
+    {"en": "on a gigantic scale", "zh": "以巨大规模"}
+   ],
+   "ex": [
+    {"en": "The new stadium is a gigantic structure that can hold sixty thousand fans.", "zh": "新体育场是一座可容纳六万名观众的巨型建筑。"}
+   ],
+   "note": "gigantic 由 giant（巨人）加 -ic 构成，比 huge 更夸张。"
+  },
+  {
+   "word": "distinct",
+   "phr": [
+    {"en": "distinct from", "zh": "与…不同"},
+    {"en": "a distinct advantage", "zh": "明显的优势"}
+   ],
+   "ex": [
+    {"en": "Her writing style is quite distinct from that of her sister.", "zh": "她的写作风格与她姐姐的截然不同。"}
+   ],
+   "note": "distinct 常与 from 连用，强调区别；distinctive 强调特色。"
+  },
+  {
+   "word": "vegetation",
+   "phr": [
+    {"en": "dense vegetation", "zh": "茂密的植被"},
+    {"en": "natural vegetation", "zh": "天然植被"}
+   ],
+   "ex": [
+    {"en": "Thick vegetation covered the hillside soon after the rainy season began.", "zh": "雨季开始后不久，茂密的植被就覆盖了山坡。"}
+   ],
+   "note": "vegetation 是不可数名词，指一地草木总称；单株植物用 plant。"
+  },
+  {
+   "word": "recovery",
+   "phr": [
+    {"en": "economic recovery", "zh": "经济复苏"},
+    {"en": "make a full recovery", "zh": "完全康复"}
+   ],
+   "ex": [
+    {"en": "Doctors say she will make a full recovery within a few weeks.", "zh": "医生说她在几周内就能完全康复。"}
+   ],
+   "note": "recovery 后接 from 表示从…中恢复；动词 recover 比名词少个 -y。"
+  },
+  {
+   "word": "geology",
+   "phr": [
+    {"en": "a degree in geology", "zh": "地质学学位"},
+    {"en": "the geology of the region", "zh": "该地区的地质"}
+   ],
+   "ex": [
+    {"en": "He studied geology at university and now works for an oil company.", "zh": "他在大学学地质学，现在为一家石油公司工作。"}
+   ],
+   "note": "geo- 表示地球，-logy 表示学科，geology 即研究地球的学问。"
+  },
+  {
+   "word": "hoist",
+   "phr": [
+    {"en": "hoist the flag", "zh": "升起旗帜"},
+    {"en": "hoist the sails", "zh": "升起船帆"}
+   ],
+   "ex": [
+    {"en": "The workers used a crane to hoist the steel beams into place.", "zh": "工人们用起重机把钢梁吊装到位。"}
+   ],
+   "note": "hoist 强调用绳索或机械向上吊起，比 raise 更具体。"
+  },
+  {
+   "word": "aware",
+   "phr": [
+    {"en": "be aware of", "zh": "意识到"},
+    {"en": "make sb aware of", "zh": "使人意识到"}
+   ],
+   "ex": [
+    {"en": "Few people were aware of the risks involved in the project.", "zh": "很少有人意识到这个项目涉及的风险。"}
+   ],
+   "note": "aware 只作表语，常用 be aware of 或 that 从句。"
+  },
+  {
+   "word": "quart",
+   "phr": [
+    {"en": "a quart of milk", "zh": "一夸脱牛奶"},
+    {"en": "two quarts of water", "zh": "两夸脱水"}
+   ],
+   "ex": [
+    {"en": "She bought a quart of milk and a loaf of bread on her way home.", "zh": "她在回家路上买了一夸脱牛奶和一条面包。"}
+   ],
+   "note": "quart 是容量单位，一夸脱约合 0.95 升，多见于美式用法。"
+  },
+  {
+   "word": "numerical",
+   "phr": [
+    {"en": "numerical data", "zh": "数字数据"},
+    {"en": "numerical value", "zh": "数值"}
+   ],
+   "ex": [
+    {"en": "The report presents the results in both numerical and written form.", "zh": "报告以数字和文字两种形式呈现结果。"}
+   ],
+   "note": "numerical 修饰数据或顺序；in numerical order 意为按数字顺序。"
+  },
+  {
+   "word": "limp",
+   "phr": [
+    {"en": "walk with a limp", "zh": "一瘸一拐地走"},
+    {"en": "a limp handshake", "zh": "无力的握手"}
+   ],
+   "ex": [
+    {"en": "He limped off the field after twisting his ankle in the second half.", "zh": "下半场扭伤脚踝后，他一瘸一拐地走下球场。"}
+   ],
+   "note": "limp 作动词指跛行，作形容词指松软无力，区别于 lame。"
+  },
+  {
+   "word": "security",
+   "phr": [
+    {"en": "national security", "zh": "国家安全"},
+    {"en": "security check", "zh": "安全检查"}
+   ],
+   "ex": [
+    {"en": "Airport security has been tightened since the new rules took effect.", "zh": "新规定生效以来，机场安检更加严格。"}
+   ],
+   "note": "security 指安全措施或保障；复数 securities 常指证券。"
+  },
+  {
+   "word": "award",
+   "phr": [
+    {"en": "win an award", "zh": "获奖"},
+    {"en": "award a prize to", "zh": "向…颁发奖品"}
+   ],
+   "ex": [
+    {"en": "The young scientist was awarded a prize for her research on batteries.", "zh": "这位年轻科学家因电池研究获奖。"}
+   ],
+   "note": "award 可接双宾语：award sb sth，即授给某人某物。"
+  },
+  {
+   "word": "buck",
+   "phr": [
+    {"en": "make a buck", "zh": "挣钱"},
+    {"en": "buck up", "zh": "振作起来"}
+   ],
+   "ex": [
+    {"en": "He took a part-time job to make a few extra bucks during the summer.", "zh": "他夏天做兼职，想多挣几个钱。"}
+   ],
+   "note": "buck 在美式口语中指美元，make a buck 意为谋生赚钱。"
+  },
+  {
+   "word": "eligible",
+   "phr": [
+    {"en": "eligible for", "zh": "符合…条件"},
+    {"en": "an eligible candidate", "zh": "合格的候选人"}
+   ],
+   "ex": [
+    {"en": "Only students who have finished the course are eligible for the scholarship.", "zh": "只有修完课程的学生才有资格申请奖学金。"}
+   ],
+   "note": "eligible 后常接 for 或 to do；反义词是 ineligible。"
+  },
+  {
+   "word": "alarm",
+   "phr": [
+    {"en": "fire alarm", "zh": "火警警报"},
+    {"en": "alarm clock", "zh": "闹钟"}
+   ],
+   "ex": [
+    {"en": "The fire alarm went off at midnight and everyone left the building.", "zh": "火警警报在午夜响起，所有人都撤出了大楼。"}
+   ],
+   "note": "alarm 指警报或警报器；raise the alarm 意为发出警报。"
+  },
+  {
+   "word": "feeble",
+   "phr": [
+    {"en": "a feeble excuse", "zh": "站不住脚的借口"},
+    {"en": "a feeble voice", "zh": "微弱的声音"}
+   ],
+   "ex": [
+    {"en": "The patient was too feeble to walk without help after the operation.", "zh": "手术后病人太虚弱，无人搀扶就走不了路。"}
+   ],
+   "note": "feeble 常形容人、声音或借口，比 weak 更带贬义。"
+  },
+  {
+   "word": "appraisal",
+   "phr": [
+    {"en": "performance appraisal", "zh": "绩效评估"},
+    {"en": "an appraisal of", "zh": "对…的评价"}
+   ],
+   "ex": [
+    {"en": "The manager gives each employee an annual performance appraisal in December.", "zh": "经理每年十二月对每位员工做绩效评估。"}
+   ],
+   "note": "appraisal 多用于正式评估或估价，动词是 appraise。"
+  },
+  {
+   "word": "continual",
+   "phr": [
+    {"en": "continual complaints", "zh": "不断的抱怨"},
+    {"en": "continual interruptions", "zh": "频频的打断"}
+   ],
+   "ex": [
+    {"en": "Continual interruptions made it hard for her to finish the report.", "zh": "不断的打扰使她难以完成报告。"}
+   ],
+   "note": "continual 指反复发生；continuous 指不间断连续，勿混用。"
+  },
+  {
+   "word": "herb",
+   "phr": [
+    {"en": "fresh herbs", "zh": "新鲜香草"},
+    {"en": "medicinal herbs", "zh": "草药"}
+   ],
+   "ex": [
+    {"en": "She grows herbs and vegetables in a small garden behind the house.", "zh": "她在屋后的小园子里种香草和蔬菜。"}
+   ],
+   "note": "herb 指香草或药草；英式读音 h 不发音，美式要读出 h。"
+  },
+  {
+   "word": "prose",
+   "phr": [
+    {"en": "a piece of prose", "zh": "一篇散文"},
+    {"en": "simple prose", "zh": "平实的散文"}
+   ],
+   "ex": [
+    {"en": "Her latest book is written in simple prose that anyone can enjoy.", "zh": "她的新书用平实的散文写成，人人都能读懂。"}
+   ],
+   "note": "prose 是不可数名词，与 verse（诗歌）相对而言。"
+  },
+  {
+   "word": "limb",
+   "phr": [
+    {"en": "artificial limb", "zh": "假肢"},
+    {"en": "out on a limb", "zh": "处于孤立境地"}
+   ],
+   "ex": [
+    {"en": "The climber fell and hurt his limbs, but he refused to give up.", "zh": "攀登者摔下来伤了四肢，但仍拒绝放弃。"}
+   ],
+   "note": "limb 可指四肢，也可指大树枝；out on a limb 指孤立无援。"
+  },
+  {
+   "word": "orientation",
+   "phr": [
+    {"en": "new student orientation", "zh": "新生入学介绍"},
+    {"en": "market orientation", "zh": "市场导向"}
+   ],
+   "ex": [
+    {"en": "New students attend a week-long orientation before classes officially begin.", "zh": "正式开课前，新生要参加为期一周的入学介绍。"}
+   ],
+   "note": "orientation 指方向、定位或迎新介绍；动词 orient 意为使适应。"
+  },
+  {
+   "word": "refreshment",
+   "phr": [
+    {"en": "light refreshments", "zh": "简单茶点"},
+    {"en": "serve refreshments", "zh": "供应茶点"}
+   ],
+   "ex": [
+    {"en": "Light refreshments were served after the lecture in the hall.", "zh": "讲座结束后，大厅里供应了简单茶点。"}
+   ],
+   "note": "refreshments 指活动上的茶点，表示此义时常用复数。"
+  },
+  {
+   "word": "confidence",
+   "phr": [
+    {"en": "build confidence", "zh": "建立信心"},
+    {"en": "with confidence", "zh": "自信地"}
+   ],
+   "ex": [
+    {"en": "After months of practice, she spoke English with real confidence at the meeting.", "zh": "练习几个月后，她在会上自信地讲英语。"}
+   ],
+   "note": "confidence 后接 in 表示对…有信心；形容词是 confident。"
+  },
+  {
+   "word": "arbitrary",
+   "phr": [
+    {"en": "an arbitrary decision", "zh": "武断的决定"},
+    {"en": "arbitrary rules", "zh": "随意的规定"}
+   ],
+   "ex": [
+    {"en": "Critics say the new tax rules are arbitrary and unfair to small firms.", "zh": "批评者说新税法武断，对小公司不公平。"}
+   ],
+   "note": "arbitrary 强调凭个人意愿、缺乏依据；名词是 arbitrariness。"
+  },
+  {
+   "word": "intent",
+   "phr": [
+    {"en": "be intent on", "zh": "专心于"},
+    {"en": "criminal intent", "zh": "犯罪意图"}
+   ],
+   "ex": [
+    {"en": "She was so intent on her work that she forgot to eat lunch.", "zh": "她太专注于工作，连午饭都忘了吃。"}
+   ],
+   "note": "be intent on doing 意为专心做某事；intent 作名词指意图。"
+  },
+  {
+   "word": "passive",
+   "phr": [
+    {"en": "passive smoking", "zh": "被动吸烟"},
+    {"en": "a passive attitude", "zh": "消极态度"}
+   ],
+   "ex": [
+    {"en": "Students should take part in class discussions instead of remaining passive.", "zh": "学生应参与课堂讨论，而不是一直被动听讲。"}
+   ],
+   "note": "passive 与 active 相对；passive voice 指被动语态。"
+  },
+  {
+   "word": "fertilizer",
+   "phr": [
+    {"en": "chemical fertilizer", "zh": "化肥"},
+    {"en": "organic fertilizer", "zh": "有机肥"}
+   ],
+   "ex": [
+    {"en": "Farmers here use less chemical fertilizer to protect the local river.", "zh": "这里的农民少用化肥，以保护当地的河流。"}
+   ],
+   "note": "fertilizer 由 fertile（肥沃的）加 -ize、-er 构成，指肥料。"
+  },
+  {
+   "word": "corresponding",
+   "phr": [
+    {"en": "corresponding period", "zh": "相应时期"},
+    {"en": "corresponding changes", "zh": "相应的变化"}
+   ],
+   "ex": [
+    {"en": "Sales in May rose by ten percent compared with the corresponding month last year.", "zh": "与去年同期相比，五月份销售额增长了百分之十。"}
+   ],
+   "note": "corresponding 表示相对应的；correspond 作动词指相符或通信。"
+  },
+  {
+   "word": "oath",
+   "phr": [
+    {"en": "take an oath", "zh": "宣誓"},
+    {"en": "under oath", "zh": "宣誓后作证"}
+   ],
+   "ex": [
+    {"en": "The witness took an oath to tell the truth before giving evidence.", "zh": "证人在作证前宣誓说实话。"}
+   ],
+   "note": "oath 常用 take an oath；under oath 指已宣誓作证。"
+  }
+ ]
+}

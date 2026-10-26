@@ -1,0 +1,365 @@
+{
+  "day": 51,
+  "words": [
+    {
+      "word": "guarantee",
+      "phr": [
+        {"en": "a money-back guarantee", "zh": "退款保证"},
+        {"en": "guarantee the quality", "zh": "保证质量"}
+      ],
+      "ex": [
+        {"en": "The shop offers a two-year guarantee on all its electronic products.",
+         "zh": "这家商店对所有电子产品提供两年保修。"}
+      ],
+      "note": "保障、保修常用 under guarantee；也接 that 从句。"
+    },
+    {
+      "word": "odor",
+      "phr": [
+        {"en": "a strange odor", "zh": "奇怪的气味"},
+        {"en": "body odor", "zh": "体味"}
+      ],
+      "ex": [
+        {"en": "A strange odor filled the kitchen as soon as the gas was turned on.",
+         "zh": "煤气一打开，厨房里就充满了奇怪的气味。"}
+      ],
+      "note": "odor 多指不好闻的气味，美式拼写；英式拼作 odour。"
+    },
+    {
+      "word": "predecessor",
+      "phr": [
+        {"en": "her predecessor", "zh": "她的前任"},
+        {"en": "the predecessor of", "zh": "…的前身"}
+      ],
+      "ex": [
+        {"en": "The new manager continued most of the policies introduced by her predecessor.",
+         "zh": "新经理沿用了前任推出的大部分政策。"}
+      ],
+      "note": "predecessor 反义词是 successor；pre- 表在前，指前任或前身。"
+    },
+    {
+      "word": "acquire",
+      "phr": [
+        {"en": "acquire a skill", "zh": "掌握一项技能"},
+        {"en": "acquire a taste for", "zh": "逐渐喜欢上"}
+      ],
+      "ex": [
+        {"en": "Children acquire language skills faster when they are exposed to books early.",
+         "zh": "孩子早早接触书籍，语言能力会发展得更快。"}
+      ],
+      "note": "acquire 强调经努力逐渐获得，比 get 正式，常接 skill、habit。"
+    },
+    {
+      "word": "literal",
+      "phr": [
+        {"en": "a literal translation", "zh": "直译"},
+        {"en": "in the literal sense", "zh": "就字面意义而言"}
+      ],
+      "ex": [
+        {"en": "A literal translation often fails to capture the humor of the original.",
+         "zh": "直译往往无法传达原文的幽默。"}
+      ],
+      "note": "literal 源自 letter（字母），指按字面；副词是 literally。"
+    },
+    {
+      "word": "notion",
+      "phr": [
+        {"en": "the notion that", "zh": "…的观念"},
+        {"en": "have no notion of", "zh": "不知道；不懂"}
+      ],
+      "ex": [
+        {"en": "He rejected the notion that money alone can buy happiness.",
+         "zh": "他不认同仅靠金钱就能买到幸福的说法。"}
+      ],
+      "note": "notion 指朦胧的看法或念头，比 idea 更书面。"
+    },
+    {
+      "word": "default",
+      "phr": [
+        {"en": "by default", "zh": "默认地；自动地"},
+        {"en": "default on a loan", "zh": "拖欠贷款"}
+      ],
+      "ex": [
+        {"en": "Several companies defaulted on their loans when the market collapsed.",
+         "zh": "市场崩盘后，几家公司拖欠了贷款。"}
+      ],
+      "note": "default on 表拖欠债务；计算机语境指默认设置。"
+    },
+    {
+      "word": "arc",
+      "phr": [
+        {"en": "the arc of a circle", "zh": "圆弧"},
+        {"en": "an arc lamp", "zh": "弧光灯"}
+      ],
+      "ex": [
+        {"en": "The ball rose in a graceful arc and dropped through the basket.",
+         "zh": "球划出一道优美的弧线，落进篮筐。"}
+      ],
+      "note": "arc 指圆周的一段；彩虹常被描述为 an arc of colors。"
+    },
+    {
+      "word": "beverage",
+      "phr": [
+        {"en": "a hot beverage", "zh": "热饮"},
+        {"en": "alcoholic beverages", "zh": "含酒精饮料"}
+      ],
+      "ex": [
+        {"en": "The cafe serves hot beverages and light meals throughout the day.",
+         "zh": "这家咖啡馆全天供应热饮和简餐。"}
+      ],
+      "note": "beverage 是饮料的正式说法，多见于菜单和广告。"
+    },
+    {
+      "word": "captive",
+      "phr": [
+        {"en": "hold someone captive", "zh": "囚禁某人"},
+        {"en": "take someone captive", "zh": "俘虏某人"}
+      ],
+      "ex": [
+        {"en": "The rebels held the journalists captive for nearly three weeks.",
+         "zh": "叛军把记者们关押了将近三周。"}
+      ],
+      "note": "be held captive 是常见被动结构；captive 作名词指俘虏。"
+    },
+    {
+      "word": "insane",
+      "phr": [
+        {"en": "drive someone insane", "zh": "把某人逼疯"},
+        {"en": "go insane", "zh": "发疯"}
+      ],
+      "ex": [
+        {"en": "The constant noise from the building site nearly drove me insane.",
+         "zh": "工地不断的噪音几乎把我逼疯了。"}
+      ],
+      "note": "insane 与 crazy 近义但更正式；由 in- 加 sane（清醒的）构成。"
+    },
+    {
+      "word": "attribute",
+      "phr": [
+        {"en": "attribute A to B", "zh": "把A归因于B"},
+        {"en": "a personal attribute", "zh": "个人特质"}
+      ],
+      "ex": [
+        {"en": "She attributes her success to hard work and a little luck.",
+         "zh": "她把成功归因于努力加上一点运气。"}
+      ],
+      "note": "动词重音在后；attribute sth to sth，to 不能省略。"
+    },
+    {
+      "word": "cemetery",
+      "phr": [
+        {"en": "a military cemetery", "zh": "军人公墓"},
+        {"en": "be buried in a cemetery", "zh": "葬于公墓"}
+      ],
+      "ex": [
+        {"en": "The old cemetery at the edge of town is now a protected site.",
+         "zh": "镇边那座老公墓如今成了保护区。"}
+      ],
+      "note": "cemetery 结尾是 -tery，易与 symmetry 混淆。"
+    },
+    {
+      "word": "genetic",
+      "phr": [
+        {"en": "genetic engineering", "zh": "基因工程"},
+        {"en": "a genetic disorder", "zh": "遗传病"}
+      ],
+      "ex": [
+        {"en": "Scientists are studying the genetic causes of the disease.",
+         "zh": "科学家正在研究这种疾病的遗传成因。"}
+      ],
+      "note": "gene 是基因，genetic 为形容词，genetics 指遗传学。"
+    },
+    {
+      "word": "stitch",
+      "phr": [
+        {"en": "stitch up a wound", "zh": "缝合伤口"},
+        {"en": "in stitches", "zh": "笑个不停"}
+      ],
+      "ex": [
+        {"en": "The doctor cleaned the cut and stitched it up in a few minutes.",
+         "zh": "医生清理了伤口，几分钟就缝好了。"}
+      ],
+      "note": "stitch up 表缝合；in stitches 是口语，指笑得前仰后合。"
+    },
+    {
+      "word": "triumph",
+      "phr": [
+        {"en": "in triumph", "zh": "凯旋地"},
+        {"en": "triumph over", "zh": "战胜"}
+      ],
+      "ex": [
+        {"en": "The team returned home in triumph after winning the final.",
+         "zh": "球队赢得决赛后凯旋而归。"}
+      ],
+      "note": "triumph over 表战胜困难或对手；形容词是 triumphant。"
+    },
+    {
+      "word": "vice",
+      "phr": [
+        {"en": "a harmless vice", "zh": "无伤大雅的嗜好"},
+        {"en": "the vice of gambling", "zh": "赌博的恶习"}
+      ],
+      "ex": [
+        {"en": "Gambling is a vice that has ruined many families.",
+         "zh": "赌博是一种毁掉许多家庭的恶习。"}
+      ],
+      "note": "vice 指恶习或罪恶；注意别与 vise（虎钳）混淆。"
+    },
+    {
+      "word": "detection",
+      "phr": [
+        {"en": "early detection", "zh": "早期发现"},
+        {"en": "crime detection", "zh": "犯罪侦查"}
+      ],
+      "ex": [
+        {"en": "Early detection of the disease greatly improves the patient's chances.",
+         "zh": "及早发现这种疾病能大大提高患者的康复机会。"}
+      ],
+      "note": "detect 是动词，detection 是名词；early detection 常用。"
+    },
+    {
+      "word": "bowel",
+      "phr": [
+        {"en": "the large bowel", "zh": "大肠"},
+        {"en": "bowel cancer", "zh": "肠癌"}
+      ],
+      "ex": [
+        {"en": "A diet rich in fiber helps keep the bowels healthy.",
+         "zh": "富含纤维的饮食有助于保持肠道健康。"}
+      ],
+      "note": "bowel 常以复数出现，指肠道，多用于医学语境。"
+    },
+    {
+      "word": "arouse",
+      "phr": [
+        {"en": "arouse interest", "zh": "引起兴趣"},
+        {"en": "arouse suspicion", "zh": "引起怀疑"}
+      ],
+      "ex": [
+        {"en": "His strange behavior aroused the suspicion of his neighbors.",
+         "zh": "他古怪的举动引起了邻居的怀疑。"}
+      ],
+      "note": "arouse 多接 interest、suspicion；arise 不及物。"
+    },
+    {
+      "word": "optimum",
+      "phr": [
+        {"en": "optimum conditions", "zh": "最佳条件"},
+        {"en": "the optimum temperature", "zh": "最适温度"}
+      ],
+      "ex": [
+        {"en": "Plants grow best when the optimum temperature and moisture are maintained.",
+         "zh": "保持最适宜的温度和湿度，植物生长得最好。"}
+      ],
+      "note": "optimum 比 best 更书面，多修饰条件、温度、水平。"
+    },
+    {
+      "word": "suppress",
+      "phr": [
+        {"en": "suppress a smile", "zh": "忍住笑"},
+        {"en": "suppress information", "zh": "封锁消息"}
+      ],
+      "ex": [
+        {"en": "She could hardly suppress a smile when she heard the news.",
+         "zh": "听到这个消息时，她几乎忍不住笑了。"}
+      ],
+      "note": "suppress 可用于情绪、消息或生长；名词是 suppression。"
+    },
+    {
+      "word": "pudding",
+      "phr": [
+        {"en": "rice pudding", "zh": "米布丁"},
+        {"en": "Christmas pudding", "zh": "圣诞布丁"}
+      ],
+      "ex": [
+        {"en": "My grandmother always made rice pudding for us on winter evenings.",
+         "zh": "冬天晚上奶奶总会给我们做米布丁。"}
+      ],
+      "note": "英式 pudding 泛指甜点，美式多指布丁状甜食。"
+    },
+    {
+      "word": "wrinkle",
+      "phr": [
+        {"en": "wrinkle one's nose", "zh": "皱鼻子"},
+        {"en": "anti-wrinkle cream", "zh": "抗皱霜"}
+      ],
+      "ex": [
+        {"en": "She wrinkled her nose at the smell of the medicine.",
+         "zh": "闻到药味，她皱起了鼻子。"}
+      ],
+      "note": "wrinkle 作动词指皱起，作名词指皮肤或布料的褶皱。"
+    },
+    {
+      "word": "consensus",
+      "phr": [
+        {"en": "reach a consensus", "zh": "达成共识"},
+        {"en": "a general consensus", "zh": "普遍共识"}
+      ],
+      "ex": [
+        {"en": "After hours of discussion, the group finally reached a consensus.",
+         "zh": "经过数小时讨论，小组终于达成共识。"}
+      ],
+      "note": "consensus 是名词，习惯说 reach a consensus on sth。"
+    },
+    {
+      "word": "boring",
+      "phr": [
+        {"en": "a boring lecture", "zh": "乏味的讲座"},
+        {"en": "a boring job", "zh": "枯燥的工作"}
+      ],
+      "ex": [
+        {"en": "The lecture was so boring that half the audience fell asleep.",
+         "zh": "讲座乏味得让一半听众睡着了。"}
+      ],
+      "note": "boring 修饰令人厌的事物；bored 表人感到无聊。"
+    },
+    {
+      "word": "classic",
+      "phr": [
+        {"en": "a classic example", "zh": "典型例子"},
+        {"en": "a classic novel", "zh": "经典小说"}
+      ],
+      "ex": [
+        {"en": "Her reaction was a classic example of how stress affects judgment.",
+         "zh": "她的反应是压力如何影响判断的典型例子。"}
+      ],
+      "note": "classic 指经典或典型；classical 多指古典音乐和古典文化。"
+    },
+    {
+      "word": "supervise",
+      "phr": [
+        {"en": "supervise the work", "zh": "监督工作"},
+        {"en": "supervise students", "zh": "指导学生"}
+      ],
+      "ex": [
+        {"en": "Two experienced teachers supervise the students during the experiment.",
+         "zh": "实验期间由两名有经验的老师指导学生。"}
+      ],
+      "note": "supervise 强调监督并指导；由 super-（在上）加 vise（看）构成。"
+    },
+    {
+      "word": "gossip",
+      "phr": [
+        {"en": "office gossip", "zh": "办公室八卦"},
+        {"en": "a gossip column", "zh": "八卦专栏"}
+      ],
+      "ex": [
+        {"en": "She never joins in the office gossip about her colleagues.",
+         "zh": "她从不参与办公室里关于同事的八卦。"}
+      ],
+      "note": "gossip 可作名词和动词，指背后议论他人私事。"
+    },
+    {
+      "word": "describe",
+      "phr": [
+        {"en": "describe something as", "zh": "把…描述为"},
+        {"en": "describe in detail", "zh": "详细描述"}
+      ],
+      "ex": [
+        {"en": "He described the accident in detail to the police.",
+         "zh": "他向警方详细描述了那起事故。"}
+      ],
+      "note": "习惯说 describe sth as sth，不用 describe sth like。"
+    }
+  ]
+}

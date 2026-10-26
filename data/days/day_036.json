@@ -1,0 +1,246 @@
+{
+ "day": 36,
+ "date": null,
+ "words": [
+  {
+   "id": 1051,
+   "word": "compatible",
+   "uk": "/kəmˈpætəbl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "兼容的；能和睦相处的；合得来的"
+  },
+  {
+   "id": 1052,
+   "word": "incentive",
+   "uk": "/ɪnˈsentɪv/",
+   "us": "/ɪnˈsɛntɪv/",
+   "pos": "n.",
+   "cn": "刺激；鼓励"
+  },
+  {
+   "id": 1053,
+   "word": "critic",
+   "uk": "/ˈkrɪtɪk/",
+   "us": "",
+   "pos": "n.",
+   "cn": "批评家；爱挑剔的人"
+  },
+  {
+   "id": 1054,
+   "word": "preliminary",
+   "uk": "/prɪˈlɪmɪnəri/",
+   "us": "/prɪˈlɪmɪnɛri/",
+   "pos": "adj.,n.",
+   "cn": "预备的；初步的；初步做法；起始行为"
+  },
+  {
+   "id": 1055,
+   "word": "obstacle",
+   "uk": "/ˈɒbstəkl/",
+   "us": "/ˈɑbstəkl/",
+   "pos": "n.",
+   "cn": "障碍；障碍物；妨害"
+  },
+  {
+   "id": 1056,
+   "word": "profession",
+   "uk": "/prəˈfeʃn/",
+   "us": "/prəˈfɛʃən/",
+   "pos": "n.",
+   "cn": "职业；公开表示"
+  },
+  {
+   "id": 1057,
+   "word": "van",
+   "uk": "/væn/",
+   "us": "",
+   "pos": "n.",
+   "cn": "大篷车；运货车"
+  },
+  {
+   "id": 1058,
+   "word": "dizzy",
+   "uk": "/ˈdɪzi/",
+   "us": "",
+   "pos": "adj.,vt.",
+   "cn": "头晕目眩的；眩晕的；头晕的；令人发晕"
+  },
+  {
+   "id": 1059,
+   "word": "resemblance",
+   "uk": "/rɪˈzembləns/",
+   "us": "/rɪˈzɛmbləns/",
+   "pos": "n.",
+   "cn": "相似；形似"
+  },
+  {
+   "id": 1060,
+   "word": "exceptional",
+   "uk": "/ɪkˈsepʃənl/",
+   "us": "/ɪkˈsɛpʃənl/",
+   "pos": "adj.",
+   "cn": "优越的；杰出的；例外的；独特的；异常的"
+  },
+  {
+   "id": 1061,
+   "word": "constitute",
+   "uk": "/ˈkɒnstɪtjuːt/",
+   "us": "/ˈkɑnstətut/",
+   "pos": "vt.",
+   "cn": "组成；形成；设立；任命"
+  },
+  {
+   "id": 1062,
+   "word": "cherish",
+   "uk": "/ˈtʃerɪʃ/",
+   "us": "/ˈtʃɛrɪʃ/",
+   "pos": "vt.",
+   "cn": "珍爱；珍视；爱护；抚育；抱有；怀有"
+  },
+  {
+   "id": 1063,
+   "word": "discrepancy",
+   "uk": "/dɪsˈkrepənsi/",
+   "us": "/dɪsˈkrɛpənsi/",
+   "pos": "n.",
+   "cn": "不符合；不一致"
+  },
+  {
+   "id": 1064,
+   "word": "spectrum",
+   "uk": "/ˈspektrəm/",
+   "us": "/ˈspɛktrəm/",
+   "pos": "n.",
+   "cn": "谱；光谱；频谱；范围；幅度；系列"
+  },
+  {
+   "id": 1065,
+   "word": "convince",
+   "uk": "/kənˈvɪns/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "使确信；使信服；说服"
+  },
+  {
+   "id": 1066,
+   "word": "prolong",
+   "uk": "/prəˈlɒŋ/",
+   "us": "/prəˈlɑːŋ/",
+   "pos": "vt.",
+   "cn": "延长；拉长；拖延"
+  },
+  {
+   "id": 1067,
+   "word": "missionary",
+   "uk": "/ˈmɪʃənri/",
+   "us": "/ˈmɪʃənɛri/",
+   "pos": "n.",
+   "cn": "传教士"
+  },
+  {
+   "id": 1068,
+   "word": "terminate",
+   "uk": "/ˈtɜːmɪneɪt/",
+   "us": "/ˈtɝmɪnet/",
+   "pos": "v.",
+   "cn": "停止；终止"
+  },
+  {
+   "id": 1069,
+   "word": "valve",
+   "uk": "/vælv/",
+   "us": "",
+   "pos": "n.",
+   "cn": "阀；活门；瓣膜；活瓣"
+  },
+  {
+   "id": 1070,
+   "word": "refund",
+   "uk": "/ˈriːfʌnd/",
+   "us": "/ˈrifʌnd/",
+   "pos": "n.,vt.",
+   "cn": "退款；退还"
+  },
+  {
+   "id": 1071,
+   "word": "remnant",
+   "uk": "/ˈremnənt/",
+   "us": "/ˈrɛmnənt/",
+   "pos": "n.",
+   "cn": "残留部分"
+  },
+  {
+   "id": 1072,
+   "word": "internal",
+   "uk": "/ɪnˈtɜːnl/",
+   "us": "/ɪnˈtɝnl/",
+   "pos": "adj.",
+   "cn": "内的；国内的；内心的"
+  },
+  {
+   "id": 1073,
+   "word": "literary",
+   "uk": "/ˈlɪtərəri/",
+   "us": "/lɪtərɛri/",
+   "pos": "adj.",
+   "cn": "文学的；文人的；书卷气的"
+  },
+  {
+   "id": 1074,
+   "word": "classical",
+   "uk": "/ˈklæsɪkl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "古典的；经典的"
+  },
+  {
+   "id": 1075,
+   "word": "privilege",
+   "uk": "/ˈprɪvəlɪdʒ/",
+   "us": "",
+   "pos": "n.",
+   "cn": "特权；优惠"
+  },
+  {
+   "id": 1076,
+   "word": "substitute",
+   "uk": "/ˈsʌbstɪtjuːt/",
+   "us": "/ˈsʌbstɪtut/",
+   "pos": "n.,vt.",
+   "cn": "代替人；代用品；用…代替"
+  },
+  {
+   "id": 1077,
+   "word": "mortgage",
+   "uk": "/ˈmɔːgɪdʒ/",
+   "us": "/ˈmɔrɡɪdʒ/",
+   "pos": "n.,vt.",
+   "cn": "抵押；抵押借款；抵押"
+  },
+  {
+   "id": 1078,
+   "word": "blaze",
+   "uk": "/bleɪz/",
+   "us": "/blez/",
+   "pos": "vi.,n.",
+   "cn": "熊熊燃烧；着火；发光；放光彩；迸发；爆发；火焰；烈火；光辉；强烈的光；迸发；爆发；灿烂；炫耀"
+  },
+  {
+   "id": 1079,
+   "word": "moreover",
+   "uk": "/mɔːrˈəuvə/",
+   "us": "/mɔrˈovɚ/",
+   "pos": "adv.",
+   "cn": "而且；再者；此外"
+  },
+  {
+   "id": 1080,
+   "word": "scatter",
+   "uk": "/ˈskætə/",
+   "us": "/ˈskætɚ/",
+   "pos": "vt.",
+   "cn": "撒；散播；使散开；驱散"
+  }
+ ]
+}

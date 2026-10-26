@@ -1,0 +1,365 @@
+{
+  "day": 13,
+  "words": [
+    {
+      "word": "shove",
+      "phr": [
+        {"en": "shove aside", "zh": "推到一边"},
+        {"en": "shove sth into", "zh": "把…塞进"}
+      ],
+      "ex": [
+        {"en": "He shoved his hands into his pockets and walked silently down the street.",
+         "zh": "他把手插进衣袋，默默沿街走去。"}
+      ],
+      "note": "shove 比 push 用力更猛，常带粗鲁意味；shove off 意为走开。"
+    },
+    {
+      "word": "theft",
+      "phr": [
+        {"en": "car theft", "zh": "汽车盗窃"},
+        {"en": "identity theft", "zh": "身份盗用"}
+      ],
+      "ex": [
+        {"en": "The police reported a sharp rise in car theft in the city centre.",
+         "zh": "警方报告市中心的汽车盗窃案大幅上升。"}
+      ],
+      "note": "theft 是名词，指偷窃行为；thief 指小偷，注意词性不同。"
+    },
+    {
+      "word": "disclose",
+      "phr": [
+        {"en": "disclose details", "zh": "透露细节"},
+        {"en": "disclose information to", "zh": "向…透露信息"}
+      ],
+      "ex": [
+        {"en": "The company refused to disclose the details of the new contract.",
+         "zh": "公司拒绝透露这份新合同的细节。"}
+      ],
+      "note": "dis 表相反、close 表关闭，合起来即揭开、揭露；比 reveal 正式。"
+    },
+    {
+      "word": "religion",
+      "phr": [
+        {"en": "freedom of religion", "zh": "宗教自由"},
+        {"en": "practise a religion", "zh": "信仰某种宗教"}
+      ],
+      "ex": [
+        {"en": "The law guarantees freedom of religion for every citizen in the country.",
+         "zh": "法律保障该国每位公民的宗教自由。"}
+      ],
+      "note": "religion 为名词，religious 为形容词；lig 词根表绑缚。"
+    },
+    {
+      "word": "yacht",
+      "phr": [
+        {"en": "a sailing yacht", "zh": "帆船游艇"},
+        {"en": "a luxury yacht", "zh": "豪华游艇"}
+      ],
+      "ex": [
+        {"en": "They spent the summer sailing a small yacht around the islands.",
+         "zh": "他们整个夏天驾着小游艇绕岛航行。"}
+      ],
+      "note": "yacht 的 ch 不发音，读 /jɒt/；注意与 boat 的区别。"
+    },
+    {
+      "word": "mistress",
+      "phr": [
+        {"en": "the mistress of the house", "zh": "一家之女主"},
+        {"en": "mistress of ceremonies", "zh": "女主持人"}
+      ],
+      "ex": [
+        {"en": "As mistress of the house, she welcomed every guest at the door.",
+         "zh": "作为女主人，她在门口迎接每一位客人。"}
+      ],
+      "note": "mistress 由 master 变来，指女主人；现代也常指情妇。"
+    },
+    {
+      "word": "oxide",
+      "phr": [
+        {"en": "iron oxide", "zh": "氧化铁"},
+        {"en": "nitrous oxide", "zh": "一氧化二氮"}
+      ],
+      "ex": [
+        {"en": "The red colour of the soil comes from iron oxide in the rock.",
+         "zh": "土壤的红色来自岩石中的氧化铁。"}
+      ],
+      "note": "oxi 与氧（oxygen）有关；-ide 表示化合物，如 oxide。"
+    },
+    {
+      "word": "miniature",
+      "phr": [
+        {"en": "in miniature", "zh": "按比例缩小地"},
+        {"en": "a miniature camera", "zh": "微型相机"}
+      ],
+      "ex": [
+        {"en": "The model village shows the whole city in miniature.",
+         "zh": "这个模型村以缩影形式展现了整座城市。"}
+      ],
+      "note": "in miniature 是固定短语，意为按比例缩小地、缩影。"
+    },
+    {
+      "word": "clan",
+      "phr": [
+        {"en": "a powerful clan", "zh": "势力强大的宗族"},
+        {"en": "clan members", "zh": "宗族成员"}
+      ],
+      "ex": [
+        {"en": "The whole clan gathered at the old house every spring festival.",
+         "zh": "每逢春节，整个宗族都会聚在那座老宅里。"}
+      ],
+      "note": "clan 指有共同祖先的宗族，比 family 范围大。"
+    },
+    {
+      "word": "economical",
+      "phr": [
+        {"en": "an economical car", "zh": "省油的车"},
+        {"en": "an economical use of resources", "zh": "节约使用资源"}
+      ],
+      "ex": [
+        {"en": "This small car is economical to run and easy to park in the city.",
+         "zh": "这辆小车使用成本低，在城里也容易停放。"}
+      ],
+      "note": "economical 指节约的，economic 指经济的，勿混用。"
+    },
+    {
+      "word": "prosperous",
+      "phr": [
+        {"en": "a prosperous economy", "zh": "繁荣的经济"},
+        {"en": "a prosperous family", "zh": "富裕的家庭"}
+      ],
+      "ex": [
+        {"en": "The port grew into a prosperous trading city within a single generation.",
+         "zh": "这个港口在一代人的时间里发展成繁荣的贸易城市。"}
+      ],
+      "note": "prosper 加 ous 即繁荣的；名词 prosperity 也是高频词。"
+    },
+    {
+      "word": "polish",
+      "phr": [
+        {"en": "polish one's shoes", "zh": "擦鞋"},
+        {"en": "polish up one's English", "zh": "提高英语水平"}
+      ],
+      "ex": [
+        {"en": "He polished his speech for two days before the final presentation.",
+         "zh": "决赛演讲前，他把讲稿润色了两天。"}
+      ],
+      "note": "polish 既指擦亮，也指润色文章、改进技艺。"
+    },
+    {
+      "word": "reassess",
+      "phr": [
+        {"en": "reassess the situation", "zh": "重新评估形势"},
+        {"en": "reassess priorities", "zh": "重新确定优先事项"}
+      ],
+      "ex": [
+        {"en": "After the losses, the board reassessed its plan for overseas expansion.",
+         "zh": "在遭受亏损后，董事会重新评估了海外扩张计划。"}
+      ],
+      "note": "re 表再、assess 表评估，即重新评估；名词 reassessment。"
+    },
+    {
+      "word": "cabinet",
+      "phr": [
+        {"en": "a kitchen cabinet", "zh": "厨房橱柜"},
+        {"en": "a cabinet meeting", "zh": "内阁会议"}
+      ],
+      "ex": [
+        {"en": "The prime minister called a cabinet meeting to discuss the budget.",
+         "zh": "首相召开内阁会议讨论预算问题。"}
+      ],
+      "note": "cabinet 既指橱柜，也指内阁，看上下文判断。"
+    },
+    {
+      "word": "optical",
+      "phr": [
+        {"en": "an optical illusion", "zh": "视觉错觉"},
+        {"en": "optical fibre", "zh": "光纤"}
+      ],
+      "ex": [
+        {"en": "The desert heat often creates an optical illusion of water on the road.",
+         "zh": "沙漠高温常在路上造成有水的视觉错觉。"}
+      ],
+      "note": "optic 与眼睛有关，optical 多指视觉的、光学的。"
+    },
+    {
+      "word": "evoke",
+      "phr": [
+        {"en": "evoke memories of", "zh": "唤起对…的回忆"},
+        {"en": "evoke a response", "zh": "引起反应"}
+      ],
+      "ex": [
+        {"en": "The old song evoked memories of the summer we spent by the sea.",
+         "zh": "那首老歌唤起了我们在海边度夏的回忆。"}
+      ],
+      "note": "e 表出、voke 表喊，即唤出；多接 memory、feeling。"
+    },
+    {
+      "word": "insurance",
+      "phr": [
+        {"en": "health insurance", "zh": "医疗保险"},
+        {"en": "take out insurance", "zh": "购买保险"}
+      ],
+      "ex": [
+        {"en": "You should take out travel insurance before you go abroad.",
+         "zh": "出国之前你应该购买旅行保险。"}
+      ],
+      "note": "insurance 不可数；take out insurance 意为购买保险。"
+    },
+    {
+      "word": "dazzle",
+      "phr": [
+        {"en": "be dazzled by", "zh": "被…晃得眼花"},
+        {"en": "dazzling lights", "zh": "耀眼的灯光"}
+      ],
+      "ex": [
+        {"en": "The headlights of the truck dazzled him and he slowed down at once.",
+         "zh": "卡车的前灯晃得他眼花，他立刻减速。"}
+      ],
+      "note": "dazzle 指强光使人目眩，也可喻指使人倾倒。"
+    },
+    {
+      "word": "principle",
+      "phr": [
+        {"en": "in principle", "zh": "原则上"},
+        {"en": "on principle", "zh": "出于原则"}
+      ],
+      "ex": [
+        {"en": "He refused the offer on principle, though it would have made him rich.",
+         "zh": "尽管那笔交易会让他发财，他还是出于原则拒绝了。"}
+      ],
+      "note": "principle 是原则，principal 是主要的、校长，切勿混。"
+    },
+    {
+      "word": "thigh",
+      "phr": [
+        {"en": "a thigh injury", "zh": "大腿受伤"},
+        {"en": "the thigh bone", "zh": "股骨"}
+      ],
+      "ex": [
+        {"en": "The player pulled a muscle in his thigh during the second half.",
+         "zh": "这名球员在下半场拉伤了大腿肌肉。"}
+      ],
+      "note": "thigh 中 gh 不发音，读 /θaɪ/；注意与 thing 区别。"
+    },
+    {
+      "word": "tedious",
+      "phr": [
+        {"en": "a tedious task", "zh": "乏味的任务"},
+        {"en": "tedious work", "zh": "枯燥的工作"}
+      ],
+      "ex": [
+        {"en": "Copying the same figures all day is tedious but it must be done.",
+         "zh": "整天抄同样的数字很枯燥，但这项工作必须完成。"}
+      ],
+      "note": "tedious 强调冗长而令人厌倦，比 boring 更书面。"
+    },
+    {
+      "word": "tilt",
+      "phr": [
+        {"en": "tilt one's head", "zh": "歪头"},
+        {"en": "tilt forward", "zh": "向前倾斜"}
+      ],
+      "ex": [
+        {"en": "She tilted her head slightly and listened to the strange sound again.",
+         "zh": "她微微歪着头，又听了听那奇怪的声音。"}
+      ],
+      "note": "tilt 指轻微倾斜；at full tilt 意为全速地。"
+    },
+    {
+      "word": "inferiority",
+      "phr": [
+        {"en": "an inferiority complex", "zh": "自卑情结"},
+        {"en": "feelings of inferiority", "zh": "自卑感"}
+      ],
+      "ex": [
+        {"en": "Constant comparison with others can give children a lasting sense of inferiority.",
+         "zh": "总与他人比较会让孩子产生长期的自卑感。"}
+      ],
+      "note": "inferiority 来自 inferior（较差的），反义 superiority。"
+    },
+    {
+      "word": "participant",
+      "phr": [
+        {"en": "a participant in", "zh": "…的参与者"},
+        {"en": "an active participant", "zh": "积极的参与者"}
+      ],
+      "ex": [
+        {"en": "Each participant in the study was asked to keep a daily diary.",
+         "zh": "这项研究的每位参与者都被要求每天写日记。"}
+      ],
+      "note": "participant 后接 in；动词 participate 也接 in。"
+    },
+    {
+      "word": "initiate",
+      "phr": [
+        {"en": "initiate a project", "zh": "启动项目"},
+        {"en": "initiate legal proceedings", "zh": "提起诉讼"}
+      ],
+      "ex": [
+        {"en": "The city initiated a project to clean up the polluted river last year.",
+         "zh": "该市去年启动了一个治理污染河流的项目。"}
+      ],
+      "note": "initiate 重音在第二音节；名词 initiative 指主动性、倡议。"
+    },
+    {
+      "word": "domestic",
+      "phr": [
+        {"en": "domestic flights", "zh": "国内航班"},
+        {"en": "domestic violence", "zh": "家庭暴力"}
+      ],
+      "ex": [
+        {"en": "Domestic flights are usually cheaper than international ones in this country.",
+         "zh": "在这个国家，国内航班通常比国际航班便宜。"}
+      ],
+      "note": "domestic 兼指国内的与家庭的，如 domestic market。"
+    },
+    {
+      "word": "glare",
+      "phr": [
+        {"en": "glare at", "zh": "怒视"},
+        {"en": "the glare of the sun", "zh": "太阳的强光"}
+      ],
+      "ex": [
+        {"en": "The driver glared at the cyclist who had cut in front of him.",
+         "zh": "司机怒视着那个突然插到他前面的骑车人。"}
+      ],
+      "note": "glare at 是怒目而视；作名词指刺眼的强光。"
+    },
+    {
+      "word": "irrigation",
+      "phr": [
+        {"en": "an irrigation system", "zh": "灌溉系统"},
+        {"en": "irrigation water", "zh": "灌溉用水"}
+      ],
+      "ex": [
+        {"en": "Farmers here depend on an irrigation system built over fifty years ago.",
+         "zh": "这里的农民依靠五十多年前修建的灌溉系统。"}
+      ],
+      "note": "irrigation 来自 irrigate（灌溉），也可指冲洗伤口。"
+    },
+    {
+      "word": "compile",
+      "phr": [
+        {"en": "compile a list", "zh": "编制清单"},
+        {"en": "compile data", "zh": "收集整理数据"}
+      ],
+      "ex": [
+        {"en": "The team compiled a list of every species found on the island.",
+         "zh": "该团队编制了一份岛上所有物种的清单。"}
+      ],
+      "note": "compile 指收集资料汇编成册；名词 compilation。"
+    },
+    {
+      "word": "vitality",
+      "phr": [
+        {"en": "full of vitality", "zh": "充满活力"},
+        {"en": "economic vitality", "zh": "经济活力"}
+      ],
+      "ex": [
+        {"en": "The old market district is full of vitality again after the renovation.",
+         "zh": "翻修之后，老市场区又充满了活力。"}
+      ],
+      "note": "vital（有活力的）加 ity；同根词 vital、vitalize。"
+    }
+  ]
+}

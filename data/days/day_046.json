@@ -1,0 +1,246 @@
+{
+ "day": 46,
+ "date": null,
+ "words": [
+  {
+   "id": 1351,
+   "word": "epoch",
+   "uk": "/ˈiːpɒk/",
+   "us": "/ˈɛpək/",
+   "pos": "n.",
+   "cn": "时期；时代"
+  },
+  {
+   "id": 1352,
+   "word": "saleable",
+   "uk": "/ˈseɪləbl/",
+   "us": "/ˈseləbl/",
+   "pos": "adj.",
+   "cn": "适合销售的"
+  },
+  {
+   "id": 1353,
+   "word": "crew",
+   "uk": "/kruː/",
+   "us": "/krʊ/",
+   "pos": "n.",
+   "cn": "全体船员；一队工作人员"
+  },
+  {
+   "id": 1354,
+   "word": "manufacturer",
+   "uk": "/ˌmænjuˈfæktʃərə/",
+   "us": "/,mænjuˈfæktʃərɚ/",
+   "pos": "n.",
+   "cn": "制造商；制造厂"
+  },
+  {
+   "id": 1355,
+   "word": "defeat",
+   "uk": "/dɪˈfiːt/",
+   "us": "/dɪˈfit/",
+   "pos": "vt.,n.",
+   "cn": "战胜；挫败"
+  },
+  {
+   "id": 1356,
+   "word": "valid",
+   "uk": "/ˈvælɪd/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "有效的；正当的；有根据的；有理的"
+  },
+  {
+   "id": 1357,
+   "word": "inertia",
+   "uk": "/ɪˈnɜːʃə/",
+   "us": "/ɪˈnɝʃə/",
+   "pos": "n.",
+   "cn": "不活动；惰性；惯性"
+  },
+  {
+   "id": 1358,
+   "word": "encourage",
+   "uk": "/ɪnˈkʌrɪdʒ/",
+   "us": "/ɪnˈkɝrɪdʒ/",
+   "pos": "vt.",
+   "cn": "鼓励；怂恿；促进；助长；激发"
+  },
+  {
+   "id": 1359,
+   "word": "vacuum",
+   "uk": "/ˈvækjuəm/",
+   "us": "/ˈvækjʊəm/",
+   "pos": "v.,n.",
+   "cn": "收集；用真空吸尘器打扫；真空；真空吸尘器"
+  },
+  {
+   "id": 1360,
+   "word": "extravagant",
+   "uk": "/ɪkˈstrævəgənt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "奢侈的；过度的；过分的；放肆的"
+  },
+  {
+   "id": 1361,
+   "word": "accommodate",
+   "uk": "/əˈkɒmədeɪt/",
+   "us": "/əˈkɑmədet/",
+   "pos": "vt.",
+   "cn": "容纳；向…提供住处；使适应；顺应"
+  },
+  {
+   "id": 1362,
+   "word": "bubble",
+   "uk": "/ˈbʌbl/",
+   "us": "",
+   "pos": "vi.,n.",
+   "cn": "冒泡；起泡；沸腾；泡；泡沫；水泡；气泡；幻想的计划"
+  },
+  {
+   "id": 1363,
+   "word": "morality",
+   "uk": "/məˈræləti/",
+   "us": "",
+   "pos": "n.",
+   "cn": "道德；道德性；德行；品行；道德观；道德规则"
+  },
+  {
+   "id": 1364,
+   "word": "yield",
+   "uk": "/jiːld/",
+   "us": "/jild/",
+   "pos": "v.,n.",
+   "cn": "出产；让出；放弃；屈服；顺从；倒塌；垮掉；产量"
+  },
+  {
+   "id": 1365,
+   "word": "electronic",
+   "uk": "/ɪˌlekˈtrɒnɪk/",
+   "us": "/ɪˌlɛkˈtrɑnɪk/",
+   "pos": "adj.,n.",
+   "cn": "电子的；电子学；电子设备"
+  },
+  {
+   "id": 1366,
+   "word": "transplant",
+   "uk": "/trænsˈplɑːnt/",
+   "us": "/trænsˈplænt/",
+   "pos": "vt.,n.",
+   "cn": "移栽；移种；移植；使迁移；使移居；移植"
+  },
+  {
+   "id": 1367,
+   "word": "terrace",
+   "uk": "/ˈterəs/",
+   "us": "/ˈtɛrəs/",
+   "pos": "n.",
+   "cn": "排屋；地坪；草坪"
+  },
+  {
+   "id": 1368,
+   "word": "deficit",
+   "uk": "/ˈdefɪsɪt/",
+   "us": "/ˈdɛfəsɪt/",
+   "pos": "n.",
+   "cn": "赤字；亏空；亏损"
+  },
+  {
+   "id": 1369,
+   "word": "sacred",
+   "uk": "/ˈseɪkrɪd/",
+   "us": "/ˈsekrɪd/",
+   "pos": "adj.",
+   "cn": "神圣的；宗教的；神圣不可侵犯的"
+  },
+  {
+   "id": 1370,
+   "word": "cathedral",
+   "uk": "/kəˈθiːdrəl/",
+   "us": "/kəˈθidrəl/",
+   "pos": "n.",
+   "cn": "大教堂"
+  },
+  {
+   "id": 1371,
+   "word": "elegant",
+   "uk": "/ˈelɪgənt/",
+   "us": "/ˈɛləgənt/",
+   "pos": "adj.",
+   "cn": "优美的；文雅的；讲究的；简练的；简洁的"
+  },
+  {
+   "id": 1372,
+   "word": "synthesis",
+   "uk": "/ˈsɪnθəsɪs/",
+   "us": "",
+   "pos": "n.",
+   "cn": "综合；合成"
+  },
+  {
+   "id": 1373,
+   "word": "incidentally",
+   "uk": "/ˌɪnsɪˈdentli/",
+   "us": "/,ɪnsɪˈdɛntli/",
+   "pos": "adv.",
+   "cn": "顺便提及地；顺便提一句"
+  },
+  {
+   "id": 1374,
+   "word": "polar",
+   "uk": "/ˈpəulə/",
+   "us": "/ˈpolɚ/",
+   "pos": "adj.",
+   "cn": "地极的；近地极的；磁极的；正好相反的；截然对立的"
+  },
+  {
+   "id": 1375,
+   "word": "shark",
+   "uk": "/ʃɑːk/",
+   "us": "/ʃɑrk/",
+   "pos": "n.",
+   "cn": "鲨鱼；勒索者；诈骗者；放高利贷的人"
+  },
+  {
+   "id": 1376,
+   "word": "linger",
+   "uk": "/ˈlɪŋgə/",
+   "us": "/ˈlɪŋɡɚ/",
+   "pos": "vi.",
+   "cn": "继续逗留；留恋徘徊；继续存留；缓慢消失"
+  },
+  {
+   "id": 1377,
+   "word": "historian",
+   "uk": "/hɪˈstɔːriən/",
+   "us": "/hɪˈstɔrɪən/",
+   "pos": "n.",
+   "cn": "历史学家；史学工作者"
+  },
+  {
+   "id": 1378,
+   "word": "cumulative",
+   "uk": "/ˈkjuːmjələtɪv/",
+   "us": "/ˈkjumjəletɪv/",
+   "pos": "adj.",
+   "cn": "积累的；渐增的"
+  },
+  {
+   "id": 1379,
+   "word": "prototype",
+   "uk": "/ˈprəutətaɪp/",
+   "us": "/ˈprotəˈtaɪp/",
+   "pos": "n.",
+   "cn": "原型"
+  },
+  {
+   "id": 1380,
+   "word": "overpass",
+   "uk": "/ˈəuvəpɑːs/",
+   "us": "/ˈovɚpæs/",
+   "pos": "n.",
+   "cn": "天桥；立交桥"
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+  "day": 75,
+  "words": [
+    {
+      "word": "leather",
+      "phr": [
+        {"en": "a leather jacket", "zh": "皮夹克"},
+        {"en": "genuine leather", "zh": "真皮"}
+      ],
+      "ex": [
+        {"en": "She bought a black leather jacket at the market last weekend.",
+         "zh": "上周末她在市场上买了一件黑色皮夹克。"}
+      ],
+      "note": "常作定语，如 leather shoes；真皮说 genuine leather。"
+    },
+    {
+      "word": "insight",
+      "phr": [
+        {"en": "gain insight into", "zh": "深入了解"},
+        {"en": "valuable insights", "zh": "宝贵的见解"}
+      ],
+      "ex": [
+        {"en": "The book offers valuable insights into how children learn languages.",
+         "zh": "这本书对儿童如何学习语言提出了宝贵见解。"}
+      ],
+      "note": "常用搭配 insight into sth；具体见解多用复数 insights。"
+    },
+    {
+      "word": "intact",
+      "phr": [
+        {"en": "remain intact", "zh": "保持完好"},
+        {"en": "keep sth intact", "zh": "使…保持完整"}
+      ],
+      "ex": [
+        {"en": "Despite the earthquake, the old temple remained intact.",
+         "zh": "尽管发生了地震，这座古庙仍完好无损。"}
+      ],
+      "note": "多与 remain、keep 连用；in-（不）+tact（接触）即未被触动。"
+    },
+    {
+      "word": "instrumental",
+      "phr": [
+        {"en": "be instrumental in", "zh": "在…中起重要作用"},
+        {"en": "instrumental music", "zh": "器乐"}
+      ],
+      "ex": [
+        {"en": "She was instrumental in setting up the school's reading programme.",
+         "zh": "她在建立学校阅读计划中起了重要作用。"}
+      ],
+      "note": "表“起重要作用”：be instrumental in doing sth。"
+    },
+    {
+      "word": "fabric",
+      "phr": [
+        {"en": "cotton fabric", "zh": "棉织物"},
+        {"en": "the fabric of society", "zh": "社会结构"}
+      ],
+      "ex": [
+        {"en": "The curtains are made of a light cotton fabric.",
+         "zh": "窗帘是用轻薄的棉布做的。"}
+      ],
+      "note": "除织物外还指结构，如 the fabric of society。"
+    },
+    {
+      "word": "revolutionary",
+      "phr": [
+        {"en": "a revolutionary idea", "zh": "革命性的想法"},
+        {"en": "revolutionary forces", "zh": "革命力量"}
+      ],
+      "ex": [
+        {"en": "The new treatment is considered revolutionary in the fight against cancer.",
+         "zh": "这种新疗法在抗癌方面被视为革命性的。"}
+      ],
+      "note": "由 revolution 加 -ary 构成；作名词指革命者。"
+    },
+    {
+      "word": "unemployment",
+      "phr": [
+        {"en": "the unemployment rate", "zh": "失业率"},
+        {"en": "rising unemployment", "zh": "不断上升的失业"}
+      ],
+      "ex": [
+        {"en": "The unemployment rate rose sharply during the economic crisis.",
+         "zh": "经济危机期间失业率急剧上升。"}
+      ],
+      "note": "不可数名词；常见于 unemployment rate 等搭配。"
+    },
+    {
+      "word": "juvenile",
+      "phr": [
+        {"en": "juvenile crime", "zh": "青少年犯罪"},
+        {"en": "juvenile delinquent", "zh": "少年犯"}
+      ],
+      "ex": [
+        {"en": "Juvenile crime has fallen in the city over the past five years.",
+         "zh": "过去五年该市青少年犯罪有所下降。"}
+      ],
+      "note": "正式用语，指少年的；法律语境常与 crime 搭配。"
+    },
+    {
+      "word": "force",
+      "phr": [
+        {"en": "force sb to do sth", "zh": "迫使某人做某事"},
+        {"en": "come into force", "zh": "生效"}
+      ],
+      "ex": [
+        {"en": "The new safety rules will come into force next month.",
+         "zh": "新的安全规定将于下个月生效。"}
+      ],
+      "note": "force sb to do sth；come into force 指生效。"
+    },
+    {
+      "word": "sympathetic",
+      "phr": [
+        {"en": "be sympathetic to", "zh": "对…表示同情或赞同"},
+        {"en": "a sympathetic listener", "zh": "富有同情心的倾听者"}
+      ],
+      "ex": [
+        {"en": "Her teacher was sympathetic and gave her more time to finish.",
+         "zh": "老师很体谅她，给了她更多时间完成。"}
+      ],
+      "note": "除同情外还表赞同，如 be sympathetic to a plan。"
+    },
+    {
+      "word": "periodic",
+      "phr": [
+        {"en": "periodic checks", "zh": "定期检查"},
+        {"en": "the periodic table", "zh": "元素周期表"}
+      ],
+      "ex": [
+        {"en": "The equipment needs periodic checks to make sure it is safe.",
+         "zh": "设备需要定期检查以确保安全。"}
+      ],
+      "note": "periodic 指定期的；periodical 作名词指期刊。"
+    },
+    {
+      "word": "distribution",
+      "phr": [
+        {"en": "income distribution", "zh": "收入分配"},
+        {"en": "the distribution of goods", "zh": "货物配送"}
+      ],
+      "ex": [
+        {"en": "The charity handles the distribution of food to local families.",
+         "zh": "该慈善机构负责向当地家庭分发食物。"}
+      ],
+      "note": "由 distribute 变来；兼指分发、分配、分布。"
+    },
+    {
+      "word": "derive",
+      "phr": [
+        {"en": "derive from", "zh": "源自"},
+        {"en": "derive pleasure from", "zh": "从…中获得乐趣"}
+      ],
+      "ex": [
+        {"en": "Many English words derive from Latin and Greek.",
+         "zh": "许多英语单词源自拉丁语和希腊语。"}
+      ],
+      "note": "derive from 表来源；derive sth from 表获得。"
+    },
+    {
+      "word": "capacity",
+      "phr": [
+        {"en": "the capacity to do sth", "zh": "做某事的能力"},
+        {"en": "in one's capacity as", "zh": "以…身份"}
+      ],
+      "ex": [
+        {"en": "The hall has a seating capacity of about five hundred.",
+         "zh": "这个大厅可容纳约五百人就座。"}
+      ],
+      "note": "兼指容量与能力；in one's capacity as 指以某身份。"
+    },
+    {
+      "word": "cope",
+      "phr": [
+        {"en": "cope with", "zh": "应付"},
+        {"en": "cope well under pressure", "zh": "在压力下应对自如"}
+      ],
+      "ex": [
+        {"en": "Many students find it hard to cope with the pressure of exams.",
+         "zh": "许多学生觉得难以应对考试压力。"}
+      ],
+      "note": "必须与 with 连用；比 deal with 更强调承受力。"
+    },
+    {
+      "word": "overhear",
+      "phr": [
+        {"en": "overhear a conversation", "zh": "无意中听到谈话"},
+        {"en": "overhear sb say sth", "zh": "偶然听到某人说"}
+      ],
+      "ex": [
+        {"en": "I often overhear my colleagues talking about football by the coffee machine.",
+         "zh": "我常无意中听到同事在咖啡机旁聊足球。"}
+      ],
+      "note": "过去式 overheard；强调无意中听到，不同于 listen。"
+    },
+    {
+      "word": "dart",
+      "phr": [
+        {"en": "dart a glance at", "zh": "飞快地瞥一眼"},
+        {"en": "play darts", "zh": "掷飞镖"}
+      ],
+      "ex": [
+        {"en": "He threw a dart at the board, but it missed the centre.",
+         "zh": "他朝镖盘掷了一支飞镖，但没打中中心。"}
+      ],
+      "note": "作动词指猛冲；dart a glance at sb 指飞快看一眼。"
+    },
+    {
+      "word": "flaw",
+      "phr": [
+        {"en": "a fatal flaw", "zh": "致命缺陷"},
+        {"en": "a flaw in the plan", "zh": "计划的漏洞"}
+      ],
+      "ex": [
+        {"en": "The engineers found a serious flaw in the design of the bridge.",
+         "zh": "工程师们在大桥设计中发现了一个严重缺陷。"}
+      ],
+      "note": "常用搭配 a flaw in sth；形容词 flawed 指有缺陷的。"
+    },
+    {
+      "word": "saturate",
+      "phr": [
+        {"en": "be saturated with", "zh": "浸透；充满"},
+        {"en": "saturate the soil", "zh": "使土壤湿透"}
+      ],
+      "ex": [
+        {"en": "Heavy rain will saturate the fields and flood the low roads.",
+         "zh": "大雨会使田地浸透，并淹没低洼的道路。"}
+      ],
+      "note": "常用被动 be saturated with；名词 saturation。"
+    },
+    {
+      "word": "feature",
+      "phr": [
+        {"en": "a key feature", "zh": "主要特征"},
+        {"en": "feature in", "zh": "在…中起重要作用"}
+      ],
+      "ex": [
+        {"en": "The film features a young actress from a small town.",
+         "zh": "这部电影由一位来自小镇的年轻女演员主演。"}
+      ],
+      "note": "作动词指以…为特色、由…主演；key feature 指特点。"
+    },
+    {
+      "word": "flat",
+      "phr": [
+        {"en": "a flat tyre", "zh": "瘪了的轮胎"},
+        {"en": "turn sth down flat", "zh": "断然拒绝"}
+      ],
+      "ex": [
+        {"en": "We had to stop because the car had a flat tyre.",
+         "zh": "我们不得不停车，因为车胎瘪了。"}
+      ],
+      "note": "flat 还指一套公寓；flat tyre 指瘪胎。"
+    },
+    {
+      "word": "assert",
+      "phr": [
+        {"en": "assert oneself", "zh": "表现自信"},
+        {"en": "assert that", "zh": "断言"}
+      ],
+      "ex": [
+        {"en": "She asserted that the report was based on false information.",
+         "zh": "她断言那份报告基于虚假信息。"}
+      ],
+      "note": "后接 that 从句表断言；assert oneself 指显自信。"
+    },
+    {
+      "word": "climax",
+      "phr": [
+        {"en": "reach a climax", "zh": "达到高潮"},
+        {"en": "the climax of the story", "zh": "故事的高潮"}
+      ],
+      "ex": [
+        {"en": "The argument reached its climax when both sides refused to talk.",
+         "zh": "双方拒绝交谈时，争论达到了高潮。"}
+      ],
+      "note": "常用 reach a climax；形容词 climactic 指高潮的。"
+    },
+    {
+      "word": "recall",
+      "phr": [
+        {"en": "recall doing sth", "zh": "记得做过某事"},
+        {"en": "recall a product", "zh": "召回产品"}
+      ],
+      "ex": [
+        {"en": "I cannot recall meeting him before, though his face looks familiar.",
+         "zh": "我想不起以前见过他，虽然他的脸看着眼熟。"}
+      ],
+      "note": "recall doing 表记得做过；recall a product 指召回。"
+    },
+    {
+      "word": "rectangular",
+      "phr": [
+        {"en": "a rectangular table", "zh": "长方形桌子"},
+        {"en": "a rectangular shape", "zh": "长方形的外形"}
+      ],
+      "ex": [
+        {"en": "The garden is small and rectangular, with a path down the middle.",
+         "zh": "花园不大，呈长方形，中间有一条小路。"}
+      ],
+      "note": "由 rectangle 加 -ular 构成，重音在第二音节。"
+    },
+    {
+      "word": "flap",
+      "phr": [
+        {"en": "flap its wings", "zh": "拍打翅膀"},
+        {"en": "in a flap", "zh": "慌乱"}
+      ],
+      "ex": [
+        {"en": "The bird flapped its wings and rose slowly above the trees.",
+         "zh": "那只鸟拍打翅膀，慢慢升到树梢上方。"}
+      ],
+      "note": "指翅膀或布片拍动；in a flap 表慌乱。"
+    },
+    {
+      "word": "precise",
+      "phr": [
+        {"en": "to be precise", "zh": "确切地说"},
+        {"en": "precise details", "zh": "确切的细节"}
+      ],
+      "ex": [
+        {"en": "Please give me the precise time and place of the meeting.",
+         "zh": "请告诉我会议的准确时间和地点。"}
+      ],
+      "note": "与 exact 近义，但更强调细节严谨；副词 precisely。"
+    },
+    {
+      "word": "sensible",
+      "phr": [
+        {"en": "a sensible decision", "zh": "明智的决定"},
+        {"en": "sensible advice", "zh": "明智的建议"}
+      ],
+      "ex": [
+        {"en": "It would be sensible to book the tickets well in advance.",
+         "zh": "提前订好票是明智的做法。"}
+      ],
+      "note": "注意与 sensitive（敏感的）区分，sensible 指明智。"
+    },
+    {
+      "word": "objection",
+      "phr": [
+        {"en": "raise an objection", "zh": "提出异议"},
+        {"en": "have no objection to", "zh": "不反对"}
+      ],
+      "ex": [
+        {"en": "The neighbours raised an objection to the plan for a new road.",
+         "zh": "邻居们对新修道路的计划提出了异议。"}
+      ],
+      "note": "常用 objection to sth；动词 object 也接 to。"
+    },
+    {
+      "word": "precious",
+      "phr": [
+        {"en": "precious metals", "zh": "贵金属"},
+        {"en": "a precious opportunity", "zh": "宝贵的机会"}
+      ],
+      "ex": [
+        {"en": "Clean water is a precious resource that many people take for granted.",
+         "zh": "清洁的水是许多人想当然的宝贵资源。"}
+      ],
+      "note": "形容量少而宝贵；precious metal 指贵金属。"
+    }
+  ]
+}

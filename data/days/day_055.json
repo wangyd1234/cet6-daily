@@ -1,0 +1,246 @@
+{
+ "day": 55,
+ "date": null,
+ "words": [
+  {
+   "id": 1621,
+   "word": "electron",
+   "uk": "/ɪˈlektrɒn/",
+   "us": "/ɪˈlɛktrɑn/",
+   "pos": "n.",
+   "cn": "电子"
+  },
+  {
+   "id": 1622,
+   "word": "embed",
+   "uk": "/ɪmˈbed/",
+   "us": "/ɪmˈbɛd/",
+   "pos": "vt.",
+   "cn": "把…嵌入；扎牢；使深留脑中"
+  },
+  {
+   "id": 1623,
+   "word": "incline",
+   "uk": "/ˈɪnklaɪn/",
+   "us": "/ɪnˈklaɪn/",
+   "pos": "n.,vt.",
+   "cn": "斜坡[In'klaIn]；使倾斜"
+  },
+  {
+   "id": 1624,
+   "word": "elevate",
+   "uk": "/ˈelɪveɪt/",
+   "us": "/ˈɛlɪvet/",
+   "pos": "vt.",
+   "cn": "提升…的职位；提高；改善；使情绪高昂；举起；使上升"
+  },
+  {
+   "id": 1625,
+   "word": "designate",
+   "uk": "/ˈdezɪgneɪt/",
+   "us": "/ˈdɛzɪɡnet/",
+   "pos": "vt.",
+   "cn": "指派；委任；标出；把…定名为"
+  },
+  {
+   "id": 1626,
+   "word": "promising",
+   "uk": "/ˈprɒmɪsɪŋ/",
+   "us": "/ˈprɑmɪsɪŋ/",
+   "pos": "adj.",
+   "cn": "有希望的；有前途的"
+  },
+  {
+   "id": 1627,
+   "word": "slick",
+   "uk": "/slɪk/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "圆滑的；口齿伶俐的；精巧的；巧妙的；灵巧的；光滑的；滑溜的"
+  },
+  {
+   "id": 1628,
+   "word": "practicable",
+   "uk": "/ˈpræktɪkəbl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "可行的；适用的"
+  },
+  {
+   "id": 1629,
+   "word": "item",
+   "uk": "/ˈaɪtəm/",
+   "us": "",
+   "pos": "n.",
+   "cn": "条；条款"
+  },
+  {
+   "id": 1630,
+   "word": "counsel",
+   "uk": "/ˈkaunsl/",
+   "us": "/ˈkaʊnsl/",
+   "pos": "n.,vt.",
+   "cn": "律师；法律顾问；忠告；劝告；劝告；提议"
+  },
+  {
+   "id": 1631,
+   "word": "canvas",
+   "uk": "/ˈkænvəs/",
+   "us": "",
+   "pos": "n.",
+   "cn": "帆布；帆布画布；油画"
+  },
+  {
+   "id": 1632,
+   "word": "superintendent",
+   "uk": "/ˌsuːpərɪnˈtendənt/",
+   "us": "/,supərɪnˈtɛndənt/",
+   "pos": "n.",
+   "cn": "主管人；监管人；负责人；警长"
+  },
+  {
+   "id": 1633,
+   "word": "probability",
+   "uk": "/ˌprɒbəˈbɪləti/",
+   "us": "/ˈprɑbəˈbɪləti/",
+   "pos": "n.",
+   "cn": "可能性；可能发生的事；概率"
+  },
+  {
+   "id": 1634,
+   "word": "contention",
+   "uk": "/kənˈtenʃn/",
+   "us": "/kənˈtɛnʃən/",
+   "pos": "n.",
+   "cn": "论点；争论；争辩"
+  },
+  {
+   "id": 1635,
+   "word": "lofty",
+   "uk": "/ˈlɒfti/",
+   "us": "/ˈlɔfti/",
+   "pos": "adj.",
+   "cn": "高傲的；傲慢的；崇高的；高尚的；高耸的；极高的"
+  },
+  {
+   "id": 1636,
+   "word": "explicit",
+   "uk": "/ɪkˈsplɪsɪt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "详述的；明确的；明晰的；直言的；露骨的"
+  },
+  {
+   "id": 1637,
+   "word": "rely",
+   "uk": "/rɪˈlaɪ/",
+   "us": "",
+   "pos": "vi.",
+   "cn": "依靠；依赖；信赖；指望"
+  },
+  {
+   "id": 1638,
+   "word": "slide",
+   "uk": "/slaɪd/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "滑；悄悄地移动；滑动；滑道；滑面；幻灯片"
+  },
+  {
+   "id": 1639,
+   "word": "utilize",
+   "uk": "/ˈjuːtəlaɪz/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "利用"
+  },
+  {
+   "id": 1640,
+   "word": "sticky",
+   "uk": "/ˈstɪki/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "黏性的；胶粘的；湿热的"
+  },
+  {
+   "id": 1641,
+   "word": "prevail",
+   "uk": "/prɪˈveɪl/",
+   "us": "/priˈvel/",
+   "pos": "vi.",
+   "cn": "流行；盛行"
+  },
+  {
+   "id": 1642,
+   "word": "excessive",
+   "uk": "/ɪkˈsesɪv/",
+   "us": "/ɪkˈsɛsɪv/",
+   "pos": "adj.",
+   "cn": "过多的；极度的"
+  },
+  {
+   "id": 1643,
+   "word": "denial",
+   "uk": "/dɪˈnaɪəl/",
+   "us": "",
+   "pos": "n.",
+   "cn": "否认；拒绝；拒绝给予"
+  },
+  {
+   "id": 1644,
+   "word": "assault",
+   "uk": "/əˈsɔːlt/",
+   "us": "/əˈsɔlt/",
+   "pos": "n.",
+   "cn": "攻击；袭击"
+  },
+  {
+   "id": 1645,
+   "word": "implicit",
+   "uk": "/ɪmˈplɪsɪt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "不言明的；含蓄的；内含的；固有的；无疑问的"
+  },
+  {
+   "id": 1646,
+   "word": "intensify",
+   "uk": "/ɪnˈtensɪfaɪ/",
+   "us": "/ɪnˈtɛnsɪfaɪ/",
+   "pos": "v.",
+   "cn": "增强；加剧"
+  },
+  {
+   "id": 1647,
+   "word": "feminine",
+   "uk": "/ˈfemənɪn/",
+   "us": "/ˈfɛmənɪn/",
+   "pos": "adj.",
+   "cn": "女性的；女子的；女子气的"
+  },
+  {
+   "id": 1648,
+   "word": "purity",
+   "uk": "/ˈpjuərəti/",
+   "us": "/ˈpjʊrəti/",
+   "pos": "n.",
+   "cn": "纯净；纯洁；纯正"
+  },
+  {
+   "id": 1649,
+   "word": "pattern",
+   "uk": "/ˈpætn/",
+   "us": "/ˈpætɚn/",
+   "pos": "n.,vt.",
+   "cn": "型；式样；模；模型；仿制；使…仿效"
+  },
+  {
+   "id": 1650,
+   "word": "settle",
+   "uk": "/ˈsetl/",
+   "us": "/ˈsɛtl/",
+   "pos": "v.",
+   "cn": "安排；安放；调停；支付；核算；安家；飞落；停留；安定"
+  }
+ ]
+}

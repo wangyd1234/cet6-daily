@@ -1,0 +1,365 @@
+{
+  "day": 30,
+  "words": [
+    {
+      "word": "regulation",
+      "phr": [
+        {"en": "safety regulations", "zh": "安全规章"},
+        {"en": "break the regulations", "zh": "违反规定"}
+      ],
+      "ex": [
+        {"en": "Drivers who ignore traffic regulations may lose their licence for several months.",
+         "zh": "无视交通法规的司机可能会被吊销驾照数月。"}
+      ],
+      "note": "regulation 表「规章」时多用复数；regulate 是动词「管理、调节」。"
+    },
+    {
+      "word": "conform",
+      "phr": [
+        {"en": "conform to the rules", "zh": "遵守规则"},
+        {"en": "conform to standards", "zh": "符合标准"}
+      ],
+      "ex": [
+        {"en": "All new products must conform to strict safety standards before they go on sale.",
+         "zh": "所有新产品上市前都必须符合严格的安全标准。"}
+      ],
+      "note": "conform 常接 to：conform to rules/standards。"
+    },
+    {
+      "word": "circulation",
+      "phr": [
+        {"en": "in circulation", "zh": "在流通中"},
+        {"en": "improve blood circulation", "zh": "改善血液循环"}
+      ],
+      "ex": [
+        {"en": "Regular exercise helps improve blood circulation and keeps the heart healthy.",
+         "zh": "经常锻炼有助于改善血液循环，保持心脏健康。"}
+      ],
+      "note": "in circulation 指货币流通或书刊发行；动词形式是 circulate。"
+    },
+    {
+      "word": "authentic",
+      "phr": [
+        {"en": "authentic Chinese food", "zh": "正宗中餐"},
+        {"en": "an authentic signature", "zh": "真实的签名"}
+      ],
+      "ex": [
+        {"en": "The restaurant is famous for serving authentic Sichuan food at reasonable prices.",
+         "zh": "这家餐厅以价格合理、口味正宗的川菜闻名。"}
+      ],
+      "note": "authentic 强调「真品、正宗」，与 genuine 近义，常形容食物与文物。"
+    },
+    {
+      "word": "mere",
+      "phr": [
+        {"en": "a mere coincidence", "zh": "纯属巧合"},
+        {"en": "the mere thought of", "zh": "一想到…就"}
+      ],
+      "ex": [
+        {"en": "The mere thought of speaking in public makes her hands shake.",
+         "zh": "一想到当众讲话，她的手就发抖。"}
+      ],
+      "note": "mere 置于名词前加强语气，相当于 only，常含「不过…而已」。"
+    },
+    {
+      "word": "accommodation",
+      "phr": [
+        {"en": "book accommodation", "zh": "预订住处"},
+        {"en": "student accommodation", "zh": "学生宿舍"}
+      ],
+      "ex": [
+        {"en": "We booked accommodation near the station so we could walk to the train.",
+         "zh": "我们在车站附近订了住处，这样就能步行去坐火车。"}
+      ],
+      "note": "英式不可数、无复数；美式常用 accommodations。"
+    },
+    {
+      "word": "evident",
+      "phr": [
+        {"en": "it is evident that", "zh": "显然…"},
+        {"en": "become evident", "zh": "变得明显"}
+      ],
+      "ex": [
+        {"en": "It was evident from her face that she had been crying all night.",
+         "zh": "从她脸上明显看出她哭了一整夜。"}
+      ],
+      "note": "it is evident that 后接从句；副词 evidently 表「显然」。"
+    },
+    {
+      "word": "suburb",
+      "phr": [
+        {"en": "in the suburbs", "zh": "在郊区"},
+        {"en": "a quiet suburb", "zh": "安静的郊区"}
+      ],
+      "ex": [
+        {"en": "They moved to a quiet suburb after their second child was born.",
+         "zh": "第二个孩子出生后，他们搬到了安静的郊区。"}
+      ],
+      "note": "the suburbs 泛指郊区；sub-（下、次）+ urb（城市）。"
+    },
+    {
+      "word": "pumpkin",
+      "phr": [
+        {"en": "pumpkin pie", "zh": "南瓜派"},
+        {"en": "carve a pumpkin", "zh": "雕刻南瓜"}
+      ],
+      "ex": [
+        {"en": "Children carved a pumpkin into a funny face for the autumn festival.",
+         "zh": "孩子们把南瓜刻成一张滑稽的脸，迎接秋季节日。"}
+      ],
+      "note": "pumpkin 作定语常见于 pumpkin pie、pumpkin soup。"
+    },
+    {
+      "word": "annoy",
+      "phr": [
+        {"en": "be annoyed with sb", "zh": "生某人的气"},
+        {"en": "annoy the neighbours", "zh": "打扰邻居"}
+      ],
+      "ex": [
+        {"en": "Loud music late at night really annoys the neighbours in this building.",
+         "zh": "深夜大声放音乐确实会打扰这栋楼的邻居。"}
+      ],
+      "note": "annoy 指反复打扰使人恼火；be annoyed with sb。"
+    },
+    {
+      "word": "profess",
+      "phr": [
+        {"en": "profess ignorance", "zh": "声称不知情"},
+        {"en": "profess to be surprised", "zh": "声称感到意外"}
+      ],
+      "ex": [
+        {"en": "He professed to know nothing about the missing money when the police questioned him.",
+         "zh": "警察询问时，他声称对失踪的钱一无所知。"}
+      ],
+      "note": "profess 比 say 正式，含「公开声称」，常暗示未必真实。"
+    },
+    {
+      "word": "psychological",
+      "phr": [
+        {"en": "psychological pressure", "zh": "心理压力"},
+        {"en": "psychological research", "zh": "心理学研究"}
+      ],
+      "ex": [
+        {"en": "Students under great psychological pressure often find it hard to sleep well.",
+         "zh": "心理压力大的学生常常睡不好觉。"}
+      ],
+      "note": "psycho-（心灵）+ logy（学科）；名词是 psychology。"
+    },
+    {
+      "word": "credible",
+      "phr": [
+        {"en": "a credible explanation", "zh": "可信的解释"},
+        {"en": "credible evidence", "zh": "可信的证据"}
+      ],
+      "ex": [
+        {"en": "The witness gave a credible account of what happened that night.",
+         "zh": "那位目击者对当晚发生的事做了可信的陈述。"}
+      ],
+      "note": "credible 是「可信的」，credulous 是「轻信的」，注意区分。"
+    },
+    {
+      "word": "empirical",
+      "phr": [
+        {"en": "empirical evidence", "zh": "实证证据"},
+        {"en": "empirical research", "zh": "实证研究"}
+      ],
+      "ex": [
+        {"en": "The theory sounds reasonable but lacks empirical evidence from real classrooms.",
+         "zh": "这个理论听起来合理，但缺乏真实课堂的实证证据。"}
+      ],
+      "note": "empirical 强调以观察、实验为依据，与 theoretical 相对。"
+    },
+    {
+      "word": "commit",
+      "phr": [
+        {"en": "commit a crime", "zh": "犯罪"},
+        {"en": "commit oneself to", "zh": "致力于"}
+      ],
+      "ex": [
+        {"en": "The company committed itself to cutting carbon emissions by thirty percent.",
+         "zh": "该公司承诺将碳排放量削减百分之三十。"}
+      ],
+      "note": "commit a crime 是固定搭配；be committed to 后接名词。"
+    },
+    {
+      "word": "curb",
+      "phr": [
+        {"en": "curb inflation", "zh": "抑制通货膨胀"},
+        {"en": "curb your appetite", "zh": "控制食欲"}
+      ],
+      "ex": [
+        {"en": "The government raised interest rates to curb rising inflation.",
+         "zh": "政府提高利率以抑制不断上升的通货膨胀。"}
+      ],
+      "note": "curb 作动词表「抑制」，多接 inflation、crime、emissions 等。"
+    },
+    {
+      "word": "crash",
+      "phr": [
+        {"en": "crash into a tree", "zh": "撞到树上"},
+        {"en": "a car crash", "zh": "车祸"}
+      ],
+      "ex": [
+        {"en": "The truck crashed into a tree and blocked the road for hours.",
+         "zh": "卡车撞到树上，把路堵了好几个小时。"}
+      ],
+      "note": "crash into 后接撞上的物体；作名词常指车祸或市场崩溃。"
+    },
+    {
+      "word": "character",
+      "phr": [
+        {"en": "the main character", "zh": "主要人物"},
+        {"en": "a strong character", "zh": "坚强的性格"}
+      ],
+      "ex": [
+        {"en": "The main character in the novel is a young doctor working in a small town.",
+         "zh": "这部小说的主人公是在小镇工作的一位年轻医生。"}
+      ],
+      "note": "character 既可指「性格」，也可指书中「人物」，看上下文判断。"
+    },
+    {
+      "word": "reflect",
+      "phr": [
+        {"en": "reflect on", "zh": "反思；回想"},
+        {"en": "reflect light", "zh": "反射光线"}
+      ],
+      "ex": [
+        {"en": "The report reflects the concerns of teachers across the country.",
+         "zh": "这份报告反映了全国各地教师的关切。"}
+      ],
+      "note": "reflect on 表「认真思考」；表「反映」时主语多为数据、报告。"
+    },
+    {
+      "word": "outfit",
+      "phr": [
+        {"en": "a new outfit", "zh": "一套新衣服"},
+        {"en": "a sports outfit", "zh": "运动装"}
+      ],
+      "ex": [
+        {"en": "She bought a new outfit for the job interview on Monday.",
+         "zh": "她为周一的求职面试买了一套新衣服。"}
+      ],
+      "note": "outfit 指搭配好的一整套服装，比 clothes 更强调成套。"
+    },
+    {
+      "word": "contribution",
+      "phr": [
+        {"en": "make a contribution to", "zh": "对…作出贡献"},
+        {"en": "a major contribution", "zh": "重大贡献"}
+      ],
+      "ex": [
+        {"en": "She made a major contribution to the success of the project.",
+         "zh": "她为项目的成功作出了重大贡献。"}
+      ],
+      "note": "make a contribution to 中 to 是介词，后接名词或动名词。"
+    },
+    {
+      "word": "ongoing",
+      "phr": [
+        {"en": "an ongoing process", "zh": "持续的过程"},
+        {"en": "ongoing research", "zh": "正在进行的研究"}
+      ],
+      "ex": [
+        {"en": "The repair work is ongoing and the road will stay closed until Friday.",
+         "zh": "维修工作仍在进行，这条路将封闭到周五。"}
+      ],
+      "note": "ongoing 多作定语，表「仍在进行的」，一般不用 very 修饰。"
+    },
+    {
+      "word": "massacre",
+      "phr": [
+        {"en": "the massacre of civilians", "zh": "屠杀平民"},
+        {"en": "a bloody massacre", "zh": "血腥屠杀"}
+      ],
+      "ex": [
+        {"en": "The museum records the massacre of civilians during the war.",
+         "zh": "这座博物馆记载了战争期间对平民的屠杀。"}
+      ],
+      "note": "massacre 指大规模屠杀（尤指平民），语气强烈，多见于新闻。"
+    },
+    {
+      "word": "reassure",
+      "phr": [
+        {"en": "reassure the public", "zh": "安抚公众"},
+        {"en": "reassure sb that", "zh": "向某人保证…"}
+      ],
+      "ex": [
+        {"en": "The doctor reassured her that the test results were completely normal.",
+         "zh": "医生让她放心，检查结果完全正常。"}
+      ],
+      "note": "reassure 强调消除疑虑；re-（再）+ assure（保证）。"
+    },
+    {
+      "word": "bang",
+      "phr": [
+        {"en": "bang on the door", "zh": "砰砰敲门"},
+        {"en": "with a bang", "zh": "砰的一声"}
+      ],
+      "ex": [
+        {"en": "Someone was banging on the door and shouting my name.",
+         "zh": "有人在砰砰敲门，还喊着我的名字。"}
+      ],
+      "note": "bang on 指连续猛敲；bang 也可直接作拟声名词「砰的一声」。"
+    },
+    {
+      "word": "magnetic",
+      "phr": [
+        {"en": "magnetic field", "zh": "磁场"},
+        {"en": "a magnetic personality", "zh": "有魅力的性格"}
+      ],
+      "ex": [
+        {"en": "A compass needle points north because it follows the earth's magnetic field.",
+         "zh": "指南针指向北方，因为它顺着地球磁场。"}
+      ],
+      "note": "除「磁的」，magnetic 还引申为「有吸引力的」，如 magnetic smile。"
+    },
+    {
+      "word": "cholesterol",
+      "phr": [
+        {"en": "high cholesterol", "zh": "高胆固醇"},
+        {"en": "lower cholesterol", "zh": "降低胆固醇"}
+      ],
+      "ex": [
+        {"en": "Eating too much fried food can raise your cholesterol level.",
+         "zh": "吃太多油炸食品会升高胆固醇水平。"}
+      ],
+      "note": "cholesterol 不可数，常与 high/low、level 搭配。"
+    },
+    {
+      "word": "orbit",
+      "phr": [
+        {"en": "in orbit", "zh": "在轨道上"},
+        {"en": "orbit the earth", "zh": "绕地球运行"}
+      ],
+      "ex": [
+        {"en": "The satellite has been in orbit around the earth for ten years.",
+         "zh": "这颗卫星已在地球轨道上运行十年。"}
+      ],
+      "note": "in orbit 前不加冠词；orbit 作动词可直接接天体名称。"
+    },
+    {
+      "word": "band",
+      "phr": [
+        {"en": "a rock band", "zh": "摇滚乐队"},
+        {"en": "a rubber band", "zh": "橡皮筋"}
+      ],
+      "ex": [
+        {"en": "The band played for two hours and the crowd loved every song.",
+         "zh": "乐队演奏了两个小时，观众喜欢每一首歌。"}
+      ],
+      "note": "band 指乐队时视为整体，谓语可用单数；也可指带子、波段。"
+    },
+    {
+      "word": "negligible",
+      "phr": [
+        {"en": "a negligible effect", "zh": "微不足道的影响"},
+        {"en": "a negligible difference", "zh": "微小的差别"}
+      ],
+      "ex": [
+        {"en": "The difference between the two methods is negligible in practice.",
+         "zh": "两种方法在实际应用中的差别微不足道。"}
+      ],
+      "note": "negligible 源于 neglect（忽略），指小到可以忽略不计。"
+    }
+  ]
+}

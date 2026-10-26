@@ -1,0 +1,246 @@
+{
+ "day": 59,
+ "date": null,
+ "words": [
+  {
+   "id": 1741,
+   "word": "deviate",
+   "uk": "/ˈdiːvieɪt/",
+   "us": "/ˈdivɪet/",
+   "pos": "vi.",
+   "cn": "背离；偏离"
+  },
+  {
+   "id": 1742,
+   "word": "assignment",
+   "uk": "/əˈsaɪnmənt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "任务；指定的作业；分配；指派"
+  },
+  {
+   "id": 1743,
+   "word": "album",
+   "uk": "/ˈælbəm/",
+   "us": "",
+   "pos": "n.",
+   "cn": "粘贴簿；集邮簿；相册"
+  },
+  {
+   "id": 1744,
+   "word": "stimulus",
+   "uk": "/ˈstɪmjələs/",
+   "us": "",
+   "pos": "n.",
+   "cn": "促进；刺激"
+  },
+  {
+   "id": 1745,
+   "word": "electric",
+   "uk": "/ɪˈlektrɪk/",
+   "us": "/ɪˈlɛktrɪk/",
+   "pos": "adj.",
+   "cn": "电的；电动的"
+  },
+  {
+   "id": 1746,
+   "word": "bewilder",
+   "uk": "/bɪˈwɪldə/",
+   "us": "/bɪˈwɪldɚ/",
+   "pos": "vt.",
+   "cn": "使迷惑；使难住"
+  },
+  {
+   "id": 1747,
+   "word": "regiment",
+   "uk": "/ˈredʒɪmənt/",
+   "us": "/ˈrɛdʒɪmənt/",
+   "pos": "n.,vt.",
+   "cn": "团；大量；严格地管制；严密地编组"
+  },
+  {
+   "id": 1748,
+   "word": "diminish",
+   "uk": "/dɪˈmɪnɪʃ/",
+   "us": "",
+   "pos": "vi.,vt.",
+   "cn": "变少；变小；降低；减少；减小；降低"
+  },
+  {
+   "id": 1749,
+   "word": "surpass",
+   "uk": "/səˈpɑːs/",
+   "us": "/səˈpæs/",
+   "pos": "vt.",
+   "cn": "超过；优于；多于；超过…的界限；非…所能办到"
+  },
+  {
+   "id": 1750,
+   "word": "various",
+   "uk": "/ˈveəriəs/",
+   "us": "/ˈvɛrɪəs/",
+   "pos": "adj.",
+   "cn": "各种各样的；不同的"
+  },
+  {
+   "id": 1751,
+   "word": "depression",
+   "uk": "/dɪˈpreʃn/",
+   "us": "/dɪˈprɛʃən/",
+   "pos": "n.",
+   "cn": "抑郁；沮丧；不景气；萧条；洼地；凹陷"
+  },
+  {
+   "id": 1752,
+   "word": "affiliate",
+   "uk": "/əˈfɪlɪeɪt/",
+   "us": "/əˈfɪlɪet/",
+   "pos": "vt.,n.",
+   "cn": "使隶属于；附属机构；分公司"
+  },
+  {
+   "id": 1753,
+   "word": "unfold",
+   "uk": "/ʌnˈfəuld/",
+   "us": "/ʌnˈfold/",
+   "pos": "v.",
+   "cn": "展开；打开；显露；展现"
+  },
+  {
+   "id": 1754,
+   "word": "extent",
+   "uk": "/ɪkˈstent/",
+   "us": "/ɪkˈstɛnt/",
+   "pos": "n.",
+   "cn": "广度；范围；程度"
+  },
+  {
+   "id": 1755,
+   "word": "equivalent",
+   "uk": "/ɪˈkwɪvələnt/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "相等的；等量的；相等物；等价物"
+  },
+  {
+   "id": 1756,
+   "word": "sensational",
+   "uk": "/senˈseɪʃənl/",
+   "us": "/sɛnˈseʃənl/",
+   "pos": "adj.",
+   "cn": "轰动的；耸人听闻的；使人感动的；非常好的"
+  },
+  {
+   "id": 1757,
+   "word": "wedge",
+   "uk": "/wedʒ/",
+   "us": "/wɛdʒ/",
+   "pos": "n.,vt.",
+   "cn": "楔；楔入；塞入"
+  },
+  {
+   "id": 1758,
+   "word": "alienate",
+   "uk": "/ˈeɪlɪəneɪt/",
+   "us": "/ˈeiljəneit/",
+   "pos": "vt.",
+   "cn": "使疏远；使不友好；离间；转让；让渡"
+  },
+  {
+   "id": 1759,
+   "word": "brink",
+   "uk": "/brɪŋk/",
+   "us": "",
+   "pos": "n.",
+   "cn": "边缘；边沿"
+  },
+  {
+   "id": 1760,
+   "word": "plague",
+   "uk": "/pleɪg/",
+   "us": "/pleɡ/",
+   "pos": "n.,vt.",
+   "cn": "瘟疫；鼠疫；灾难；祸患；使痛苦；给…造成困难"
+  },
+  {
+   "id": 1761,
+   "word": "perpetual",
+   "uk": "/pəˈpetʃuəl/",
+   "us": "/pɚˈpɛtʃuəl/",
+   "pos": "adj.",
+   "cn": "永久的；永恒的；长期的；无休止的；没完没了的"
+  },
+  {
+   "id": 1762,
+   "word": "retrospect",
+   "uk": "/ˈretrəspekt/",
+   "us": "/ˈrɛtrəspɛkt/",
+   "pos": "n.",
+   "cn": "回顾"
+  },
+  {
+   "id": 1763,
+   "word": "fascinate",
+   "uk": "/ˈfæsɪneɪt/",
+   "us": "/ˈfæsəˈnet/",
+   "pos": "vt.",
+   "cn": "强烈地吸引；迷住"
+  },
+  {
+   "id": 1764,
+   "word": "colonial",
+   "uk": "/kəˈləuniəl/",
+   "us": "/kəˈlonɪəl/",
+   "pos": "adj.",
+   "cn": "殖民地的"
+  },
+  {
+   "id": 1765,
+   "word": "warfare",
+   "uk": "/ˈwɔːfeə/",
+   "us": "/ˈwɔrfɛr/",
+   "pos": "n.",
+   "cn": "战争；斗争；冲突"
+  },
+  {
+   "id": 1766,
+   "word": "draft",
+   "uk": "/drɑːft/",
+   "us": "/dræft/",
+   "pos": "n.,vt.",
+   "cn": "草稿；汇票；征兵；通风；起草；征募"
+  },
+  {
+   "id": 1767,
+   "word": "complex",
+   "uk": "/ˈkɒmpleks/",
+   "us": "/ˈkɑmplɛks;kəmˈplɛks/",
+   "pos": "adj.,n.",
+   "cn": "由许多部分组成的；复合的；复杂的；难懂的；综合体；集合体；情结；夸大的情绪反应"
+  },
+  {
+   "id": 1768,
+   "word": "assumption",
+   "uk": "/əˈsʌmpʃn/",
+   "us": "/əˈsʌmpʃən/",
+   "pos": "n.",
+   "cn": "假定；臆断；担任；承担"
+  },
+  {
+   "id": 1769,
+   "word": "humidity",
+   "uk": "/hjuːˈmɪdəti/",
+   "us": "/hjuˈmɪdəti/",
+   "pos": "n.",
+   "cn": "湿度；潮湿；湿气"
+  },
+  {
+   "id": 1770,
+   "word": "rank",
+   "uk": "/ræŋk/",
+   "us": "",
+   "pos": "vi.,n.,vt.",
+   "cn": "列入；占特定等级；军衔；职衔；地位；社会阶层；排；行列；把…分等；给…评定等级"
+  }
+ ]
+}

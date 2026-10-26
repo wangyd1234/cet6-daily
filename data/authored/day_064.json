@@ -1,0 +1,365 @@
+{
+  "day": 64,
+  "words": [
+    {
+      "word": "conserve",
+      "phr": [
+        {"en": "conserve energy", "zh": "节约能源"},
+        {"en": "conserve water", "zh": "节约用水"}
+      ],
+      "ex": [
+        {"en": "Simple changes at home can help conserve water and electricity.",
+         "zh": "家中一些简单的改变有助于节约水和电。"}
+      ],
+      "note": "指保护自然资源或节约能源，比 save 更正式。"
+    },
+    {
+      "word": "stroke",
+      "phr": [
+        {"en": "have a stroke", "zh": "中风"},
+        {"en": "a stroke of luck", "zh": "一点运气"}
+      ],
+      "ex": [
+        {"en": "He suffered a stroke last year but has recovered almost completely.",
+         "zh": "他去年中风，但已基本康复。"}
+      ],
+      "note": "指中风、一击或笔画，a stroke of luck 指运气。"
+    },
+    {
+      "word": "breed",
+      "phr": [
+        {"en": "breed sheep", "zh": "养羊"},
+        {"en": "a new breed of writers", "zh": "新一代作家"}
+      ],
+      "ex": [
+        {"en": "The farm breeds horses for racing and for sale abroad.",
+         "zh": "这家农场繁育赛马，并销往国外。"}
+      ],
+      "note": "过去式与过去分词同为 bred，注意这一不规则变化。"
+    },
+    {
+      "word": "tease",
+      "phr": [
+        {"en": "tease sb about sth", "zh": "拿某事取笑某人"},
+        {"en": "tease the dog", "zh": "逗狗"}
+      ],
+      "ex": [
+        {"en": "The boys teased him about his new haircut all through lunch.",
+         "zh": "整个午饭时间男孩们都拿他的新发型取笑他。"}
+      ],
+      "note": "tease sb about sth 拿某事取笑某人，语气较轻。"
+    },
+    {
+      "word": "rash",
+      "phr": [
+        {"en": "a skin rash", "zh": "皮疹"},
+        {"en": "a rash decision", "zh": "轻率的决定"}
+      ],
+      "ex": [
+        {"en": "Do not make a rash decision before you know all the facts.",
+         "zh": "弄清全部事实之前不要草率做决定。"}
+      ],
+      "note": "作形容词指轻率鲁莽，作名词指皮疹。"
+    },
+    {
+      "word": "fragrance",
+      "phr": [
+        {"en": "the fragrance of flowers", "zh": "花香"},
+        {"en": "a light fragrance", "zh": "淡淡的香味"}
+      ],
+      "ex": [
+        {"en": "The fragrance of jasmine filled the whole garden after the rain.",
+         "zh": "雨后茉莉的芳香弥漫整个花园。"}
+      ],
+      "note": "指好闻的香味，比 smell 更雅，作名词可数。"
+    },
+    {
+      "word": "management",
+      "phr": [
+        {"en": "business management", "zh": "企业管理"},
+        {"en": "top management", "zh": "高层管理人员"}
+      ],
+      "ex": [
+        {"en": "Good time management helps students balance study and part-time work.",
+         "zh": "良好的时间管理帮助学生在学习和兼职之间取得平衡。"}
+      ],
+      "note": "指管理或管理层，作主语时谓语可用复数。"
+    },
+    {
+      "word": "cylinder",
+      "phr": [
+        {"en": "a gas cylinder", "zh": "煤气罐"},
+        {"en": "a six-cylinder engine", "zh": "六缸发动机"}
+      ],
+      "ex": [
+        {"en": "The mechanic found a crack in one of the engine cylinders.",
+         "zh": "机械师发现其中一个发动机气缸有裂缝。"}
+      ],
+      "note": "指圆柱体或气缸，gas cylinder 指煤气罐。"
+    },
+    {
+      "word": "fort",
+      "phr": [
+        {"en": "hold the fort", "zh": "临时负责"},
+        {"en": "an old stone fort", "zh": "古老石堡"}
+      ],
+      "ex": [
+        {"en": "The soldiers defended the fort against repeated attacks for weeks.",
+         "zh": "士兵们数周来抵御一次又一次进攻，守住了堡垒。"}
+      ],
+      "note": "指堡垒；hold the fort 指临时顶替负责。"
+    },
+    {
+      "word": "avoid",
+      "phr": [
+        {"en": "avoid doing sth", "zh": "避免做某事"},
+        {"en": "avoid the rush hour", "zh": "避开高峰时段"}
+      ],
+      "ex": [
+        {"en": "Leave home early to avoid the rush hour traffic.",
+         "zh": "早点出门以避开高峰时段的交通。"}
+      ],
+      "note": "后接动名词 avoid doing，不能接不定式。"
+    },
+    {
+      "word": "comprehensive",
+      "phr": [
+        {"en": "a comprehensive survey", "zh": "全面调查"},
+        {"en": "comprehensive insurance", "zh": "综合保险"}
+      ],
+      "ex": [
+        {"en": "The government ordered a comprehensive review of the safety rules.",
+         "zh": "政府下令对安全规定进行全面审查。"}
+      ],
+      "note": "强调全面广泛，comprehensible 则指可理解。"
+    },
+    {
+      "word": "tunnel",
+      "phr": [
+        {"en": "a railway tunnel", "zh": "铁路隧道"},
+        {"en": "dig a tunnel", "zh": "挖隧道"}
+      ],
+      "ex": [
+        {"en": "Workers spent five years digging a tunnel through the mountain.",
+         "zh": "工人们花了五年时间挖通一条穿山隧道。"}
+      ],
+      "note": "作动词表挖隧道，过去式可双写 l 再加 ed。"
+    },
+    {
+      "word": "assign",
+      "phr": [
+        {"en": "assign a task to sb", "zh": "给某人分配任务"},
+        {"en": "assign homework", "zh": "布置作业"}
+      ],
+      "ex": [
+        {"en": "The teacher assigned each group a different topic for the presentation.",
+         "zh": "老师给每个小组分配了不同的演讲题目。"}
+      ],
+      "note": "assign sth to sb 把某物分给某人，也可指布置。"
+    },
+    {
+      "word": "withdraw",
+      "phr": [
+        {"en": "withdraw money from the bank", "zh": "从银行取钱"},
+        {"en": "withdraw from the race", "zh": "退出比赛"}
+      ],
+      "ex": [
+        {"en": "She withdrew some cash from the bank before catching her train.",
+         "zh": "她在赶火车前去银行取了些现金。"}
+      ],
+      "note": "指撤回或取钱，过去式为 withdrew。"
+    },
+    {
+      "word": "straightforward",
+      "phr": [
+        {"en": "a straightforward answer", "zh": "直截了当的回答"},
+        {"en": "a straightforward procedure", "zh": "简单的程序"}
+      ],
+      "ex": [
+        {"en": "The instructions were so straightforward that anyone could follow them.",
+         "zh": "说明非常简明，任何人都能照做。"}
+      ],
+      "note": "由 straight 加 forward 构成，表直截了当。"
+    },
+    {
+      "word": "elaborate",
+      "phr": [
+        {"en": "an elaborate design", "zh": "精巧的设计"},
+        {"en": "elaborate on the point", "zh": "详细说明这一点"}
+      ],
+      "ex": [
+        {"en": "The architect showed us an elaborate design for the new library.",
+         "zh": "建筑师向我们展示了新图书馆的精巧设计。"}
+      ],
+      "note": "作形容词表精心制作的，elaborate on 指详述。"
+    },
+    {
+      "word": "expert",
+      "phr": [
+        {"en": "an expert in law", "zh": "法律专家"},
+        {"en": "expert advice", "zh": "专家建议"}
+      ],
+      "ex": [
+        {"en": "She is an expert in international trade law and teaches at the university.",
+         "zh": "她是国际贸易法专家，并在大学任教。"}
+      ],
+      "note": "an expert in/on sth 指某领域的专家。"
+    },
+    {
+      "word": "decade",
+      "phr": [
+        {"en": "in the past decade", "zh": "在过去十年"},
+        {"en": "for decades", "zh": "数十年来"}
+      ],
+      "ex": [
+        {"en": "The city's population has doubled over the past two decades.",
+         "zh": "过去二十年里，这座城市的人口翻了一番。"}
+      ],
+      "note": "指十年，复数 decades，常用 over the past decade。"
+    },
+    {
+      "word": "fulfill",
+      "phr": [
+        {"en": "fulfill a dream", "zh": "实现梦想"},
+        {"en": "fulfill one's duty", "zh": "履行义务"}
+      ],
+      "ex": [
+        {"en": "He finally fulfilled his childhood dream of becoming a pilot.",
+         "zh": "他终于实现了儿时成为飞行员的梦想。"}
+      ],
+      "note": "指履行义务或实现愿望，英式拼作 fulfil。"
+    },
+    {
+      "word": "crowd",
+      "phr": [
+        {"en": "a crowd of people", "zh": "一群人"},
+        {"en": "stand out from the crowd", "zh": "脱颖而出"}
+      ],
+      "ex": [
+        {"en": "A large crowd gathered outside the stadium to welcome the players.",
+         "zh": "一大群人聚集在体育场外欢迎球员。"}
+      ],
+      "note": "a crowd of 指一群人，be crowded with 表挤满。"
+    },
+    {
+      "word": "congress",
+      "phr": [
+        {"en": "hold a congress", "zh": "举行代表大会"},
+        {"en": "a medical congress", "zh": "医学会议"}
+      ],
+      "ex": [
+        {"en": "Scientists from forty countries attended the congress on cancer research.",
+         "zh": "来自四十个国家的科学家参加了这次癌症研究大会。"}
+      ],
+      "note": "指代表大会或国会，特指机构时首字母大写。"
+    },
+    {
+      "word": "mechanical",
+      "phr": [
+        {"en": "a mechanical problem", "zh": "机械故障"},
+        {"en": "mechanical engineering", "zh": "机械工程"}
+      ],
+      "ex": [
+        {"en": "The flight was delayed by a minor mechanical problem in the engine.",
+         "zh": "航班因发动机的一个小机械故障而延误。"}
+      ],
+      "note": "指机械的，也形容动作呆板、缺乏感情。"
+    },
+    {
+      "word": "divine",
+      "phr": [
+        {"en": "divine power", "zh": "神力"},
+        {"en": "divine intervention", "zh": "神明干预"}
+      ],
+      "ex": [
+        {"en": "Ancient kings often claimed that their power came from divine will.",
+         "zh": "古代国王常宣称自己的权力来自神的意志。"}
+      ],
+      "note": "指神的、天赐的，口语里也表极好的。"
+    },
+    {
+      "word": "slaughter",
+      "phr": [
+        {"en": "the slaughter of animals", "zh": "屠宰动物"},
+        {"en": "mass slaughter", "zh": "大规模屠杀"}
+      ],
+      "ex": [
+        {"en": "The novel describes the slaughter of thousands during the civil war.",
+         "zh": "这部小说描写了内战期间数千人被屠杀的惨状。"}
+      ],
+      "note": "指屠杀或屠宰，语气强烈，多用于负面。"
+    },
+    {
+      "word": "foul",
+      "phr": [
+        {"en": "a foul smell", "zh": "难闻的气味"},
+        {"en": "commit a foul", "zh": "犯规"}
+      ],
+      "ex": [
+        {"en": "A foul smell from the river made the whole neighbourhood complain.",
+         "zh": "河水散发的臭味让整个街区怨声载道。"}
+      ],
+      "note": "foul 指气味难闻，foul play 指犯规或谋杀。"
+    },
+    {
+      "word": "output",
+      "phr": [
+        {"en": "industrial output", "zh": "工业产量"},
+        {"en": "increase output", "zh": "提高产量"}
+      ],
+      "ex": [
+        {"en": "The factory increased its output by twenty percent last year.",
+         "zh": "这家工厂去年产量提高了百分之二十。"}
+      ],
+      "note": "指产量或输出，与 input 相对，通常不可数。"
+    },
+    {
+      "word": "intricate",
+      "phr": [
+        {"en": "an intricate pattern", "zh": "复杂精细的图案"},
+        {"en": "intricate details", "zh": "繁复的细节"}
+      ],
+      "ex": [
+        {"en": "The carpet was covered with an intricate pattern of flowers and birds.",
+         "zh": "地毯上布满了花鸟的繁复图案。"}
+      ],
+      "note": "强调细节繁多而复杂，多形容图案、情节。"
+    },
+    {
+      "word": "fatigue",
+      "phr": [
+        {"en": "suffer from fatigue", "zh": "感到疲劳"},
+        {"en": "metal fatigue", "zh": "金属疲劳"}
+      ],
+      "ex": [
+        {"en": "After the long march, many soldiers suffered from extreme fatigue.",
+         "zh": "长途行军后，许多士兵极度疲劳。"}
+      ],
+      "note": "不可数名词，指极度疲劳，比 tiredness 正式。"
+    },
+    {
+      "word": "agony",
+      "phr": [
+        {"en": "in agony", "zh": "极度痛苦地"},
+        {"en": "the agony of defeat", "zh": "失败的痛苦"}
+      ],
+      "ex": [
+        {"en": "He lay in agony on the ground until the ambulance arrived.",
+         "zh": "他躺在地上痛苦不堪，直到救护车赶到。"}
+      ],
+      "note": "指剧痛或精神折磨，in agony 表极度痛苦。"
+    },
+    {
+      "word": "contemplate",
+      "phr": [
+        {"en": "contemplate doing sth", "zh": "考虑做某事"},
+        {"en": "contemplate the future", "zh": "思考未来"}
+      ],
+      "ex": [
+        {"en": "She is contemplating moving to another city for a better job.",
+         "zh": "她正在考虑搬到另一座城市，以获得更好的工作。"}
+      ],
+      "note": "contemplate doing sth 考虑做某事，较正式。"
+    }
+  ]
+}

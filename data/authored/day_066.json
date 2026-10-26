@@ -1,0 +1,365 @@
+{
+  "day": 66,
+  "words": [
+    {
+      "word": "prejudice",
+      "phr": [
+        {"en": "racial prejudice", "zh": "种族偏见"},
+        {"en": "prejudice against outsiders", "zh": "对外来者的偏见"}
+      ],
+      "ex": [
+        {"en": "She grew up in a small town where prejudice against outsiders was common.",
+         "zh": "她在一个对外来者常有偏见的小镇长大。"}
+      ],
+      "note": "prejudice 常与 against 连用，表对某群体的成见。"
+    },
+    {
+      "word": "clearance",
+      "phr": [
+        {"en": "customs clearance", "zh": "清关"},
+        {"en": "security clearance", "zh": "安全许可"}
+      ],
+      "ex": [
+        {"en": "The goods were held at the border until customs clearance was completed.",
+         "zh": "这批货物在边境被扣留，直到完成清关。"}
+      ],
+      "note": "clearance 指清理或官方许可，由动词 clear 加 -ance 构成。"
+    },
+    {
+      "word": "customary",
+      "phr": [
+        {"en": "customary practice", "zh": "惯常做法"},
+        {"en": "customary law", "zh": "习惯法"}
+      ],
+      "ex": [
+        {"en": "In this region it is customary to remove your shoes before entering a home.",
+         "zh": "在这个地区，进屋前脱鞋是一种习俗。"}
+      ],
+      "note": "customary 来自 custom（习俗），多形容合乎惯例的做法。"
+    },
+    {
+      "word": "immigrant",
+      "phr": [
+        {"en": "illegal immigrant", "zh": "非法移民"},
+        {"en": "immigrant workers", "zh": "移民劳工"}
+      ],
+      "ex": [
+        {"en": "Many immigrant families work hard to give their children a better education.",
+         "zh": "许多移民家庭努力工作，为了让孩子接受更好的教育。"}
+      ],
+      "note": "immigrant 指移入者，emigrant 指移出者，两者方向相反。"
+    },
+    {
+      "word": "guardian",
+      "phr": [
+        {"en": "legal guardian", "zh": "法定监护人"},
+        {"en": "guardian angel", "zh": "守护天使"}
+      ],
+      "ex": [
+        {"en": "The court appointed her uncle as the child's legal guardian.",
+         "zh": "法院指定她的叔叔为孩子的法定监护人。"}
+      ],
+      "note": "guardian 由 guard 加 -ian 构成，法律上专指监护人。"
+    },
+    {
+      "word": "veto",
+      "phr": [
+        {"en": "exercise a veto", "zh": "行使否决权"},
+        {"en": "veto the proposal", "zh": "否决提案"}
+      ],
+      "ex": [
+        {"en": "The president threatened to veto the bill if it reached his desk.",
+         "zh": "总统威胁说，如果该法案送到他桌上，他将予以否决。"}
+      ],
+      "note": "veto 复数形式为 vetoes；作名词常与 exercise 连用。"
+    },
+    {
+      "word": "thorn",
+      "phr": [
+        {"en": "a thorn in one's side", "zh": "眼中钉"},
+        {"en": "thorn bush", "zh": "荆棘丛"}
+      ],
+      "ex": [
+        {"en": "A thorn stuck in his finger as he picked the roses.",
+         "zh": "他摘玫瑰时一根刺扎进了手指。"}
+      ],
+      "note": "a thorn in one's side 指长期令人烦恼的人或事。"
+    },
+    {
+      "word": "disposition",
+      "phr": [
+        {"en": "a cheerful disposition", "zh": "开朗的性格"},
+        {"en": "a disposition to help others", "zh": "乐于助人的天性"}
+      ],
+      "ex": [
+        {"en": "Her cheerful disposition makes her popular with both colleagues and clients.",
+         "zh": "她开朗的性格使她受到同事和客户的欢迎。"}
+      ],
+      "note": "disposition 指天生性情，也可指财产处置或部队部署。"
+    },
+    {
+      "word": "corporate",
+      "phr": [
+        {"en": "corporate culture", "zh": "企业文化"},
+        {"en": "corporate governance", "zh": "公司治理"}
+      ],
+      "ex": [
+        {"en": "The new manager tried to change the corporate culture from the top down.",
+         "zh": "新经理试图自上而下改变企业文化。"}
+      ],
+      "note": "corporate 来自 corporation，指公司的、法人的，也可指全体的。"
+    },
+    {
+      "word": "stabilize",
+      "phr": [
+        {"en": "stabilize the economy", "zh": "稳定经济"},
+        {"en": "stabilize prices", "zh": "稳定物价"}
+      ],
+      "ex": [
+        {"en": "The central bank raised interest rates to stabilize the economy.",
+         "zh": "央行提高利率以稳定经济。"}
+      ],
+      "note": "stabilize 由 stable 加 -ize 构成，英式拼写为 stabilise。"
+    },
+    {
+      "word": "compensate",
+      "phr": [
+        {"en": "compensate for the loss", "zh": "弥补损失"},
+        {"en": "compensate employees for overtime", "zh": "补偿员工加班"}
+      ],
+      "ex": [
+        {"en": "Nothing can compensate for the loss of a close friend.",
+         "zh": "失去挚友是任何东西都无法弥补的。"}
+      ],
+      "note": "compensate for 表示弥补不足或损失，后接名词或动名词。"
+    },
+    {
+      "word": "conscious",
+      "phr": [
+        {"en": "be conscious of", "zh": "意识到"},
+        {"en": "environmentally conscious", "zh": "有环保意识的"}
+      ],
+      "ex": [
+        {"en": "She was conscious of someone watching her from across the street.",
+         "zh": "她意识到街对面有人在看着她。"}
+      ],
+      "note": "be conscious of 后接名词或动名词，反义词为 unconscious。"
+    },
+    {
+      "word": "transaction",
+      "phr": [
+        {"en": "cash transaction", "zh": "现金交易"},
+        {"en": "complete a transaction", "zh": "完成一笔交易"}
+      ],
+      "ex": [
+        {"en": "The bank charges a small fee for every international transaction.",
+         "zh": "银行对每笔国际交易收取少量手续费。"}
+      ],
+      "note": "transaction 由 trans-（跨越）加 act 构成，指买卖或业务往来。"
+    },
+    {
+      "word": "constant",
+      "phr": [
+        {"en": "constant temperature", "zh": "恒温"},
+        {"en": "under constant pressure", "zh": "在持续压力下"}
+      ],
+      "ex": [
+        {"en": "The machine keeps the room at a constant temperature day and night.",
+         "zh": "这台机器昼夜把房间保持在恒温状态。"}
+      ],
+      "note": "constant 强调持续不断，continual 指反复发生但有间断。"
+    },
+    {
+      "word": "bribe",
+      "phr": [
+        {"en": "take a bribe", "zh": "受贿"},
+        {"en": "offer a bribe", "zh": "行贿"}
+      ],
+      "ex": [
+        {"en": "The official was arrested for taking a bribe from a local businessman.",
+         "zh": "这名官员因收受当地商人的贿赂而被捕。"}
+      ],
+      "note": "bribe 可作名词和动词，bribe sb into doing 指买通某人做某事。"
+    },
+    {
+      "word": "certify",
+      "phr": [
+        {"en": "certify the document", "zh": "核证文件"},
+        {"en": "certify the accounts", "zh": "核证账目"}
+      ],
+      "ex": [
+        {"en": "A doctor must certify that the patient is fit to travel.",
+         "zh": "必须由医生证明该病人适合出行。"}
+      ],
+      "note": "certify 后常接 that 从句，或用 certify sb/sth as sth。"
+    },
+    {
+      "word": "intermittent",
+      "phr": [
+        {"en": "intermittent rain", "zh": "间歇性的雨"},
+        {"en": "intermittent pain", "zh": "间歇性疼痛"}
+      ],
+      "ex": [
+        {"en": "The intermittent noise from the building site made it hard to concentrate.",
+         "zh": "工地断断续续的噪音让人难以集中注意力。"}
+      ],
+      "note": "intermittent 由 inter- 加 mitt（送）构成，指时断时续的。"
+    },
+    {
+      "word": "outrage",
+      "phr": [
+        {"en": "public outrage", "zh": "公众的愤怒"},
+        {"en": "spark outrage", "zh": "激起公愤"}
+      ],
+      "ex": [
+        {"en": "The decision to close the library sparked public outrage across the city.",
+         "zh": "关闭图书馆的决定在全市激起了公愤。"}
+      ],
+      "note": "outrage 作名词指义愤，作动词指激怒，形容词为 outrageous。"
+    },
+    {
+      "word": "solitary",
+      "phr": [
+        {"en": "solitary confinement", "zh": "单独监禁"},
+        {"en": "a solitary life", "zh": "孤独的生活"}
+      ],
+      "ex": [
+        {"en": "He lived a solitary life in a cabin far from the village.",
+         "zh": "他在远离村庄的小屋里过着孤独的生活。"}
+      ],
+      "note": "solitary 强调独自一人；alone 只作表语，不能作定语。"
+    },
+    {
+      "word": "diffuse",
+      "phr": [
+        {"en": "diffuse knowledge", "zh": "传播知识"},
+        {"en": "diffuse light", "zh": "漫射光"}
+      ],
+      "ex": [
+        {"en": "The internet has made it easier to diffuse knowledge around the world.",
+         "zh": "互联网使知识在全球传播变得更容易。"}
+      ],
+      "note": "diffuse 作动词指扩散、传播，作形容词指分散的、冗长的。"
+    },
+    {
+      "word": "scramble",
+      "phr": [
+        {"en": "scramble for power", "zh": "争夺权力"},
+        {"en": "scramble to one's feet", "zh": "慌忙爬起来"}
+      ],
+      "ex": [
+        {"en": "Investors scramble for safe assets whenever the market falls sharply.",
+         "zh": "每当市场大幅下跌，投资者就争相抢购安全资产。"}
+      ],
+      "note": "scramble 指手脚并用攀爬或慌乱争抢，常用 scramble for sth。"
+    },
+    {
+      "word": "orchestra",
+      "phr": [
+        {"en": "symphony orchestra", "zh": "交响乐团"},
+        {"en": "orchestra pit", "zh": "乐池"}
+      ],
+      "ex": [
+        {"en": "The orchestra played for nearly two hours before the audience went home.",
+         "zh": "管弦乐队演奏了近两个小时，观众才散去。"}
+      ],
+      "note": "orchestra 指管弦乐队，在美式英语中也可指剧场前座。"
+    },
+    {
+      "word": "immerse",
+      "phr": [
+        {"en": "immerse sth in water", "zh": "把某物浸入水中"},
+        {"en": "immerse oneself in work", "zh": "埋头工作"}
+      ],
+      "ex": [
+        {"en": "She immersed herself in her research and forgot to eat lunch.",
+         "zh": "她埋头研究，忘了吃午饭。"}
+      ],
+      "note": "immerse 本指浸入液体，引申为专心于，常接 oneself in。"
+    },
+    {
+      "word": "sufficient",
+      "phr": [
+        {"en": "sufficient evidence", "zh": "充足的证据"},
+        {"en": "be sufficient for", "zh": "足以满足"}
+      ],
+      "ex": [
+        {"en": "There is not sufficient evidence to prove that he was involved.",
+         "zh": "没有足够的证据证明他参与其中。"}
+      ],
+      "note": "sufficient 比 enough 正式，常用 sufficient for。"
+    },
+    {
+      "word": "marshal",
+      "phr": [
+        {"en": "marshal one's thoughts", "zh": "整理思路"},
+        {"en": "marshal resources", "zh": "调集资源"}
+      ],
+      "ex": [
+        {"en": "He took a deep breath to marshal his thoughts before speaking.",
+         "zh": "他深吸一口气，在发言前整理思路。"}
+      ],
+      "note": "marshal 作动词指整理、集结，注意词尾只有一个 l。"
+    },
+    {
+      "word": "champagne",
+      "phr": [
+        {"en": "a bottle of champagne", "zh": "一瓶香槟"},
+        {"en": "champagne glass", "zh": "香槟杯"}
+      ],
+      "ex": [
+        {"en": "They opened a bottle of champagne to celebrate the deal.",
+         "zh": "他们开了一瓶香槟庆祝交易达成。"}
+      ],
+      "note": "champagne 源自法国产地名，指香槟酒，通常不可数。"
+    },
+    {
+      "word": "claim",
+      "phr": [
+        {"en": "claim responsibility for", "zh": "声称对…负责"},
+        {"en": "make a claim", "zh": "提出索赔"}
+      ],
+      "ex": [
+        {"en": "The company claims that the new battery lasts twice as long.",
+         "zh": "该公司声称新电池的续航时间翻了一倍。"}
+      ],
+      "note": "claim 后接 that 从句或 to do，作名词可表索赔或主张。"
+    },
+    {
+      "word": "widespread",
+      "phr": [
+        {"en": "widespread support", "zh": "广泛支持"},
+        {"en": "widespread use", "zh": "广泛使用"}
+      ],
+      "ex": [
+        {"en": "The new policy has won widespread support among young voters.",
+         "zh": "新政策赢得了年轻选民的广泛支持。"}
+      ],
+      "note": "widespread 由 wide 加 spread 合成，常修饰 support。"
+    },
+    {
+      "word": "antique",
+      "phr": [
+        {"en": "antique shop", "zh": "古董店"},
+        {"en": "antique furniture", "zh": "古董家具"}
+      ],
+      "ex": [
+        {"en": "She bought an antique chair at a small shop near the market.",
+         "zh": "她在市场附近的小店里买了一把古董椅子。"}
+      ],
+      "note": "antique 指有年代的器物，ancient 指古代的，两者不可混用。"
+    },
+    {
+      "word": "communication",
+      "phr": [
+        {"en": "communication skills", "zh": "沟通能力"},
+        {"en": "mass communication", "zh": "大众传播"}
+      ],
+      "ex": [
+        {"en": "Good communication between parents and children prevents many problems.",
+         "zh": "亲子之间良好的沟通可以避免许多问题。"}
+      ],
+      "note": "communication 表交流时多不可数，指通讯系统时常用复数。"
+    }
+  ]
+}

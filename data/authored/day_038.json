@@ -1,0 +1,365 @@
+{
+  "day": 38,
+  "words": [
+    {
+      "word": "minority",
+      "phr": [
+        {"en": "a small minority", "zh": "少数"},
+        {"en": "ethnic minority", "zh": "少数民族"}
+      ],
+      "ex": [
+        {"en": "Only a small minority of students voted against the proposal.",
+         "zh": "只有少数学生对该提案投了反对票。"}
+      ],
+      "note": "minority 与 majority 相对，指少数或少数民族。"
+    },
+    {
+      "word": "axis",
+      "phr": [
+        {"en": "the earth's axis", "zh": "地轴"},
+        {"en": "the vertical axis", "zh": "纵轴"}
+      ],
+      "ex": [
+        {"en": "The earth rotates around its axis once every twenty-four hours.",
+         "zh": "地球每二十四小时绕地轴自转一周。"}
+      ],
+      "note": "axis 复数为 axes，横轴是 horizontal axis。"
+    },
+    {
+      "word": "pole",
+      "phr": [
+        {"en": "the North Pole", "zh": "北极"},
+        {"en": "a telephone pole", "zh": "电线杆"}
+      ],
+      "ex": [
+        {"en": "The expedition reached the South Pole after months of hardship.",
+         "zh": "探险队历经数月艰辛抵达南极。"}
+      ],
+      "note": "pole 指地理极或杆；poles apart 表大相径庭。"
+    },
+    {
+      "word": "preferable",
+      "phr": [
+        {"en": "be preferable to", "zh": "比…更可取"},
+        {"en": "a preferable option", "zh": "更好的选择"}
+      ],
+      "ex": [
+        {"en": "For short journeys, cycling is often preferable to driving.",
+         "zh": "短途出行时，骑车往往比开车更好。"}
+      ],
+      "note": "preferable 本身含「更」，后接 to 而不接 than。"
+    },
+    {
+      "word": "reference",
+      "phr": [
+        {"en": "with reference to", "zh": "关于"},
+        {"en": "a reference book", "zh": "工具书"}
+      ],
+      "ex": [
+        {"en": "He made no reference to the accident in his report.",
+         "zh": "他在报告中没有提到那起事故。"}
+      ],
+      "note": "make reference to 表提到；参考文献用 reference list。"
+    },
+    {
+      "word": "spite",
+      "phr": [
+        {"en": "in spite of", "zh": "尽管"},
+        {"en": "out of spite", "zh": "出于恶意"}
+      ],
+      "ex": [
+        {"en": "In spite of the heavy rain, the match went on as planned.",
+         "zh": "尽管大雨，比赛仍按计划进行。"}
+      ],
+      "note": "in spite of 后接名词或动名词，不能接句子。"
+    },
+    {
+      "word": "defendant",
+      "phr": [
+        {"en": "represent the defendant", "zh": "为被告辩护"},
+        {"en": "the defendant pleaded not guilty", "zh": "被告申辩无罪"}
+      ],
+      "ex": [
+        {"en": "The defendant told the court that he had never met the victim.",
+         "zh": "被告向法庭陈述自己从未见过受害者。"}
+      ],
+      "note": "defendant 指被告，plaintiff 是原告，注意区分。"
+    },
+    {
+      "word": "arrange",
+      "phr": [
+        {"en": "arrange a meeting", "zh": "安排会议"},
+        {"en": "arrange for sb to do", "zh": "安排某人做"}
+      ],
+      "ex": [
+        {"en": "She arranged for a taxi to pick us up at the airport.",
+         "zh": "她安排了一辆出租车到机场接我们。"}
+      ],
+      "note": "arrange 常用 arrange for sb to do sth 结构。"
+    },
+    {
+      "word": "olive",
+      "phr": [
+        {"en": "olive oil", "zh": "橄榄油"},
+        {"en": "an olive branch", "zh": "橄榄枝"}
+      ],
+      "ex": [
+        {"en": "Cook the vegetables gently in olive oil for about ten minutes.",
+         "zh": "用橄榄油把蔬菜小火煮约十分钟。"}
+      ],
+      "note": "olive branch 常比喻伸出橄榄枝、表示和解。"
+    },
+    {
+      "word": "coarse",
+      "phr": [
+        {"en": "coarse cloth", "zh": "粗布"},
+        {"en": "coarse language", "zh": "粗俗的语言"}
+      ],
+      "ex": [
+        {"en": "The bag was made of coarse cloth that scratched my skin.",
+         "zh": "这个包用粗布做成，磨得我皮肤发疼。"}
+      ],
+      "note": "coarse 与 course 同音，指质地粗糙或言谈粗俗。"
+    },
+    {
+      "word": "exaggerate",
+      "phr": [
+        {"en": "exaggerate the importance", "zh": "夸大重要性"},
+        {"en": "grossly exaggerate", "zh": "严重夸大"}
+      ],
+      "ex": [
+        {"en": "The media often exaggerate the risks of travelling alone.",
+         "zh": "媒体常夸大独自旅行的风险。"}
+      ],
+      "note": "exaggerate 指夸大事实；名词 exaggeration 在口语中很常用。"
+    },
+    {
+      "word": "streamline",
+      "phr": [
+        {"en": "streamline the process", "zh": "简化流程"},
+        {"en": "streamline the structure", "zh": "精简机构"}
+      ],
+      "ex": [
+        {"en": "The new manager streamlined the approval process to save time.",
+         "zh": "新经理简化了审批流程以节省时间。"}
+      ],
+      "note": "streamline 原指使成流线型，引申为精简流程。"
+    },
+    {
+      "word": "imply",
+      "phr": [
+        {"en": "imply a connection", "zh": "暗示有联系"},
+        {"en": "imply consent", "zh": "意味着同意"}
+      ],
+      "ex": [
+        {"en": "His silence seemed to imply that he did not agree with the plan.",
+         "zh": "他的沉默似乎暗示他不同意这个计划。"}
+      ],
+      "note": "imply 是说话人暗示，infer 是听者推断，方向相反。"
+    },
+    {
+      "word": "offset",
+      "phr": [
+        {"en": "offset the cost", "zh": "抵消成本"},
+        {"en": "offset the loss", "zh": "弥补损失"}
+      ],
+      "ex": [
+        {"en": "Higher fuel prices were offset by lower taxes on vehicles.",
+         "zh": "油价上涨被车辆税收降低所抵消。"}
+      ],
+      "note": "offset 常用 be offset by 结构，过去式与原形同形。"
+    },
+    {
+      "word": "commitment",
+      "phr": [
+        {"en": "make a commitment", "zh": "作出承诺"},
+        {"en": "a commitment to", "zh": "对…的投入"}
+      ],
+      "ex": [
+        {"en": "The company has made a firm commitment to reduce its emissions.",
+         "zh": "公司已郑重承诺减少排放。"}
+      ],
+      "note": "commitment 后接 to 加名词或动名词；动词是 commit。"
+    },
+    {
+      "word": "cavity",
+      "phr": [
+        {"en": "a tooth cavity", "zh": "龋洞"},
+        {"en": "a cavity in the wall", "zh": "墙上的洞"}
+      ],
+      "ex": [
+        {"en": "The dentist found a small cavity in one of my back teeth.",
+         "zh": "牙医在我一颗后牙上发现了一个小龋洞。"}
+      ],
+      "note": "cavity 指体内或物体内的空腔，与 cave 同源。"
+    },
+    {
+      "word": "coward",
+      "phr": [
+        {"en": "call sb a coward", "zh": "说某人是胆小鬼"},
+        {"en": "a complete coward", "zh": "十足的懦夫"}
+      ],
+      "ex": [
+        {"en": "He called himself a coward for running away from the fight.",
+         "zh": "他因临阵脱逃而骂自己是胆小鬼。"}
+      ],
+      "note": "coward 指人，形容词 cowardly，抽象名词 cowardice。"
+    },
+    {
+      "word": "fossil",
+      "phr": [
+        {"en": "a fossil fuel", "zh": "化石燃料"},
+        {"en": "dinosaur fossils", "zh": "恐龙化石"}
+      ],
+      "ex": [
+        {"en": "The museum's collection includes fossils of plants and small animals.",
+         "zh": "该博物馆的藏品包括植物和小动物的化石。"}
+      ],
+      "note": "fossil fuel 指煤、石油、天然气；fossil 也比喻老顽固。"
+    },
+    {
+      "word": "poke",
+      "phr": [
+        {"en": "poke fun at", "zh": "取笑"},
+        {"en": "poke one's head out", "zh": "探出头"}
+      ],
+      "ex": [
+        {"en": "Don't poke the fire with a plastic stick; use the metal poker.",
+         "zh": "别用塑料棒捅火，要用金属火钳。"}
+      ],
+      "note": "poke fun at 意为拿…开玩笑，是常见短语。"
+    },
+    {
+      "word": "rejection",
+      "phr": [
+        {"en": "a rejection letter", "zh": "拒绝信"},
+        {"en": "fear of rejection", "zh": "害怕被拒绝"}
+      ],
+      "ex": [
+        {"en": "After several rejections, her novel was finally accepted by a small publisher.",
+         "zh": "被拒多次后，她的小说终于被一家小出版社接受。"}
+      ],
+      "note": "rejection 指被拒的结果，可数；动词是 reject。"
+    },
+    {
+      "word": "fixture",
+      "phr": [
+        {"en": "a light fixture", "zh": "灯具"},
+        {"en": "a permanent fixture", "zh": "固定不变的人或物"}
+      ],
+      "ex": [
+        {"en": "The old clock has become a familiar fixture in the school hall.",
+         "zh": "这座旧钟已成为学校礼堂里熟悉的一景。"}
+      ],
+      "note": "fixture 指固定安装的设备；体育里指已定的比赛。"
+    },
+    {
+      "word": "manufacture",
+      "phr": [
+        {"en": "manufacture goods", "zh": "制造商品"},
+        {"en": "the manufacture of", "zh": "…的生产"}
+      ],
+      "ex": [
+        {"en": "The factory manufactures components for several electric car companies.",
+         "zh": "这家工厂为几家电动汽车公司制造零部件。"}
+      ],
+      "note": "manufacture 多指机器大批量制造，比 make 正式。"
+    },
+    {
+      "word": "collision",
+      "phr": [
+        {"en": "a collision with", "zh": "与…相撞"},
+        {"en": "a head-on collision", "zh": "迎面相撞"}
+      ],
+      "ex": [
+        {"en": "The accident was caused by a collision between a bus and a van.",
+         "zh": "这起事故由一辆公交车与一辆货车相撞引起。"}
+      ],
+      "note": "collision 后接 with 或 between；动词是 collide。"
+    },
+    {
+      "word": "sequence",
+      "phr": [
+        {"en": "in sequence", "zh": "按顺序"},
+        {"en": "a sequence of events", "zh": "一连串事件"}
+      ],
+      "ex": [
+        {"en": "The photographs are arranged in the correct sequence on the wall.",
+         "zh": "墙上的照片按正确顺序排列。"}
+      ],
+      "note": "sequence 指先后次序；in sequence 表依次，不加 the。"
+    },
+    {
+      "word": "recruit",
+      "phr": [
+        {"en": "recruit staff", "zh": "招募员工"},
+        {"en": "recruit new members", "zh": "招募新成员"}
+      ],
+      "ex": [
+        {"en": "The firm plans to recruit fifty engineers next year.",
+         "zh": "这家公司计划明年招聘五十名工程师。"}
+      ],
+      "note": "recruit 用于招聘或招兵；名词 recruit 指新兵、新成员。"
+    },
+    {
+      "word": "provision",
+      "phr": [
+        {"en": "make provision for", "zh": "为…作准备"},
+        {"en": "a provision in the contract", "zh": "合同中的条款"}
+      ],
+      "ex": [
+        {"en": "The contract contains a provision that allows either side to withdraw.",
+         "zh": "合同含有一项条款，允许任一方退出。"}
+      ],
+      "note": "provision 表准备时不可数，表条款时可数。"
+    },
+    {
+      "word": "calorie",
+      "phr": [
+        {"en": "burn calories", "zh": "消耗热量"},
+        {"en": "a low-calorie diet", "zh": "低热量饮食"}
+      ],
+      "ex": [
+        {"en": "Running for half an hour burns about three hundred calories.",
+         "zh": "跑步半小时约消耗三百卡热量。"}
+      ],
+      "note": "口语中的 calorie 多指千卡，即大卡。"
+    },
+    {
+      "word": "slogan",
+      "phr": [
+        {"en": "an advertising slogan", "zh": "广告语"},
+        {"en": "a campaign slogan", "zh": "竞选口号"}
+      ],
+      "ex": [
+        {"en": "The slogan on the poster was simple and easy to remember.",
+         "zh": "海报上的口号简短易记。"}
+      ],
+      "note": "slogan 指宣传口号；motto 指个人或团体的座右铭。"
+    },
+    {
+      "word": "invariably",
+      "phr": [
+        {"en": "invariably late", "zh": "总是迟到"},
+        {"en": "almost invariably", "zh": "几乎总是"}
+      ],
+      "ex": [
+        {"en": "He is invariably the first to arrive and the last to leave.",
+         "zh": "他总是第一个到，最后一个走。"}
+      ],
+      "note": "invariably 相当于 always，语气更书面。"
+    },
+    {
+      "word": "commence",
+      "phr": [
+        {"en": "commence work", "zh": "开始工作"},
+        {"en": "commence with", "zh": "以…开始"}
+      ],
+      "ex": [
+        {"en": "The ceremony will commence at nine o'clock sharp.",
+         "zh": "典礼将于九点整开始。"}
+      ],
+      "note": "commence 比 begin 正式，多用于典礼、工程、诉讼。"
+    }
+  ]
+}

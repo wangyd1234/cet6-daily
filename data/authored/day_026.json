@@ -1,0 +1,365 @@
+{
+  "day": 26,
+  "words": [
+    {
+      "word": "casualty",
+      "phr": [
+        {"en": "heavy casualties", "zh": "重大伤亡"},
+        {"en": "casualty figures", "zh": "伤亡人数"}
+      ],
+      "ex": [
+        {"en": "The earthquake caused heavy casualties in the mountain villages.",
+         "zh": "地震在山区村庄造成重大伤亡。"}
+      ],
+      "note": "casualty 常用复数 casualties，指伤亡人员或牺牲者。"
+    },
+    {
+      "word": "gauge",
+      "phr": [
+        {"en": "a fuel gauge", "zh": "油量表"},
+        {"en": "gauge public opinion", "zh": "判断民意"}
+      ],
+      "ex": [
+        {"en": "It is hard to gauge public opinion from such a small sample.",
+         "zh": "仅凭这么小的样本很难判断民意。"}
+      ],
+      "note": "gauge 作动词意为「判断、估计」；美式也拼作 gage。"
+    },
+    {
+      "word": "oriental",
+      "phr": [
+        {"en": "oriental art", "zh": "东方艺术"},
+        {"en": "oriental culture", "zh": "东方文化"}
+      ],
+      "ex": [
+        {"en": "The museum has a fine collection of oriental art.",
+         "zh": "这家博物馆藏有一批精美的东方艺术品。"}
+      ],
+      "note": "oriental 现多指「东方文化的」；指人时宜改用 Asian。"
+    },
+    {
+      "word": "electrical",
+      "phr": [
+        {"en": "electrical equipment", "zh": "电气设备"},
+        {"en": "electrical engineering", "zh": "电气工程"}
+      ],
+      "ex": [
+        {"en": "All electrical equipment must be checked before use.",
+         "zh": "所有电气设备使用前都必须检查。"}
+      ],
+      "note": "electrical 修饰设备；electric 多修饰具体电器，如 fan。"
+    },
+    {
+      "word": "stall",
+      "phr": [
+        {"en": "stall for time", "zh": "拖延时间"},
+        {"en": "a market stall", "zh": "市场摊位"}
+      ],
+      "ex": [
+        {"en": "The negotiators stalled for time while waiting for new instructions.",
+         "zh": "谈判者拖延时间，等待新的指示。"}
+      ],
+      "note": "stall 指「(引擎)熄火」「拖延」；名词指「货摊」。"
+    },
+    {
+      "word": "protest",
+      "phr": [
+        {"en": "protest against", "zh": "抗议；反对"},
+        {"en": "a protest march", "zh": "抗议游行"}
+      ],
+      "ex": [
+        {"en": "Hundreds of workers protested against the plan to close the factory.",
+         "zh": "数百名工人抗议关闭工厂的计划。"}
+      ],
+      "note": "protest against/about 表「抗议某事」；名词重音在前。"
+    },
+    {
+      "word": "sensitive",
+      "phr": [
+        {"en": "be sensitive to", "zh": "对…敏感"},
+        {"en": "sensitive information", "zh": "敏感信息"}
+      ],
+      "ex": [
+        {"en": "Children are especially sensitive to changes in their parents' mood.",
+         "zh": "孩子对父母情绪的变化尤其敏感。"}
+      ],
+      "note": "be sensitive to 是固定搭配；sensible 意为「明智的」。"
+    },
+    {
+      "word": "classification",
+      "phr": [
+        {"en": "a classification system", "zh": "分类系统"},
+        {"en": "the classification of plants", "zh": "植物分类"}
+      ],
+      "ex": [
+        {"en": "The classification of these species has long puzzled biologists.",
+         "zh": "这些物种的分类长期令生物学家困惑。"}
+      ],
+      "note": "classification 源自 classify：classify A as B。"
+    },
+    {
+      "word": "brew",
+      "phr": [
+        {"en": "brew tea", "zh": "泡茶"},
+        {"en": "a storm is brewing", "zh": "暴风雨在酝酿"}
+      ],
+      "ex": [
+        {"en": "She brewed a fresh pot of tea for her guests.",
+         "zh": "她为客人新泡了一壶茶。"}
+      ],
+      "note": "brew 原指酿酒、泡茶，引申为「风暴、麻烦酝酿」。"
+    },
+    {
+      "word": "vacant",
+      "phr": [
+        {"en": "a vacant seat", "zh": "空座位"},
+        {"en": "a vacant position", "zh": "空缺职位"}
+      ],
+      "ex": [
+        {"en": "There were no vacant seats left in the hall.",
+         "zh": "大厅里已经没有空座位了。"}
+      ],
+      "note": "vacant 指「无人占用的」；empty 指「空的、无内容的」。"
+    },
+    {
+      "word": "menace",
+      "phr": [
+        {"en": "a menace to", "zh": "对…的威胁"},
+        {"en": "a public menace", "zh": "公害；社会威胁"}
+      ],
+      "ex": [
+        {"en": "Drunk drivers are a menace to everyone on the road.",
+         "zh": "醉酒司机威胁着路上每个人的安全。"}
+      ],
+      "note": "menace 常用 a menace to sb/sth；动词意为「威胁」。"
+    },
+    {
+      "word": "afford",
+      "phr": [
+        {"en": "afford to do sth", "zh": "负担得起做某事"},
+        {"en": "cannot afford", "zh": "负担不起"}
+      ],
+      "ex": [
+        {"en": "We cannot afford to waste any more time on this issue.",
+         "zh": "我们不能再在这个问题上浪费时间了。"}
+      ],
+      "note": "afford 多与 can、could 连用，后接名词或不定式。"
+    },
+    {
+      "word": "invalid",
+      "phr": [
+        {"en": "an invalid passport", "zh": "失效护照"},
+        {"en": "an invalid argument", "zh": "站不住脚的论点"}
+      ],
+      "ex": [
+        {"en": "Your ticket becomes invalid if you do not use it on the stated date.",
+         "zh": "车票若未在指定日期使用即失效。"}
+      ],
+      "note": "表「无效的」读 /ɪnˈvælɪd/；指病人时读 /ˈɪnvəlɪd/。"
+    },
+    {
+      "word": "curse",
+      "phr": [
+        {"en": "put a curse on sb", "zh": "诅咒某人"},
+        {"en": "be cursed with", "zh": "饱受…之苦"}
+      ],
+      "ex": [
+        {"en": "The team seems to be cursed with injuries this season.",
+         "zh": "本赛季这支队似乎总被伤病困扰。"}
+      ],
+      "note": "curse 可数：put a curse on sb；动词直接接宾语。"
+    },
+    {
+      "word": "legitimate",
+      "phr": [
+        {"en": "a legitimate concern", "zh": "合理的担忧"},
+        {"en": "legitimate business", "zh": "合法生意"}
+      ],
+      "ex": [
+        {"en": "Parents have legitimate concerns about the safety of online learning.",
+         "zh": "家长对线上学习的安全有合理的担忧。"}
+      ],
+      "note": "legitimate 兼指「合法的」与「合情合理的」。"
+    },
+    {
+      "word": "appease",
+      "phr": [
+        {"en": "appease public anger", "zh": "平息公众愤怒"},
+        {"en": "appease sb with sth", "zh": "用某物安抚某人"}
+      ],
+      "ex": [
+        {"en": "The government tried to appease the angry farmers with new subsidies.",
+         "zh": "政府试图用新的补贴安抚愤怒的农民。"}
+      ],
+      "note": "appease 常含「姑息」的贬义，注意语境；近义 pacify。"
+    },
+    {
+      "word": "sieve",
+      "phr": [
+        {"en": "pass through a sieve", "zh": "过筛"},
+        {"en": "sieve the flour", "zh": "筛面粉"}
+      ],
+      "ex": [
+        {"en": "Sieve the flour into a large bowl before adding the eggs.",
+         "zh": "加鸡蛋之前先把面粉筛进大碗里。"}
+      ],
+      "note": "sieve 作名词指「筛子」，作动词与 sift 同义。"
+    },
+    {
+      "word": "whereby",
+      "phr": [
+        {"en": "a system whereby", "zh": "凭此运作的制度"},
+        {"en": "an agreement whereby", "zh": "一项据此…的协议"}
+      ],
+      "ex": [
+        {"en": "They set up a scheme whereby students can borrow laptops for free.",
+         "zh": "他们设立了一个让学生免费借用笔记本电脑的方案。"}
+      ],
+      "note": "whereby 相当于 by which，多用于正式文体。"
+    },
+    {
+      "word": "evaluate",
+      "phr": [
+        {"en": "evaluate the performance", "zh": "评估表现"},
+        {"en": "evaluate the evidence", "zh": "评估证据"}
+      ],
+      "ex": [
+        {"en": "Teachers evaluate students' progress at the end of each term.",
+         "zh": "教师在每学期末评估学生的进步。"}
+      ],
+      "note": "evaluate 比 judge 正式；名词为 evaluation。"
+    },
+    {
+      "word": "status",
+      "phr": [
+        {"en": "social status", "zh": "社会地位"},
+        {"en": "marital status", "zh": "婚姻状况"}
+      ],
+      "ex": [
+        {"en": "Education is often seen as a way to improve social status.",
+         "zh": "教育常被视为提高社会地位的途径。"}
+      ],
+      "note": "常见搭配 social status、marital status；复数少用。"
+    },
+    {
+      "word": "machinery",
+      "phr": [
+        {"en": "heavy machinery", "zh": "重型机械"},
+        {"en": "the machinery of government", "zh": "政府机构"}
+      ],
+      "ex": [
+        {"en": "The factory has invested heavily in new machinery.",
+         "zh": "这家工厂在新型机械上投入巨大。"}
+      ],
+      "note": "machinery 是不可数集合名词，一件机器说 a machine。"
+    },
+    {
+      "word": "shield",
+      "phr": [
+        {"en": "shield sb from sth", "zh": "保护某人免受…"},
+        {"en": "a shield against", "zh": "抵御…的屏障"}
+      ],
+      "ex": [
+        {"en": "The high walls shield the garden from the cold north wind.",
+         "zh": "高墙使花园免受寒冷的北风侵袭。"}
+      ],
+      "note": "shield 常用 shield sb/sth from sth，from 不能省。"
+    },
+    {
+      "word": "skip",
+      "phr": [
+        {"en": "skip a meal", "zh": "少吃一顿饭"},
+        {"en": "skip class", "zh": "逃课"}
+      ],
+      "ex": [
+        {"en": "He often skips breakfast when he is in a hurry.",
+         "zh": "他赶时间时常常不吃早饭。"}
+      ],
+      "note": "skip 指「跳过、略过」；skip class 是逃课。"
+    },
+    {
+      "word": "instantaneous",
+      "phr": [
+        {"en": "an instantaneous response", "zh": "即时反应"},
+        {"en": "an instantaneous effect", "zh": "立竿见影的效果"}
+      ],
+      "ex": [
+        {"en": "The new system gives an almost instantaneous response to every request.",
+         "zh": "新系统对每个请求几乎都能即时响应。"}
+      ],
+      "note": "instantaneous 强调「瞬间」，语气比 immediate 强。"
+    },
+    {
+      "word": "phenomenon",
+      "phr": [
+        {"en": "a natural phenomenon", "zh": "自然现象"},
+        {"en": "a social phenomenon", "zh": "社会现象"}
+      ],
+      "ex": [
+        {"en": "Migration to big cities is a social phenomenon in many countries.",
+         "zh": "向大城市迁移是许多国家的社会现象。"}
+      ],
+      "note": "复数为 phenomena；也可指「非凡的人或事」。"
+    },
+    {
+      "word": "quarterly",
+      "phr": [
+        {"en": "a quarterly report", "zh": "季度报告"},
+        {"en": "pay quarterly", "zh": "按季度付款"}
+      ],
+      "ex": [
+        {"en": "The company publishes a quarterly report on its sales.",
+         "zh": "公司每季度发布一份销售报告。"}
+      ],
+      "note": "quarterly 由 quarter 加 -ly 构成，可作形容词或副词。"
+    },
+    {
+      "word": "notify",
+      "phr": [
+        {"en": "notify sb of sth", "zh": "通知某人某事"},
+        {"en": "be notified in advance", "zh": "提前得到通知"}
+      ],
+      "ex": [
+        {"en": "Please notify the office of any change of address.",
+         "zh": "地址如有变动，请通知办公室。"}
+      ],
+      "note": "notify 常用 notify sb of sth 或 that 从句。"
+    },
+    {
+      "word": "bibliography",
+      "phr": [
+        {"en": "compile a bibliography", "zh": "编写参考书目"},
+        {"en": "an annotated bibliography", "zh": "附注释的书目"}
+      ],
+      "ex": [
+        {"en": "Every research paper should include a bibliography at the end.",
+         "zh": "每篇研究论文末尾都应附参考书目。"}
+      ],
+      "note": "bibliography 指参考书目；biography 是「传记」。"
+    },
+    {
+      "word": "stream",
+      "phr": [
+        {"en": "a stream of", "zh": "一连串；一股"},
+        {"en": "a mountain stream", "zh": "山间小溪"}
+      ],
+      "ex": [
+        {"en": "A steady stream of visitors came to see the exhibition.",
+         "zh": "参观展览的人络绎不绝。"}
+      ],
+      "note": "a stream of 表「一连串」，如 a stream of complaints。"
+    },
+    {
+      "word": "recur",
+      "phr": [
+        {"en": "a recurring problem", "zh": "反复出现的问题"},
+        {"en": "a recurring theme", "zh": "反复出现的主题"}
+      ],
+      "ex": [
+        {"en": "The same problem recurred a few months later.",
+         "zh": "几个月后同样的问题又出现了。"}
+      ],
+      "note": "recur 的形容词 recurring 常修饰 problem、theme。"
+    }
+  ]
+}

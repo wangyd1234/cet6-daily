@@ -1,0 +1,246 @@
+{
+ "day": 71,
+ "date": null,
+ "words": [
+  {
+   "id": 2101,
+   "word": "texture",
+   "uk": "/ˈtekstʃə/",
+   "us": "/ˈtɛkstʃɚ/",
+   "pos": "n.",
+   "cn": "质地；结构"
+  },
+  {
+   "id": 2102,
+   "word": "closet",
+   "uk": "/ˈklɒzɪt/",
+   "us": "/ˈklɑzət/",
+   "pos": "adj.,n.,vt.",
+   "cn": "私下的；隐蔽的；橱；壁橱；把…引进密室会谈"
+  },
+  {
+   "id": 2103,
+   "word": "speculate",
+   "uk": "/ˈspekjuleɪt/",
+   "us": "/ˈspɛkjəˈlet/",
+   "pos": "v.",
+   "cn": "推测；推断；投机；做投机买卖"
+  },
+  {
+   "id": 2104,
+   "word": "dismantle",
+   "uk": "/dɪsˈmæntl/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "拆开；拆卸"
+  },
+  {
+   "id": 2105,
+   "word": "monster",
+   "uk": "/ˈmɒnstə/",
+   "us": "/ˈmɑnstɚ/",
+   "pos": "adj.,n.",
+   "cn": "大的；庞大的；怪物；极其残酷的人；巨人；巨兽；巨大的东西"
+  },
+  {
+   "id": 2106,
+   "word": "bud",
+   "uk": "/bʌd/",
+   "us": "",
+   "pos": "vi.,n.",
+   "cn": "发芽；萌芽；花蕾；叶芽"
+  },
+  {
+   "id": 2107,
+   "word": "confirm",
+   "uk": "/kənˈfɜːm/",
+   "us": "/kənˈfɝm/",
+   "pos": "vt.",
+   "cn": "证实；肯定；确认；批准"
+  },
+  {
+   "id": 2108,
+   "word": "bug",
+   "uk": "/bʌg/",
+   "us": "/bʌɡ/",
+   "pos": "n.,vt.",
+   "cn": "虫子；小病；故障；缺陷；窃听器；烦扰；纠缠；在…装窃听器"
+  },
+  {
+   "id": 2109,
+   "word": "prescient",
+   "uk": "/ˈpresiənt/",
+   "us": "/ˈprɛsɪənt/",
+   "pos": "adj.",
+   "cn": "预知的；预见的"
+  },
+  {
+   "id": 2110,
+   "word": "acquaint",
+   "uk": "/əˈkweɪnt/",
+   "us": "/əˈkwent/",
+   "pos": "vt.",
+   "cn": "使认识；使了解；使熟悉"
+  },
+  {
+   "id": 2111,
+   "word": "elastic",
+   "uk": "/ɪˈlæstɪk/",
+   "us": "",
+   "pos": "adj.,n.",
+   "cn": "有弹性的；灵活的；松紧带"
+  },
+  {
+   "id": 2112,
+   "word": "consequent",
+   "uk": "/ˈkɒnsɪkwənt/",
+   "us": "/ˈkɑnsəkwənt/",
+   "pos": "adj.",
+   "cn": "作为结果的；随之发生的"
+  },
+  {
+   "id": 2113,
+   "word": "vast",
+   "uk": "/vɑːst/",
+   "us": "/væst/",
+   "pos": "adj.",
+   "cn": "巨大的；大量的；浩瀚的"
+  },
+  {
+   "id": 2114,
+   "word": "intervene",
+   "uk": "/ˌɪntəˈviːn/",
+   "us": "/,ɪntɚˈvin/",
+   "pos": "vi.",
+   "cn": "干涉；干预；干扰；阻挠"
+  },
+  {
+   "id": 2115,
+   "word": "symbol",
+   "uk": "/ˈsɪmbl/",
+   "us": "",
+   "pos": "n.",
+   "cn": "象征；符号；标志"
+  },
+  {
+   "id": 2116,
+   "word": "ignite",
+   "uk": "/ɪgˈnaɪt/",
+   "us": "/ɪɡˈnaɪt/",
+   "pos": "vi.,vt.",
+   "cn": "着火；点燃；引发"
+  },
+  {
+   "id": 2117,
+   "word": "commercial",
+   "uk": "/kəˈmɜːʃl/",
+   "us": "/kəˈmɝʃəl/",
+   "pos": "adj.",
+   "cn": "商业的；商务的；商品化的；商业性的"
+  },
+  {
+   "id": 2118,
+   "word": "revelation",
+   "uk": "/ˌrevəˈleɪʃn/",
+   "us": "/ˈrɛvəˈleʃən/",
+   "pos": "n.",
+   "cn": "被提示的真相；新发现；揭示；透露；显示"
+  },
+  {
+   "id": 2119,
+   "word": "available",
+   "uk": "/əˈveɪləbl/",
+   "us": "/əˈveləbl/",
+   "pos": "adj.",
+   "cn": "现成可使用的；通用的；可取的；联系的；可得到的"
+  },
+  {
+   "id": 2120,
+   "word": "innumerable",
+   "uk": "/ɪˈnjuːmərəbl/",
+   "us": "/ɪˈnʊmərəbl/",
+   "pos": "adj.",
+   "cn": "无数的；数不清的"
+  },
+  {
+   "id": 2121,
+   "word": "advocate",
+   "uk": "/ˈædvəkeɪt；-ət/",
+   "us": "/ˈædvəkeɪt；-et/",
+   "pos": "vt.,n.",
+   "cn": "拥护；提倡；主张；拥护者；提倡者；辩护者；律师"
+  },
+  {
+   "id": 2122,
+   "word": "confine",
+   "uk": "/kənˈfaɪn/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "限制；使局限；使不外出；禁闭"
+  },
+  {
+   "id": 2123,
+   "word": "quest",
+   "uk": "/kwest/",
+   "us": "/kwɛst/",
+   "pos": "n.",
+   "cn": "寻找；搜索；追求"
+  },
+  {
+   "id": 2124,
+   "word": "frequency",
+   "uk": "/ˈfriːkwənsi/",
+   "us": "/ˈfrikwənsi/",
+   "pos": "n.",
+   "cn": "屡次；次数；频率；经常发生"
+  },
+  {
+   "id": 2125,
+   "word": "elicit",
+   "uk": "/iˈlɪsɪt/",
+   "us": "/ɪˈlɪsɪt/",
+   "pos": "vt.",
+   "cn": "诱出；探出"
+  },
+  {
+   "id": 2126,
+   "word": "relegate",
+   "uk": "/ˈrelɪgeɪt/",
+   "us": "/ˈrɛlɪɡet/",
+   "pos": "vt.",
+   "cn": "使降位；使降级；把…委托给"
+  },
+  {
+   "id": 2127,
+   "word": "trivial",
+   "uk": "/ˈtrɪviəl/",
+   "us": "/ˈtrɪvɪəl/",
+   "pos": "adj.",
+   "cn": "琐碎的；不重要的"
+  },
+  {
+   "id": 2128,
+   "word": "burial",
+   "uk": "/ˈberiəl/",
+   "us": "/ˈbɛrɪəl/",
+   "pos": "n.",
+   "cn": "葬；掩埋；葬礼"
+  },
+  {
+   "id": 2129,
+   "word": "luggage",
+   "uk": "/ˈlʌgɪdʒ/",
+   "us": "/ˈlʌɡɪdʒ/",
+   "pos": "n.",
+   "cn": "行李"
+  },
+  {
+   "id": 2130,
+   "word": "drawback",
+   "uk": "/ˈdrɔːbæk/",
+   "us": "/ˈdrɔbæk/",
+   "pos": "n.",
+   "cn": "缺点；欠缺；不利条件"
+  }
+ ]
+}

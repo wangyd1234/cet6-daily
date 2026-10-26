@@ -1,0 +1,365 @@
+{
+  "day": 18,
+  "words": [
+    {
+      "word": "consistent",
+      "phr": [
+        {"en": "consistent with", "zh": "与…一致；符合"},
+        {"en": "a consistent policy", "zh": "一贯的政策"}
+      ],
+      "ex": [
+        {"en": "His story was consistent with the facts, so the police believed him.",
+         "zh": "他的说法与事实相符，所以警方相信了他。"}
+      ],
+      "note": "consistent with 表「与…相符」，in 表示「在…方面」。"
+    },
+    {
+      "word": "dole",
+      "phr": [
+        {"en": "on the dole", "zh": "靠领救济金生活"},
+        {"en": "dole out", "zh": "发放；分发"}
+      ],
+      "ex": [
+        {"en": "After losing his job, he was on the dole for almost a year.",
+         "zh": "失业后，他靠领救济金生活了近一年。"}
+      ],
+      "note": "dole out 指少量分发钱物；on the dole 是英式口语「领失业救济」。"
+    },
+    {
+      "word": "reverse",
+      "phr": [
+        {"en": "in reverse", "zh": "向相反方向；反过来"},
+        {"en": "reverse the trend", "zh": "扭转趋势"}
+      ],
+      "ex": [
+        {"en": "The government hopes to reverse the trend of falling birth rates this year.",
+         "zh": "政府希望今年扭转出生率下降的趋势。"}
+      ],
+      "note": "in reverse 表「反向地」；reverse a decision 指撤销一项决定。"
+    },
+    {
+      "word": "barren",
+      "phr": [
+        {"en": "barren land", "zh": "贫瘠的土地"},
+        {"en": "a barren landscape", "zh": "荒芜的景致"}
+      ],
+      "ex": [
+        {"en": "Nothing grows on this barren land, and the farmers have moved to the city.",
+         "zh": "这片贫瘠的土地上什么也长不出来，农民们已迁往城市。"}
+      ],
+      "note": "barren 指土地贫瘠或徒劳无果；bare 是「光秃的」，两词勿混。"
+    },
+    {
+      "word": "eternal",
+      "phr": [
+        {"en": "eternal love", "zh": "永恒的爱"},
+        {"en": "an eternal truth", "zh": "永恒的真理"}
+      ],
+      "ex": [
+        {"en": "The poem describes love as an eternal force that outlasts everything else.",
+         "zh": "这首诗把爱描述为超越一切、永恒的力量。"}
+      ],
+      "note": "eternal 强调无始无终；permanent 侧重「非临时的、长期不变」。"
+    },
+    {
+      "word": "permanent",
+      "phr": [
+        {"en": "permanent residence", "zh": "永久居留"},
+        {"en": "a permanent job", "zh": "固定工作"}
+      ],
+      "ex": [
+        {"en": "She finally found a permanent job after working on short contracts for years.",
+         "zh": "做了几年短期合同工后，她终于找到一份固定工作。"}
+      ],
+      "note": "反义词为 temporary；permanent address 指永久住址。"
+    },
+    {
+      "word": "foster",
+      "phr": [
+        {"en": "foster a child", "zh": "收养孩子"},
+        {"en": "foster cooperation", "zh": "促进合作"}
+      ],
+      "ex": [
+        {"en": "The program aims to foster cooperation between local schools and businesses.",
+         "zh": "该项目旨在促进当地学校与企业之间的合作。"}
+      ],
+      "note": "foster 作动词多表「培养、促进」；foster parents 指养父母。"
+    },
+    {
+      "word": "barely",
+      "phr": [
+        {"en": "barely enough", "zh": "勉强够"},
+        {"en": "barely visible", "zh": "几乎看不见"}
+      ],
+      "ex": [
+        {"en": "We had barely enough money to pay the rent that month.",
+         "zh": "那个月我们的钱勉强够付房租。"}
+      ],
+      "note": "barely 含否定意味，barely enough 是「勉强够」，不是「足够」。"
+    },
+    {
+      "word": "prevalent",
+      "phr": [
+        {"en": "prevalent among", "zh": "在…中普遍存在"},
+        {"en": "increasingly prevalent", "zh": "日益普遍"}
+      ],
+      "ex": [
+        {"en": "This belief is still prevalent among older members of the community.",
+         "zh": "这种看法在社区年长者中仍然普遍。"}
+      ],
+      "note": "prevalent 常与 among、in 连用；比 common 更强调「广泛存在」。"
+    },
+    {
+      "word": "cling",
+      "phr": [
+        {"en": "cling to the past", "zh": "留恋过去"},
+        {"en": "cling to hope", "zh": "紧抱希望不放"}
+      ],
+      "ex": [
+        {"en": "The little boy clings to his mother's hand whenever the street is busy.",
+         "zh": "街上人多时，小男孩总是紧紧抓着母亲的手。"}
+      ],
+      "note": "cling 的过去式和过去分词为 clung；cling to 可接具体物或抽象之物。"
+    },
+    {
+      "word": "incidence",
+      "phr": [
+        {"en": "the incidence of", "zh": "…的发生率"},
+        {"en": "a high incidence", "zh": "高发生率"}
+      ],
+      "ex": [
+        {"en": "The incidence of skin cancer has risen sharply in recent decades.",
+         "zh": "近几十年来皮肤癌的发生率急剧上升。"}
+      ],
+      "note": "incidence 指疾病等的发生频率，与 incident（事件）不同。"
+    },
+    {
+      "word": "clip",
+      "phr": [
+        {"en": "a paper clip", "zh": "回形针"},
+        {"en": "a video clip", "zh": "视频片段"}
+      ],
+      "ex": [
+        {"en": "He fastened the pages together with a paper clip before handing them in.",
+         "zh": "交之前他用回形针把这几页别在一起。"}
+      ],
+      "note": "clip 兼指「夹子」和「片段」；video clip 是常见搭配。"
+    },
+    {
+      "word": "beam",
+      "phr": [
+        {"en": "a beam of light", "zh": "一束光"},
+        {"en": "beam with pride", "zh": "满脸自豪"}
+      ],
+      "ex": [
+        {"en": "A narrow beam of light came through the hole in the roof.",
+         "zh": "一束窄光从屋顶的洞中照了进来。"}
+      ],
+      "note": "beam 指光束或房屋横梁；beam with pride 是「满脸自豪」。"
+    },
+    {
+      "word": "compact",
+      "phr": [
+        {"en": "a compact car", "zh": "小型汽车"},
+        {"en": "a compact camera", "zh": "小巧的相机"}
+      ],
+      "ex": [
+        {"en": "This compact camera fits easily into a coat pocket and takes sharp photos.",
+         "zh": "这款小巧的相机能轻松放进外套口袋，拍出的照片很清晰。"}
+      ],
+      "note": "compact 表「紧凑、小巧」；作名词时重音前移，指化妆粉盒或契约。"
+    },
+    {
+      "word": "alliance",
+      "phr": [
+        {"en": "form an alliance", "zh": "结成联盟"},
+        {"en": "in alliance with", "zh": "与…联合"}
+      ],
+      "ex": [
+        {"en": "The two parties formed an alliance to win the coming election.",
+         "zh": "两党结成联盟，以赢得即将到来的选举。"}
+      ],
+      "note": "常与 form、enter into 搭配；in alliance with 表与…联合。"
+    },
+    {
+      "word": "invaluable",
+      "phr": [
+        {"en": "invaluable advice", "zh": "宝贵的建议"},
+        {"en": "invaluable experience", "zh": "宝贵的经验"}
+      ],
+      "ex": [
+        {"en": "Her advice was invaluable when I was preparing for the interview.",
+         "zh": "我准备面试时，她的建议非常宝贵。"}
+      ],
+      "note": "invaluable 是「极宝贵」而非「无价值」，此处 in- 不表否定。"
+    },
+    {
+      "word": "fiction",
+      "phr": [
+        {"en": "science fiction", "zh": "科幻小说"},
+        {"en": "a work of fiction", "zh": "虚构作品"}
+      ],
+      "ex": [
+        {"en": "He reads science fiction every night before going to sleep.",
+         "zh": "他每晚睡前都读科幻小说。"}
+      ],
+      "note": "fiction 指虚构小说，与 non-fiction（纪实作品）相对。"
+    },
+    {
+      "word": "doom",
+      "phr": [
+        {"en": "be doomed to failure", "zh": "注定失败"},
+        {"en": "doom and gloom", "zh": "悲观论调"}
+      ],
+      "ex": [
+        {"en": "Without new investment, the project seems doomed to failure.",
+         "zh": "没有新的投资，这个项目似乎注定要失败。"}
+      ],
+      "note": "be doomed to 后接名词或动词原形；doom and gloom 指悲观论调。"
+    },
+    {
+      "word": "cucumber",
+      "phr": [
+        {"en": "as cool as a cucumber", "zh": "镇定自若"},
+        {"en": "a slice of cucumber", "zh": "一片黄瓜"}
+      ],
+      "ex": [
+        {"en": "She stayed as cool as a cucumber during the whole interview.",
+         "zh": "整个面试过程中她镇定自若。"}
+      ],
+      "note": "as cool as a cucumber 是习语，指「十分镇定」。"
+    },
+    {
+      "word": "aviation",
+      "phr": [
+        {"en": "the aviation industry", "zh": "航空业"},
+        {"en": "civil aviation", "zh": "民用航空"}
+      ],
+      "ex": [
+        {"en": "The aviation industry has recovered faster than many experts expected.",
+         "zh": "航空业的复苏比许多专家预想的更快。"}
+      ],
+      "note": "aviation 源自拉丁语 avis（鸟），多用于航空业、民航等正式语境。"
+    },
+    {
+      "word": "pessimistic",
+      "phr": [
+        {"en": "pessimistic about", "zh": "对…悲观"},
+        {"en": "a pessimistic view", "zh": "悲观的看法"}
+      ],
+      "ex": [
+        {"en": "Economists are pessimistic about the chances of a quick recovery.",
+         "zh": "经济学家对经济迅速复苏的可能性持悲观态度。"}
+      ],
+      "note": "pessimistic 常与 about 连用，反义词为 optimistic。"
+    },
+    {
+      "word": "denote",
+      "phr": [
+        {"en": "denote the presence of", "zh": "表示…的存在"},
+        {"en": "denote the beginning of", "zh": "标志着…的开始"}
+      ],
+      "ex": [
+        {"en": "In this chart, a red line denotes the level of air pollution.",
+         "zh": "在这张图中，红线表示空气污染的水平。"}
+      ],
+      "note": "denote 多用于书面语表「标示、代表」，与 indicate 近义。"
+    },
+    {
+      "word": "emphasis",
+      "phr": [
+        {"en": "place emphasis on", "zh": "强调；重视"},
+        {"en": "with emphasis", "zh": "强调地"}
+      ],
+      "ex": [
+        {"en": "The report places great emphasis on the need for cleaner energy.",
+         "zh": "这份报告高度重视对清洁能源的需求。"}
+      ],
+      "note": "搭配 place/lay emphasis on；emphasize 是其动词形式。"
+    },
+    {
+      "word": "interrupt",
+      "phr": [
+        {"en": "interrupt a conversation", "zh": "打断谈话"},
+        {"en": "be interrupted by", "zh": "被…打断"}
+      ],
+      "ex": [
+        {"en": "Sorry to interrupt, but the manager needs to speak with you now.",
+         "zh": "抱歉打扰一下，经理现在需要跟你谈谈。"}
+      ],
+      "note": "interrupt 指打断正在进行的言行；disturb 侧重打扰、妨碍。"
+    },
+    {
+      "word": "propagate",
+      "phr": [
+        {"en": "propagate ideas", "zh": "传播思想"},
+        {"en": "propagate information", "zh": "传播信息"}
+      ],
+      "ex": [
+        {"en": "Social media can propagate false information faster than any newspaper.",
+         "zh": "社交媒体传播虚假信息比任何报纸都快。"}
+      ],
+      "note": "propagate 本义指植物繁殖，引申为思想、信息的传播。"
+    },
+    {
+      "word": "feasible",
+      "phr": [
+        {"en": "a feasible plan", "zh": "可行的计划"},
+        {"en": "technically feasible", "zh": "技术上可行"}
+      ],
+      "ex": [
+        {"en": "Engineers are still checking whether the design is technically feasible.",
+         "zh": "工程师们仍在检验这一设计在技术上是否可行。"}
+      ],
+      "note": "常修饰 plan、scheme、proposal；名词为 feasibility。"
+    },
+    {
+      "word": "majesty",
+      "phr": [
+        {"en": "the majesty of", "zh": "…的雄伟壮丽"},
+        {"en": "Her Majesty", "zh": "女王陛下"}
+      ],
+      "ex": [
+        {"en": "Tourists come from everywhere to admire the majesty of these mountains.",
+         "zh": "游客从各地前来欣赏这些群山的雄伟。"}
+      ],
+      "note": "当面称呼国王或女王用 Your Majesty，回指用 His/Her Majesty。"
+    },
+    {
+      "word": "flatter",
+      "phr": [
+        {"en": "flatter oneself", "zh": "自以为是；自夸"},
+        {"en": "be flattered by", "zh": "因…感到荣幸"}
+      ],
+      "ex": [
+        {"en": "I was flattered by the invitation to speak at the ceremony.",
+         "zh": "受邀在典礼上讲话，我感到很荣幸。"}
+      ],
+      "note": "flatter 指「奉承」，也表「使感到荣幸」；由 flat 加 -er 构成。"
+    },
+    {
+      "word": "potential",
+      "phr": [
+        {"en": "reach one's potential", "zh": "发挥潜力"},
+        {"en": "potential customers", "zh": "潜在客户"}
+      ],
+      "ex": [
+        {"en": "The company is looking for new ways to reach potential customers abroad.",
+         "zh": "公司正在寻找接触海外潜在客户的新途径。"}
+      ],
+      "note": "potential 作名词时不可数，常与 realize、reach 搭配表「发挥潜力」。"
+    },
+    {
+      "word": "necessitate",
+      "phr": [
+        {"en": "necessitate a change", "zh": "需要做出改变"},
+        {"en": "necessitate further study", "zh": "需要进一步研究"}
+      ],
+      "ex": [
+        {"en": "The delay will necessitate a change in our travel plans.",
+         "zh": "这一延误将使我们不得不调整旅行计划。"}
+      ],
+      "note": "necessitate 后接名词或动名词；比 need 更正式，多用于书面语。"
+    }
+  ]
+}

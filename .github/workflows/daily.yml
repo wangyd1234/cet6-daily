@@ -1,0 +1,58 @@
+name: 六级词汇每日推送
+
+on:
+  schedule:
+    # UTC 01:00 = 北京时间 09:00（GitHub 定时可能有 5~20 分钟排队延迟）
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+    inputs:
+      day:
+        description: "强制推送第 N 天（留空=按日期自动）"
+        required: false
+        type: string
+      dry_run:
+        description: "只渲染不发送（true/false）"
+        required: false
+        default: "false"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cet6-daily-push
+  cancel-in-progress: false
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 推送到微信
+        env:
+          SCT_SENDKEY: ${{ secrets.SCT_SENDKEY }}
+          FORCE_DAY: ${{ inputs.day }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          set -e
+          ARGS=""
+          if [ -n "${FORCE_DAY}" ]; then ARGS="$ARGS --day ${FORCE_DAY}"; fi
+          if [ "${DRY_RUN}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          echo "python3 scripts/daily.py $ARGS"
+          python3 scripts/daily.py $ARGS
+
+      - name: 归档回仓库（顺带让仓库保持活跃，避免定时任务被自动停用）
+        if: always()
+        run: |
+          git config user.name "cet6-bot"
+          git config user.email "cet6-bot@users.noreply.github.com"
+          git add -A out 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "没有新的归档"
+          else
+            git commit -m "archive: $(TZ=Asia/Shanghai date +%F)"
+            git push || echo "::warning::push 失败（不影响推送）"
+          fi

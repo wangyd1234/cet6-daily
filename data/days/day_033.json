@@ -1,0 +1,246 @@
+{
+ "day": 33,
+ "date": null,
+ "words": [
+  {
+   "id": 961,
+   "word": "bureaucracy",
+   "uk": "/bjuəˈrɒkrəsi/",
+   "us": "/bjʊˈrɑkrəsi/",
+   "pos": "n.",
+   "cn": "官僚主义；官僚作风；官僚机构；官僚制度；官僚"
+  },
+  {
+   "id": 962,
+   "word": "household",
+   "uk": "/ˈhaushəuld/",
+   "us": "/ˈhaʊshold/",
+   "pos": "adj.,n.",
+   "cn": "家庭的；家喻户晓的；家庭；户；家务"
+  },
+  {
+   "id": 963,
+   "word": "glide",
+   "uk": "/glaɪd/",
+   "us": "/ɡlaɪd/",
+   "pos": "n.",
+   "cn": "滑行；滑动；滑翔"
+  },
+  {
+   "id": 964,
+   "word": "adverse",
+   "uk": "/ˈædvɜːs/",
+   "us": "/ædˈvɚs,ˈædˌvɚs/",
+   "pos": "adj.",
+   "cn": "不利的；有害的"
+  },
+  {
+   "id": 965,
+   "word": "bulletin",
+   "uk": "/ˈbulətɪn/",
+   "us": "/ˈbʊlətɪn/",
+   "pos": "n.",
+   "cn": "简明新闻；最新消息；公告；布告；公报；学报；期刊"
+  },
+  {
+   "id": 966,
+   "word": "devote",
+   "uk": "/dɪˈvəut/",
+   "us": "/dɪˈvot/",
+   "pos": "vt.",
+   "cn": "将…奉献给；把…专用"
+  },
+  {
+   "id": 967,
+   "word": "junction",
+   "uk": "/ˈdʒʌŋkʃn/",
+   "us": "/ˈdʒʌŋkʃən/",
+   "pos": "n.",
+   "cn": "联结点；交叉点；枢纽"
+  },
+  {
+   "id": 968,
+   "word": "crumble",
+   "uk": "/ˈkrʌmbl/",
+   "us": "",
+   "pos": "vi.,vt.",
+   "cn": "崩溃；瓦解；弄碎"
+  },
+  {
+   "id": 969,
+   "word": "agent",
+   "uk": "/ˈeɪdʒənt/",
+   "us": "/ˈedʒənt/",
+   "pos": "n.",
+   "cn": "代理人；代理商；政府代表；动因；原因；剂"
+  },
+  {
+   "id": 970,
+   "word": "abortion",
+   "uk": "/əˈbɔːʃn/",
+   "us": "/əˈbɔrʃən/",
+   "pos": "n.",
+   "cn": "流产；堕胎"
+  },
+  {
+   "id": 971,
+   "word": "salvation",
+   "uk": "/sælˈveɪʃn/",
+   "us": "/sælˈveʃən/",
+   "pos": "n.",
+   "cn": "拯救；解救；解救措施"
+  },
+  {
+   "id": 972,
+   "word": "instinct",
+   "uk": "/ˈɪnstɪŋkt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "本能；直觉；生性"
+  },
+  {
+   "id": 973,
+   "word": "cannon",
+   "uk": "/ˈkænən/",
+   "us": "",
+   "pos": "n.",
+   "cn": "加农炮；大炮；火炮"
+  },
+  {
+   "id": 974,
+   "word": "invest",
+   "uk": "/ɪnˈvest/",
+   "us": "/ɪnˈvɛst/",
+   "pos": "v.",
+   "cn": "投资；投入；授予"
+  },
+  {
+   "id": 975,
+   "word": "reputation",
+   "uk": "/ˌrepjuˈteɪʃn/",
+   "us": "/,rɛpjuˈteʃən/",
+   "pos": "n.",
+   "cn": "名誉；名气；名声"
+  },
+  {
+   "id": 976,
+   "word": "project",
+   "uk": "/prəˈdʒekt;ˈprɒdʒekt/",
+   "us": "/prəˈdʒɛkt;prɑdʒɛkt/",
+   "pos": "v.,n.",
+   "cn": "伸出；投射；放映；方案；计划；课题；项目；工程"
+  },
+  {
+   "id": 977,
+   "word": "shrug",
+   "uk": "/ʃrʌg/",
+   "us": "/ʃrʌɡ/",
+   "pos": "v.,n.",
+   "cn": "耸肩"
+  },
+  {
+   "id": 978,
+   "word": "arena",
+   "uk": "/əˈriːnə/",
+   "us": "/əˈrinə/",
+   "pos": "n.",
+   "cn": "表演场地；竞技场；活动场所"
+  },
+  {
+   "id": 979,
+   "word": "independence",
+   "uk": "/ˌɪndɪˈpendəns/",
+   "us": "/,ɪndɪˈpɛndəns/",
+   "pos": "n.",
+   "cn": "独立；自主；自立"
+  },
+  {
+   "id": 980,
+   "word": "shrub",
+   "uk": "/ʃrʌb/",
+   "us": "",
+   "pos": "n.",
+   "cn": "灌木"
+  },
+  {
+   "id": 981,
+   "word": "presentation",
+   "uk": "/ˌpreznˈteɪʃn/",
+   "us": "/,prizɛnˈteʃən/",
+   "pos": "n.",
+   "cn": "提供；显示；外观；图像；授予；赠送；报告；介绍；表演"
+  },
+  {
+   "id": 982,
+   "word": "nominate",
+   "uk": "/ˈnɒmɪneɪt/",
+   "us": "/ˈnɑmɪnet/",
+   "pos": "vt.",
+   "cn": "提名；任命；推荐；指定"
+  },
+  {
+   "id": 983,
+   "word": "loom",
+   "uk": "/luːm/",
+   "us": "/lum/",
+   "pos": "vi.,n.",
+   "cn": "阴森地逼近；隐现；即将来临；织布机"
+  },
+  {
+   "id": 984,
+   "word": "stationary",
+   "uk": "/ˈsteɪʃənri/",
+   "us": "/ˈsteʃənɛri/",
+   "pos": "adj.",
+   "cn": "固定的；静止不动的"
+  },
+  {
+   "id": 985,
+   "word": "restrain",
+   "uk": "/rɪˈstreɪn/",
+   "us": "/rɪˈstren/",
+   "pos": "vt.",
+   "cn": "阻止；控制；抑制；遏制"
+  },
+  {
+   "id": 986,
+   "word": "awkward",
+   "uk": "/ˈɔːkwəd/",
+   "us": "/ˈɔkwɚd/",
+   "pos": "adj.",
+   "cn": "笨拙的；尴尬的；难操纵的；使用不便的；不灵巧的"
+  },
+  {
+   "id": 987,
+   "word": "ruin",
+   "uk": "/ˈruːɪn/",
+   "us": "/ˈruɪn/",
+   "pos": "v.,n.",
+   "cn": "毁坏；毁灭；废墟"
+  },
+  {
+   "id": 988,
+   "word": "beforehand",
+   "uk": "/bɪˈfɔːhænd/",
+   "us": "/bɪˈfɔrhænd/",
+   "pos": "adv.",
+   "cn": "预先；事先"
+  },
+  {
+   "id": 989,
+   "word": "formidable",
+   "uk": "/ˈfɔːmɪdəbl/",
+   "us": "/ˈfɔrmɪdəbl/",
+   "pos": "adj.",
+   "cn": "可怕的；令人敬畏的；难以克服的；难对付的"
+  },
+  {
+   "id": 990,
+   "word": "impatient",
+   "uk": "/ɪmˈpeɪʃnt/",
+   "us": "/ɪmˈpeʃnt/",
+   "pos": "adj.",
+   "cn": "不耐烦的；急躁的；热切的；急切的"
+  }
+ ]
+}

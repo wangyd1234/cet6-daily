@@ -1,0 +1,335 @@
+{
+  "day": 29,
+  "words": [
+    {
+      "word": "petty",
+      "phr": [
+        {"en": "petty crime", "zh": "轻微犯罪"},
+        {"en": "petty quarrels", "zh": "小争吵"}
+      ],
+      "ex": [
+        {"en": "They argued over petty details and forgot the main issue.", "zh": "他们为琐碎的细节争吵，却忘了主要问题。"}
+      ],
+      "note": "petty 指“琐碎的、小气的”，petty crime 指轻微犯罪。"
+    },
+    {
+      "word": "glow",
+      "phr": [
+        {"en": "a warm glow", "zh": "温暖的光晕"},
+        {"en": "glow with pride", "zh": "因自豪而容光焕发"}
+      ],
+      "ex": [
+        {"en": "The candles glowed softly in the dark room.", "zh": "烛光在昏暗的房间里柔和地闪亮。"}
+      ],
+      "note": "glow 指发出柔和稳定的光，也可指脸上泛红光。"
+    },
+    {
+      "word": "sentiment",
+      "phr": [
+        {"en": "public sentiment", "zh": "公众情绪"},
+        {"en": "share the sentiment", "zh": "有同感"}
+      ],
+      "ex": [
+        {"en": "Public sentiment turned against the plan after the costs were revealed.", "zh": "成本公布后，公众情绪转而反对该计划。"}
+      ],
+      "note": "sentiment 指情绪、看法；share the sentiment 表有同感。"
+    },
+    {
+      "word": "differentiation",
+      "phr": [
+        {"en": "product differentiation", "zh": "产品差异化"},
+        {"en": "differentiation between", "zh": "…之间的区分"}
+      ],
+      "ex": [
+        {"en": "Clear product differentiation helps small firms survive in a crowded market.", "zh": "清晰的产品差异化有助于小公司在拥挤的市场中生存。"}
+      ],
+      "note": "differentiation 指区分或差异化，动词为 differentiate。"
+    },
+    {
+      "word": "constitution",
+      "phr": [
+        {"en": "amend the constitution", "zh": "修改宪法"},
+        {"en": "a strong constitution", "zh": "强健的体质"}
+      ],
+      "ex": [
+        {"en": "The country amended its constitution to protect the environment.", "zh": "该国修改宪法以保护环境。"}
+      ],
+      "note": "constitution 除“宪法”外，还可指“体质”。"
+    },
+    {
+      "word": "patent",
+      "phr": [
+        {"en": "apply for a patent", "zh": "申请专利"},
+        {"en": "patent law", "zh": "专利法"}
+      ],
+      "ex": [
+        {"en": "The engineer applied for a patent on her new battery design.", "zh": "这位工程师为她的新电池设计申请了专利。"}
+      ],
+      "note": "patent 作名词指专利，apply for a patent 表申请专利。"
+    },
+    {
+      "word": "cocaine",
+      "phr": [
+        {"en": "cocaine abuse", "zh": "可卡因滥用"},
+        {"en": "cocaine trafficking", "zh": "可卡因贩运"}
+      ],
+      "ex": [
+        {"en": "Police seized a large amount of cocaine at the border.", "zh": "警方在边境查获了大量可卡因。"}
+      ],
+      "note": "cocaine 为不可数名词；相关说法有 drug abuse。"
+    },
+    {
+      "word": "groove",
+      "phr": [
+        {"en": "a deep groove", "zh": "深槽"},
+        {"en": "in the groove", "zh": "状态极佳"}
+      ],
+      "ex": [
+        {"en": "A deep groove had worn into the wooden floor.", "zh": "木地板上已经磨出了一道深槽。"}
+      ],
+      "note": "groove 指细长凹槽；in the groove 表状态极佳。"
+    },
+    {
+      "word": "abundance",
+      "phr": [
+        {"en": "in abundance", "zh": "大量地"},
+        {"en": "an abundance of", "zh": "大量的"}
+      ],
+      "ex": [
+        {"en": "Fresh fruit is available in abundance during the summer months.", "zh": "夏季水果大量上市。"}
+      ],
+      "note": "in abundance 与 an abundance of 均表“大量”。"
+    },
+    {
+      "word": "racket",
+      "phr": [
+        {"en": "a tennis racket", "zh": "网球拍"},
+        {"en": "make a racket", "zh": "大声喧闹"}
+      ],
+      "ex": [
+        {"en": "The children were making such a racket that I could not sleep.", "zh": "孩子们吵闹得那么厉害，我无法入睡。"}
+      ],
+      "note": "racket 有三义：球拍、喧闹声、诈骗勾当。"
+    },
+    {
+      "word": "conceive",
+      "phr": [
+        {"en": "conceive of", "zh": "想象；设想"},
+        {"en": "conceive a plan", "zh": "构想计划"}
+      ],
+      "ex": [
+        {"en": "It is hard to conceive of a world without the internet.", "zh": "很难想象一个没有互联网的世界。"}
+      ],
+      "note": "conceive of 表“想象、设想”，也可说 conceive a plan。"
+    },
+    {
+      "word": "sour",
+      "phr": [
+        {"en": "go sour", "zh": "变酸；变糟"},
+        {"en": "sour grapes", "zh": "酸葡萄心理"}
+      ],
+      "ex": [
+        {"en": "The milk had gone sour by the time we got home.", "zh": "我们到家时牛奶已经变酸了。"}
+      ],
+      "note": "go sour 既指食物变酸，也指事情变糟。"
+    },
+    {
+      "word": "transform",
+      "phr": [
+        {"en": "transform A into B", "zh": "把A变成B"},
+        {"en": "transform one's life", "zh": "改变某人的生活"}
+      ],
+      "ex": [
+        {"en": "The new railway transformed the small town into a busy commercial centre.", "zh": "新铁路把这座小镇变成了繁忙的商业中心。"}
+      ],
+      "note": "transform 常与 into 连用，强调彻底改变。"
+    },
+    {
+      "word": "napkin",
+      "phr": [
+        {"en": "paper napkin", "zh": "纸餐巾"},
+        {"en": "cloth napkin", "zh": "布餐巾"}
+      ],
+      "ex": [
+        {"en": "She wiped her mouth with a paper napkin and stood up to leave.", "zh": "她用纸餐巾擦了擦嘴，起身离开。"}
+      ],
+      "note": "napkin 指餐巾，英式口语中有时说 serviette。"
+    },
+    {
+      "word": "reckless",
+      "phr": [
+        {"en": "reckless driving", "zh": "鲁莽驾驶"},
+        {"en": "a reckless decision", "zh": "轻率的决定"}
+      ],
+      "ex": [
+        {"en": "Reckless driving is one of the main causes of road accidents.", "zh": "鲁莽驾驶是道路事故的主要原因之一。"}
+      ],
+      "note": "reckless 指不顾后果的，常用 reckless driving。"
+    },
+    {
+      "word": "paradox",
+      "phr": [
+        {"en": "a seeming paradox", "zh": "表面上的矛盾"},
+        {"en": "resolve a paradox", "zh": "解开悖论"}
+      ],
+      "ex": [
+        {"en": "It is a paradox that such a rich country has so many poor people.", "zh": "如此富裕的国家却有这么多穷人，这真是个悖论。"}
+      ],
+      "note": "paradox 指看似矛盾却可能正确的说法。"
+    },
+    {
+      "word": "magnitude",
+      "phr": [
+        {"en": "the magnitude of", "zh": "…的严重程度"},
+        {"en": "an earthquake of magnitude 6", "zh": "六级地震"}
+      ],
+      "ex": [
+        {"en": "Few people understood the magnitude of the disaster at first.", "zh": "起初很少有人明白这场灾难的严重程度。"}
+      ],
+      "note": "magnitude 指巨大程度，也指地震震级。"
+    },
+    {
+      "word": "justification",
+      "phr": [
+        {"en": "justification for", "zh": "对…的正当理由"},
+        {"en": "without justification", "zh": "毫无正当理由"}
+      ],
+      "ex": [
+        {"en": "There is little justification for raising fees without warning students.", "zh": "事先不通知学生就涨学费，几乎没有正当理由。"}
+      ],
+      "note": "justification 后接 for，动词 justify 表“证明正当”。"
+    },
+    {
+      "word": "genuine",
+      "phr": [
+        {"en": "genuine interest", "zh": "真正的兴趣"},
+        {"en": "a genuine smile", "zh": "真诚的微笑"}
+      ],
+      "ex": [
+        {"en": "She showed genuine interest in what the students had to say.", "zh": "她对学生们说的话表现出真正的兴趣。"}
+      ],
+      "note": "genuine 指“真正的、真诚的”，反义 fake。"
+    },
+    {
+      "word": "execution",
+      "phr": [
+        {"en": "the execution of a plan", "zh": "计划的执行"},
+        {"en": "flawless execution", "zh": "完美的执行"}
+      ],
+      "ex": [
+        {"en": "The success of the project depended on the careful execution of the plan.", "zh": "项目的成功取决于计划的谨慎执行。"}
+      ],
+      "note": "execution 指执行或处决；动词 execute 兼有两义。"
+    },
+    {
+      "word": "immune",
+      "phr": [
+        {"en": "immune to", "zh": "对…免疫"},
+        {"en": "immune system", "zh": "免疫系统"}
+      ],
+      "ex": [
+        {"en": "Most adults are immune to this childhood disease.", "zh": "大多数成年人对这种儿童疾病有免疫力。"}
+      ],
+      "note": "immune to 后接名词，表“对…免疫、不受影响”。"
+    },
+    {
+      "word": "brochure",
+      "phr": [
+        {"en": "a travel brochure", "zh": "旅游宣传册"},
+        {"en": "an information brochure", "zh": "信息手册"}
+      ],
+      "ex": [
+        {"en": "The tourist office gave us a brochure about local hiking trails.", "zh": "旅游局给了我们一本关于当地徒步路线的小册子。"}
+      ],
+      "note": "brochure 指薄薄的宣传小册子，如 travel brochure。"
+    },
+    {
+      "word": "stern",
+      "phr": [
+        {"en": "a stern look", "zh": "严厉的表情"},
+        {"en": "a stern warning", "zh": "严厉警告"}
+      ],
+      "ex": [
+        {"en": "The teacher gave the noisy class a stern look.", "zh": "老师严厉地看了吵闹的班级一眼。"}
+      ],
+      "note": "stern 指态度严厉，常用 stern look/warning。"
+    },
+    {
+      "word": "rotary",
+      "phr": [
+        {"en": "a rotary engine", "zh": "转子发动机"},
+        {"en": "rotary motion", "zh": "旋转运动"}
+      ],
+      "ex": [
+        {"en": "This machine converts rotary motion into electrical energy.", "zh": "这台机器把旋转运动转化为电能。"}
+      ],
+      "note": "rotary 由 rotate 派生，表“旋转的”。"
+    },
+    {
+      "word": "compound",
+      "phr": [
+        {"en": "a chemical compound", "zh": "化合物"},
+        {"en": "compound the problem", "zh": "使问题恶化"}
+      ],
+      "ex": [
+        {"en": "A lack of sleep can compound the effects of stress.", "zh": "睡眠不足会加重压力的影响。"}
+      ],
+      "note": "compound 作名词指化合物，作动词表“使恶化”。"
+    },
+    {
+      "word": "dub",
+      "phr": [
+        {"en": "be dubbed", "zh": "被称为"},
+        {"en": "dub a film", "zh": "为电影配音"}
+      ],
+      "ex": [
+        {"en": "The city has been dubbed the cultural capital of the north.", "zh": "这座城市被称为北方的文化之都。"}
+      ],
+      "note": "dub 常指给…起绰号或为影片配音，多用被动。"
+    },
+    {
+      "word": "masculine",
+      "phr": [
+        {"en": "masculine features", "zh": "男性特征"},
+        {"en": "a masculine voice", "zh": "男性的嗓音"}
+      ],
+      "ex": [
+        {"en": "The designer mixed masculine and feminine elements in her collection.", "zh": "这位设计师在系列中融合了男性与女性元素。"}
+      ],
+      "note": "masculine 指“男性的、男子气的”，反义 feminine。"
+    },
+    {
+      "word": "extraordinary",
+      "phr": [
+        {"en": "extraordinary circumstances", "zh": "特殊情况"},
+        {"en": "extraordinary ability", "zh": "非凡能力"}
+      ],
+      "ex": [
+        {"en": "Under extraordinary circumstances, the rule may be suspended.", "zh": "在特殊情况下，这条规定可以暂停执行。"}
+      ],
+      "note": "extraordinary 由 extra-（超出）+ordinary 构成。"
+    },
+    {
+      "word": "witness",
+      "phr": [
+        {"en": "witness a crime", "zh": "目击犯罪"},
+        {"en": "bear witness to", "zh": "见证"}
+      ],
+      "ex": [
+        {"en": "Several passengers witnessed the accident from the bus.", "zh": "几名乘客从公交车上目睹了这起事故。"}
+      ],
+      "note": "witness 作名词指证人，作动词指目击、见证。"
+    },
+    {
+      "word": "conventional",
+      "phr": [
+        {"en": "conventional wisdom", "zh": "普遍看法"},
+        {"en": "conventional methods", "zh": "常规方法"}
+      ],
+      "ex": [
+        {"en": "Conventional wisdom says that harder work always leads to better results.", "zh": "普遍看法认为更努力总会带来更好的结果。"}
+      ],
+      "note": "conventional 指“传统的、常规的”，反义 unconventional。"
+    }
+  ]
+}

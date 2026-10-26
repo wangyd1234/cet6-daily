@@ -1,0 +1,246 @@
+{
+ "day": 78,
+ "date": null,
+ "words": [
+  {
+   "id": 2311,
+   "word": "gigantic",
+   "uk": "/dʒaɪˈgæntɪk/",
+   "us": "/dʒaɪˈɡæntɪk/",
+   "pos": "adj.",
+   "cn": "巨大的；庞大的"
+  },
+  {
+   "id": 2312,
+   "word": "distinct",
+   "uk": "/dɪˈstɪŋkt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "与其他不同的；清楚的；明确的"
+  },
+  {
+   "id": 2313,
+   "word": "vegetation",
+   "uk": "/ˌvedʒəˈteɪʃn/",
+   "us": "/ˈvɛdʒəˈteʃən/",
+   "pos": "n.",
+   "cn": "植物；草木"
+  },
+  {
+   "id": 2314,
+   "word": "recovery",
+   "uk": "/rɪˈkʌvəri/",
+   "us": "",
+   "pos": "n.",
+   "cn": "恢复；痊愈；追回；寻回；收复"
+  },
+  {
+   "id": 2315,
+   "word": "geology",
+   "uk": "/dʒiˈɒlədʒi/",
+   "us": "/dʒɪˈɑlədʒi/",
+   "pos": "n.",
+   "cn": "地质学；地质情况"
+  },
+  {
+   "id": 2316,
+   "word": "hoist",
+   "uk": "/hɔɪst/",
+   "us": "",
+   "pos": "vt.,n.",
+   "cn": "举起；升起；吊起；起重器械；举起；升起；吊起"
+  },
+  {
+   "id": 2317,
+   "word": "aware",
+   "uk": "/əˈweə/",
+   "us": "/əˈwɛr/",
+   "pos": "adj.",
+   "cn": "知道的；意识到的"
+  },
+  {
+   "id": 2318,
+   "word": "quart",
+   "uk": "/kwɔːt/",
+   "us": "/kwɔrt/",
+   "pos": "n.",
+   "cn": "夸脱"
+  },
+  {
+   "id": 2319,
+   "word": "numerical",
+   "uk": "/njuːˈmerɪkl/",
+   "us": "/nʊˈmɛrɪkl/",
+   "pos": "adj.",
+   "cn": "数字的；用数字表示的；数值的"
+  },
+  {
+   "id": 2320,
+   "word": "limp",
+   "uk": "/lɪmp/",
+   "us": "",
+   "pos": "vi.,adj.,n.",
+   "cn": "一瘸一拐地走；蹒跚；软弱的；无生气的；无精神的；软的；松沓的；跛行"
+  },
+  {
+   "id": 2321,
+   "word": "security",
+   "uk": "/sɪˈkjuərəti/",
+   "us": "/səˈkjʊrəti/",
+   "pos": "n.",
+   "cn": "安全；保障；抵押品；证券"
+  },
+  {
+   "id": 2322,
+   "word": "award",
+   "uk": "/əˈwɔːd/",
+   "us": "/əˈwɔrd/",
+   "pos": "n.,vt.",
+   "cn": "奖；奖品；判定；授予；给予；判给；裁定"
+  },
+  {
+   "id": 2323,
+   "word": "buck",
+   "uk": "/bʌk/",
+   "us": "",
+   "pos": "vi.,n.",
+   "cn": "猛然弓背跃起；美元；澳元；雄鹿；雄兔"
+  },
+  {
+   "id": 2324,
+   "word": "eligible",
+   "uk": "/ˈelɪdʒəbl/",
+   "us": "/ˈɛlɪdʒəbl/",
+   "pos": "adj.",
+   "cn": "有条件被选中的；合适的；合意的"
+  },
+  {
+   "id": 2325,
+   "word": "alarm",
+   "uk": "/əˈlɑːm/",
+   "us": "/əˈlɑrm/",
+   "pos": "n.,vt.",
+   "cn": "惊恐；忧虑；警报；使惊恐；使担心"
+  },
+  {
+   "id": 2326,
+   "word": "feeble",
+   "uk": "/ˈfiːbl/",
+   "us": "/ˈfibl/",
+   "pos": "adj.",
+   "cn": "虚弱的；衰弱的；无力的；无效的；无益的"
+  },
+  {
+   "id": 2327,
+   "word": "appraisal",
+   "uk": "/əˈpreɪzl/",
+   "us": "/əˈprezl/",
+   "pos": "n.",
+   "cn": "估计；估量；评价"
+  },
+  {
+   "id": 2328,
+   "word": "continual",
+   "uk": "/kənˈtɪnjuəl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "连续的；频频的"
+  },
+  {
+   "id": 2329,
+   "word": "herb",
+   "uk": "/hɜːb/",
+   "us": "/ɝb/",
+   "pos": "n.",
+   "cn": "药草；香草；草本植物"
+  },
+  {
+   "id": 2330,
+   "word": "prose",
+   "uk": "/prəuz/",
+   "us": "/proz/",
+   "pos": "n.",
+   "cn": "散文"
+  },
+  {
+   "id": 2331,
+   "word": "limb",
+   "uk": "/lɪm/",
+   "us": "",
+   "pos": "n.",
+   "cn": "肢；臂；腿；树枝"
+  },
+  {
+   "id": 2332,
+   "word": "orientation",
+   "uk": "/ˌɔːriənˈteɪʃn/",
+   "us": "/orɪɛnˈteʃən/",
+   "pos": "n.",
+   "cn": "方向；目标；方位；熟悉情况；适应；情况介绍"
+  },
+  {
+   "id": 2333,
+   "word": "refreshment",
+   "uk": "/rɪˈfreʃmənt/",
+   "us": "/riˈfrɛʃmənt/",
+   "pos": "n.",
+   "cn": "茶点；点心；恢复；精神爽快"
+  },
+  {
+   "id": 2334,
+   "word": "confidence",
+   "uk": "/ˈkɒnfɪdəns/",
+   "us": "/ˈkɑnfɪdəns/",
+   "pos": "n.",
+   "cn": "信任；信赖；信心；自信"
+  },
+  {
+   "id": 2335,
+   "word": "arbitrary",
+   "uk": "/ˈɑːbɪtrəri/",
+   "us": "/ˈɑːrbətreri/",
+   "pos": "adj.",
+   "cn": "随心所欲的；专断的"
+  },
+  {
+   "id": 2336,
+   "word": "intent",
+   "uk": "/ɪnˈtent/",
+   "us": "/ɪnˈtɛnt/",
+   "pos": "adj.,n.",
+   "cn": "专心的；专注的；急切的；意图；意向；目的"
+  },
+  {
+   "id": 2337,
+   "word": "passive",
+   "uk": "/ˈpæsɪv/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "被动的；消极的"
+  },
+  {
+   "id": 2338,
+   "word": "fertilizer",
+   "uk": "/ˈfɜːtəlaɪzə/",
+   "us": "/ˈfɝtəlaɪzɚ/",
+   "pos": "n.",
+   "cn": "肥料"
+  },
+  {
+   "id": 2339,
+   "word": "corresponding",
+   "uk": "/ˌkɒrəˈspɒndɪŋ/",
+   "us": "/,kɔrəˈspɑndɪŋ/",
+   "pos": "adj.",
+   "cn": "相应的；符合的"
+  },
+  {
+   "id": 2340,
+   "word": "oath",
+   "uk": "/əuθ/",
+   "us": "/oθ/",
+   "pos": "n.",
+   "cn": "誓言；誓约；咒骂；诅咒语"
+  }
+ ]
+}

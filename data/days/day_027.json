@@ -1,0 +1,246 @@
+{
+ "day": 27,
+ "date": null,
+ "words": [
+  {
+   "id": 781,
+   "word": "coalition",
+   "uk": "/ˌkəuəˈlɪʃn/",
+   "us": "/ˌkoʊəˈlɪʃn/",
+   "pos": "n.",
+   "cn": "结合体；同盟；结合；联合"
+  },
+  {
+   "id": 782,
+   "word": "generalize",
+   "uk": "/ˈdʒenrəlaɪz/",
+   "us": "/ˈdʒɛnrəlaɪz/",
+   "pos": "vt.",
+   "cn": "概括；归纳；推断；普及"
+  },
+  {
+   "id": 783,
+   "word": "accumulate",
+   "uk": "/əˈkjuːmjəleɪt/",
+   "us": "/əˈkjumjəlet/",
+   "pos": "v.",
+   "cn": "积累；堆积"
+  },
+  {
+   "id": 784,
+   "word": "crime",
+   "uk": "/kraɪm/",
+   "us": "",
+   "pos": "n.",
+   "cn": "罪；罪行；犯罪"
+  },
+  {
+   "id": 785,
+   "word": "dwarf",
+   "uk": "/dwɔːf/",
+   "us": "/dwɔrf/",
+   "pos": "adj.,n.,vt.",
+   "cn": "矮小的；发育不全的；矮子；侏儒；使显得矮小；使相形见绌"
+  },
+  {
+   "id": 786,
+   "word": "heave",
+   "uk": "/hiːv/",
+   "us": "/hiv/",
+   "pos": "v.,n.",
+   "cn": "举起；提起；扔；发出；起伏；隆起；呕吐；恶心；举起；升降"
+  },
+  {
+   "id": 787,
+   "word": "leisure",
+   "uk": "/ˈleʒə/",
+   "us": "/ˈliʒɚ/",
+   "pos": "n.",
+   "cn": "空闲时间；悠闲"
+  },
+  {
+   "id": 788,
+   "word": "nourish",
+   "uk": "/ˈnʌrɪʃ/",
+   "us": "/ˈnɜrɪʃ/",
+   "pos": "vt.",
+   "cn": "养育；喂养；滋养；怀有；增强"
+  },
+  {
+   "id": 789,
+   "word": "grease",
+   "uk": "/griːs/",
+   "us": "/gris/",
+   "pos": "n.,vt.",
+   "cn": "油脂；润滑脂；润滑油；用油脂涂；给…加润滑油"
+  },
+  {
+   "id": 790,
+   "word": "allege",
+   "uk": "/əˈledʒ/",
+   "us": "/əˈlɛdʒ/",
+   "pos": "vt.",
+   "cn": "断言；宣称；硬说"
+  },
+  {
+   "id": 791,
+   "word": "pilgrim",
+   "uk": "/ˈpɪlgrɪm/",
+   "us": "/ˈpɪlɡrɪm/",
+   "pos": "n.",
+   "cn": "朝圣者"
+  },
+  {
+   "id": 792,
+   "word": "trigger",
+   "uk": "/ˈtrɪgə/",
+   "us": "/ˈtrɪɡɚ/",
+   "pos": "n.,vt.",
+   "cn": "扳机；引起反应的行动；触发；引起"
+  },
+  {
+   "id": 793,
+   "word": "assimilate",
+   "uk": "/əˈsɪməleɪt/",
+   "us": "/əˈsɪməlet/",
+   "pos": "vi.,vt.",
+   "cn": "被吸收；被消化；被同化；吸收；消化；使同化"
+  },
+  {
+   "id": 794,
+   "word": "positive",
+   "uk": "/ˈpɒzətɪv/",
+   "us": "/ˈpɑzətɪv/",
+   "pos": "adj.",
+   "cn": "确实的；明确的；积极的；肯定的"
+  },
+  {
+   "id": 795,
+   "word": "segregate",
+   "uk": "/ˈsegrɪgeɪt/",
+   "us": "/ˈsɛɡrɪɡet/",
+   "pos": "vt.",
+   "cn": "使隔离；使分开"
+  },
+  {
+   "id": 796,
+   "word": "addict",
+   "uk": "/ˈædɪkt(forn.);əˈdɪkt(forv.)/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "有瘾的人；入迷的人；使成瘾；使入迷"
+  },
+  {
+   "id": 797,
+   "word": "prospect",
+   "uk": "/ˈprɒspekt/",
+   "us": "/ˈprɑspɛkt/",
+   "pos": "n.",
+   "cn": "前景；前途；可能性；景象；景色；可能成为主顾的人；有希望的候选人"
+  },
+  {
+   "id": 798,
+   "word": "withhold",
+   "uk": "/wɪðˈhəuld/",
+   "us": "/wɪðˈhold/",
+   "pos": "vt.",
+   "cn": "拒绝；不给；抑制；制止"
+  },
+  {
+   "id": 799,
+   "word": "comparable",
+   "uk": "/ˈkɔmpərəbl/",
+   "us": "/ˈkɑmpərəbl/",
+   "pos": "adj.",
+   "cn": "可比较的；类似的；比得上的"
+  },
+  {
+   "id": 800,
+   "word": "discreet",
+   "uk": "/dɪˈskriːt/",
+   "us": "/dɪˈskrit/",
+   "pos": "adj.",
+   "cn": "谨慎的；慎重的；审慎的"
+  },
+  {
+   "id": 801,
+   "word": "specialize",
+   "uk": "/ˈspeʃəlaɪz/",
+   "us": "/ˈspɛʃəlaɪz/",
+   "pos": "vi.,vt.",
+   "cn": "专攻；专门研究；使适应特殊目的；使专用于"
+  },
+  {
+   "id": 802,
+   "word": "instance",
+   "uk": "/ˈɪnstəns/",
+   "us": "",
+   "pos": "n.",
+   "cn": "例子；实例；事例"
+  },
+  {
+   "id": 803,
+   "word": "presumably",
+   "uk": "/prɪˈzjuːməbli/",
+   "us": "/prɪˈzuməbli/",
+   "pos": "adv.",
+   "cn": "大概；可能；据推测"
+  },
+  {
+   "id": 804,
+   "word": "bonus",
+   "uk": "/ˈbəunəs/",
+   "us": "/ˈbonəs/",
+   "pos": "n.",
+   "cn": "奖金；红利；额外给予的东西"
+  },
+  {
+   "id": 805,
+   "word": "recognition",
+   "uk": "/ˌrekəgˈnɪʃn/",
+   "us": "/,rɛkəɡˈnɪʃən/",
+   "pos": "n.",
+   "cn": "认出；识别；承认；确认；认可；赏识；表彰；报偿"
+  },
+  {
+   "id": 806,
+   "word": "banquet",
+   "uk": "/ˈbæŋkwɪt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "宴会；盛宴"
+  },
+  {
+   "id": 807,
+   "word": "thrill",
+   "uk": "/θrɪl/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "非常兴奋；非常激动；兴奋；激动；引起激动的事物"
+  },
+  {
+   "id": 808,
+   "word": "aisle",
+   "uk": "/aɪl/",
+   "us": "",
+   "pos": "n.",
+   "cn": "过道；通道"
+  },
+  {
+   "id": 809,
+   "word": "convene",
+   "uk": "/kənˈviːn/",
+   "us": "/kənˈvin/",
+   "pos": "vi.,vt.",
+   "cn": "开会；集合；召集"
+  },
+  {
+   "id": 810,
+   "word": "arrangement",
+   "uk": "/əˈreɪndʒmənt/",
+   "us": "/əˈrendʒmənt/",
+   "pos": "n.",
+   "cn": "整理；排列；安排；准备工作"
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+  "day": 22,
+  "words": [
+    {
+      "word": "bully",
+      "phr": [
+        {"en": "bully sb into doing", "zh": "威逼某人做"},
+        {"en": "a school bully", "zh": "校园恶霸"}
+      ],
+      "ex": [
+        {"en": "Older boys used to bully him on the school bus nearly every morning.",
+         "zh": "年纪较大的男孩以前几乎每天早上都在校车上欺负他。"}
+      ],
+      "note": "bully sb into doing sth；名词 bullying 指霸凌。"
+    },
+    {
+      "word": "chip",
+      "phr": [
+        {"en": "fish and chips", "zh": "炸鱼薯条"},
+        {"en": "a computer chip", "zh": "计算机芯片"}
+      ],
+      "ex": [
+        {"en": "The new computer chip is twice as fast as the old one.",
+         "zh": "新计算机芯片的速度是旧芯片的两倍。"}
+      ],
+      "note": "chip 指芯片、碎片；英式 chips 指薯条，美式称 fries。"
+    },
+    {
+      "word": "medieval",
+      "phr": [
+        {"en": "medieval history", "zh": "中世纪史"},
+        {"en": "a medieval castle", "zh": "中世纪城堡"}
+      ],
+      "ex": [
+        {"en": "The town is famous for its well-preserved medieval walls and narrow streets.",
+         "zh": "该镇以保存完好的中世纪城墙和狭窄街道闻名。"}
+      ],
+      "note": "也拼作 mediaeval；medi- 表「中间」，与 medium 同源。"
+    },
+    {
+      "word": "tanker",
+      "phr": [
+        {"en": "an oil tanker", "zh": "油轮"},
+        {"en": "a fully loaded tanker", "zh": "满载的油轮"}
+      ],
+      "ex": [
+        {"en": "An oil tanker ran aground near the coast and leaked fuel into the sea.",
+         "zh": "一艘油轮在近海搁浅，燃油泄漏入海。"}
+      ],
+      "note": "tanker 指运油或运气的大型船；tank 是容器，注意区分。"
+    },
+    {
+      "word": "involve",
+      "phr": [
+        {"en": "be involved in", "zh": "参与；卷入"},
+        {"en": "involve doing sth", "zh": "需要做某事"}
+      ],
+      "ex": [
+        {"en": "The job involves travelling abroad for several weeks each year.",
+         "zh": "这份工作每年需要出国几周。"}
+      ],
+      "note": "involve 后接动名词 doing；be involved in 表参与。"
+    },
+    {
+      "word": "pistol",
+      "phr": [
+        {"en": "fire a pistol", "zh": "开手枪"},
+        {"en": "load a pistol", "zh": "给手枪装弹"}
+      ],
+      "ex": [
+        {"en": "The officer drew his pistol but did not fire a single shot.",
+         "zh": "警官拔出枪，但没有开一枪。"}
+      ],
+      "note": "pistol 指手枪，比 gun 具体；rifle 是步枪。"
+    },
+    {
+      "word": "assemble",
+      "phr": [
+        {"en": "assemble a machine", "zh": "组装机器"},
+        {"en": "assemble in the hall", "zh": "在礼堂集合"}
+      ],
+      "ex": [
+        {"en": "Workers assemble the parts by hand before the final inspection.",
+         "zh": "工人在最终检验前手工组装这些零件。"}
+      ],
+      "note": "as- 表「向」，semble 表「同」；名词 assembly 表集会或装配。"
+    },
+    {
+      "word": "watertight",
+      "phr": [
+        {"en": "a watertight case", "zh": "无懈可击的案子"},
+        {"en": "a watertight seal", "zh": "防水的密封"}
+      ],
+      "ex": [
+        {"en": "The lawyers built a watertight case that the defence could not challenge.",
+         "zh": "律师们构建了无懈可击的案子，辩方无法质疑。"}
+      ],
+      "note": "watertight 本指防水，引申指论证严密；airtight 也有此引申。"
+    },
+    {
+      "word": "transition",
+      "phr": [
+        {"en": "the transition from A to B", "zh": "从A到B的转变"},
+        {"en": "a smooth transition", "zh": "平稳过渡"}
+      ],
+      "ex": [
+        {"en": "The country is still managing the transition from a rural to an urban economy.",
+         "zh": "该国仍在应对从农村经济向城市经济的转变。"}
+      ],
+      "note": "transition 后接 from...to...；也可直接作动词表转变。"
+    },
+    {
+      "word": "repel",
+      "phr": [
+        {"en": "repel an attack", "zh": "击退进攻"},
+        {"en": "repel insects", "zh": "驱虫"}
+      ],
+      "ex": [
+        {"en": "The spray is designed to repel insects without harming the plants.",
+         "zh": "这种喷剂用来驱虫，而且不伤害植物。"}
+      ],
+      "note": "re- 表「回」，pel 表「推」；repellent 指驱虫剂。"
+    },
+    {
+      "word": "mutter",
+      "phr": [
+        {"en": "mutter to oneself", "zh": "自言自语"},
+        {"en": "mutter under one's breath", "zh": "低声嘟囔"}
+      ],
+      "ex": [
+        {"en": "He muttered something about the noise and closed the window.",
+         "zh": "他嘟囔了几句关于噪音的话，关上了窗户。"}
+      ],
+      "note": "mutter 指低声含糊地说；murmur 声音更柔和，注意区分。"
+    },
+    {
+      "word": "series",
+      "phr": [
+        {"en": "a series of", "zh": "一系列"},
+        {"en": "a TV series", "zh": "电视连续剧"}
+      ],
+      "ex": [
+        {"en": "The council has announced a series of measures to cut traffic in the centre.",
+         "zh": "市议会宣布了一系列减少市中心交通的措施。"}
+      ],
+      "note": "series 单复数同形；a series of 后接可数名词复数。"
+    },
+    {
+      "word": "complicated",
+      "phr": [
+        {"en": "a complicated process", "zh": "复杂的过程"},
+        {"en": "get complicated", "zh": "变得复杂"}
+      ],
+      "ex": [
+        {"en": "The application process is more complicated than the website suggests.",
+         "zh": "申请流程比网站上说的要复杂。"}
+      ],
+      "note": "complicated 指因环节多而复杂；complex 更中性，侧重结构。"
+    },
+    {
+      "word": "junk",
+      "phr": [
+        {"en": "junk food", "zh": "垃圾食品"},
+        {"en": "junk mail", "zh": "垃圾邮件"}
+      ],
+      "ex": [
+        {"en": "He cleared years of junk out of the garage in a single weekend.",
+         "zh": "他用一个周末把车库里积了多年的废物清理干净。"}
+      ],
+      "note": "junk 指无用的旧物；junk food 是固定说法，指垃圾食品。"
+    },
+    {
+      "word": "maximum",
+      "phr": [
+        {"en": "a maximum of", "zh": "最多"},
+        {"en": "the maximum speed", "zh": "最高速度"}
+      ],
+      "ex": [
+        {"en": "The tank holds a maximum of fifty litres of water.",
+         "zh": "这个水箱最多可装五十升水。"}
+      ],
+      "note": "maximum 反义为 minimum；作名词用 a maximum of + 数字。"
+    },
+    {
+      "word": "thrive",
+      "phr": [
+        {"en": "thrive on", "zh": "因…而兴旺"},
+        {"en": "thrive in", "zh": "在…中繁盛"}
+      ],
+      "ex": [
+        {"en": "Small shops in the area have thrived since the new station opened.",
+         "zh": "新车站开通后，这一带的小商店兴旺起来。"}
+      ],
+      "note": "thrive 常搭配 on 或 in；形近词 strive 表努力。"
+    },
+    {
+      "word": "imaginative",
+      "phr": [
+        {"en": "an imaginative solution", "zh": "有创意的解决方案"},
+        {"en": "imaginative writing", "zh": "富有想象力的写作"}
+      ],
+      "ex": [
+        {"en": "She came up with an imaginative solution that cost almost nothing.",
+         "zh": "她想出了一个几乎不花钱的富有创意的方案。"}
+      ],
+      "note": "imaginative 指有想象力；imaginary 表虚构的，容易混淆。"
+    },
+    {
+      "word": "penguin",
+      "phr": [
+        {"en": "a colony of penguins", "zh": "企鹅群"},
+        {"en": "an emperor penguin", "zh": "帝企鹅"}
+      ],
+      "ex": [
+        {"en": "Thousands of penguins gather on the ice to breed each winter.",
+         "zh": "每年冬天成千上万只企鹅聚集在冰上繁殖。"}
+      ],
+      "note": "penguin 是可数名词；群体用 a colony of penguins 表示。"
+    },
+    {
+      "word": "represent",
+      "phr": [
+        {"en": "be represented by", "zh": "由…代表"},
+        {"en": "represent a threat", "zh": "构成威胁"}
+      ],
+      "ex": [
+        {"en": "Each region is represented by two members on the national committee.",
+         "zh": "每个地区在全国委员会中由两名成员代表。"}
+      ],
+      "note": "represent 表代表或相当于；名词 representative 指代表。"
+    },
+    {
+      "word": "masterpiece",
+      "phr": [
+        {"en": "a literary masterpiece", "zh": "文学杰作"},
+        {"en": "create a masterpiece", "zh": "创作杰作"}
+      ],
+      "ex": [
+        {"en": "Critics consider the novel a literary masterpiece of the twentieth century.",
+         "zh": "评论家认为这部小说是二十世纪的文学杰作。"}
+      ],
+      "note": "masterpiece 由 master 加 piece 构成，指大师之作。"
+    },
+    {
+      "word": "compete",
+      "phr": [
+        {"en": "compete with", "zh": "与…竞争"},
+        {"en": "compete for", "zh": "争夺"}
+      ],
+      "ex": [
+        {"en": "Hundreds of students compete for a small number of places each year.",
+         "zh": "每年数百名学生争夺为数不多的名额。"}
+      ],
+      "note": "compete with sb for sth；名词是 competition。"
+    },
+    {
+      "word": "tolerant",
+      "phr": [
+        {"en": "be tolerant of", "zh": "容忍"},
+        {"en": "a tolerant society", "zh": "宽容的社会"}
+      ],
+      "ex": [
+        {"en": "A tolerant society allows people to hold views we may disagree with.",
+         "zh": "宽容的社会允许人们持有我们可能不同意的观点。"}
+      ],
+      "note": "be tolerant of 表容忍；动词 tolerate，名词 tolerance。"
+    },
+    {
+      "word": "dispatch",
+      "phr": [
+        {"en": "dispatch a team", "zh": "派遣团队"},
+        {"en": "dispatch a message", "zh": "发送消息"}
+      ],
+      "ex": [
+        {"en": "Rescue teams were dispatched to the area within an hour of the quake.",
+         "zh": "地震发生后一小时内，救援队就被派往该地区。"}
+      ],
+      "note": "dispatch 也可拼作 despatch；名词指派遣或急件。"
+    },
+    {
+      "word": "emergency",
+      "phr": [
+        {"en": "in an emergency", "zh": "在紧急情况下"},
+        {"en": "a state of emergency", "zh": "紧急状态"}
+      ],
+      "ex": [
+        {"en": "In an emergency, stay calm and call the number on the wall.",
+         "zh": "紧急情况下要保持冷静，拨打墙上的号码。"}
+      ],
+      "note": "emergency 常与介词 in 连用；emergency exit 指紧急出口。"
+    },
+    {
+      "word": "dim",
+      "phr": [
+        {"en": "dim light", "zh": "昏暗的光线"},
+        {"en": "dim memories", "zh": "模糊的记忆"}
+      ],
+      "ex": [
+        {"en": "The room was lit only by a dim lamp in the corner.",
+         "zh": "房间里只有角落一盏昏暗的灯照明。"}
+      ],
+      "note": "dim 可指光线暗或记忆模糊；作动词表变暗。"
+    },
+    {
+      "word": "paralyze",
+      "phr": [
+        {"en": "be paralyzed with fear", "zh": "吓得不知所措"},
+        {"en": "paralyze the economy", "zh": "使经济瘫痪"}
+      ],
+      "ex": [
+        {"en": "Heavy snow paralyzed traffic in the city for almost two days.",
+         "zh": "大雪使该市交通瘫痪了将近两天。"}
+      ],
+      "note": "英式拼作 paralyse；be paralyzed with fear 表吓得发僵。"
+    },
+    {
+      "word": "interpersonal",
+      "phr": [
+        {"en": "interpersonal skills", "zh": "人际交往能力"},
+        {"en": "interpersonal relationships", "zh": "人际关系"}
+      ],
+      "ex": [
+        {"en": "Good interpersonal skills matter as much as technical knowledge in most jobs.",
+         "zh": "大多数工作中，良好的人际交往能力和专业知识同样重要。"}
+      ],
+      "note": "inter- 表「之间」，personal 表「人的」；多修饰 skills。"
+    },
+    {
+      "word": "exemplary",
+      "phr": [
+        {"en": "exemplary behaviour", "zh": "典范行为"},
+        {"en": "exemplary service", "zh": "堪称典范的服务"}
+      ],
+      "ex": [
+        {"en": "Her exemplary behaviour during the crisis earned the respect of the whole staff.",
+         "zh": "她在危机中的典范行为赢得了全体员工的尊敬。"}
+      ],
+      "note": "exemplary 源自 example，指可作榜样的；副词为 exemplarily。"
+    },
+    {
+      "word": "faculty",
+      "phr": [
+        {"en": "a faculty member", "zh": "教职员"},
+        {"en": "the faculty of law", "zh": "法学院"}
+      ],
+      "ex": [
+        {"en": "The new professor was welcomed by the entire faculty at the meeting.",
+         "zh": "新教授在会上受到全体教员的欢迎。"}
+      ],
+      "note": "faculty 指院系或全体教员；表才智时用复数 faculties。"
+    },
+    {
+      "word": "layoff",
+      "phr": [
+        {"en": "mass layoffs", "zh": "大规模裁员"},
+        {"en": "announce layoffs", "zh": "宣布裁员"}
+      ],
+      "ex": [
+        {"en": "The factory announced layoffs affecting nearly two hundred workers.",
+         "zh": "工厂宣布裁员，近两百名工人受影响。"}
+      ],
+      "note": "layoff 是名词，动词用 lay off sb，指解雇或临时停工。"
+    }
+  ]
+}

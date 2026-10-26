@@ -1,0 +1,335 @@
+{
+  "day": 59,
+  "words": [
+    {
+      "word": "deviate",
+      "phr": [
+        {"en": "deviate from", "zh": "偏离；背离"},
+        {"en": "deviate from the plan", "zh": "偏离原计划"}
+      ],
+      "ex": [
+        {"en": "The pilot had to deviate from the planned route to avoid the storm.", "zh": "为避开暴风雨，飞行员不得不偏离原定航线。"}
+      ],
+      "note": "deviate 常与 from 连用，名词为 deviation。"
+    },
+    {
+      "word": "assignment",
+      "phr": [
+        {"en": "hand in an assignment", "zh": "交作业"},
+        {"en": "a tough assignment", "zh": "艰巨的任务"}
+      ],
+      "ex": [
+        {"en": "The students must hand in their assignments by Friday.", "zh": "学生必须在周五前交作业。"}
+      ],
+      "note": "assignment 指分派的任务或作业，常用 hand in。"
+    },
+    {
+      "word": "album",
+      "phr": [
+        {"en": "photo album", "zh": "相册"},
+        {"en": "release an album", "zh": "发行专辑"}
+      ],
+      "ex": [
+        {"en": "She showed us a photo album from her trip to Italy.", "zh": "她给我们看了她意大利之行的相册。"}
+      ],
+      "note": "album 指相册，也指音乐专辑，常用 release。"
+    },
+    {
+      "word": "stimulus",
+      "phr": [
+        {"en": "economic stimulus", "zh": "经济刺激"},
+        {"en": "a stimulus to", "zh": "对…的促进"}
+      ],
+      "ex": [
+        {"en": "The tax cut was intended as a stimulus to economic growth.", "zh": "减税意在刺激经济增长。"}
+      ],
+      "note": "stimulus 复数为 stimuli，常用 a stimulus to。"
+    },
+    {
+      "word": "electric",
+      "phr": [
+        {"en": "electric car", "zh": "电动汽车"},
+        {"en": "electric shock", "zh": "电击"}
+      ],
+      "ex": [
+        {"en": "Electric cars are becoming cheaper and more popular.", "zh": "电动汽车正变得更便宜、更受欢迎。"}
+      ],
+      "note": "electric 指用电的；electrical 指与电有关的。"
+    },
+    {
+      "word": "bewilder",
+      "phr": [
+        {"en": "be bewildered by", "zh": "被…弄糊涂"},
+        {"en": "a bewildering variety", "zh": "令人眼花缭乱的种类"}
+      ],
+      "ex": [
+        {"en": "Many tourists are bewildered by the city's bus system.", "zh": "许多游客被这座城市的公交系统弄糊涂了。"}
+      ],
+      "note": "bewilder 指使人完全迷惑，常用 be bewildered by。"
+    },
+    {
+      "word": "regiment",
+      "phr": [
+        {"en": "an infantry regiment", "zh": "步兵团"},
+        {"en": "a regiment of soldiers", "zh": "一团士兵"}
+      ],
+      "ex": [
+        {"en": "He served in an infantry regiment during the war.", "zh": "战争期间他在一个步兵团服役。"}
+      ],
+      "note": "regiment 指军队的团，注意与 regime（政权）区别。"
+    },
+    {
+      "word": "diminish",
+      "phr": [
+        {"en": "diminish in value", "zh": "贬值"},
+        {"en": "diminish the risk", "zh": "降低风险"}
+      ],
+      "ex": [
+        {"en": "The pain gradually diminished after she took the medicine.", "zh": "她服药后疼痛渐渐减轻。"}
+      ],
+      "note": "diminish 指逐渐减少减弱，反义词为 increase。"
+    },
+    {
+      "word": "surpass",
+      "phr": [
+        {"en": "surpass expectations", "zh": "超出预期"},
+        {"en": "surpass sb in", "zh": "在某方面超过某人"}
+      ],
+      "ex": [
+        {"en": "The film's box office takings surpassed all expectations.", "zh": "这部影片的票房超出了所有人的预期。"}
+      ],
+      "note": "surpass 指超越，常用 surpass expectations。"
+    },
+    {
+      "word": "various",
+      "phr": [
+        {"en": "various kinds of", "zh": "各种各样的"},
+        {"en": "for various reasons", "zh": "由于种种原因"}
+      ],
+      "ex": [
+        {"en": "The museum displays various kinds of ancient pottery.", "zh": "博物馆展出各种古代陶器。"}
+      ],
+      "note": "various 后接可数名词复数，与 varied 不同。"
+    },
+    {
+      "word": "depression",
+      "phr": [
+        {"en": "economic depression", "zh": "经济萧条"},
+        {"en": "suffer from depression", "zh": "患抑郁症"}
+      ],
+      "ex": [
+        {"en": "Many people suffer from depression during the long winter months.", "zh": "许多人在漫长的冬季患上抑郁症。"}
+      ],
+      "note": "depression 兼指抑郁症与经济萧条。"
+    },
+    {
+      "word": "affiliate",
+      "phr": [
+        {"en": "be affiliated with", "zh": "隶属于"},
+        {"en": "an affiliate company", "zh": "附属公司"}
+      ],
+      "ex": [
+        {"en": "The research centre is affiliated with a major university.", "zh": "该研究中心隶属于一所重点大学。"}
+      ],
+      "note": "affiliate 常用 be affiliated to/with 表隶属。"
+    },
+    {
+      "word": "unfold",
+      "phr": [
+        {"en": "unfold a map", "zh": "展开地图"},
+        {"en": "the story unfolds", "zh": "故事逐渐展开"}
+      ],
+      "ex": [
+        {"en": "She unfolded the map and looked for the shortest route.", "zh": "她展开地图，寻找最短的路线。"}
+      ],
+      "note": "unfold 指展开、打开，也指情节逐渐展现。"
+    },
+    {
+      "word": "extent",
+      "phr": [
+        {"en": "to some extent", "zh": "在某种程度上"},
+        {"en": "the extent of", "zh": "…的程度"}
+      ],
+      "ex": [
+        {"en": "To some extent, the success of the project depends on teamwork.", "zh": "在某种程度上，项目成败取决于团队合作。"}
+      ],
+      "note": "to some extent 表在某种程度上，为固定短语。"
+    },
+    {
+      "word": "equivalent",
+      "phr": [
+        {"en": "be equivalent to", "zh": "等同于"},
+        {"en": "the equivalent of", "zh": "…的等价物"}
+      ],
+      "ex": [
+        {"en": "Roughly speaking, one mile is equivalent to 1.6 kilometres.", "zh": "粗略来说，一英里约等于1.6公里。"}
+      ],
+      "note": "equivalent 常与 to 连用，可作形容词或名词。"
+    },
+    {
+      "word": "sensational",
+      "phr": [
+        {"en": "sensational news", "zh": "轰动的新闻"},
+        {"en": "a sensational victory", "zh": "引起轰动的胜利"}
+      ],
+      "ex": [
+        {"en": "The newspaper is full of sensational stories about celebrities.", "zh": "这份报纸满是关于名人的耸人听闻的报道。"}
+      ],
+      "note": "sensational 多含耸人听闻的贬义，也可表极好。"
+    },
+    {
+      "word": "wedge",
+      "phr": [
+        {"en": "drive a wedge between", "zh": "挑拨离间"},
+        {"en": "a wedge of lemon", "zh": "一角柠檬"}
+      ],
+      "ex": [
+        {"en": "He drove a wedge between the two old friends with his gossip.", "zh": "他散布流言，离间了这两位老朋友。"}
+      ],
+      "note": "drive a wedge between 是习语，指挑拨离间。"
+    },
+    {
+      "word": "alienate",
+      "phr": [
+        {"en": "alienate sb from", "zh": "使某人与…疏远"},
+        {"en": "feel alienated", "zh": "感到被疏远"}
+      ],
+      "ex": [
+        {"en": "His harsh criticism alienated many of his supporters.", "zh": "他尖刻的批评使许多支持者疏远了他。"}
+      ],
+      "note": "alienate 常接 from，指使某人与…疏远。"
+    },
+    {
+      "word": "brink",
+      "phr": [
+        {"en": "on the brink of", "zh": "濒于；在…边缘"},
+        {"en": "the brink of war", "zh": "战争边缘"}
+      ],
+      "ex": [
+        {"en": "The two countries were on the brink of war.", "zh": "两国当时处于战争边缘。"}
+      ],
+      "note": "on the brink of 后接名词或动名词，表濒临。"
+    },
+    {
+      "word": "plague",
+      "phr": [
+        {"en": "plague sb with", "zh": "用…纠缠某人"},
+        {"en": "a plague of", "zh": "大批的…灾害"}
+      ],
+      "ex": [
+        {"en": "The project was plagued by delays and budget cuts.", "zh": "该项目饱受延期和预算削减的困扰。"}
+      ],
+      "note": "plague 作动词常用 be plagued by，表受困扰。"
+    },
+    {
+      "word": "perpetual",
+      "phr": [
+        {"en": "perpetual motion", "zh": "永恒运动"},
+        {"en": "perpetual fear", "zh": "长久的恐惧"}
+      ],
+      "ex": [
+        {"en": "They live in perpetual fear of another earthquake.", "zh": "他们一直生活在对再次地震的恐惧中。"}
+      ],
+      "note": "perpetual 强调持续不断，常修饰 fear 等词。"
+    },
+    {
+      "word": "retrospect",
+      "phr": [
+        {"en": "in retrospect", "zh": "回顾起来"},
+        {"en": "a brief retrospect", "zh": "简要的回顾"}
+      ],
+      "ex": [
+        {"en": "In retrospect, I should have studied harder for the exam.", "zh": "回想起来，我当初该为考试更用功些。"}
+      ],
+      "note": "in retrospect 意为回顾起来，为固定短语。"
+    },
+    {
+      "word": "fascinate",
+      "phr": [
+        {"en": "be fascinated by", "zh": "被…深深吸引"},
+        {"en": "fascinate the audience", "zh": "迷住观众"}
+      ],
+      "ex": [
+        {"en": "The children were fascinated by the magician's clever tricks.", "zh": "孩子们被魔术师的巧妙戏法迷住了。"}
+      ],
+      "note": "fascinate 多用被动式，形容词为 fascinating。"
+    },
+    {
+      "word": "colonial",
+      "phr": [
+        {"en": "colonial rule", "zh": "殖民统治"},
+        {"en": "colonial architecture", "zh": "殖民时期建筑"}
+      ],
+      "ex": [
+        {"en": "The city still has many buildings from the colonial period.", "zh": "这座城市仍保留着许多殖民时期的建筑。"}
+      ],
+      "note": "colonial 指殖民地的，名词 colony 为殖民地。"
+    },
+    {
+      "word": "warfare",
+      "phr": [
+        {"en": "guerrilla warfare", "zh": "游击战"},
+        {"en": "chemical warfare", "zh": "化学战"}
+      ],
+      "ex": [
+        {"en": "The soldiers were trained in jungle warfare before being sent abroad.", "zh": "士兵们出国前接受了丛林战训练。"}
+      ],
+      "note": "warfare 指作战方式，多作不可数名词。"
+    },
+    {
+      "word": "draft",
+      "phr": [
+        {"en": "a rough draft", "zh": "初稿"},
+        {"en": "draft a plan", "zh": "起草计划"}
+      ],
+      "ex": [
+        {"en": "She wrote the first draft of her essay in one evening.", "zh": "她一个晚上就写出了文章的初稿。"}
+      ],
+      "note": "draft 作名词指草稿，常用 first/rough draft。"
+    },
+    {
+      "word": "complex",
+      "phr": [
+        {"en": "a complex problem", "zh": "复杂的问题"},
+        {"en": "inferiority complex", "zh": "自卑情结"}
+      ],
+      "ex": [
+        {"en": "Climate change is a complex problem that no single country can solve.", "zh": "气候变化是任何单一国家都无法解决的复杂问题。"}
+      ],
+      "note": "complex 作名词可指情结，如 inferiority complex。"
+    },
+    {
+      "word": "assumption",
+      "phr": [
+        {"en": "make an assumption", "zh": "做出假设"},
+        {"en": "on the assumption that", "zh": "假定…"}
+      ],
+      "ex": [
+        {"en": "The plan rests on the assumption that prices will stay low.", "zh": "该计划的前提假设是物价将保持低位。"}
+      ],
+      "note": "assumption 常用 on the assumption that 表假定。"
+    },
+    {
+      "word": "humidity",
+      "phr": [
+        {"en": "high humidity", "zh": "高湿度"},
+        {"en": "relative humidity", "zh": "相对湿度"}
+      ],
+      "ex": [
+        {"en": "The heat and humidity made it hard to sleep.", "zh": "又热又潮，让人难以入睡。"}
+      ],
+      "note": "humidity 指空气湿度，形容词为 humid。"
+    },
+    {
+      "word": "rank",
+      "phr": [
+        {"en": "rank first", "zh": "排名第一"},
+        {"en": "rank among", "zh": "跻身于"}
+      ],
+      "ex": [
+        {"en": "The university ranks among the best in the country.", "zh": "这所大学跻身全国最好的大学之列。"}
+      ],
+      "note": "rank 作动词表排名，常用 rank first/among。"
+    }
+  ]
+}

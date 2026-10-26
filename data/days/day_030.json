@@ -1,0 +1,246 @@
+{
+ "day": 30,
+ "date": null,
+ "words": [
+  {
+   "id": 871,
+   "word": "regulation",
+   "uk": "/ˌregjuˈleɪʃn/",
+   "us": "/ˌrɛɡjəˈleʃən/",
+   "pos": "n.",
+   "cn": "规章；规则；管理；控制；调节"
+  },
+  {
+   "id": 872,
+   "word": "conform",
+   "uk": "/kənˈfɔːm/",
+   "us": "/kənˈfɔrm/",
+   "pos": "vi.",
+   "cn": "遵守；适应；顺从；相似；一致；符合"
+  },
+  {
+   "id": 873,
+   "word": "circulation",
+   "uk": "/ˌsɜːkjəˈleɪʃn/",
+   "us": "/,sɝkjəˈleʃən/",
+   "pos": "n.",
+   "cn": "循环；流通；流传；传播；发行；发行量；流通"
+  },
+  {
+   "id": 874,
+   "word": "authentic",
+   "uk": "/ɔːˈθentɪk/",
+   "us": "/ɔˈθɛntɪk/",
+   "pos": "adj.",
+   "cn": "真的；真正的；可靠的；可信的"
+  },
+  {
+   "id": 875,
+   "word": "mere",
+   "uk": "/mɪə/",
+   "us": "/mɪr/",
+   "pos": "adj.",
+   "cn": "仅仅的；纯粹的"
+  },
+  {
+   "id": 876,
+   "word": "accommodation",
+   "uk": "/əˌkɒməˈdeɪʃn/",
+   "us": "/ə,kɑməˈdeʃən/",
+   "pos": "n.",
+   "cn": "住处；膳宿"
+  },
+  {
+   "id": 877,
+   "word": "evident",
+   "uk": "/ˈevɪdənt/",
+   "us": "/ˈɛvɪdənt/",
+   "pos": "adj.",
+   "cn": "明显的；明白的"
+  },
+  {
+   "id": 878,
+   "word": "suburb",
+   "uk": "/ˈsʌbɜːb/",
+   "us": "/ˈsʌbɝb/",
+   "pos": "n.",
+   "cn": "郊区；郊外；近郊"
+  },
+  {
+   "id": 879,
+   "word": "pumpkin",
+   "uk": "/ˈpʌmpkɪn/",
+   "us": "",
+   "pos": "n.",
+   "cn": "南瓜"
+  },
+  {
+   "id": 880,
+   "word": "annoy",
+   "uk": "/əˈnɔɪ/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "使恼怒；打搅"
+  },
+  {
+   "id": 881,
+   "word": "profess",
+   "uk": "/prəˈfes/",
+   "us": "/prəˈfɛs/",
+   "pos": "vt.",
+   "cn": "表示；承认；宣称信仰"
+  },
+  {
+   "id": 882,
+   "word": "psychological",
+   "uk": "/ˌsaɪkəˈlɒdʒɪkl/",
+   "us": "/,saɪkəˈlɑdʒɪkl/",
+   "pos": "adj.",
+   "cn": "心理的"
+  },
+  {
+   "id": 883,
+   "word": "credible",
+   "uk": "/ˈkredəbl/",
+   "us": "/ˈkrɛdəbl/",
+   "pos": "adj.",
+   "cn": "可信的；可靠的"
+  },
+  {
+   "id": 884,
+   "word": "empirical",
+   "uk": "/ɪmˈpɪrɪkl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "以经验为依据的；经验主义的；经验的"
+  },
+  {
+   "id": 885,
+   "word": "commit",
+   "uk": "/kəˈmɪt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "犯；干；使承诺；把…托付给；调拨…供使用；拨出"
+  },
+  {
+   "id": 886,
+   "word": "curb",
+   "uk": "/kɜːb/",
+   "us": "/kɝb/",
+   "pos": "vt.,n.",
+   "cn": "控制；约束；控制；约束；路缘"
+  },
+  {
+   "id": 887,
+   "word": "crash",
+   "uk": "/kræʃ/",
+   "us": "",
+   "pos": "vi.,vt.,n.",
+   "cn": "倒下；坠落；发出撞击声；垮台；破产；碰撞；砸碎；冲；闯；碰撞；破裂声"
+  },
+  {
+   "id": 888,
+   "word": "character",
+   "uk": "/ˈkærəktə/",
+   "us": "/ˈkærɪktɚ/",
+   "pos": "n.",
+   "cn": "性格；特性；性质；人物；角色；符号；字"
+  },
+  {
+   "id": 889,
+   "word": "reflect",
+   "uk": "/rɪˈflekt/",
+   "us": "/rɪˈflɛkt/",
+   "pos": "v.",
+   "cn": "反映；显示；反射；映现；深思；考虑；反省"
+  },
+  {
+   "id": 890,
+   "word": "outfit",
+   "uk": "/ˈautfɪt/",
+   "us": "/ˈaʊtfɪt/",
+   "pos": "n.",
+   "cn": "全套服装；一组人；全套装备；全套工具"
+  },
+  {
+   "id": 891,
+   "word": "contribution",
+   "uk": "/ˌkɒntrɪˈbjuːʃn/",
+   "us": "/,kɑntrɪˈbjuʃən/",
+   "pos": "n.",
+   "cn": "贡献；促成作用；捐款；捐献物；稿件"
+  },
+  {
+   "id": 892,
+   "word": "ongoing",
+   "uk": "/ˈɒngəuɪŋ/",
+   "us": "/ˈɑnɡoɪŋ/",
+   "pos": "adj.",
+   "cn": "持续的；继续的"
+  },
+  {
+   "id": 893,
+   "word": "massacre",
+   "uk": "/ˈmæsəkə/",
+   "us": "/ˈmæsəkɚ/",
+   "pos": "vt.,n.",
+   "cn": "大规模屠杀；残杀；彻底击败；大屠杀；残杀；惨败"
+  },
+  {
+   "id": 894,
+   "word": "reassure",
+   "uk": "/ˌriːəˈʃuə/",
+   "us": "/,riəˈʃʊr/",
+   "pos": "vt.",
+   "cn": "使放心"
+  },
+  {
+   "id": 895,
+   "word": "bang",
+   "uk": "/bæŋ/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "猛击；猛撞；发出砰的一声；砰砰地响；砰地敲；巨响；枪声；猛击"
+  },
+  {
+   "id": 896,
+   "word": "magnetic",
+   "uk": "/mægˈnetɪk/",
+   "us": "/mægˈnɛtɪk/",
+   "pos": "adj.",
+   "cn": "磁的；有吸引力的"
+  },
+  {
+   "id": 897,
+   "word": "cholesterol",
+   "uk": "/kəˈlestərɒl/",
+   "us": "/kəˈlɛstərɔl/",
+   "pos": "n.",
+   "cn": "胆固醇"
+  },
+  {
+   "id": 898,
+   "word": "orbit",
+   "uk": "/ˈɔːbɪt/",
+   "us": "/ˈɔrbɪt/",
+   "pos": "n.,vt.",
+   "cn": "轨道；作轨道运行"
+  },
+  {
+   "id": 899,
+   "word": "band",
+   "uk": "/bænd/",
+   "us": "",
+   "pos": "n.,vt.",
+   "cn": "乐队；群；伙；带；条纹；波段；用带绑扎"
+  },
+  {
+   "id": 900,
+   "word": "negligible",
+   "uk": "/ˈneglɪdʒəbl/",
+   "us": "/ˈnɛɡlɪdʒəbl/",
+   "pos": "adj.",
+   "cn": "可忽略不计的；微不足道的"
+  }
+ ]
+}

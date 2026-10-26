@@ -1,0 +1,246 @@
+{
+ "day": 61,
+ "date": null,
+ "words": [
+  {
+   "id": 1801,
+   "word": "popularity",
+   "uk": "/ˌpɒpjuˈlærəti/",
+   "us": "/,pɑpjuˈlærəti/",
+   "pos": "n.",
+   "cn": "普及；流行；声望"
+  },
+  {
+   "id": 1802,
+   "word": "nickname",
+   "uk": "/ˈnɪkneɪm/",
+   "us": "/ˈnɪkˈnem/",
+   "pos": "n.,vt.",
+   "cn": "绰号；诨名；给…起绰号"
+  },
+  {
+   "id": 1803,
+   "word": "subsequent",
+   "uk": "/ˈsʌbsɪkwənt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "随后的；后来的"
+  },
+  {
+   "id": 1804,
+   "word": "metabolic",
+   "uk": "/ˌmetəˈbɒlɪk/",
+   "us": "/,mɛtəˈbɑlɪk/",
+   "pos": "adj.",
+   "cn": "代谢作用的；新陈代谢的"
+  },
+  {
+   "id": 1805,
+   "word": "humanity",
+   "uk": "/hjuːˈmænəti/",
+   "us": "/hjʊˈmænəti/",
+   "pos": "n.",
+   "cn": "人类；人；人性；人道；博爱；人文学科"
+  },
+  {
+   "id": 1806,
+   "word": "innovation",
+   "uk": "/ˌɪnəˈveɪʃn/",
+   "us": "/,ɪnəˈveʃən/",
+   "pos": "n.",
+   "cn": "新方法；新事物；革新；创新"
+  },
+  {
+   "id": 1807,
+   "word": "litter",
+   "uk": "/ˈlɪtə/",
+   "us": "/ˈlɪtɚ/",
+   "pos": "vi.,vt.,n.",
+   "cn": "乱扔废弃物；乱扔东西；废弃物；被胡乱扔掉的东西；一窝；杂乱的东西"
+  },
+  {
+   "id": 1808,
+   "word": "charge",
+   "uk": "/tʃɑːdʒ/",
+   "us": "/tʃɑrdʒ/",
+   "pos": "v.,n.",
+   "cn": "索价；控告；使充电；使充满；向前冲；费用；管理；控告；指责；电荷；充电"
+  },
+  {
+   "id": 1809,
+   "word": "shutter",
+   "uk": "/ˈʃʌtə/",
+   "us": "/ˈʃʌtɚ/",
+   "pos": "n.",
+   "cn": "百叶窗；快门"
+  },
+  {
+   "id": 1810,
+   "word": "alternate",
+   "uk": "/ˈɔ:ltəneɪt;(foradj.)ɔ:lˈtɜ:nət/",
+   "us": "/ˈɔltɚˌnet;(foradj.)ˈɔ:ltərnət/",
+   "pos": "adj.,v.",
+   "cn": "交替的；轮流的；间隔的；轮流；交替"
+  },
+  {
+   "id": 1811,
+   "word": "biography",
+   "uk": "/baɪˈɒgrəfi/",
+   "us": "/baɪˈɑɡrəfi/",
+   "pos": "n.",
+   "cn": "传记"
+  },
+  {
+   "id": 1812,
+   "word": "procedure",
+   "uk": "/prəˈsiːdʒə/",
+   "us": "/prəˈsidʒɚ/",
+   "pos": "n.",
+   "cn": "程序；手续；步骤"
+  },
+  {
+   "id": 1813,
+   "word": "sample",
+   "uk": "/ˈsɑːmpl/",
+   "us": "/ˈsæmpl/",
+   "pos": "n.,vt.",
+   "cn": "样品；试样；样本；从…抽样；品尝；体验"
+  },
+  {
+   "id": 1814,
+   "word": "plunge",
+   "uk": "/plʌndʒ/",
+   "us": "",
+   "pos": "vi.,n.",
+   "cn": "纵身投入；猛冲；猛跌"
+  },
+  {
+   "id": 1815,
+   "word": "skeptical",
+   "uk": "/ˈskeptɪkl/",
+   "us": "/ˈskɛptɪkl/",
+   "pos": "adj.",
+   "cn": "表示怀疑的"
+  },
+  {
+   "id": 1816,
+   "word": "ultraviolet",
+   "uk": "/ˌʌltrəˈvaɪələt/",
+   "us": "/,ʌltrəˈvaɪələt/",
+   "pos": "adj.",
+   "cn": "紫外的"
+  },
+  {
+   "id": 1817,
+   "word": "planetary",
+   "uk": "/ˈplænətri/",
+   "us": "/ˈplænətɛri/",
+   "pos": "n.",
+   "cn": "行星的"
+  },
+  {
+   "id": 1818,
+   "word": "visa",
+   "uk": "/ˈviːzə/",
+   "us": "/ˈvizə/",
+   "pos": "n.",
+   "cn": "签证"
+  },
+  {
+   "id": 1819,
+   "word": "diagnose",
+   "uk": "/ˈdaɪəgnəuz/",
+   "us": "/,daɪəɡˈnos/",
+   "pos": "vt.",
+   "cn": "诊断；判断"
+  },
+  {
+   "id": 1820,
+   "word": "petition",
+   "uk": "/pəˈtɪʃn/",
+   "us": "/pəˈtɪʃən/",
+   "pos": "v.,n.",
+   "cn": "请愿；正式请求；请愿书；申请书；诉状"
+  },
+  {
+   "id": 1821,
+   "word": "vicinity",
+   "uk": "/vəˈsɪnəti/",
+   "us": "",
+   "pos": "n.",
+   "cn": "周围地区；邻近地区"
+  },
+  {
+   "id": 1822,
+   "word": "naive",
+   "uk": "/naɪˈiːv/",
+   "us": "/naɪˈiv/",
+   "pos": "adj.",
+   "cn": "幼稚的；天真的；轻信的"
+  },
+  {
+   "id": 1823,
+   "word": "essential",
+   "uk": "/ɪˈsenʃl/",
+   "us": "/ɪˈsɛnʃl/",
+   "pos": "adj.,n.",
+   "cn": "必要的；本质的；要素；必需品"
+  },
+  {
+   "id": 1824,
+   "word": "expenditure",
+   "uk": "/ɪkˈspendɪtʃə/",
+   "us": "/ɪkˈspɛndɪtʃɚ/",
+   "pos": "n.",
+   "cn": "经费；支出额；花费；支出；消耗"
+  },
+  {
+   "id": 1825,
+   "word": "vent",
+   "uk": "/vent/",
+   "us": "/vɛnt/",
+   "pos": "n.,vt.",
+   "cn": "通风口；排放口；开衩；表达；发泄"
+  },
+  {
+   "id": 1826,
+   "word": "haunt",
+   "uk": "/hɔːnt/",
+   "us": "/hɔnt/",
+   "pos": "vt.,n.",
+   "cn": "常出没于；使苦恼；使担忧；萦绕在心头；缠绕；常去的地方"
+  },
+  {
+   "id": 1827,
+   "word": "precede",
+   "uk": "/prɪˈsiːd/",
+   "us": "/prɪˈsid/",
+   "pos": "vt.",
+   "cn": "在…之前；先于"
+  },
+  {
+   "id": 1828,
+   "word": "gasp",
+   "uk": "/gɑːsp/",
+   "us": "/ɡæsp/",
+   "pos": "vi.,vt.,n.",
+   "cn": "喘气；倒抽气；喘着气说出"
+  },
+  {
+   "id": 1829,
+   "word": "stroll",
+   "uk": "/strəul/",
+   "us": "/strol/",
+   "pos": "vi.,n.",
+   "cn": "散步；闲逛"
+  },
+  {
+   "id": 1830,
+   "word": "furnish",
+   "uk": "/ˈfɜːnɪʃ/",
+   "us": "/ˈfɝnɪʃ/",
+   "pos": "vt.",
+   "cn": "供应；提供；装备"
+  }
+ ]
+}

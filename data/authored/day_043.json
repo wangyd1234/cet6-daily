@@ -1,0 +1,365 @@
+{
+  "day": 43,
+  "words": [
+    {
+      "word": "finite",
+      "phr": [
+        {"en": "finite resources", "zh": "有限的资源"},
+        {"en": "a finite number", "zh": "有限的数量"}
+      ],
+      "ex": [
+        {"en": "Clean water is a finite resource that we must protect.",
+         "zh": "清洁的水是有限的资源，我们必须加以保护。"}
+      ],
+      "note": "finite 与 infinite 相对，前缀 in- 表否定。"
+    },
+    {
+      "word": "amend",
+      "phr": [
+        {"en": "amend a law", "zh": "修订法律"},
+        {"en": "amend the constitution", "zh": "修改宪法"}
+      ],
+      "ex": [
+        {"en": "Parliament voted to amend the law last month.",
+         "zh": "议会上个月投票通过了这项法律的修订。"}
+      ],
+      "note": "amend 多指修订法律或文件，比 change 正式。"
+    },
+    {
+      "word": "erupt",
+      "phr": [
+        {"en": "erupt into violence", "zh": "爆发为暴力冲突"},
+        {"en": "a volcano erupts", "zh": "火山喷发"}
+      ],
+      "ex": [
+        {"en": "The volcano erupted for the first time in fifty years.",
+         "zh": "这座火山五十年来第一次喷发。"}
+      ],
+      "note": "erupt 既指火山喷发，也指暴力、掌声等突然爆发。"
+    },
+    {
+      "word": "exquisite",
+      "phr": [
+        {"en": "exquisite craftsmanship", "zh": "精湛的工艺"},
+        {"en": "an exquisite meal", "zh": "精美的一餐"}
+      ],
+      "ex": [
+        {"en": "The wooden box was decorated with exquisite carvings.",
+         "zh": "这个木盒上装饰着精美的雕刻。"}
+      ],
+      "note": "exquisite 强调精细优美，也可表“剧烈的”。"
+    },
+    {
+      "word": "collide",
+      "phr": [
+        {"en": "collide with", "zh": "与…相撞"},
+        {"en": "collide head-on", "zh": "迎面相撞"}
+      ],
+      "ex": [
+        {"en": "Two buses collided on the icy road this morning.",
+         "zh": "今天早上两辆公交车在结冰的路上相撞。"}
+      ],
+      "note": "collide with 表与…相撞，名词为 collision。"
+    },
+    {
+      "word": "remedy",
+      "phr": [
+        {"en": "a remedy for", "zh": "对…的补救办法"},
+        {"en": "a herbal remedy", "zh": "草药疗法"}
+      ],
+      "ex": [
+        {"en": "There is no simple remedy for the housing shortage.",
+         "zh": "住房短缺问题没有简单的解决办法。"}
+      ],
+      "note": "remedy 作动词表“补救”，如 remedy the situation。"
+    },
+    {
+      "word": "cardinal",
+      "phr": [
+        {"en": "a cardinal rule", "zh": "基本准则"},
+        {"en": "a cardinal principle", "zh": "基本原则"}
+      ],
+      "ex": [
+        {"en": "Honesty is a cardinal rule in scientific research.",
+         "zh": "诚实是科学研究的一条基本准则。"}
+      ],
+      "note": "cardinal 表“最重要的”，也指基数与红衣主教。"
+    },
+    {
+      "word": "consent",
+      "phr": [
+        {"en": "give consent", "zh": "表示同意"},
+        {"en": "without consent", "zh": "未经同意"}
+      ],
+      "ex": [
+        {"en": "The patient must give written consent before the operation.",
+         "zh": "手术前病人必须给出书面同意。"}
+      ],
+      "note": "consent 作名词不可数，常用 give consent。"
+    },
+    {
+      "word": "insist",
+      "phr": [
+        {"en": "insist on", "zh": "坚持要求"},
+        {"en": "insist that", "zh": "坚持认为"}
+      ],
+      "ex": [
+        {"en": "She insisted on paying for the meal herself.",
+         "zh": "她坚持自己付饭钱。"}
+      ],
+      "note": "insist 后接 on doing，也可接 that 从句。"
+    },
+    {
+      "word": "fusion",
+      "phr": [
+        {"en": "nuclear fusion", "zh": "核聚变"},
+        {"en": "a fusion of styles", "zh": "风格的融合"}
+      ],
+      "ex": [
+        {"en": "The new design is a fusion of traditional and modern elements.",
+         "zh": "这个新设计融合了传统与现代元素。"}
+      ],
+      "note": "fusion 指融合或核聚变，动词为 fuse。"
+    },
+    {
+      "word": "volume",
+      "phr": [
+        {"en": "the volume of trade", "zh": "贸易量"},
+        {"en": "turn up the volume", "zh": "调高音量"}
+      ],
+      "ex": [
+        {"en": "The volume of online sales doubled within two years.",
+         "zh": "网上销售额在两年内翻了一番。"}
+      ],
+      "note": "volume 可指音量、容积、卷册，也可指总量。"
+    },
+    {
+      "word": "mutual",
+      "phr": [
+        {"en": "mutual respect", "zh": "相互尊重"},
+        {"en": "by mutual agreement", "zh": "经双方同意"}
+      ],
+      "ex": [
+        {"en": "Their partnership is based on mutual trust and respect.",
+         "zh": "他们的合作建立在相互信任与尊重的基础上。"}
+      ],
+      "note": "mutual 强调双方彼此，mutual friend 指共同的朋友。"
+    },
+    {
+      "word": "therefore",
+      "phr": [
+        {"en": "and therefore", "zh": "因此；所以"},
+        {"en": "therefore conclude", "zh": "因此断定"}
+      ],
+      "ex": [
+        {"en": "The road was closed, and therefore we had to take a detour.",
+         "zh": "道路封闭了，因此我们只好绕行。"}
+      ],
+      "note": "therefore 是正式连接副词，前常加 and 或用分号。"
+    },
+    {
+      "word": "exchange",
+      "phr": [
+        {"en": "exchange rate", "zh": "汇率"},
+        {"en": "in exchange for", "zh": "作为…的交换"}
+      ],
+      "ex": [
+        {"en": "They exchanged phone numbers before leaving the party.",
+         "zh": "他们在离开聚会前交换了电话号码。"}
+      ],
+      "note": "exchange 不用双宾语，说 exchange A for B。"
+    },
+    {
+      "word": "indignant",
+      "phr": [
+        {"en": "be indignant at", "zh": "对…感到愤慨"},
+        {"en": "an indignant letter", "zh": "一封愤慨的信"}
+      ],
+      "ex": [
+        {"en": "She was indignant at the way she had been treated.",
+         "zh": "她对自己受到的待遇感到愤慨。"}
+      ],
+      "note": "indignant 指因不公而愤慨，名词为 indignation。"
+    },
+    {
+      "word": "hesitate",
+      "phr": [
+        {"en": "hesitate to do", "zh": "犹豫做某事"},
+        {"en": "don't hesitate to", "zh": "尽管…不要犹豫"}
+      ],
+      "ex": [
+        {"en": "Please do not hesitate to contact me if you need help.",
+         "zh": "如果需要帮助，请随时联系我，不必犹豫。"}
+      ],
+      "note": "hesitate 后接 to do 或 about doing，不接 doing。"
+    },
+    {
+      "word": "decimal",
+      "phr": [
+        {"en": "decimal point", "zh": "小数点"},
+        {"en": "to three decimal places", "zh": "保留三位小数"}
+      ],
+      "ex": [
+        {"en": "Please round your answer to two decimal places.",
+         "zh": "请把答案保留两位小数。"}
+      ],
+      "note": "decimal place 指小数位，小数点说 decimal point。"
+    },
+    {
+      "word": "cynical",
+      "phr": [
+        {"en": "be cynical about", "zh": "对…持怀疑态度"},
+        {"en": "a cynical view", "zh": "愤世嫉俗的看法"}
+      ],
+      "ex": [
+        {"en": "Many young people have become cynical about politics.",
+         "zh": "许多年轻人对政治变得愤世嫉俗。"}
+      ],
+      "note": "cynical 指不相信他人真诚，名词为 cynic 或 cynicism。"
+    },
+    {
+      "word": "ventilate",
+      "phr": [
+        {"en": "ventilate a room", "zh": "给房间通风"},
+        {"en": "a well-ventilated room", "zh": "通风良好的房间"}
+      ],
+      "ex": [
+        {"en": "You should ventilate the room after painting the walls.",
+         "zh": "刷完墙后你应该给房间通通风。"}
+      ],
+      "note": "ventilate 指使通风，也表“公开讨论”，名词 ventilation。"
+    },
+    {
+      "word": "scoop",
+      "phr": [
+        {"en": "a scoop of ice cream", "zh": "一球冰淇淋"},
+        {"en": "scoop up", "zh": "舀起；一把抱起"}
+      ],
+      "ex": [
+        {"en": "He scooped up the coins from the table.",
+         "zh": "他把桌上的硬币一把抓了起来。"}
+      ],
+      "note": "scoop 在新闻中指抢先获得的独家报道。"
+    },
+    {
+      "word": "companion",
+      "phr": [
+        {"en": "a faithful companion", "zh": "忠实的伴侣"},
+        {"en": "a travelling companion", "zh": "旅伴"}
+      ],
+      "ex": [
+        {"en": "The old dog had been his faithful companion for years.",
+         "zh": "这条老狗多年来一直是他忠实的伙伴。"}
+      ],
+      "note": "companion 指同伴，a companion to sb 表某人的伙伴。"
+    },
+    {
+      "word": "culminate",
+      "phr": [
+        {"en": "culminate in", "zh": "以…告终"},
+        {"en": "culminate with", "zh": "以…收尾"}
+      ],
+      "ex": [
+        {"en": "The festival culminated in a spectacular firework display.",
+         "zh": "节庆活动以一场壮观的烟火表演告终。"}
+      ],
+      "note": "culminate 常与 in 连用，表最终达到某一结果。"
+    },
+    {
+      "word": "breakdown",
+      "phr": [
+        {"en": "a nervous breakdown", "zh": "精神崩溃"},
+        {"en": "a breakdown in communication", "zh": "沟通中断"}
+      ],
+      "ex": [
+        {"en": "A serious breakdown in communication caused the long delay.",
+         "zh": "严重的沟通中断造成了长时间的延误。"}
+      ],
+      "note": "breakdown 指故障或关系破裂，动词短语为 break down。"
+    },
+    {
+      "word": "directory",
+      "phr": [
+        {"en": "a telephone directory", "zh": "电话簿"},
+        {"en": "a business directory", "zh": "企业名录"}
+      ],
+      "ex": [
+        {"en": "She found the number in the telephone directory.",
+         "zh": "她在电话簿里找到了那个号码。"}
+      ],
+      "note": "directory 指名录簿，电脑中的文件夹也叫 directory。"
+    },
+    {
+      "word": "behave",
+      "phr": [
+        {"en": "behave well", "zh": "表现良好"},
+        {"en": "behave yourself", "zh": "规矩点"}
+      ],
+      "ex": [
+        {"en": "The children behaved very well during the long journey.",
+         "zh": "孩子们在长途旅行中表现得很好。"}
+      ],
+      "note": "behave 可表举止，也可表机器运转，如 behave badly。"
+    },
+    {
+      "word": "accomplish",
+      "phr": [
+        {"en": "accomplish a task", "zh": "完成任务"},
+        {"en": "accomplish a goal", "zh": "实现目标"}
+      ],
+      "ex": [
+        {"en": "She accomplished more in one year than most do in five.",
+         "zh": "她一年取得的成就超过大多数人五年的成果。"}
+      ],
+      "note": "accomplish 常与 task、goal 搭配，重音在第二音节。"
+    },
+    {
+      "word": "strand",
+      "phr": [
+        {"en": "a strand of hair", "zh": "一缕头发"},
+        {"en": "be stranded abroad", "zh": "滞留国外"}
+      ],
+      "ex": [
+        {"en": "A single strand of hair was found at the scene.",
+         "zh": "现场发现了一根头发。"}
+      ],
+      "note": "strand 指一缕一股，动词常用被动 be stranded 表滞留。"
+    },
+    {
+      "word": "constituent",
+      "phr": [
+        {"en": "the constituent parts", "zh": "各个组成部分"},
+        {"en": "constituent elements", "zh": "构成要素"}
+      ],
+      "ex": [
+        {"en": "Each constituent part of the machine was tested separately.",
+         "zh": "机器的每个组成部分都单独做了检测。"}
+      ],
+      "note": "constituent 作名词指成分或选民，作形容词表“组成的”。"
+    },
+    {
+      "word": "engine",
+      "phr": [
+        {"en": "a car engine", "zh": "汽车发动机"},
+        {"en": "start the engine", "zh": "启动发动机"}
+      ],
+      "ex": [
+        {"en": "The car engine started at the first attempt.",
+         "zh": "汽车发动机一打就着了。"}
+      ],
+      "note": "engine 也可指火车头，网络搜索工具叫 search engine。"
+    },
+    {
+      "word": "irritate",
+      "phr": [
+        {"en": "irritate the skin", "zh": "刺激皮肤"},
+        {"en": "be irritated by", "zh": "被…惹恼"}
+      ],
+      "ex": [
+        {"en": "The smoke irritated her eyes and made her cough.",
+         "zh": "烟刺激了她的眼睛，让她咳了起来。"}
+      ],
+      "note": "irritate 既表使人恼火，也表刺激皮肤，名词 irritation。"
+    }
+  ]
+}

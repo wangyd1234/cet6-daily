@@ -1,0 +1,365 @@
+{
+  "day": 67,
+  "words": [
+    {
+      "word": "chronic",
+      "phr": [
+        {"en": "chronic disease", "zh": "慢性病"},
+        {"en": "chronic shortage", "zh": "长期短缺"}
+      ],
+      "ex": [
+        {"en": "The city faces a chronic shortage of affordable housing.",
+         "zh": "这座城市长期缺乏可负担的住房。"}
+      ],
+      "note": "chronic 指长期的、慢性的，反义词为 acute（急性的）。"
+    },
+    {
+      "word": "toxic",
+      "phr": [
+        {"en": "toxic waste", "zh": "有毒废料"},
+        {"en": "toxic substance", "zh": "有毒物质"}
+      ],
+      "ex": [
+        {"en": "The factory was fined for dumping toxic waste into the river.",
+         "zh": "该工厂因向河中倾倒有毒废料而被罚款。"}
+      ],
+      "note": "toxic 指有毒的，源自 toxin（毒素），可引申为有害的。"
+    },
+    {
+      "word": "contest",
+      "phr": [
+        {"en": "enter a contest", "zh": "参加比赛"},
+        {"en": "contest the decision", "zh": "质疑这一决定"}
+      ],
+      "ex": [
+        {"en": "Hundreds of students entered the speech contest this year.",
+         "zh": "今年有数百名学生参加了演讲比赛。"}
+      ],
+      "note": "contest 作名词重音在前，作动词重音在后，意为质疑。"
+    },
+    {
+      "word": "author",
+      "phr": [
+        {"en": "best-selling author", "zh": "畅销书作家"},
+        {"en": "the author of the novel", "zh": "这部小说的作者"}
+      ],
+      "ex": [
+        {"en": "The author spent five years collecting material for the book.",
+         "zh": "这位作者花了五年时间为这本书收集素材。"}
+      ],
+      "note": "author 指作者、著作家，比 writer 更正式。"
+    },
+    {
+      "word": "lever",
+      "phr": [
+        {"en": "pull the lever", "zh": "拉动操纵杆"},
+        {"en": "use sth as a lever", "zh": "把某物当作手段"}
+      ],
+      "ex": [
+        {"en": "He pulled the lever and the heavy door slowly opened.",
+         "zh": "他一拉操纵杆，沉重的门慢慢打开了。"}
+      ],
+      "note": "lever 指杠杆，也可喻为施加影响的手段或筹码。"
+    },
+    {
+      "word": "preserve",
+      "phr": [
+        {"en": "preserve the environment", "zh": "保护环境"},
+        {"en": "preserve traditional culture", "zh": "保护传统文化"}
+      ],
+      "ex": [
+        {"en": "The village has worked hard to preserve its traditional culture.",
+         "zh": "这个村庄一直努力保护自己的传统文化。"}
+      ],
+      "note": "preserve 强调保持原状、免遭破坏，也可指腌制食物。"
+    },
+    {
+      "word": "establish",
+      "phr": [
+        {"en": "establish a company", "zh": "创办公司"},
+        {"en": "establish a relationship", "zh": "建立关系"}
+      ],
+      "ex": [
+        {"en": "The two universities established a joint research center last year.",
+         "zh": "这两所大学去年成立了一个联合研究中心。"}
+      ],
+      "note": "establish 后接机构、关系、事实等，注意词尾是 -ish。"
+    },
+    {
+      "word": "expansion",
+      "phr": [
+        {"en": "economic expansion", "zh": "经济扩张"},
+        {"en": "expansion plan", "zh": "扩张计划"}
+      ],
+      "ex": [
+        {"en": "Rapid expansion brought the company new markets and new problems.",
+         "zh": "快速扩张给公司带来了新市场，也带来了新问题。"}
+      ],
+      "note": "expansion 来自 expand，注意与 expenditure（支出）区分。"
+    },
+    {
+      "word": "wrench",
+      "phr": [
+        {"en": "wrench open the door", "zh": "猛力拉开门"},
+        {"en": "monkey wrench", "zh": "活动扳手"}
+      ],
+      "ex": [
+        {"en": "He wrenched the door open and rushed out of the burning room.",
+         "zh": "他猛地拉开门，冲出燃烧的房间。"}
+      ],
+      "note": "wrench 指猛扭，也指扳手，过去式为 wrenched。"
+    },
+    {
+      "word": "relevant",
+      "phr": [
+        {"en": "be relevant to", "zh": "与…相关"},
+        {"en": "relevant information", "zh": "相关信息"}
+      ],
+      "ex": [
+        {"en": "Please include only information that is relevant to the question.",
+         "zh": "请只写与问题相关的信息。"}
+      ],
+      "note": "relevant 常与 to 连用，反义词为 irrelevant。"
+    },
+    {
+      "word": "expand",
+      "phr": [
+        {"en": "expand into", "zh": "扩展到"},
+        {"en": "expand rapidly", "zh": "迅速扩张"}
+      ],
+      "ex": [
+        {"en": "The company plans to expand into overseas markets next year.",
+         "zh": "公司计划明年向海外市场扩张。"}
+      ],
+      "note": "expand 可指规模扩大，也可指气体膨胀，名词为 expansion。"
+    },
+    {
+      "word": "gaze",
+      "phr": [
+        {"en": "gaze at", "zh": "凝视"},
+        {"en": "gaze into the distance", "zh": "凝望远方"}
+      ],
+      "ex": [
+        {"en": "She stood at the window and gazed at the falling snow.",
+         "zh": "她站在窗前，凝视着飘落的雪花。"}
+      ],
+      "note": "gaze 指长时间凝视，常与 at 连用，比 look 更专注。"
+    },
+    {
+      "word": "proclaim",
+      "phr": [
+        {"en": "proclaim independence", "zh": "宣布独立"},
+        {"en": "proclaim a state of emergency", "zh": "宣布紧急状态"}
+      ],
+      "ex": [
+        {"en": "The government proclaimed a state of emergency after the flood.",
+         "zh": "洪水过后，政府宣布进入紧急状态。"}
+      ],
+      "note": "proclaim 多用于正式宣布重大事项，比 announce 更庄重。"
+    },
+    {
+      "word": "magistrate",
+      "phr": [
+        {"en": "the local magistrate", "zh": "地方法官"},
+        {"en": "appear before a magistrate", "zh": "在地方法官前出庭"}
+      ],
+      "ex": [
+        {"en": "The case was heard by a magistrate in the small town court.",
+         "zh": "此案由小镇法庭的一名地方法官审理。"}
+      ],
+      "note": "magistrate 指基层法官或治安官，处理较轻的案件。"
+    },
+    {
+      "word": "retrieve",
+      "phr": [
+        {"en": "retrieve data", "zh": "检索数据"},
+        {"en": "retrieve the ball", "zh": "把球捡回来"}
+      ],
+      "ex": [
+        {"en": "The program can retrieve data from the server in seconds.",
+         "zh": "这个程序能在几秒内从服务器检索数据。"}
+      ],
+      "note": "retrieve 指取回、找回，也指检索数据，名词为 retrieval。"
+    },
+    {
+      "word": "survey",
+      "phr": [
+        {"en": "conduct a survey", "zh": "进行调查"},
+        {"en": "a survey of", "zh": "对…的调查"}
+      ],
+      "ex": [
+        {"en": "Researchers conducted a survey of two thousand college students.",
+         "zh": "研究人员对两千名大学生进行了一项调查。"}
+      ],
+      "note": "survey 作名词重音在前，作动词可指审视，重音偏后。"
+    },
+    {
+      "word": "jeopardize",
+      "phr": [
+        {"en": "jeopardize one's career", "zh": "危及事业"},
+        {"en": "jeopardize one's health", "zh": "危害健康"}
+      ],
+      "ex": [
+        {"en": "Skipping safety checks could jeopardize the lives of the crew.",
+         "zh": "跳过安全检查可能会危及机组人员的生命。"}
+      ],
+      "note": "jeopardize 由 jeopardy（危险）加 -ize 构成，意为危及。"
+    },
+    {
+      "word": "spy",
+      "phr": [
+        {"en": "spy on sb", "zh": "暗中监视某人"},
+        {"en": "industrial spy", "zh": "商业间谍"}
+      ],
+      "ex": [
+        {"en": "The neighbors complained that someone was spying on them at night.",
+         "zh": "邻居们抱怨有人在夜里监视他们。"}
+      ],
+      "note": "spy 作动词常用 spy on sb，作名词指间谍。"
+    },
+    {
+      "word": "displace",
+      "phr": [
+        {"en": "displaced people", "zh": "流离失所的人"},
+        {"en": "displace workers", "zh": "取代工人"}
+      ],
+      "ex": [
+        {"en": "Rising sea levels could displace thousands of people along the coast.",
+         "zh": "海平面上升可能使沿海数千人被迫迁移。"}
+      ],
+      "note": "displace 指取代或迫使迁离原处，名词为 displacement。"
+    },
+    {
+      "word": "predominant",
+      "phr": [
+        {"en": "the predominant view", "zh": "主流观点"},
+        {"en": "a predominant role", "zh": "主导作用"}
+      ],
+      "ex": [
+        {"en": "Agriculture remains the predominant industry in this part of the country.",
+         "zh": "农业仍然是该国这一地区的主导产业。"}
+      ],
+      "note": "predominant 指占主导地位的，名词为 predominance。"
+    },
+    {
+      "word": "recipe",
+      "phr": [
+        {"en": "a recipe for success", "zh": "成功的诀窍"},
+        {"en": "follow a recipe", "zh": "照着食谱做"}
+      ],
+      "ex": [
+        {"en": "This soup is easy to make if you follow the recipe carefully.",
+         "zh": "只要照着食谱仔细做，这道汤很容易做。"}
+      ],
+      "note": "recipe 指食谱，也比喻方法，a recipe for 后常接灾难。"
+    },
+    {
+      "word": "ideology",
+      "phr": [
+        {"en": "political ideology", "zh": "政治意识形态"},
+        {"en": "dominant ideology", "zh": "主流意识形态"}
+      ],
+      "ex": [
+        {"en": "The two parties differ sharply in their political ideology.",
+         "zh": "两党在政治意识形态上差异很大。"}
+      ],
+      "note": "ideology 指系统的思想观念体系，常与 political 连用。"
+    },
+    {
+      "word": "mental",
+      "phr": [
+        {"en": "mental health", "zh": "心理健康"},
+        {"en": "mental illness", "zh": "精神疾病"}
+      ],
+      "ex": [
+        {"en": "Schools are paying more attention to students' mental health.",
+         "zh": "学校越来越关注学生的心理健康。"}
+      ],
+      "note": "mental 指心理的、精神的，与 physical（身体的）相对。"
+    },
+    {
+      "word": "decent",
+      "phr": [
+        {"en": "a decent job", "zh": "一份像样的工作"},
+        {"en": "decent housing", "zh": "像样的住房"}
+      ],
+      "ex": [
+        {"en": "Everyone deserves a decent job and a safe place to live.",
+         "zh": "每个人都应有一份像样的工作和安全的住所。"}
+      ],
+      "note": "decent 指还过得去的、得体的，注意别与 descent 混用。"
+    },
+    {
+      "word": "seam",
+      "phr": [
+        {"en": "burst at the seams", "zh": "胀得快要裂开"},
+        {"en": "coal seam", "zh": "煤层"}
+      ],
+      "ex": [
+        {"en": "The old tent was leaking along every seam after the storm.",
+         "zh": "暴风雨过后，旧帐篷的每条接缝都在漏水。"}
+      ],
+      "note": "seam 指缝线、接缝，burst at the seams 指过于拥挤。"
+    },
+    {
+      "word": "investigate",
+      "phr": [
+        {"en": "investigate the case", "zh": "调查案件"},
+        {"en": "investigate the cause of", "zh": "调查…的原因"}
+      ],
+      "ex": [
+        {"en": "Police will investigate the cause of the fire in the warehouse.",
+         "zh": "警方将调查仓库失火的原因。"}
+      ],
+      "note": "investigate 后直接接宾语，名词为 investigation。"
+    },
+    {
+      "word": "racial",
+      "phr": [
+        {"en": "racial discrimination", "zh": "种族歧视"},
+        {"en": "racial equality", "zh": "种族平等"}
+      ],
+      "ex": [
+        {"en": "The law was passed to end racial discrimination in hiring.",
+         "zh": "该法律旨在终止招聘中的种族歧视。"}
+      ],
+      "note": "racial 来自 race（种族），注意与 ethnic（民族的）区分。"
+    },
+    {
+      "word": "illusion",
+      "phr": [
+        {"en": "an optical illusion", "zh": "视错觉"},
+        {"en": "the illusion of", "zh": "…的假象"}
+      ],
+      "ex": [
+        {"en": "The mirror created the illusion that the room was twice its size.",
+         "zh": "镜子造成假象，仿佛房间大了一倍。"}
+      ],
+      "note": "illusion 指错觉、假象；delusion 指精神上的妄想。"
+    },
+    {
+      "word": "considerable",
+      "phr": [
+        {"en": "a considerable amount of", "zh": "相当多的"},
+        {"en": "considerable influence", "zh": "相当大的影响"}
+      ],
+      "ex": [
+        {"en": "The project required a considerable amount of time and money.",
+         "zh": "这个项目需要大量的时间和金钱。"}
+      ],
+      "note": "considerable 意为相当大的；considerate 意为体贴的。"
+    },
+    {
+      "word": "productivity",
+      "phr": [
+        {"en": "increase productivity", "zh": "提高生产率"},
+        {"en": "labour productivity", "zh": "劳动生产率"}
+      ],
+      "ex": [
+        {"en": "New machinery greatly increased the factory's productivity last year.",
+         "zh": "新机器大大提高了工厂去年的生产率。"}
+      ],
+      "note": "productivity 指生产率，由 productive 加 -ity 构成。"
+    }
+  ]
+}

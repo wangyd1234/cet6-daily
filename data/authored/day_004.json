@@ -1,0 +1,365 @@
+{
+  "day": 4,
+  "words": [
+    {
+      "word": "implement",
+      "phr": [
+        {"en": "implement a plan", "zh": "实施计划"},
+        {"en": "implement a policy", "zh": "执行政策"}
+      ],
+      "ex": [
+        {"en": "The government plans to implement the new policy early next year.",
+         "zh": "政府计划明年年初实施这项新政策。"}
+      ],
+      "note": "implement 作动词重音在首音节；名词是 implementation。"
+    },
+    {
+      "word": "disperse",
+      "phr": [
+        {"en": "disperse the crowd", "zh": "驱散人群"},
+        {"en": "disperse quickly", "zh": "迅速散开"}
+      ],
+      "ex": [
+        {"en": "The police asked the crowd to disperse after the concert ended.",
+         "zh": "音乐会结束后，警察要求人群散去。"}
+      ],
+      "note": "disperse 与 scatter 近义，disperse 更正式，多指人群散开。"
+    },
+    {
+      "word": "avert",
+      "phr": [
+        {"en": "avert a crisis", "zh": "避免危机"},
+        {"en": "avert one's eyes", "zh": "把目光移开"}
+      ],
+      "ex": [
+        {"en": "Quick action by the pilot averted a serious accident.",
+         "zh": "飞行员的果断操作避免了一场严重事故。"}
+      ],
+      "note": "avert 后接灾难类名词表避免；avert one's eyes 是移开视线。"
+    },
+    {
+      "word": "fantasy",
+      "phr": [
+        {"en": "live in a fantasy world", "zh": "活在幻想中"},
+        {"en": "a childhood fantasy", "zh": "童年的幻想"}
+      ],
+      "ex": [
+        {"en": "He still lives in a fantasy world where everything goes his way.",
+         "zh": "他仍活在一切顺他心意的幻想世界里。"}
+      ],
+      "note": "fantasy 指脱离现实的想象；形容词 fantastic 意为「极好的」。"
+    },
+    {
+      "word": "shipment",
+      "phr": [
+        {"en": "a shipment of goods", "zh": "一批货物"},
+        {"en": "delay the shipment", "zh": "推迟发货"}
+      ],
+      "ex": [
+        {"en": "The shipment of coffee beans arrived two weeks later than expected.",
+         "zh": "这批咖啡豆比预期晚了两个星期到货。"}
+      ],
+      "note": "shipment 兼指「装运」和「所运的货物」；动词是 ship。"
+    },
+    {
+      "word": "vicious",
+      "phr": [
+        {"en": "a vicious circle", "zh": "恶性循环"},
+        {"en": "a vicious attack", "zh": "恶毒的攻击"}
+      ],
+      "ex": [
+        {"en": "Cutting prices led to a vicious circle of falling profits.",
+         "zh": "降价导致了利润下滑的恶性循环。"}
+      ],
+      "note": "vicious circle 恶性循环，是六级常见固定搭配。"
+    },
+    {
+      "word": "lace",
+      "phr": [
+        {"en": "lace up one's shoes", "zh": "系好鞋带"},
+        {"en": "a lace dress", "zh": "蕾丝连衣裙"}
+      ],
+      "ex": [
+        {"en": "She laced up her boots and stepped out into the snow.",
+         "zh": "她系好靴子，走进了雪地里。"}
+      ],
+      "note": "lace 作名词指鞋带、花边；作动词常与 up 连用。"
+    },
+    {
+      "word": "enormous",
+      "phr": [
+        {"en": "an enormous amount of", "zh": "大量的"},
+        {"en": "an enormous success", "zh": "巨大的成功"}
+      ],
+      "ex": [
+        {"en": "The project required an enormous amount of time and money.",
+         "zh": "这个项目需要投入大量的时间和金钱。"}
+      ],
+      "note": "enorm-（巨大）；enormous 可修饰具体或抽象事物。"
+    },
+    {
+      "word": "external",
+      "phr": [
+        {"en": "external pressure", "zh": "外部压力"},
+        {"en": "for external use only", "zh": "仅供外用"}
+      ],
+      "ex": [
+        {"en": "The report was written by an external expert, not a company employee.",
+         "zh": "这份报告由外聘专家撰写，并非公司员工。"}
+      ],
+      "note": "extern-（外部）对应 internal（内部）；也指「外来的」。"
+    },
+    {
+      "word": "gorgeous",
+      "phr": [
+        {"en": "a gorgeous view", "zh": "绝美的景色"},
+        {"en": "a gorgeous day", "zh": "天气极好的一天"}
+      ],
+      "ex": [
+        {"en": "From the top of the hill we had a gorgeous view of the valley.",
+         "zh": "从山顶上，我们看到山谷的绝美景色。"}
+      ],
+      "note": "gorgeous 口语中常表「极好的」，语气比 beautiful 强。"
+    },
+    {
+      "word": "circumstance",
+      "phr": [
+        {"en": "under no circumstances", "zh": "决不"},
+        {"en": "in the circumstances", "zh": "在这种情况下"}
+      ],
+      "ex": [
+        {"en": "Under no circumstances should you leave the door unlocked.",
+         "zh": "在任何情况下你都不应不锁门就离开。"}
+      ],
+      "note": "under no circumstances 置于句首时，句子要部分倒装。"
+    },
+    {
+      "word": "authority",
+      "phr": [
+        {"en": "have the authority to", "zh": "有权做…"},
+        {"en": "an authority on", "zh": "…方面的权威"}
+      ],
+      "ex": [
+        {"en": "Only the manager has the authority to approve such large payments.",
+         "zh": "只有经理有权批准这样的大额付款。"}
+      ],
+      "note": "authority 表权力、权威；the authorities 指官方当局。"
+    },
+    {
+      "word": "erosion",
+      "phr": [
+        {"en": "soil erosion", "zh": "水土流失"},
+        {"en": "the erosion of confidence", "zh": "信心的削弱"}
+      ],
+      "ex": [
+        {"en": "Planting trees along the river helps slow down soil erosion.",
+         "zh": "沿河种树有助于减缓水土流失。"}
+      ],
+      "note": "e-（向外）+ ros（咬）→ 逐渐侵蚀掉；动词 erode。"
+    },
+    {
+      "word": "ascend",
+      "phr": [
+        {"en": "ascend the stairs", "zh": "上楼梯"},
+        {"en": "ascend the throne", "zh": "登基"}
+      ],
+      "ex": [
+        {"en": "The balloon slowly ascended into the clear morning sky.",
+         "zh": "气球缓缓升入晴朗的晨空。"}
+      ],
+      "note": "a-（向上）+ scend（爬）→ 上升；反义词 descend。"
+    },
+    {
+      "word": "provided",
+      "phr": [
+        {"en": "provided that", "zh": "假如"},
+        {"en": "provided enough time", "zh": "假如时间充足"}
+      ],
+      "ex": [
+        {"en": "You can borrow the car provided that you return it by six.",
+         "zh": "你可以借用这辆车，只要你六点前还回来。"}
+      ],
+      "note": "provided (that) 引导条件从句，比 if 更正式。"
+    },
+    {
+      "word": "instrument",
+      "phr": [
+        {"en": "a musical instrument", "zh": "乐器"},
+        {"en": "a precision instrument", "zh": "精密仪器"}
+      ],
+      "ex": [
+        {"en": "The piano is the only instrument she has ever learned to play.",
+         "zh": "钢琴是她唯一学过演奏的乐器。"}
+      ],
+      "note": "instrument 指工具、仪器或乐器；instrumental 表「起作用的」。"
+    },
+    {
+      "word": "medium",
+      "phr": [
+        {"en": "a medium-sized company", "zh": "中型公司"},
+        {"en": "a medium of communication", "zh": "交流媒介"}
+      ],
+      "ex": [
+        {"en": "English serves as a medium of communication at many international meetings.",
+         "zh": "英语在许多国际会议上是交流媒介。"}
+      ],
+      "note": "medium 复数为 media；a medium-sized 表「中号的」。"
+    },
+    {
+      "word": "indispensable",
+      "phr": [
+        {"en": "be indispensable to", "zh": "对…必不可少"},
+        {"en": "an indispensable part", "zh": "不可或缺的部分"}
+      ],
+      "ex": [
+        {"en": "A good dictionary is indispensable to anyone learning a foreign language.",
+         "zh": "一本好词典对学外语的人来说必不可少。"}
+      ],
+      "note": "in-（不）+ dispens（免除）+ -able → 不可或缺；后接 to。"
+    },
+    {
+      "word": "lens",
+      "phr": [
+        {"en": "a camera lens", "zh": "相机镜头"},
+        {"en": "contact lenses", "zh": "隐形眼镜"}
+      ],
+      "ex": [
+        {"en": "He cleaned the lens of his camera before taking the photo.",
+         "zh": "拍照前他擦干净了相机的镜头。"}
+      ],
+      "note": "lens 复数 lenses；contact lenses 指隐形眼镜。"
+    },
+    {
+      "word": "embody",
+      "phr": [
+        {"en": "embody the spirit of", "zh": "体现…的精神"},
+        {"en": "embody an idea", "zh": "体现一种理念"}
+      ],
+      "ex": [
+        {"en": "The old bridge is said to embody the history of the small town.",
+         "zh": "据说这座老桥体现了这个小镇的历史。"}
+      ],
+      "note": "em-（使进入）+ body → 使理念具象化、体现。"
+    },
+    {
+      "word": "fatal",
+      "phr": [
+        {"en": "a fatal accident", "zh": "致命事故"},
+        {"en": "a fatal mistake", "zh": "致命的错误"}
+      ],
+      "ex": [
+        {"en": "One fatal mistake in the experiment destroyed months of careful work.",
+         "zh": "实验中一个致命错误毁掉了数月的细致工作。"}
+      ],
+      "note": "fatal 表致命的；fate 是命运，fatal 也可指决定性的。"
+    },
+    {
+      "word": "motive",
+      "phr": [
+        {"en": "a motive for", "zh": "…的动机"},
+        {"en": "hidden motives", "zh": "隐藏的动机"}
+      ],
+      "ex": [
+        {"en": "The police could find no motive for the attack.",
+         "zh": "警方找不到袭击的动机。"}
+      ],
+      "note": "motive 后接 for 表动机；动词 motivate，形容词 motivated。"
+    },
+    {
+      "word": "envisage",
+      "phr": [
+        {"en": "envisage doing sth", "zh": "设想做某事"},
+        {"en": "envisage a situation", "zh": "设想一种情况"}
+      ],
+      "ex": [
+        {"en": "Few people could envisage such rapid changes in technology.",
+         "zh": "很少有人能预见到技术如此迅速的变化。"}
+      ],
+      "note": "envisage 后接名词或动名词，不接 to do；美式常用 envision。"
+    },
+    {
+      "word": "wrestle",
+      "phr": [
+        {"en": "wrestle with a problem", "zh": "努力解决问题"},
+        {"en": "wrestle sb to the ground", "zh": "把某人摔倒"}
+      ],
+      "ex": [
+        {"en": "Managers continue to wrestle with the problem of staff shortages.",
+         "zh": "管理者仍在努力应对人手不足的问题。"}
+      ],
+      "note": "wrestle 作名词指摔跤；wrestle with 引申为竭力应对。"
+    },
+    {
+      "word": "motivate",
+      "phr": [
+        {"en": "motivate sb to do sth", "zh": "激励某人做某事"},
+        {"en": "highly motivated", "zh": "积极性很高的"}
+      ],
+      "ex": [
+        {"en": "Good teachers know how to motivate students to work on their own.",
+         "zh": "好老师懂得如何激励学生自主学习。"}
+      ],
+      "note": "motivate sb to do sth；motivated 表「有积极性的」。"
+    },
+    {
+      "word": "marginal",
+      "phr": [
+        {"en": "a marginal difference", "zh": "微小的差别"},
+        {"en": "marginal cost", "zh": "边际成本"}
+      ],
+      "ex": [
+        {"en": "The new tax made only a marginal difference to most families.",
+         "zh": "新税对大多数家庭只产生了微小的影响。"}
+      ],
+      "note": "margin（边缘）+ -al；marginal cost 指边际成本。"
+    },
+    {
+      "word": "spoil",
+      "phr": [
+        {"en": "spoil the fun", "zh": "扫兴"},
+        {"en": "spoil a child", "zh": "宠坏孩子"}
+      ],
+      "ex": [
+        {"en": "Heavy rain spoiled our plan for a picnic by the lake.",
+         "zh": "大雨打乱了我们湖边野餐的计划。"}
+      ],
+      "note": "spoil 过去式有 spoiled 和 spoilt 两种；兼指宠坏与破坏。"
+    },
+    {
+      "word": "multiply",
+      "phr": [
+        {"en": "multiply by", "zh": "乘以"},
+        {"en": "multiply rapidly", "zh": "迅速增加"}
+      ],
+      "ex": [
+        {"en": "If you multiply six by four, the answer is twenty-four.",
+         "zh": "六乘以四，答案是二十四。"}
+      ],
+      "note": "multiply A by B 表 A 乘以 B；也表「繁殖、增加」。"
+    },
+    {
+      "word": "pasture",
+      "phr": [
+        {"en": "green pastures", "zh": "绿色牧场"},
+        {"en": "put animals out to pasture", "zh": "放牧"}
+      ],
+      "ex": [
+        {"en": "The cows were moved to a new pasture with fresh grass.",
+         "zh": "牛群被转移到了一片长着新草的新牧场。"}
+      ],
+      "note": "pasture 指牧草地；greener pastures 引申为更好的去处。"
+    },
+    {
+      "word": "approval",
+      "phr": [
+        {"en": "give one's approval", "zh": "表示同意"},
+        {"en": "meet with approval", "zh": "得到赞同"}
+      ],
+      "ex": [
+        {"en": "The plan cannot go ahead without the approval of the board.",
+         "zh": "没有董事会的批准，这个计划无法推进。"}
+      ],
+      "note": "approve of 表赞成；名词 approval 常与 give、win 连用。"
+    }
+  ]
+}

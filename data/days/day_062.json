@@ -1,0 +1,246 @@
+{
+ "day": 62,
+ "date": null,
+ "words": [
+  {
+   "id": 1831,
+   "word": "differentiate",
+   "uk": "/ˌdɪfəˈrenʃieɪt/",
+   "us": "/,dɪfəˈrɛnʃɪet/",
+   "pos": "vi.,vt.",
+   "cn": "区分；区别；区分；区别；使不同；使有差异"
+  },
+  {
+   "id": 1832,
+   "word": "contact",
+   "uk": "/ˈkɒntækt/",
+   "us": "/ˈkɑntækt/",
+   "pos": "n.,vt.",
+   "cn": "接触；联系；交往；与…接触；与…取得联系"
+  },
+  {
+   "id": 1833,
+   "word": "garment",
+   "uk": "/ˈgɑːmənt/",
+   "us": "/ˈgɑrmənt/",
+   "pos": "n.",
+   "cn": "衣服"
+  },
+  {
+   "id": 1834,
+   "word": "discharge",
+   "uk": "/dɪsˈtʃɑːdʒ/",
+   "us": "/dɪsˈtʃɑrdʒ/",
+   "pos": "v.,n.",
+   "cn": "释放；排出；卸货；释放；放电"
+  },
+  {
+   "id": 1835,
+   "word": "exclude",
+   "uk": "/ɪkˈskluːd/",
+   "us": "/ɪkˈsklʊd/",
+   "pos": "vt.",
+   "cn": "把…排除在外"
+  },
+  {
+   "id": 1836,
+   "word": "scary",
+   "uk": "/ˈskeəri/",
+   "us": "/ˈskɛri/",
+   "pos": "adj.",
+   "cn": "可怕的；骇人的；惊慌的；害怕的；胆小的；易受惊的"
+  },
+  {
+   "id": 1837,
+   "word": "criticism",
+   "uk": "/ˈkrɪtɪsɪzəm/",
+   "us": "/ˈkrɪtəˈsɪzəm/",
+   "pos": "n.",
+   "cn": "批评；批判；评论；评论文章"
+  },
+  {
+   "id": 1838,
+   "word": "enlighten",
+   "uk": "/ɪnˈlaɪtn/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "启发；开导"
+  },
+  {
+   "id": 1839,
+   "word": "utmost",
+   "uk": "/ˈʌtməust/",
+   "us": "/ˈʌtˈmost/",
+   "pos": "adj.,n.",
+   "cn": "最远的；极限"
+  },
+  {
+   "id": 1840,
+   "word": "prospective",
+   "uk": "/prəˈspektɪv/",
+   "us": "/prəˈspɛktɪv/",
+   "pos": "adj.",
+   "cn": "预期的；未来的；可能的"
+  },
+  {
+   "id": 1841,
+   "word": "deduct",
+   "uk": "/dɪˈdʌkt/",
+   "us": "",
+   "pos": "v.",
+   "cn": "减去；扣除"
+  },
+  {
+   "id": 1842,
+   "word": "plaster",
+   "uk": "/ˈplɑːstə/",
+   "us": "/ˈplæstɚ/",
+   "pos": "n.,vt.",
+   "cn": "灰浆；灰泥；石膏；橡皮膏；膏药；在…上抹灰泥；厚厚地涂抹"
+  },
+  {
+   "id": 1843,
+   "word": "consultancy",
+   "uk": "/kənˈsʌltənsi/",
+   "us": "",
+   "pos": "n.",
+   "cn": "顾问；顾问服务公司"
+  },
+  {
+   "id": 1844,
+   "word": "metropolitan",
+   "uk": "/ˌmetrəˈpɒlɪtən/",
+   "us": "/,mɛtrəˈpɑlɪtən/",
+   "pos": "adj.",
+   "cn": "大都市的；大都会的；首都的"
+  },
+  {
+   "id": 1845,
+   "word": "portray",
+   "uk": "/pɔːˈtreɪ/",
+   "us": "/pɔrˈtre/",
+   "pos": "vt.",
+   "cn": "描写；描绘；扮演；饰演"
+  },
+  {
+   "id": 1846,
+   "word": "garbage",
+   "uk": "/ˈgɑːbɪdʒ/",
+   "us": "/ˈɡɑrbɪdʒ/",
+   "pos": "n.",
+   "cn": "垃圾；废物；废话；无用的资料"
+  },
+  {
+   "id": 1847,
+   "word": "suspicious",
+   "uk": "/səˈspɪʃəs/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "猜疑的；疑心的；可疑的；表示怀疑的"
+  },
+  {
+   "id": 1848,
+   "word": "scrub",
+   "uk": "/skrʌb/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "用力擦洗；把…擦净；取消；矮树丛；灌木丛"
+  },
+  {
+   "id": 1849,
+   "word": "complain",
+   "uk": "/kəmˈpleɪn/",
+   "us": "/kəmˈplen/",
+   "pos": "vi.",
+   "cn": "抱怨；诉苦；控告；投诉"
+  },
+  {
+   "id": 1850,
+   "word": "homogeneous",
+   "uk": "/ˌhɒməˈdʒiːniəs/",
+   "us": "/,homəˈdʒinɪəs/",
+   "pos": "adj.",
+   "cn": "同种类的；同性质的；有相同特征的"
+  },
+  {
+   "id": 1851,
+   "word": "affirm",
+   "uk": "/əˈfɜːm/",
+   "us": "/əˈfɝm/",
+   "pos": "vt.",
+   "cn": "断言；坚持声称；证实；确认"
+  },
+  {
+   "id": 1852,
+   "word": "profound",
+   "uk": "/prəˈfaund/",
+   "us": "/prəˈfaʊnd/",
+   "pos": "adj.",
+   "cn": "深度的；深切的；深远的；知识渊博的；见解深刻的；深奥的"
+  },
+  {
+   "id": 1853,
+   "word": "marble",
+   "uk": "/ˈmɑːbl/",
+   "us": "/ˈmɑrbl/",
+   "pos": "n.",
+   "cn": "大理石；弹子；弹子游戏"
+  },
+  {
+   "id": 1854,
+   "word": "anxiety",
+   "uk": "/æŋˈzaɪəti/",
+   "us": "",
+   "pos": "n.",
+   "cn": "焦虑；忧虑；渴望；热望"
+  },
+  {
+   "id": 1855,
+   "word": "adjust",
+   "uk": "/əˈdʒʌst/",
+   "us": "",
+   "pos": "vi.,vt.",
+   "cn": "适应；调整；调节；校正"
+  },
+  {
+   "id": 1856,
+   "word": "aspiration",
+   "uk": "/ˌæspəˈreɪʃn/",
+   "us": "/æspəˈreʃən/",
+   "pos": "n.",
+   "cn": "强烈的愿望；志向；抱负"
+  },
+  {
+   "id": 1857,
+   "word": "vigorous",
+   "uk": "/ˈvɪgərəs/",
+   "us": "/ˈvɪɡərəs/",
+   "pos": "adj.",
+   "cn": "朝气蓬勃的；有力的；用力的"
+  },
+  {
+   "id": 1858,
+   "word": "vocal",
+   "uk": "/ˈvəukl/",
+   "us": "/ˈvokl/",
+   "pos": "adj.,n.",
+   "cn": "喜欢畅所欲言的；直言不讳的；嗓音的；发声的；声乐节目"
+  },
+  {
+   "id": 1859,
+   "word": "deem",
+   "uk": "/diːm/",
+   "us": "/dim/",
+   "pos": "vt.",
+   "cn": "认为；视为"
+  },
+  {
+   "id": 1860,
+   "word": "origin",
+   "uk": "/ˈɒrɪdʒɪn/",
+   "us": "/ˈɔrɪdʒɪn/",
+   "pos": "n.",
+   "cn": "起源；起因；出身；血统"
+  }
+ ]
+}

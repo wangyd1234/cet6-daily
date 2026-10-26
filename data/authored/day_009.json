@@ -1,0 +1,365 @@
+{
+  "day": 9,
+  "words": [
+    {
+      "word": "hawk",
+      "phr": [
+        {"en": "watch someone like a hawk", "zh": "严密监视某人"},
+        {"en": "hawk newspapers", "zh": "沿街叫卖报纸"}
+      ],
+      "ex": [
+        {"en": "The coach watched the young players like a hawk during the whole match.",
+         "zh": "整场比赛中，教练像鹰一样紧盯着年轻球员。"}
+      ],
+      "note": "hawk 作动词指沿街叫卖；watch sb like a hawk 表严密监视。"
+    },
+    {
+      "word": "twist",
+      "phr": [
+        {"en": "twist one's ankle", "zh": "扭伤脚踝"},
+        {"en": "a twist of fate", "zh": "命运的转机"}
+      ],
+      "ex": [
+        {"en": "She twisted her ankle while running down the stairs this morning.",
+         "zh": "今天早上她跑下楼梯时扭伤了脚踝。"}
+      ],
+      "note": "twist one's ankle 指崴脚；twist 也可指转折。"
+    },
+    {
+      "word": "forthcoming",
+      "phr": [
+        {"en": "the forthcoming election", "zh": "即将举行的选举"},
+        {"en": "be forthcoming about sth", "zh": "对某事坦诚相告"}
+      ],
+      "ex": [
+        {"en": "The minister was not forthcoming about his plans for the coming year.",
+         "zh": "部长不愿透露他来年的计划。"}
+      ],
+      "note": "forthcoming 除「即将到来」，还指人「乐于提供信息」，多用于否定句。"
+    },
+    {
+      "word": "patriotic",
+      "phr": [
+        {"en": "patriotic songs", "zh": "爱国歌曲"},
+        {"en": "a patriotic feeling", "zh": "爱国之情"}
+      ],
+      "ex": [
+        {"en": "The old soldiers sang patriotic songs at the memorial ceremony.",
+         "zh": "老兵们在纪念仪式上唱起了爱国歌曲。"}
+      ],
+      "note": "patriot 是爱国者，-ic 构成形容词，patriotism 指爱国主义。"
+    },
+    {
+      "word": "complication",
+      "phr": [
+        {"en": "suffer complications", "zh": "出现并发症"},
+        {"en": "a further complication", "zh": "又一个难题"}
+      ],
+      "ex": [
+        {"en": "The surgery went well, but the patient later developed a serious complication.",
+         "zh": "手术很顺利，但病人后来出现了严重的并发症。"}
+      ],
+      "note": "complication 医学上指「并发症」；动词是 complicate。"
+    },
+    {
+      "word": "perplex",
+      "phr": [
+        {"en": "be perplexed by sth", "zh": "对某事感到困惑"},
+        {"en": "a perplexing problem", "zh": "令人费解的问题"}
+      ],
+      "ex": [
+        {"en": "The students were perplexed by the question and asked for a hint.",
+         "zh": "学生们被这道题难住了，请求给点提示。"}
+      ],
+      "note": "perplex 与 confuse 近义，常用 be perplexed by。"
+    },
+    {
+      "word": "combat",
+      "phr": [
+        {"en": "combat crime", "zh": "打击犯罪"},
+        {"en": "in combat", "zh": "在战斗中"}
+      ],
+      "ex": [
+        {"en": "The government has promised to spend more money on combating pollution.",
+         "zh": "政府承诺投入更多资金治理污染。"}
+      ],
+      "note": "combat 作动词重音在后 /kəmˈbæt/，作名词重音在前；常表示与不良事物斗争。"
+    },
+    {
+      "word": "despise",
+      "phr": [
+        {"en": "despise sb for sth", "zh": "因某事鄙视某人"},
+        {"en": "be despised by others", "zh": "被他人看不起"}
+      ],
+      "ex": [
+        {"en": "She despised him for lying to his own parents.",
+         "zh": "她因他对自己的父母撒谎而看不起他。"}
+      ],
+      "note": "despise 语气强，指轻蔑地看不起，与 hate 的单纯厌恶略有不同。"
+    },
+    {
+      "word": "levy",
+      "phr": [
+        {"en": "levy a tax on sth", "zh": "对某物征税"},
+        {"en": "a levy on imports", "zh": "进口税"}
+      ],
+      "ex": [
+        {"en": "The city plans to levy a tax on empty houses.",
+         "zh": "这座城市计划对空置房屋征税。"}
+      ],
+      "note": "levy a tax on 是固定搭配；levy 作名词时指征收的税款。"
+    },
+    {
+      "word": "indulge",
+      "phr": [
+        {"en": "indulge in self-pity", "zh": "沉溺于自怜"},
+        {"en": "indulge a child", "zh": "纵容孩子"}
+      ],
+      "ex": [
+        {"en": "He rarely indulges in expensive meals, even on his birthday.",
+         "zh": "即使在生日，他也难得吃顿昂贵的大餐。"}
+      ],
+      "note": "indulge in 接名词或动名词；indulge a child 指纵容孩子。"
+    },
+    {
+      "word": "intimidate",
+      "phr": [
+        {"en": "intimidate sb into doing sth", "zh": "恐吓某人做某事"},
+        {"en": "be intimidated by sth", "zh": "被某事吓住"}
+      ],
+      "ex": [
+        {"en": "The witness said she had been intimidated into keeping silent.",
+         "zh": "证人说她受到恐吓而保持沉默。"}
+      ],
+      "note": "intimidate sb into doing 是常用结构；强调以威胁使人害怕而屈从。"
+    },
+    {
+      "word": "effective",
+      "phr": [
+        {"en": "take effective measures", "zh": "采取有效措施"},
+        {"en": "be effective against sth", "zh": "对某物有效"}
+      ],
+      "ex": [
+        {"en": "The new drug proved highly effective against the virus.",
+         "zh": "这种新药被证明对这种病毒非常有效。"}
+      ],
+      "note": "effective 指有效果，efficient 指效率高，两者常被混用，注意区分。"
+    },
+    {
+      "word": "unity",
+      "phr": [
+        {"en": "national unity", "zh": "民族团结"},
+        {"en": "unity of purpose", "zh": "目标一致"}
+      ],
+      "ex": [
+        {"en": "The crisis brought a sense of unity to the small community.",
+         "zh": "这场危机让这个小社区产生了团结感。"}
+      ],
+      "note": "unit 是单位，unite 是联合，unity 指团结统一的状态。"
+    },
+    {
+      "word": "pursue",
+      "phr": [
+        {"en": "pursue a career", "zh": "从事某职业"},
+        {"en": "pursue one's dream", "zh": "追求梦想"}
+      ],
+      "ex": [
+        {"en": "She moved to another city to pursue a career in design.",
+         "zh": "她搬到另一座城市去从事设计工作。"}
+      ],
+      "note": "pursue 常接 career、dream；名词是 pursuit。"
+    },
+    {
+      "word": "vulgar",
+      "phr": [
+        {"en": "a vulgar joke", "zh": "粗俗的笑话"},
+        {"en": "vulgar language", "zh": "粗俗的语言"}
+      ],
+      "ex": [
+        {"en": "He told a vulgar joke that made everyone at the table uncomfortable.",
+         "zh": "他讲了个粗俗的笑话，让在座的人都不自在。"}
+      ],
+      "note": "vulgar 指言语举止粗俗下流；口语中 cheap 有相近义，但语气较轻。"
+    },
+    {
+      "word": "catastrophe",
+      "phr": [
+        {"en": "a natural catastrophe", "zh": "自然灾害"},
+        {"en": "end in catastrophe", "zh": "以灾难告终"}
+      ],
+      "ex": [
+        {"en": "The flood was the worst catastrophe the region had seen in decades.",
+         "zh": "这场洪水是该地区几十年来最严重的灾难。"}
+      ],
+      "note": "cata- 表「向下」，strophe 表「转」，原指剧情突转，现指大灾难。"
+    },
+    {
+      "word": "convey",
+      "phr": [
+        {"en": "convey a message", "zh": "传递信息"},
+        {"en": "convey sth to sb", "zh": "向某人传达某事"}
+      ],
+      "ex": [
+        {"en": "Words alone cannot convey how grateful I am for your help.",
+         "zh": "单靠言语无法表达我对你帮助的感激。"}
+      ],
+      "note": "convey 可指传递信息、表达感情或运送，比 tell 更书面。"
+    },
+    {
+      "word": "design",
+      "phr": [
+        {"en": "be designed to do sth", "zh": "旨在做某事"},
+        {"en": "by design", "zh": "故意地"}
+      ],
+      "ex": [
+        {"en": "The course is designed to help students write clear reports.",
+         "zh": "这门课旨在帮助学生写出清楚的报告。"}
+      ],
+      "note": "by design 意为故意，反义是 by accident。"
+    },
+    {
+      "word": "generous",
+      "phr": [
+        {"en": "be generous with sth", "zh": "在某方面很慷慨"},
+        {"en": "a generous offer", "zh": "慷慨的提议"}
+      ],
+      "ex": [
+        {"en": "He is generous with his time and often helps younger colleagues.",
+         "zh": "他很舍得花时间，经常帮助年轻同事。"}
+      ],
+      "note": "generous with 指在某方面大方；generous to sb 指对某人慷慨。"
+    },
+    {
+      "word": "coincidence",
+      "phr": [
+        {"en": "by coincidence", "zh": "碰巧"},
+        {"en": "a strange coincidence", "zh": "奇怪的巧合"}
+      ],
+      "ex": [
+        {"en": "By coincidence, we booked seats on the same flight.",
+         "zh": "碰巧我们订了同一班飞机的座位。"}
+      ],
+      "note": "by coincidence 是固定短语；动词 coincide 指同时发生或相一致。"
+    },
+    {
+      "word": "victim",
+      "phr": [
+        {"en": "fall victim to sth", "zh": "成为某事的受害者"},
+        {"en": "a victim of crime", "zh": "犯罪受害者"}
+      ],
+      "ex": [
+        {"en": "Many small shops fell victim to the sudden rise in rent.",
+         "zh": "许多小店成了租金暴涨的受害者。"}
+      ],
+      "note": "fall victim to 中不加冠词；victim 常与 of 连用。"
+    },
+    {
+      "word": "bust",
+      "phr": [
+        {"en": "go bust", "zh": "破产"},
+        {"en": "a bronze bust", "zh": "青铜半身像"}
+      ],
+      "ex": [
+        {"en": "The airline went bust after the sudden drop in passengers.",
+         "zh": "客流量骤降后，这家航空公司破产了。"}
+      ],
+      "note": "go bust 是口语说法，指生意破产；bust 也指半身像或警方的突击搜查。"
+    },
+    {
+      "word": "skull",
+      "phr": [
+        {"en": "a fractured skull", "zh": "颅骨骨折"},
+        {"en": "skull and crossbones", "zh": "骷髅图案"}
+      ],
+      "ex": [
+        {"en": "He fell from the ladder and suffered a fractured skull.",
+         "zh": "他从梯子上摔下来，颅骨骨折。"}
+      ],
+      "note": "skull 指整个头骨，brain 是大脑；fractured skull 是常见搭配。"
+    },
+    {
+      "word": "hysterical",
+      "phr": [
+        {"en": "become hysterical", "zh": "变得歇斯底里"},
+        {"en": "hysterical laughter", "zh": "无法控制的大笑"}
+      ],
+      "ex": [
+        {"en": "She became hysterical when she heard the news of the accident.",
+         "zh": "听到事故的消息，她变得歇斯底里。"}
+      ],
+      "note": "hysterical 形容情绪失控；hysterical laughter 指狂笑。"
+    },
+    {
+      "word": "lane",
+      "phr": [
+        {"en": "the fast lane", "zh": "快车道"},
+        {"en": "a country lane", "zh": "乡间小路"}
+      ],
+      "ex": [
+        {"en": "The driver changed lanes without signalling and nearly caused a crash.",
+         "zh": "那名司机没打灯就变道，差点造成撞车。"}
+      ],
+      "note": "lane 指车道或乡间小路；change lanes 是变道，注意用复数。"
+    },
+    {
+      "word": "contaminate",
+      "phr": [
+        {"en": "contaminate the water", "zh": "污染水源"},
+        {"en": "be contaminated with sth", "zh": "被某物污染"}
+      ],
+      "ex": [
+        {"en": "The river was contaminated with waste from the nearby factory.",
+         "zh": "这条河被附近工厂的废料污染了。"}
+      ],
+      "note": "contaminate 强调有害物混入水源、食物等；名词是 contamination。"
+    },
+    {
+      "word": "ammunition",
+      "phr": [
+        {"en": "live ammunition", "zh": "实弹"},
+        {"en": "give sb ammunition", "zh": "给某人攻击的把柄"}
+      ],
+      "ex": [
+        {"en": "The soldiers were running low on ammunition after two days of fighting.",
+         "zh": "打了两天，士兵们的弹药快用完了。"}
+      ],
+      "note": "ammunition 不可数；give sb ammunition 指给对方把柄。"
+    },
+    {
+      "word": "chief",
+      "phr": [
+        {"en": "the chief reason", "zh": "主要原因"},
+        {"en": "a chief executive", "zh": "首席执行官"}
+      ],
+      "ex": [
+        {"en": "The chief reason for his failure was a lack of preparation.",
+         "zh": "他失败的主要原因是准备不足。"}
+      ],
+      "note": "chief 作形容词只作定语；也可作名词指首领。"
+    },
+    {
+      "word": "accord",
+      "phr": [
+        {"en": "in accord with sth", "zh": "与某事一致"},
+        {"en": "of one's own accord", "zh": "自愿地"}
+      ],
+      "ex": [
+        {"en": "Her account is in accord with what the other witnesses said.",
+         "zh": "她的说法与其他证人的说法一致。"}
+      ],
+      "note": "of one's own accord 意为自愿；in accord with 表一致。"
+    },
+    {
+      "word": "foremost",
+      "phr": [
+        {"en": "first and foremost", "zh": "首要的是"},
+        {"en": "the world's foremost expert", "zh": "世界最著名的专家"}
+      ],
+      "ex": [
+        {"en": "She is one of the country's foremost experts on climate change.",
+         "zh": "她是该国最著名的气候变化专家之一。"}
+      ],
+      "note": "first and foremost 意为首要的是；只作定语。"
+    }
+  ]
+}

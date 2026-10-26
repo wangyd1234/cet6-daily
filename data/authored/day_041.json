@@ -1,0 +1,365 @@
+{
+  "day": 41,
+  "words": [
+    {
+      "word": "bronze",
+      "phr": [
+        {"en": "a bronze medal", "zh": "铜牌"},
+        {"en": "the Bronze Age", "zh": "青铜时代"}
+      ],
+      "ex": [
+        {"en": "She won a bronze medal in the swimming final yesterday.",
+         "zh": "她在昨天的游泳决赛中获得一枚铜牌。"}
+      ],
+      "note": "bronze 指青铜；铜牌是 bronze medal，金牌是 gold。"
+    },
+    {
+      "word": "conception",
+      "phr": [
+        {"en": "a clear conception of", "zh": "对…有清晰认识"},
+        {"en": "the conception of", "zh": "…的概念"}
+      ],
+      "ex": [
+        {"en": "He had no clear conception of how much work the project required.",
+         "zh": "他对这个项目需要多少工作没有清晰的认识。"}
+      ],
+      "note": "conception 指观念、构想；concept 更常指具体概念。"
+    },
+    {
+      "word": "municipal",
+      "phr": [
+        {"en": "the municipal government", "zh": "市政府"},
+        {"en": "municipal services", "zh": "市政服务"}
+      ],
+      "ex": [
+        {"en": "The municipal government plans to build a new park downtown.",
+         "zh": "市政府计划在市中心建一座新公园。"}
+      ],
+      "note": "municipal 指市的、市政的，来自拉丁语“城市”。"
+    },
+    {
+      "word": "detain",
+      "phr": [
+        {"en": "detain sb for questioning", "zh": "拘留某人问话"},
+        {"en": "be detained at the airport", "zh": "被耽搁在机场"}
+      ],
+      "ex": [
+        {"en": "The police detained two men for questioning after the accident.",
+         "zh": "事故发生后，警方拘留两名男子问话。"}
+      ],
+      "note": "detain 指拘留或耽搁；be detained by traffic 表被堵。"
+    },
+    {
+      "word": "institute",
+      "phr": [
+        {"en": "a research institute", "zh": "研究所"},
+        {"en": "institute a new policy", "zh": "推行新政策"}
+      ],
+      "ex": [
+        {"en": "He works at a research institute that studies climate change.",
+         "zh": "他在一家研究气候变化的机构工作。"}
+      ],
+      "note": "institute 作名词指研究所，作动词指设立、开始实行。"
+    },
+    {
+      "word": "endure",
+      "phr": [
+        {"en": "endure hardship", "zh": "忍受艰苦"},
+        {"en": "endure the pain", "zh": "忍受疼痛"}
+      ],
+      "ex": [
+        {"en": "The family endured great hardship during the war years.",
+         "zh": "这家人在战争年代忍受了巨大苦难。"}
+      ],
+      "note": "endure 指忍耐，也指持久；形容词 enduring 表持久的。"
+    },
+    {
+      "word": "detail",
+      "phr": [
+        {"en": "in detail", "zh": "详细地"},
+        {"en": "go into detail", "zh": "详细说明"}
+      ],
+      "ex": [
+        {"en": "The report explains in detail how the new system will work.",
+         "zh": "报告详细说明了新系统将如何运作。"}
+      ],
+      "note": "in detail 是固定搭配；details 复数指具体细节。"
+    },
+    {
+      "word": "subculture",
+      "phr": [
+        {"en": "youth subculture", "zh": "青年亚文化"},
+        {"en": "a subculture of", "zh": "…的亚文化"}
+      ],
+      "ex": [
+        {"en": "Skateboarding began as a youth subculture in American cities.",
+         "zh": "滑板最初是美国城市里的一种青年亚文化。"}
+      ],
+      "note": "sub- 表“次、亚”，subculture 指某群体的独特文化。"
+    },
+    {
+      "word": "appropriate",
+      "phr": [
+        {"en": "appropriate for", "zh": "适合于"},
+        {"en": "take appropriate measures", "zh": "采取适当措施"}
+      ],
+      "ex": [
+        {"en": "Please wear clothes that are appropriate for a formal interview.",
+         "zh": "请穿适合正式面试的衣服。"}
+      ],
+      "note": "appropriate 后接 for/to，反义词 inappropriate。"
+    },
+    {
+      "word": "criterion",
+      "phr": [
+        {"en": "the main criterion", "zh": "主要标准"},
+        {"en": "a criterion for", "zh": "…的标准"}
+      ],
+      "ex": [
+        {"en": "Price is not the only criterion for choosing a laptop.",
+         "zh": "价格不是选择笔记本电脑的唯一标准。"}
+      ],
+      "note": "criterion 复数是 criteria，单数常被误用。"
+    },
+    {
+      "word": "essence",
+      "phr": [
+        {"en": "in essence", "zh": "本质上"},
+        {"en": "the essence of", "zh": "…的精髓"}
+      ],
+      "ex": [
+        {"en": "In essence, the two plans aim at the same goal.",
+         "zh": "本质上，这两个计划目标相同。"}
+      ],
+      "note": "essential 是形容词；in essence 表“本质上”。"
+    },
+    {
+      "word": "pore",
+      "phr": [
+        {"en": "pore over", "zh": "专心阅读"},
+        {"en": "pores of the skin", "zh": "皮肤毛孔"}
+      ],
+      "ex": [
+        {"en": "He likes to pore over old maps in the library.",
+         "zh": "他喜欢在图书馆里专心研读旧地图。"}
+      ],
+      "note": "pore over 表专心阅读，不要与 pour 混淆。"
+    },
+    {
+      "word": "utility",
+      "phr": [
+        {"en": "utility bills", "zh": "水电费账单"},
+        {"en": "practical utility", "zh": "实用价值"}
+      ],
+      "ex": [
+        {"en": "The new tool has little practical utility for most users.",
+         "zh": "这个新工具对多数用户没什么实用价值。"}
+      ],
+      "note": "utility 指效用，也指水电等公用事业。"
+    },
+    {
+      "word": "manual",
+      "phr": [
+        {"en": "manual labour", "zh": "体力劳动"},
+        {"en": "a user manual", "zh": "用户手册"}
+      ],
+      "ex": [
+        {"en": "Read the user manual before you turn on the machine.",
+         "zh": "开机前请先阅读用户手册。"}
+      ],
+      "note": "manual 作形容词指手工的，作名词指手册。"
+    },
+    {
+      "word": "maneuver",
+      "phr": [
+        {"en": "room for maneuver", "zh": "回旋余地"},
+        {"en": "military maneuvers", "zh": "军事演习"}
+      ],
+      "ex": [
+        {"en": "The driver had to maneuver carefully to park in the narrow space.",
+         "zh": "司机必须小心操作，才能把车停进狭窄的车位。"}
+      ],
+      "note": "maneuver 是美式拼写，英式作 manoeuvre。"
+    },
+    {
+      "word": "symphony",
+      "phr": [
+        {"en": "a symphony orchestra", "zh": "交响乐团"},
+        {"en": "Beethoven's Fifth Symphony", "zh": "贝多芬第五交响曲"}
+      ],
+      "ex": [
+        {"en": "The city orchestra will perform a famous symphony next Saturday evening.",
+         "zh": "市交响乐团下周六晚将演奏一部著名交响曲。"}
+      ],
+      "note": "symphony 指交响曲；symphony orchestra 是交响乐团。"
+    },
+    {
+      "word": "eloquent",
+      "phr": [
+        {"en": "an eloquent speech", "zh": "雄辩的演讲"},
+        {"en": "an eloquent speaker", "zh": "口才出众的演讲者"}
+      ],
+      "ex": [
+        {"en": "Her eloquent speech moved many people in the hall to tears.",
+         "zh": "她雄辩的演讲让礼堂里许多人感动落泪。"}
+      ],
+      "note": "eloquent 指口才好、有说服力；名词 eloquence。"
+    },
+    {
+      "word": "optimistic",
+      "phr": [
+        {"en": "optimistic about", "zh": "对…乐观"},
+        {"en": "an optimistic view", "zh": "乐观的看法"}
+      ],
+      "ex": [
+        {"en": "Experts are optimistic about the country's economic growth this year.",
+         "zh": "专家对该国今年的经济增长持乐观态度。"}
+      ],
+      "note": "optimistic 接 about；反义词 pessimistic 表悲观的。"
+    },
+    {
+      "word": "dual",
+      "phr": [
+        {"en": "dual nationality", "zh": "双重国籍"},
+        {"en": "play a dual role", "zh": "起双重作用"}
+      ],
+      "ex": [
+        {"en": "The bridge has a dual role as a road and a railway.",
+         "zh": "这座桥兼作公路和铁路，具有双重作用。"}
+      ],
+      "note": "dual 指双重的；duel 指决斗，拼写相近易混。"
+    },
+    {
+      "word": "submarine",
+      "phr": [
+        {"en": "a nuclear submarine", "zh": "核潜艇"},
+        {"en": "submarine cables", "zh": "海底电缆"}
+      ],
+      "ex": [
+        {"en": "The submarine stayed under water for several weeks without surfacing.",
+         "zh": "这艘潜艇在水下待了几周没有浮出水面。"}
+      ],
+      "note": "sub- 表“下”，marine 表“海”，故 submarine 指潜水艇。"
+    },
+    {
+      "word": "aspect",
+      "phr": [
+        {"en": "an important aspect of", "zh": "…的重要方面"},
+        {"en": "every aspect of life", "zh": "生活的方方面面"}
+      ],
+      "ex": [
+        {"en": "Technology affects almost every aspect of our daily life.",
+         "zh": "技术几乎影响我们日常生活的每个方面。"}
+      ],
+      "note": "aspect 指某个方面，常用 an aspect of sth。"
+    },
+    {
+      "word": "aggressive",
+      "phr": [
+        {"en": "aggressive behaviour", "zh": "攻击性行为"},
+        {"en": "an aggressive strategy", "zh": "激进的策略"}
+      ],
+      "ex": [
+        {"en": "The company adopted an aggressive sales strategy to win new customers.",
+         "zh": "公司采取了激进的销售策略来争取新客户。"}
+      ],
+      "note": "aggressive 可指好斗的，也可指有进取心的。"
+    },
+    {
+      "word": "stump",
+      "phr": [
+        {"en": "be stumped by", "zh": "被…难住"},
+        {"en": "a tree stump", "zh": "树桩"}
+      ],
+      "ex": [
+        {"en": "The last question on the exam completely stumped me.",
+         "zh": "考试最后一道题把我彻底难住了。"}
+      ],
+      "note": "stump 作动词表难住，作名词指树桩、残根。"
+    },
+    {
+      "word": "behavior",
+      "phr": [
+        {"en": "good behavior", "zh": "良好行为"},
+        {"en": "behavior towards", "zh": "对…的态度"}
+      ],
+      "ex": [
+        {"en": "Teachers praised the students for their good behavior during the trip.",
+         "zh": "老师表扬了学生们在旅行中的良好表现。"}
+      ],
+      "note": "behavior 美式拼写，英式作 behaviour。"
+    },
+    {
+      "word": "federation",
+      "phr": [
+        {"en": "a sports federation", "zh": "体育联合会"},
+        {"en": "a federation of states", "zh": "联邦国家"}
+      ],
+      "ex": [
+        {"en": "The international federation sets the rules for all member clubs.",
+         "zh": "国际联合会为所有成员俱乐部制定规则。"}
+      ],
+      "note": "federation 指联合会或联邦；动词 federate 表结成联邦。"
+    },
+    {
+      "word": "minimize",
+      "phr": [
+        {"en": "minimize the risk", "zh": "把风险降到最低"},
+        {"en": "minimize the damage", "zh": "尽量减少损害"}
+      ],
+      "ex": [
+        {"en": "Wearing a helmet can minimize the risk of head injury.",
+         "zh": "戴头盔能把头部受伤的风险降到最低。"}
+      ],
+      "note": "minimize 指减到最低；反义词 maximize 表最大化。"
+    },
+    {
+      "word": "descend",
+      "phr": [
+        {"en": "descend from", "zh": "从…下来；源于"},
+        {"en": "descend the stairs", "zh": "下楼梯"}
+      ],
+      "ex": [
+        {"en": "The plane began to descend through thick clouds towards the airport.",
+         "zh": "飞机开始穿过厚厚的云层向机场下降。"}
+      ],
+      "note": "descend from 可指从…下来，也可指血统源自。"
+    },
+    {
+      "word": "signify",
+      "phr": [
+        {"en": "signify that", "zh": "表示；意味着"},
+        {"en": "signify agreement", "zh": "表示同意"}
+      ],
+      "ex": [
+        {"en": "Nodding your head can signify agreement in many cultures.",
+         "zh": "在许多文化中，点头可以表示同意。"}
+      ],
+      "note": "signify 指表示、意味着；名词 sign 表标志。"
+    },
+    {
+      "word": "logical",
+      "phr": [
+        {"en": "a logical conclusion", "zh": "合乎逻辑的结论"},
+        {"en": "logical thinking", "zh": "逻辑思维"}
+      ],
+      "ex": [
+        {"en": "From these facts, the only logical conclusion is that he lied.",
+         "zh": "从这些事实看，唯一合乎逻辑的结论是他撒了谎。"}
+      ],
+      "note": "logical 指合乎逻辑的；logic 是名词，表逻辑。"
+    },
+    {
+      "word": "reconciliation",
+      "phr": [
+        {"en": "a reconciliation between", "zh": "…之间的和解"},
+        {"en": "bring about reconciliation", "zh": "促成和解"}
+      ],
+      "ex": [
+        {"en": "The two brothers finally reached a reconciliation after years of silence.",
+         "zh": "沉默多年后，两兄弟终于和解。"}
+      ],
+      "note": "reconcile 是动词；reconciliation 指和解、调和。"
+    }
+  ]
+}

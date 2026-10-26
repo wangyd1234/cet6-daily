@@ -1,0 +1,365 @@
+{
+  "day": 20,
+  "words": [
+    {
+      "word": "dimension",
+      "phr": [
+        {"en": "a new dimension", "zh": "新的层面"},
+        {"en": "the dimensions of", "zh": "…的尺寸"}
+      ],
+      "ex": [
+        {"en": "The internet has added a new dimension to the way we learn.",
+         "zh": "互联网为我们的学习方式增添了新的层面。"}
+      ],
+      "note": "dimension 可指空间尺寸，也指抽象的「方面、层面」。"
+    },
+    {
+      "word": "deserve",
+      "phr": [
+        {"en": "deserve a break", "zh": "该休息一下"},
+        {"en": "deserve attention", "zh": "值得关注"}
+      ],
+      "ex": [
+        {"en": "After working all night, you deserve a good rest.",
+         "zh": "熬了一整夜，你该好好休息。"}
+      ],
+      "note": "deserve 后接名词或不定式：deserve to win 表理应获胜。"
+    },
+    {
+      "word": "process",
+      "phr": [
+        {"en": "in the process of", "zh": "在…过程中"},
+        {"en": "process data", "zh": "处理数据"}
+      ],
+      "ex": [
+        {"en": "The data will take several days to process on this computer.",
+         "zh": "在这台电脑上处理这些数据要花好几天。"}
+      ],
+      "note": "in the process of 后接动名词；process 作动词表加工处理。"
+    },
+    {
+      "word": "revenge",
+      "phr": [
+        {"en": "take revenge on", "zh": "向…报复"},
+        {"en": "in revenge for", "zh": "为报复…"}
+      ],
+      "ex": [
+        {"en": "He never tried to take revenge on the people who had criticized him.",
+         "zh": "他从未试图报复那些批评过他的人。"}
+      ],
+      "note": "take revenge on sb for sth；revenge 多为不可数名词。"
+    },
+    {
+      "word": "restore",
+      "phr": [
+        {"en": "restore order", "zh": "恢复秩序"},
+        {"en": "restore confidence", "zh": "恢复信心"}
+      ],
+      "ex": [
+        {"en": "The old church has been carefully restored over the past decade.",
+         "zh": "这座老教堂在过去十年里得到了精心修复。"}
+      ],
+      "note": "restore 表使恢复原状，名词为 restoration。"
+    },
+    {
+      "word": "subscribe",
+      "phr": [
+        {"en": "subscribe to a magazine", "zh": "订阅杂志"},
+        {"en": "subscribe to the view", "zh": "赞同这一观点"}
+      ],
+      "ex": [
+        {"en": "I subscribe to two weekly magazines and one newspaper.",
+         "zh": "我订阅了两本周刊和一份报纸。"}
+      ],
+      "note": "subscribe to 既可表「订阅」也可表「赞同（观点）」。"
+    },
+    {
+      "word": "distill",
+      "phr": [
+        {"en": "distilled water", "zh": "蒸馏水"},
+        {"en": "distill the essence of", "zh": "提炼…的精华"}
+      ],
+      "ex": [
+        {"en": "The book distills years of research into a few clear chapters.",
+         "zh": "这本书把多年研究提炼成几个清晰的章节。"}
+      ],
+      "note": "美式拼写 distill，英式 distil；distilled water 指蒸馏水。"
+    },
+    {
+      "word": "alternative",
+      "phr": [
+        {"en": "an alternative to", "zh": "…的替代方案"},
+        {"en": "alternative energy", "zh": "替代能源"}
+      ],
+      "ex": [
+        {"en": "Cycling is a cheap alternative to driving for short trips.",
+         "zh": "短途出行时，骑车是开车的廉价替代方式。"}
+      ],
+      "note": "an alternative to sth 表…的替代方案；不止两个选项。"
+    },
+    {
+      "word": "concentration",
+      "phr": [
+        {"en": "lose concentration", "zh": "走神；注意力不集中"},
+        {"en": "high concentration", "zh": "高浓度"}
+      ],
+      "ex": [
+        {"en": "Noise from the street makes it hard to keep my concentration.",
+         "zh": "街上的噪音让我很难保持专注。"}
+      ],
+      "note": "concentration 表「专注」不可数，表「浓度」可加 a。"
+    },
+    {
+      "word": "velocity",
+      "phr": [
+        {"en": "high velocity", "zh": "高速"},
+        {"en": "the velocity of light", "zh": "光速"}
+      ],
+      "ex": [
+        {"en": "Scientists measured the velocity of the falling object with great accuracy.",
+         "zh": "科学家们非常精确地测量了落体的速度。"}
+      ],
+      "note": "velocity 为专业术语，指有方向的速率；speed 更日常。"
+    },
+    {
+      "word": "encounter",
+      "phr": [
+        {"en": "encounter a problem", "zh": "遇到问题"},
+        {"en": "a chance encounter", "zh": "偶遇"}
+      ],
+      "ex": [
+        {"en": "We encountered several problems during the first week of the project.",
+         "zh": "项目第一周我们遇到了几个问题。"}
+      ],
+      "note": "encounter 比 meet 正式，常接 problem、difficulty。"
+    },
+    {
+      "word": "fellowship",
+      "phr": [
+        {"en": "a research fellowship", "zh": "研究奖学金"},
+        {"en": "a sense of fellowship", "zh": "伙伴情谊"}
+      ],
+      "ex": [
+        {"en": "She won a research fellowship that covers tuition and living costs.",
+         "zh": "她获得了一项涵盖学费和生活费的研究奖学金。"}
+      ],
+      "note": "fellowship 在学术语境指研究员职位或奖学金，也指情谊。"
+    },
+    {
+      "word": "colleague",
+      "phr": [
+        {"en": "a close colleague", "zh": "亲密的同事"},
+        {"en": "former colleagues", "zh": "前同事"}
+      ],
+      "ex": [
+        {"en": "My former colleague helped me find a job at her new company.",
+         "zh": "我的前同事帮我在她的新公司找了份工作。"}
+      ],
+      "note": "colleague 指职业上的同事，比 workmate 正式。"
+    },
+    {
+      "word": "approve",
+      "phr": [
+        {"en": "approve of", "zh": "赞成"},
+        {"en": "approve the plan", "zh": "批准计划"}
+      ],
+      "ex": [
+        {"en": "Her parents did not approve of her decision to study abroad.",
+         "zh": "她父母不赞成她出国留学的决定。"}
+      ],
+      "note": "approve of 表「赞成」；approve sth 表「批准」。"
+    },
+    {
+      "word": "interaction",
+      "phr": [
+        {"en": "social interaction", "zh": "社会交往"},
+        {"en": "interaction between", "zh": "…之间的互动"}
+      ],
+      "ex": [
+        {"en": "Regular social interaction helps older people stay healthy.",
+         "zh": "经常进行社会交往有助于老年人保持健康。"}
+      ],
+      "note": "interaction 常与 between、with 连用；动词为 interact。"
+    },
+    {
+      "word": "pedestrian",
+      "phr": [
+        {"en": "a pedestrian crossing", "zh": "人行横道"},
+        {"en": "a pedestrian street", "zh": "步行街"}
+      ],
+      "ex": [
+        {"en": "Drivers must give way to pedestrians at the crossing.",
+         "zh": "在路口司机必须给行人让路。"}
+      ],
+      "note": "pedestrian 指行人，也作形容词表「平淡无奇的」。"
+    },
+    {
+      "word": "interfere",
+      "phr": [
+        {"en": "interfere with", "zh": "妨碍"},
+        {"en": "interfere in", "zh": "干涉"}
+      ],
+      "ex": [
+        {"en": "Please do not interfere with the equipment while it is running.",
+         "zh": "设备运行时请不要妨碍其运转。"}
+      ],
+      "note": "interfere in 表干涉他人事务，interfere with 表妨碍某事。"
+    },
+    {
+      "word": "apartment",
+      "phr": [
+        {"en": "rent an apartment", "zh": "租公寓"},
+        {"en": "a two-bedroom apartment", "zh": "两居室公寓"}
+      ],
+      "ex": [
+        {"en": "They rented a small apartment near the university.",
+         "zh": "他们在大学附近租了一套小公寓。"}
+      ],
+      "note": "apartment 为美式说法，英式常用 flat。"
+    },
+    {
+      "word": "account",
+      "phr": [
+        {"en": "account for", "zh": "解释；占"},
+        {"en": "take into account", "zh": "考虑到"}
+      ],
+      "ex": [
+        {"en": "Women account for nearly half of the students in this program.",
+         "zh": "女性占这个项目学生的近一半。"}
+      ],
+      "note": "account for 既可表「解释」，也可表「占（比例）」。"
+    },
+    {
+      "word": "fitting",
+      "phr": [
+        {"en": "a fitting tribute", "zh": "恰如其分的敬意"},
+        {"en": "light fittings", "zh": "灯具配件"}
+      ],
+      "ex": [
+        {"en": "The award was a fitting tribute to her thirty years of teaching.",
+         "zh": "这个奖项是对她三十年教学生涯的恰当致敬。"}
+      ],
+      "note": "fitting 作形容词表「恰当的」；作名词复数指设备、配件。"
+    },
+    {
+      "word": "stack",
+      "phr": [
+        {"en": "a stack of books", "zh": "一摞书"},
+        {"en": "stack up", "zh": "堆积起来"}
+      ],
+      "ex": [
+        {"en": "There was a stack of papers waiting for him on the desk.",
+         "zh": "桌上有一摞文件等着他处理。"}
+      ],
+      "note": "a stack of 后接可数复数名词；stack up 表堆积起来。"
+    },
+    {
+      "word": "radioactive",
+      "phr": [
+        {"en": "radioactive waste", "zh": "放射性废料"},
+        {"en": "radioactive material", "zh": "放射性物质"}
+      ],
+      "ex": [
+        {"en": "The plant must store radioactive waste safely for decades.",
+         "zh": "这座工厂必须把放射性废料安全存放数十年。"}
+      ],
+      "note": "radio- 表「放射」，active 表「活性的」，合指放射性的。"
+    },
+    {
+      "word": "resent",
+      "phr": [
+        {"en": "deeply resent", "zh": "深为不满"},
+        {"en": "resent the fact that", "zh": "不满…这一事实"}
+      ],
+      "ex": [
+        {"en": "She resented the fact that her work was never recognized.",
+         "zh": "她对自己的工作从未得到认可这件事心怀不满。"}
+      ],
+      "note": "resent 后接动名词或 that 从句，不接不定式。"
+    },
+    {
+      "word": "stride",
+      "phr": [
+        {"en": "make great strides", "zh": "取得很大进展"},
+        {"en": "stride across", "zh": "大步跨过"}
+      ],
+      "ex": [
+        {"en": "The team has made great strides in reducing production costs.",
+         "zh": "这个团队在降低生产成本方面取得了很大进展。"}
+      ],
+      "note": "make strides 表取得进步；stride 的过去式为 strode。"
+    },
+    {
+      "word": "ambiguous",
+      "phr": [
+        {"en": "an ambiguous answer", "zh": "模棱两可的回答"},
+        {"en": "remain ambiguous", "zh": "仍然含糊"}
+      ],
+      "ex": [
+        {"en": "His ambiguous answer left everyone unsure about his real plan.",
+         "zh": "他模棱两可的回答让大家摸不清他的真实计划。"}
+      ],
+      "note": "ambiguous 指有歧义、可多解；vague 侧重「模糊」。"
+    },
+    {
+      "word": "impulsive",
+      "phr": [
+        {"en": "an impulsive decision", "zh": "冲动的决定"},
+        {"en": "impulsive behavior", "zh": "冲动行为"}
+      ],
+      "ex": [
+        {"en": "Buying that car was an impulsive decision he soon regretted.",
+         "zh": "买那辆车是他一时冲动的决定，他很快就后悔了。"}
+      ],
+      "note": "impulse 是名词「冲动」；impulsive 指易冲动或行为冲动。"
+    },
+    {
+      "word": "qualitative",
+      "phr": [
+        {"en": "qualitative research", "zh": "定性研究"},
+        {"en": "a qualitative change", "zh": "质的变化"}
+      ],
+      "ex": [
+        {"en": "The study combines qualitative research with detailed interviews.",
+         "zh": "这项研究把定性研究与详细访谈结合起来。"}
+      ],
+      "note": "qualitative 对应 quantitative（定量的），二者成对出现。"
+    },
+    {
+      "word": "diverse",
+      "phr": [
+        {"en": "a diverse range of", "zh": "各种各样的"},
+        {"en": "culturally diverse", "zh": "文化多元的"}
+      ],
+      "ex": [
+        {"en": "The city is home to people from diverse cultural backgrounds.",
+         "zh": "这座城市居住着来自不同文化背景的人。"}
+      ],
+      "note": "diverse 修饰复数或不可数名词；a diverse range of 高频。"
+    },
+    {
+      "word": "crisp",
+      "phr": [
+        {"en": "crisp air", "zh": "清冽的空气"},
+        {"en": "a crisp reply", "zh": "干脆的回答"}
+      ],
+      "ex": [
+        {"en": "We walked through the park enjoying the crisp morning air.",
+         "zh": "我们在公园里散步，享受着清冽的晨间空气。"}
+      ],
+      "note": "crisp 形容食物脆、空气清冽、话语干脆；名词指薯片。"
+    },
+    {
+      "word": "prime",
+      "phr": [
+        {"en": "in the prime of life", "zh": "正值壮年"},
+        {"en": "a prime example", "zh": "典型例子"}
+      ],
+      "ex": [
+        {"en": "This building is a prime example of early twentieth-century design.",
+         "zh": "这座建筑是二十世纪早期设计的典型例子。"}
+      ],
+      "note": "prime 表「首要的、最好的」；in one's prime 指全盛期。"
+    }
+  ]
+}

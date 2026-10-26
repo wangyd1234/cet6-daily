@@ -1,0 +1,246 @@
+{
+ "day": 34,
+ "date": null,
+ "words": [
+  {
+   "id": 991,
+   "word": "invert",
+   "uk": "/ɪnˈvɜːt/",
+   "us": "/ˈɪnvɝt/",
+   "pos": "vt.",
+   "cn": "使倒转；使倒置；使颠倒"
+  },
+  {
+   "id": 992,
+   "word": "cradle",
+   "uk": "/ˈkreɪdl/",
+   "us": "/ˈkredl/",
+   "pos": "n.,vt.",
+   "cn": "摇篮；策源地；发源地；轻轻地抱；捧"
+  },
+  {
+   "id": 993,
+   "word": "discrete",
+   "uk": "/dɪˈskriːt/",
+   "us": "/dɪˈskrit/",
+   "pos": "adj.",
+   "cn": "分离的；不相关联的"
+  },
+  {
+   "id": 994,
+   "word": "assurance",
+   "uk": "/əˈʃuərəns/",
+   "us": "/əˈʃʊrəns/",
+   "pos": "n.",
+   "cn": "把握；信心；保证；表示保证的话；保险"
+  },
+  {
+   "id": 995,
+   "word": "psychiatrist",
+   "uk": "/saɪˈkaɪətrɪst/",
+   "us": "",
+   "pos": "n.",
+   "cn": "精神科医生；精神病专家"
+  },
+  {
+   "id": 996,
+   "word": "squad",
+   "uk": "/skwɒd/",
+   "us": "/skwɑd/",
+   "pos": "n.",
+   "cn": "班；小队；小组"
+  },
+  {
+   "id": 997,
+   "word": "disrupt",
+   "uk": "/dɪsˈrʌpt/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "使中断；扰乱"
+  },
+  {
+   "id": 998,
+   "word": "scar",
+   "uk": "/skɑː/",
+   "us": "/skɑr/",
+   "pos": "v.,n.",
+   "cn": "留下伤痕；伤疤；伤痕；创伤"
+  },
+  {
+   "id": 999,
+   "word": "sergeant",
+   "uk": "/ˈsɑːdʒənt/",
+   "us": "/ˈsɑrdʒənt/",
+   "pos": "n.",
+   "cn": "中士；警官"
+  },
+  {
+   "id": 1000,
+   "word": "vital",
+   "uk": "/ˈvaɪtl/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "生死攸关的；极其重要的；生命的；有生命力的"
+  },
+  {
+   "id": 1001,
+   "word": "eccentric",
+   "uk": "/ɪkˈsentrɪk/",
+   "us": "/ɪkˈsɛntrɪk/",
+   "pos": "adj.,n.",
+   "cn": "古怪的；怪癖的；异乎寻常的；古怪的人；怪癖的人"
+  },
+  {
+   "id": 1002,
+   "word": "conflict",
+   "uk": "/ˈkɒnflɪkt/",
+   "us": "/ˈkɑnflɪkt/",
+   "pos": "vi.,n.",
+   "cn": "冲突；抵触；冲突；抵触；争论；战斗；战争"
+  },
+  {
+   "id": 1003,
+   "word": "appliance",
+   "uk": "/əˈplaɪəns/",
+   "us": "",
+   "pos": "n.",
+   "cn": "用具；器具；器械"
+  },
+  {
+   "id": 1004,
+   "word": "alloy",
+   "uk": "/ˈælɒɪ/",
+   "us": "/ˈælɔɪ/",
+   "pos": "n.,vt.",
+   "cn": "合金；将…铸成合金"
+  },
+  {
+   "id": 1005,
+   "word": "delusion",
+   "uk": "/dɪˈluːʒn/",
+   "us": "/dɪˈluʒn/",
+   "pos": "n.",
+   "cn": "欺骗；哄骗"
+  },
+  {
+   "id": 1006,
+   "word": "mass",
+   "uk": "/mæs/",
+   "us": "",
+   "pos": "adj.,v.,n.",
+   "cn": "大量的；大规模的；聚集；集中；众多；大量；团；块；堆；群众；质量"
+  },
+  {
+   "id": 1007,
+   "word": "detect",
+   "uk": "/dɪˈtekt/",
+   "us": "/dɪˈtɛkt/",
+   "pos": "vt.",
+   "cn": "察觉；发觉；侦查出"
+  },
+  {
+   "id": 1008,
+   "word": "update",
+   "uk": "/ˌʌpˈdeɪt/",
+   "us": "/,ʌpˈdet/",
+   "pos": "vt.,n.",
+   "cn": "更新；使现代化；最新信息"
+  },
+  {
+   "id": 1009,
+   "word": "renaissance",
+   "uk": "/rɪˈneɪsns/",
+   "us": "/ˈrenəsɑ:ns;ˌrɛnəˈsɑns/",
+   "pos": "n.",
+   "cn": "文艺复兴；文艺复兴时期；复兴；再生"
+  },
+  {
+   "id": 1010,
+   "word": "poisonous",
+   "uk": "/ˈpɔɪzənəs/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "有毒的；恶毒的"
+  },
+  {
+   "id": 1011,
+   "word": "condemn",
+   "uk": "/kənˈdem/",
+   "us": "/kənˈdɛm/",
+   "pos": "vt.",
+   "cn": "谴责；指责；判…刑；宣告…有罪"
+  },
+  {
+   "id": 1012,
+   "word": "assistance",
+   "uk": "/əˈsɪstəns/",
+   "us": "",
+   "pos": "n.",
+   "cn": "协助；援助"
+  },
+  {
+   "id": 1013,
+   "word": "auction",
+   "uk": "/ˈɔːkʃn/",
+   "us": "/ˈɔkʃən/",
+   "pos": "n.,vt.",
+   "cn": "拍卖"
+  },
+  {
+   "id": 1014,
+   "word": "propel",
+   "uk": "/prəˈpel/",
+   "us": "/prəˈpɛl/",
+   "pos": "vt.",
+   "cn": "推进；推动；激励；驱使"
+  },
+  {
+   "id": 1015,
+   "word": "admit",
+   "uk": "/ədˈmɪt/",
+   "us": "",
+   "pos": "vi.,vt.",
+   "cn": "承认；承认；供认；准许…进入"
+  },
+  {
+   "id": 1016,
+   "word": "uneven",
+   "uk": "/ʌnˈiːvn/",
+   "us": "/ʌnˈivən/",
+   "pos": "adj.",
+   "cn": "不平坦的；不平滑的；不一致的；不相等的"
+  },
+  {
+   "id": 1017,
+   "word": "definition",
+   "uk": "/ˌdefɪˈnɪʃn/",
+   "us": "/,dɛfɪˈnɪʃən/",
+   "pos": "n.",
+   "cn": "定义；释义；定界；清晰；鲜明"
+  },
+  {
+   "id": 1018,
+   "word": "mansion",
+   "uk": "/ˈmænʃn/",
+   "us": "/ˈmænʃən/",
+   "pos": "n.",
+   "cn": "大厦；宅邸"
+  },
+  {
+   "id": 1019,
+   "word": "mask",
+   "uk": "/mɑːsk/",
+   "us": "/mæsk/",
+   "pos": "n.,vt.",
+   "cn": "面具；面罩；口罩；伪装；遮盖；掩饰"
+  },
+  {
+   "id": 1020,
+   "word": "patrol",
+   "uk": "/pəˈtrəul/",
+   "us": "/pəˈtrol/",
+   "pos": "v.,n.",
+   "cn": "巡逻；巡查；巡逻；巡查；巡逻兵；巡逻队"
+  }
+ ]
+}

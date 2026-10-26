@@ -1,0 +1,365 @@
+{
+  "day": 17,
+  "words": [
+    {
+      "word": "alien",
+      "phr": [
+        {"en": "be alien to", "zh": "与…格格不入"},
+        {"en": "an alien culture", "zh": "异族文化"}
+      ],
+      "ex": [
+        {"en": "The customs of the village seemed alien to the young reporter.",
+         "zh": "这个村庄的习俗对年轻记者来说很陌生。"}
+      ],
+      "note": "be alien to sb 表「对某人陌生」；作名词指外侨或外星人。"
+    },
+    {
+      "word": "competence",
+      "phr": [
+        {"en": "professional competence", "zh": "专业能力"},
+        {"en": "beyond sb's competence", "zh": "超出能力范围"}
+      ],
+      "ex": [
+        {"en": "The interview tested her competence in handling difficult customers.",
+         "zh": "面试考察了她应对难缠顾客的能力。"}
+      ],
+      "note": "名词，形容词 competent，be competent in/at 擅长。"
+    },
+    {
+      "word": "fuse",
+      "phr": [
+        {"en": "blow a fuse", "zh": "烧断保险丝；暴怒"},
+        {"en": "fuse together", "zh": "熔合在一起"}
+      ],
+      "ex": [
+        {"en": "The lights went out when a sudden surge of power blew the fuse.",
+         "zh": "电流突然激增烧断了保险丝，灯都灭了。"}
+      ],
+      "note": "blow a fuse 字面指保险丝熔断，口语表「大发脾气」。"
+    },
+    {
+      "word": "elite",
+      "phr": [
+        {"en": "the ruling elite", "zh": "统治精英"},
+        {"en": "an elite university", "zh": "精英大学"}
+      ],
+      "ex": [
+        {"en": "The scholarship gives talented students from poor areas a chance to join the elite.",
+         "zh": "这项奖学金让贫困地区的优秀学生有机会进入精英行列。"}
+      ],
+      "note": "集合名词，谓语可用单数或复数；elitist 精英主义的。"
+    },
+    {
+      "word": "premium",
+      "phr": [
+        {"en": "at a premium", "zh": "稀缺；溢价"},
+        {"en": "insurance premium", "zh": "保险费"}
+      ],
+      "ex": [
+        {"en": "Good housing is at a premium in the centre of the city.",
+         "zh": "市中心的优质住房非常稀缺。"}
+      ],
+      "note": "at a premium 表「稀缺、溢价」；作形容词指优质的。"
+    },
+    {
+      "word": "ornament",
+      "phr": [
+        {"en": "a glass ornament", "zh": "玻璃装饰品"},
+        {"en": "be ornamented with", "zh": "饰有"}
+      ],
+      "ex": [
+        {"en": "The hall was ornamented with flowers and coloured lights for the wedding.",
+         "zh": "大厅用鲜花和彩灯装饰，用于婚礼。"}
+      ],
+      "note": "作名词指装饰品，作动词表装饰，常用 be ornamented with。"
+    },
+    {
+      "word": "assure",
+      "phr": [
+        {"en": "assure sb of sth", "zh": "向某人保证某事"},
+        {"en": "rest assured", "zh": "请放心"}
+      ],
+      "ex": [
+        {"en": "The doctor assured her that the test results were completely normal.",
+         "zh": "医生向她保证检查结果完全正常。"}
+      ],
+      "note": "assure 后接人；ensure 后接事，如 ensure safety。"
+    },
+    {
+      "word": "pretext",
+      "phr": [
+        {"en": "on the pretext of", "zh": "以…为借口"},
+        {"en": "a false pretext", "zh": "虚假借口"}
+      ],
+      "ex": [
+        {"en": "He left the meeting early on the pretext of an urgent phone call.",
+         "zh": "他以有紧急电话为借口提前离开了会议。"}
+      ],
+      "note": "on the pretext of doing 表「以…为借口」，多指借口不实。"
+    },
+    {
+      "word": "ivory",
+      "phr": [
+        {"en": "ivory tower", "zh": "象牙塔"},
+        {"en": "ivory carving", "zh": "象牙雕刻"}
+      ],
+      "ex": [
+        {"en": "The ban on the ivory trade helped protect wild elephants.",
+         "zh": "禁止象牙贸易帮助保护了野生大象。"}
+      ],
+      "note": "ivory tower（象牙塔）指脱离现实的环境或学术生活。"
+    },
+    {
+      "word": "theme",
+      "phr": [
+        {"en": "the main theme", "zh": "主题"},
+        {"en": "theme park", "zh": "主题公园"}
+      ],
+      "ex": [
+        {"en": "The theme of the conference is how cities can save energy.",
+         "zh": "会议的主题是城市如何节约能源。"}
+      ],
+      "note": "比 topic 更强调贯穿全篇的中心思想；形容词 thematic。"
+    },
+    {
+      "word": "consult",
+      "phr": [
+        {"en": "consult a dictionary", "zh": "查字典"},
+        {"en": "consult with sb", "zh": "与某人商议"}
+      ],
+      "ex": [
+        {"en": "You should consult a doctor before taking these tablets.",
+         "zh": "服用这些药片前你应该咨询医生。"}
+      ],
+      "note": "consult a dictionary 查阅；consult with sb 商议。"
+    },
+    {
+      "word": "solidarity",
+      "phr": [
+        {"en": "show solidarity with", "zh": "声援"},
+        {"en": "in solidarity with", "zh": "为声援"}
+      ],
+      "ex": [
+        {"en": "Workers marched to show solidarity with the striking miners.",
+         "zh": "工人们游行，声援罢工的矿工。"}
+      ],
+      "note": "不可数，常与 with 连用，表「声援、团结一致」。"
+    },
+    {
+      "word": "tumble",
+      "phr": [
+        {"en": "tumble down", "zh": "倒塌"},
+        {"en": "take a tumble", "zh": "跌了一跤"}
+      ],
+      "ex": [
+        {"en": "The little boy tumbled down the last few steps and started crying.",
+         "zh": "小男孩从最后几级台阶上摔了下来，哭了起来。"}
+      ],
+      "note": "指踉跄摔倒或翻滚；tumble down 也指建筑物倒塌。"
+    },
+    {
+      "word": "gracious",
+      "phr": [
+        {"en": "a gracious host", "zh": "和蔼的东道主"},
+        {"en": "gracious living", "zh": "优雅的生活"}
+      ],
+      "ex": [
+        {"en": "Our host was gracious enough to drive us to the station.",
+         "zh": "主人很客气，开车把我们送到车站。"}
+      ],
+      "note": "表亲切有礼，多形容主人或举止；与 graceful 优雅区分。"
+    },
+    {
+      "word": "smash",
+      "phr": [
+        {"en": "smash the window", "zh": "打碎窗户"},
+        {"en": "a smash hit", "zh": "巨大的成功"}
+      ],
+      "ex": [
+        {"en": "The ball smashed through the kitchen window and landed on the floor.",
+         "zh": "球砸穿厨房窗户，落在地板上。"}
+      ],
+      "note": "smash hit 表轰动的成功；smash 强调猛烈撞击致碎。"
+    },
+    {
+      "word": "merely",
+      "phr": [
+        {"en": "not merely", "zh": "不仅仅"},
+        {"en": "merely a matter of", "zh": "仅仅是…的问题"}
+      ],
+      "ex": [
+        {"en": "He was not merely late; he had forgotten the tickets entirely.",
+         "zh": "他不仅迟到了，还完全忘了带票。"}
+      ],
+      "note": "相当于 only，但更书面；not merely...but also 常见。"
+    },
+    {
+      "word": "appropriation",
+      "phr": [
+        {"en": "the appropriation of funds", "zh": "资金拨付"},
+        {"en": "cultural appropriation", "zh": "文化挪用"}
+      ],
+      "ex": [
+        {"en": "The council approved an appropriation of funds for road repairs.",
+         "zh": "议会批准了用于修路的资金拨款。"}
+      ],
+      "note": "作动词表「挪用、拨出」；名词 appropriation。"
+    },
+    {
+      "word": "contradiction",
+      "phr": [
+        {"en": "a contradiction in terms", "zh": "自相矛盾的说法"},
+        {"en": "in contradiction to", "zh": "与…相矛盾"}
+      ],
+      "ex": [
+        {"en": "There is a clear contradiction between his words and his actions.",
+         "zh": "他的言行之间存在明显矛盾。"}
+      ],
+      "note": "常用 between A and B；形容词 contradictory。"
+    },
+    {
+      "word": "wealth",
+      "phr": [
+        {"en": "a wealth of", "zh": "大量的"},
+        {"en": "accumulate wealth", "zh": "积累财富"}
+      ],
+      "ex": [
+        {"en": "A wealth of information is available on the museum's website.",
+         "zh": "博物馆网站上提供大量信息。"}
+      ],
+      "note": "a wealth of 表「大量的」，后接不可数或复数名词。"
+    },
+    {
+      "word": "henceforth",
+      "phr": [
+        {"en": "henceforth known as", "zh": "此后称为"},
+        {"en": "henceforth prohibited", "zh": "此后禁止"}
+      ],
+      "ex": [
+        {"en": "The rule will henceforth apply to all students in the department.",
+         "zh": "该规定从此将适用于系里所有学生。"}
+      ],
+      "note": "较正式，常见于法律或公告，相当于 from now on。"
+    },
+    {
+      "word": "wallet",
+      "phr": [
+        {"en": "a leather wallet", "zh": "皮钱包"},
+        {"en": "digital wallet", "zh": "数字钱包"}
+      ],
+      "ex": [
+        {"en": "He found a wallet on the bus and handed it to the driver.",
+         "zh": "他在公交车上捡到一个钱包，交给了司机。"}
+      ],
+      "note": "指男士折叠皮夹；女用钱包常说 purse。"
+    },
+    {
+      "word": "survive",
+      "phr": [
+        {"en": "survive on", "zh": "靠…维持生计"},
+        {"en": "survive a crisis", "zh": "度过危机"}
+      ],
+      "ex": [
+        {"en": "Only two passengers survived the crash, according to the report.",
+         "zh": "据报道，只有两名乘客在这次撞车事故中幸存。"}
+      ],
+      "note": "survive 后直接跟宾语；survivor 是「幸存者」。"
+    },
+    {
+      "word": "desire",
+      "phr": [
+        {"en": "a strong desire for", "zh": "对…的强烈渴望"},
+        {"en": "leave much to be desired", "zh": "有不足之处"}
+      ],
+      "ex": [
+        {"en": "She had a strong desire to study abroad after graduation.",
+         "zh": "毕业后她强烈渴望出国留学。"}
+      ],
+      "note": "比 want 正式；leave much to be desired 表有很多不足。"
+    },
+    {
+      "word": "initial",
+      "phr": [
+        {"en": "initial stage", "zh": "初始阶段"},
+        {"en": "initial reaction", "zh": "最初反应"}
+      ],
+      "ex": [
+        {"en": "My initial reaction to the news was one of complete disbelief.",
+         "zh": "我对这个消息的最初反应是完全不敢相信。"}
+      ],
+      "note": "作名词时复数 initials 指姓名首字母；动词 initiate。"
+    },
+    {
+      "word": "efficient",
+      "phr": [
+        {"en": "energy-efficient", "zh": "节能的"},
+        {"en": "an efficient way", "zh": "有效的方法"}
+      ],
+      "ex": [
+        {"en": "The new heating system is far more efficient than the old one.",
+         "zh": "新的供暖系统比旧的效率高得多。"}
+      ],
+      "note": "efficient 指效率高，effective 指有效果，注意区分。"
+    },
+    {
+      "word": "murmur",
+      "phr": [
+        {"en": "murmur a prayer", "zh": "低声祈祷"},
+        {"en": "a murmur of agreement", "zh": "赞同的低语"}
+      ],
+      "ex": [
+        {"en": "She murmured a few words of comfort and held his hand.",
+         "zh": "她低声说了几句安慰的话，握住他的手。"}
+      ],
+      "note": "指低声连续地说；heart murmur 指心脏杂音。"
+    },
+    {
+      "word": "fury",
+      "phr": [
+        {"en": "in a fury", "zh": "愤怒地"},
+        {"en": "the fury of the storm", "zh": "暴风雨的猛烈"}
+      ],
+      "ex": [
+        {"en": "He slammed the door in a fury and refused to speak to anyone.",
+         "zh": "他怒气冲冲地摔上门，拒绝和任何人说话。"}
+      ],
+      "note": "furious 是形容词；in a fury 表「怒气冲冲地」。"
+    },
+    {
+      "word": "unify",
+      "phr": [
+        {"en": "unify the country", "zh": "统一国家"},
+        {"en": "unify standards", "zh": "统一标准"}
+      ],
+      "ex": [
+        {"en": "The new leader promised to unify the divided country within a year.",
+         "zh": "新领导人承诺一年内统一这个分裂的国家。"}
+      ],
+      "note": "uni-（一）+ -fy（使…）→ 使统一；名词 unity。"
+    },
+    {
+      "word": "muddy",
+      "phr": [
+        {"en": "muddy water", "zh": "浑浊的水"},
+        {"en": "muddy boots", "zh": "沾满泥的靴子"}
+      ],
+      "ex": [
+        {"en": "The children came home with muddy boots and wet jackets.",
+         "zh": "孩子们回家时靴子沾满泥，夹克也湿了。"}
+      ],
+      "note": "mud 的形容词，也比喻「含糊不清的」，如 muddy thinking。"
+    },
+    {
+      "word": "hound",
+      "phr": [
+        {"en": "be hounded by", "zh": "被…纠缠"},
+        {"en": "a hunting hound", "zh": "猎犬"}
+      ],
+      "ex": [
+        {"en": "The actor was hounded by reporters for weeks after the scandal.",
+         "zh": "丑闻之后，这位演员被记者纠缠了好几周。"}
+      ],
+      "note": "作名词指猎犬，作动词表「不断纠缠」，常用于被动。"
+    }
+  ]
+}

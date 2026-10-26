@@ -1,0 +1,365 @@
+{
+  "day": 72,
+  "words": [
+    {
+      "word": "longevity",
+      "phr": [
+        {"en": "the secret of longevity", "zh": "长寿的秘诀"},
+        {"en": "increase human longevity", "zh": "延长人类寿命"}
+      ],
+      "ex": [
+        {"en": "Scientists are studying the diet and habits that contribute to human longevity.",
+         "zh": "科学家正在研究有助于人类长寿的饮食和习惯。"}
+      ],
+      "note": "常与 increase、extend 搭配，指长寿或事物的持久。"
+    },
+    {
+      "word": "military",
+      "phr": [
+        {"en": "military service", "zh": "兵役"},
+        {"en": "military force", "zh": "军事力量"}
+      ],
+      "ex": [
+        {"en": "He served in the military for ten years before entering politics.",
+         "zh": "他从政前在军队服役十年。"}
+      ],
+      "note": "作名词指军队，多用 the military；作定语修饰名词。"
+    },
+    {
+      "word": "dynamic",
+      "phr": [
+        {"en": "a dynamic economy", "zh": "充满活力的经济"},
+        {"en": "dynamic equilibrium", "zh": "动态平衡"}
+      ],
+      "ex": [
+        {"en": "The city has a dynamic economy that attracts young graduates.",
+         "zh": "这座城市经济充满活力，吸引着年轻毕业生。"}
+      ],
+      "note": "强调有活力、不断变化，与 static（静态的）相对。"
+    },
+    {
+      "word": "wardrobe",
+      "phr": [
+        {"en": "a built-in wardrobe", "zh": "嵌入式衣柜"},
+        {"en": "a winter wardrobe", "zh": "冬季衣物"}
+      ],
+      "ex": [
+        {"en": "She hung her coat in the wardrobe and went downstairs.",
+         "zh": "她把外套挂进衣柜，然后下了楼。"}
+      ],
+      "note": "指衣柜，也可指一个人的全部衣物，别与 clothes 混用。"
+    },
+    {
+      "word": "reluctant",
+      "phr": [
+        {"en": "be reluctant to do sth", "zh": "不愿做某事"},
+        {"en": "a reluctant witness", "zh": "不情愿的证人"}
+      ],
+      "ex": [
+        {"en": "Many students are reluctant to speak English in front of the class.",
+         "zh": "许多学生不愿在全班同学面前说英语。"}
+      ],
+      "note": "后接 to do，不接 doing；近义词 unwilling。"
+    },
+    {
+      "word": "conscientious",
+      "phr": [
+        {"en": "a conscientious worker", "zh": "尽职的员工"},
+        {"en": "conscientious about", "zh": "对…一丝不苟"}
+      ],
+      "ex": [
+        {"en": "She is a conscientious student who checks every answer twice.",
+         "zh": "她是个认真的学生，每道题的答案都检查两遍。"}
+      ],
+      "note": "源于 conscience（良心），形容勤勉尽责、一丝不苟。"
+    },
+    {
+      "word": "passion",
+      "phr": [
+        {"en": "a passion for music", "zh": "对音乐的热爱"},
+        {"en": "with passion", "zh": "满怀热情地"}
+      ],
+      "ex": [
+        {"en": "His passion for music began when he was a child.",
+         "zh": "他对音乐的热爱始于童年。"}
+      ],
+      "note": "passion for sth 表热爱；复数 passions 指强烈情感。"
+    },
+    {
+      "word": "generate",
+      "phr": [
+        {"en": "generate electricity", "zh": "发电"},
+        {"en": "generate income", "zh": "创造收入"}
+      ],
+      "ex": [
+        {"en": "The new plant can generate enough electricity for the whole town.",
+         "zh": "新电厂发的电足够全镇使用。"}
+      ],
+      "note": "多接 power、income、interest 等宾语，表“产生”。"
+    },
+    {
+      "word": "extreme",
+      "phr": [
+        {"en": "go to extremes", "zh": "走极端"},
+        {"en": "extreme weather", "zh": "极端天气"}
+      ],
+      "ex": [
+        {"en": "Extreme weather has become more frequent in recent years.",
+         "zh": "近年来极端天气越来越频繁。"}
+      ],
+      "note": "go to extremes 走极端；常修饰 weather、measures。"
+    },
+    {
+      "word": "tuck",
+      "phr": [
+        {"en": "tuck sth into", "zh": "把某物塞进"},
+        {"en": "tuck away", "zh": "藏起来"}
+      ],
+      "ex": [
+        {"en": "She tucked the letter into her pocket and left quickly.",
+         "zh": "她把信塞进口袋，快步离开了。"}
+      ],
+      "note": "核心义“塞、掖”；tuck in 还可口语指“大吃一顿”。"
+    },
+    {
+      "word": "authoritative",
+      "phr": [
+        {"en": "an authoritative source", "zh": "权威来源"},
+        {"en": "an authoritative tone", "zh": "命令的口吻"}
+      ],
+      "ex": [
+        {"en": "The report is based on authoritative sources such as official statistics.",
+         "zh": "这份报告依据官方统计等权威来源。"}
+      ],
+      "note": "由 authority 变来，既指权威可信，也指专断。"
+    },
+    {
+      "word": "athlete",
+      "phr": [
+        {"en": "a professional athlete", "zh": "职业运动员"},
+        {"en": "an Olympic athlete", "zh": "奥运选手"}
+      ],
+      "ex": [
+        {"en": "The young athlete trains six hours a day for the national games.",
+         "zh": "这名年轻运动员为全国运动会每天训练六小时。"}
+      ],
+      "note": "指田径等运动员；形容词 athletic 表“运动的”。"
+    },
+    {
+      "word": "upright",
+      "phr": [
+        {"en": "sit upright", "zh": "坐直"},
+        {"en": "an upright citizen", "zh": "正直的公民"}
+      ],
+      "ex": [
+        {"en": "Please sit upright and keep your back against the chair.",
+         "zh": "请坐直，让背部靠住椅背。"}
+      ],
+      "note": "指身姿挺直，也可形容人正直；常与 sit、stand 连用。"
+    },
+    {
+      "word": "extract",
+      "phr": [
+        {"en": "extract information from", "zh": "从…获取信息"},
+        {"en": "vanilla extract", "zh": "香草精"}
+      ],
+      "ex": [
+        {"en": "Researchers managed to extract useful data from the old records.",
+         "zh": "研究人员从旧档案中提取出了有用的数据。"}
+      ],
+      "note": "名词重音在前，指摘录或提取物；动词重音在后。"
+    },
+    {
+      "word": "obscure",
+      "phr": [
+        {"en": "an obscure writer", "zh": "默默无闻的作家"},
+        {"en": "obscure the view", "zh": "挡住视线"}
+      ],
+      "ex": [
+        {"en": "The meaning of the poem remains obscure to most readers.",
+         "zh": "这首诗的含义对多数读者来说仍然晦涩。"}
+      ],
+      "note": "兼指不出名和难懂；作动词表“遮掩、使模糊”。"
+    },
+    {
+      "word": "dismay",
+      "phr": [
+        {"en": "to one's dismay", "zh": "令某人沮丧的是"},
+        {"en": "be dismayed at", "zh": "对…感到惊愕"}
+      ],
+      "ex": [
+        {"en": "To her dismay, the train had already left when she arrived.",
+         "zh": "让她沮丧的是，她赶到时火车已经开走了。"}
+      ],
+      "note": "to one's dismay 是固定结构；dismayed 后接 at/by。"
+    },
+    {
+      "word": "expend",
+      "phr": [
+        {"en": "expend energy on", "zh": "把精力花在"},
+        {"en": "expend resources", "zh": "消耗资源"}
+      ],
+      "ex": [
+        {"en": "They expended a great deal of effort on the experiment.",
+         "zh": "他们在这个实验上花了大量精力。"}
+      ],
+      "note": "比 spend 正式，常接 energy、effort、resources。"
+    },
+    {
+      "word": "forge",
+      "phr": [
+        {"en": "forge a friendship", "zh": "建立友谊"},
+        {"en": "forge a signature", "zh": "伪造签名"}
+      ],
+      "ex": [
+        {"en": "The two countries forged a close partnership over the past decade.",
+         "zh": "过去十年间，两国建立了紧密的合作关系。"}
+      ],
+      "note": "本义“锻造”，引申为“建立关系”和“伪造”。"
+    },
+    {
+      "word": "demonstrate",
+      "phr": [
+        {"en": "demonstrate how to do", "zh": "演示如何做"},
+        {"en": "demonstrate that", "zh": "论证表明"}
+      ],
+      "ex": [
+        {"en": "The teacher demonstrated how to use the new software step by step.",
+         "zh": "老师一步步演示了如何使用新软件。"}
+      ],
+      "note": "既指演示、示范，也指论证、表明，后可接 that 从句。"
+    },
+    {
+      "word": "region",
+      "phr": [
+        {"en": "in the region of", "zh": "大约"},
+        {"en": "a coastal region", "zh": "沿海地区"}
+      ],
+      "ex": [
+        {"en": "This region is famous for its tea and mild climate.",
+         "zh": "这个地区以茶叶和温和的气候闻名。"}
+      ],
+      "note": "in the region of 表“大约”；形容词为 regional。"
+    },
+    {
+      "word": "deceive",
+      "phr": [
+        {"en": "deceive sb into doing", "zh": "骗某人做"},
+        {"en": "be deceived by", "zh": "被…欺骗"}
+      ],
+      "ex": [
+        {"en": "He was deceived by a false advertisement and lost a lot of money.",
+         "zh": "他被一则虚假广告骗了，损失了很多钱。"}
+      ],
+      "note": "强调让人信假为真；deceive sb into doing 骗某人做。"
+    },
+    {
+      "word": "preview",
+      "phr": [
+        {"en": "a preview of the film", "zh": "影片预告"},
+        {"en": "a press preview", "zh": "媒体预展"}
+      ],
+      "ex": [
+        {"en": "The magazine gave readers a preview of the new film.",
+         "zh": "这本杂志向读者预告了新片的内容。"}
+      ],
+      "note": "pre- 加 view，指放映或展出前的预览，也可作动词。"
+    },
+    {
+      "word": "ingenious",
+      "phr": [
+        {"en": "an ingenious idea", "zh": "巧妙的主意"},
+        {"en": "an ingenious device", "zh": "精巧的装置"}
+      ],
+      "ex": [
+        {"en": "The engineer came up with an ingenious way to save water.",
+         "zh": "这位工程师想出了一个节水的巧妙办法。"}
+      ],
+      "note": "强调设计巧妙；别与 ingenuous（天真的）混淆。"
+    },
+    {
+      "word": "questionnaire",
+      "phr": [
+        {"en": "fill in a questionnaire", "zh": "填写问卷"},
+        {"en": "a questionnaire survey", "zh": "问卷调查"}
+      ],
+      "ex": [
+        {"en": "Two hundred students filled in the questionnaire about online study.",
+         "zh": "两百名学生填写了关于线上学习的问卷。"}
+      ],
+      "note": "常用 fill in/out a questionnaire；指问卷表格本身。"
+    },
+    {
+      "word": "breakthrough",
+      "phr": [
+        {"en": "make a breakthrough", "zh": "取得突破"},
+        {"en": "a breakthrough in", "zh": "在…方面的突破"}
+      ],
+      "ex": [
+        {"en": "Scientists made a major breakthrough in cancer research last year.",
+         "zh": "科学家去年在癌症研究上取得重大突破。"}
+      ],
+      "note": "常与 make、achieve 连用，后接介词 in。"
+    },
+    {
+      "word": "snack",
+      "phr": [
+        {"en": "a light snack", "zh": "少量点心"},
+        {"en": "a snack bar", "zh": "小吃店"}
+      ],
+      "ex": [
+        {"en": "She had a quick snack before the meeting started.",
+         "zh": "会议开始前她匆匆吃了点东西。"}
+      ],
+      "note": "指正餐之间的少量食物；snack bar 是小吃店。"
+    },
+    {
+      "word": "yoke",
+      "phr": [
+        {"en": "under the yoke of", "zh": "在…的枷锁下"},
+        {"en": "yoke together", "zh": "把…套在一起"}
+      ],
+      "ex": [
+        {"en": "The farmers yoked the two oxen together to pull the cart.",
+         "zh": "农夫把两头牛套在一起拉车。"}
+      ],
+      "note": "本义牛轭，引申为枷锁、束缚，常用 under the yoke of。"
+    },
+    {
+      "word": "destination",
+      "phr": [
+        {"en": "a tourist destination", "zh": "旅游胜地"},
+        {"en": "arrive at one's destination", "zh": "到达目的地"}
+      ],
+      "ex": [
+        {"en": "The island has become a popular destination for young travellers.",
+         "zh": "这座岛已成为年轻游客的热门目的地。"}
+      ],
+      "note": "指旅程终点；常与 reach、arrive at 连用。"
+    },
+    {
+      "word": "throne",
+      "phr": [
+        {"en": "come to the throne", "zh": "登上王位"},
+        {"en": "a golden throne", "zh": "黄金宝座"}
+      ],
+      "ex": [
+        {"en": "The young king came to the throne at the age of eighteen.",
+         "zh": "这位年轻的国王十八岁登上王位。"}
+      ],
+      "note": "come to/ascend the throne 表登基；也指宝座。"
+    },
+    {
+      "word": "privacy",
+      "phr": [
+        {"en": "personal privacy", "zh": "个人隐私"},
+        {"en": "invade one's privacy", "zh": "侵犯隐私"}
+      ],
+      "ex": [
+        {"en": "Many users worry that the app may invade their privacy.",
+         "zh": "许多用户担心这款应用会侵犯他们的隐私。"}
+      ],
+      "note": "不可数名词；常用 protect 或 invade one's privacy。"
+    }
+  ]
+}

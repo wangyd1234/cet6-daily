@@ -1,0 +1,365 @@
+{
+  "day": 44,
+  "words": [
+    {
+      "word": "scope",
+      "phr": [
+        {"en": "beyond the scope of", "zh": "超出…的范围"},
+        {"en": "scope for improvement", "zh": "改进的余地"}
+      ],
+      "ex": [
+        {"en": "These questions are beyond the scope of this chapter.",
+         "zh": "这些问题超出了本章的范围。"}
+      ],
+      "note": "scope 表范围或余地，常与 for 连用表有…的余地。"
+    },
+    {
+      "word": "responsible",
+      "phr": [
+        {"en": "be responsible for", "zh": "对…负责"},
+        {"en": "hold sb responsible", "zh": "要某人负责"}
+      ],
+      "ex": [
+        {"en": "She is responsible for training all new staff.",
+         "zh": "她负责培训所有新员工。"}
+      ],
+      "note": "responsible for 后接职责，responsible to 表对上级负责。"
+    },
+    {
+      "word": "linen",
+      "phr": [
+        {"en": "bed linen", "zh": "床上用品"},
+        {"en": "a linen shirt", "zh": "亚麻衬衫"}
+      ],
+      "ex": [
+        {"en": "The hotel changes the bed linen every day.",
+         "zh": "这家旅馆每天更换床上用品。"}
+      ],
+      "note": "linen 指亚麻布或日用织品，床上用品说 bed linen。"
+    },
+    {
+      "word": "expectancy",
+      "phr": [
+        {"en": "life expectancy", "zh": "预期寿命"},
+        {"en": "a look of expectancy", "zh": "期待的神情"}
+      ],
+      "ex": [
+        {"en": "Average life expectancy in the country has risen sharply.",
+         "zh": "该国的人均预期寿命大幅提高。"}
+      ],
+      "note": "expectancy 多用于 life expectancy 表预期寿命。"
+    },
+    {
+      "word": "illuminate",
+      "phr": [
+        {"en": "illuminate the room", "zh": "照亮房间"},
+        {"en": "illuminate the issue", "zh": "阐明问题"}
+      ],
+      "ex": [
+        {"en": "A single street lamp illuminated the narrow alley.",
+         "zh": "一盏路灯照亮了狭窄的小巷。"}
+      ],
+      "note": "illuminate 既表照明也表阐明，名词为 illumination。"
+    },
+    {
+      "word": "liner",
+      "phr": [
+        {"en": "a luxury liner", "zh": "豪华客轮"},
+        {"en": "a bin liner", "zh": "垃圾袋"}
+      ],
+      "ex": [
+        {"en": "The luxury liner sailed into the harbour at dawn.",
+         "zh": "那艘豪华客轮在黎明时驶入港口。"}
+      ],
+      "note": "liner 指大客轮，也指衬里或垃圾袋内衬。"
+    },
+    {
+      "word": "identify",
+      "phr": [
+        {"en": "identify with", "zh": "认同；产生共鸣"},
+        {"en": "identify the cause", "zh": "找出原因"}
+      ],
+      "ex": [
+        {"en": "Police were able to identify the suspect from the video.",
+         "zh": "警方根据录像认出了嫌疑人。"}
+      ],
+      "note": "identify with sb 表认同某人，identify A as B 表确认。"
+    },
+    {
+      "word": "citizenship",
+      "phr": [
+        {"en": "dual citizenship", "zh": "双重国籍"},
+        {"en": "apply for citizenship", "zh": "申请公民身份"}
+      ],
+      "ex": [
+        {"en": "She applied for citizenship after living there for ten years.",
+         "zh": "在那里居住十年后，她申请了公民身份。"}
+      ],
+      "note": "citizenship 是 citizen 加 -ship 后缀，表身份或权利。"
+    },
+    {
+      "word": "label",
+      "phr": [
+        {"en": "a warning label", "zh": "警示标签"},
+        {"en": "label sb as", "zh": "把某人称为"}
+      ],
+      "ex": [
+        {"en": "Read the label carefully before taking the medicine.",
+         "zh": "服药前请仔细阅读标签。"}
+      ],
+      "note": "label 作动词常用 label sb/sth as，含贴标签之意。"
+    },
+    {
+      "word": "slippery",
+      "phr": [
+        {"en": "a slippery road", "zh": "湿滑的道路"},
+        {"en": "a slippery slope", "zh": "滑坡效应"}
+      ],
+      "ex": [
+        {"en": "The road was slippery after the heavy rain.",
+         "zh": "大雨过后路面很滑。"}
+      ],
+      "note": "slippery 指表面滑，a slippery slope 喻指逐步恶化。"
+    },
+    {
+      "word": "forum",
+      "phr": [
+        {"en": "an online forum", "zh": "网络论坛"},
+        {"en": "a public forum", "zh": "公共论坛"}
+      ],
+      "ex": [
+        {"en": "The online forum allows readers to share their views.",
+         "zh": "这个网络论坛让读者可以分享看法。"}
+      ],
+      "note": "forum 复数为 forums 或 fora，指讨论的场所。"
+    },
+    {
+      "word": "contempt",
+      "phr": [
+        {"en": "contempt of court", "zh": "藐视法庭"},
+        {"en": "hold sb in contempt", "zh": "蔑视某人"}
+      ],
+      "ex": [
+        {"en": "He spoke of their efforts with open contempt.",
+         "zh": "他谈及他们的努力时满是公开的蔑视。"}
+      ],
+      "note": "contempt 后接 for，如 contempt for authority。"
+    },
+    {
+      "word": "modify",
+      "phr": [
+        {"en": "modify a plan", "zh": "修改计划"},
+        {"en": "modify the contract", "zh": "修改合同"}
+      ],
+      "ex": [
+        {"en": "We may modify the design to cut costs.",
+         "zh": "我们也许可以修改设计以降低成本。"}
+      ],
+      "note": "modify 指部分修改，比 change 正式，名词 modification。"
+    },
+    {
+      "word": "environment",
+      "phr": [
+        {"en": "protect the environment", "zh": "保护环境"},
+        {"en": "a working environment", "zh": "工作环境"}
+      ],
+      "ex": [
+        {"en": "We should all do more to protect the environment.",
+         "zh": "我们都应该为保护环境多做些事。"}
+      ],
+      "note": "environment 指环境，后接 of 表具体范围。"
+    },
+    {
+      "word": "clone",
+      "phr": [
+        {"en": "a clone of", "zh": "…的复制品"},
+        {"en": "clone an animal", "zh": "克隆动物"}
+      ],
+      "ex": [
+        {"en": "Scientists have successfully cloned several species of animals.",
+         "zh": "科学家已成功克隆了数种动物。"}
+      ],
+      "note": "clone 作名词指复制品，作动词指无性繁殖。"
+    },
+    {
+      "word": "betray",
+      "phr": [
+        {"en": "betray a friend", "zh": "背叛朋友"},
+        {"en": "betray one's feelings", "zh": "流露感情"}
+      ],
+      "ex": [
+        {"en": "His trembling hands betrayed how nervous he was.",
+         "zh": "他颤抖的双手暴露了他有多紧张。"}
+      ],
+      "note": "betray 除“背叛”外，还表无意中流露，如 betray fear。"
+    },
+    {
+      "word": "progressive",
+      "phr": [
+        {"en": "a progressive disease", "zh": "进行性疾病"},
+        {"en": "progressive ideas", "zh": "进步的思想"}
+      ],
+      "ex": [
+        {"en": "The disease is progressive and has no known cure.",
+         "zh": "这种病会逐渐加重，目前没有已知的疗法。"}
+      ],
+      "note": "progressive 指渐进的或进步的，the progressive 指进行时。"
+    },
+    {
+      "word": "pledge",
+      "phr": [
+        {"en": "make a pledge", "zh": "作出承诺"},
+        {"en": "pledge to do", "zh": "承诺做某事"}
+      ],
+      "ex": [
+        {"en": "The government pledged to cut carbon emissions by half.",
+         "zh": "政府承诺将碳排放量削减一半。"}
+      ],
+      "note": "pledge 比 promise 正式，可作名词表誓言或质押。"
+    },
+    {
+      "word": "exempt",
+      "phr": [
+        {"en": "be exempt from", "zh": "免除…"},
+        {"en": "tax-exempt", "zh": "免税的"}
+      ],
+      "ex": [
+        {"en": "Students are exempt from paying the entrance fee.",
+         "zh": "学生免交入场费。"}
+      ],
+      "note": "exempt from 后接义务或费用，动词为 exempt sb from。"
+    },
+    {
+      "word": "deliberate",
+      "phr": [
+        {"en": "a deliberate lie", "zh": "蓄意的谎言"},
+        {"en": "deliberate over", "zh": "仔细考虑"}
+      ],
+      "ex": [
+        {"en": "The damage appeared to be the result of a deliberate act.",
+         "zh": "这些损坏似乎是故意行为造成的。"}
+      ],
+      "note": "deliberate 作形容词读 -rət，作动词读 -reɪt。"
+    },
+    {
+      "word": "physiological",
+      "phr": [
+        {"en": "physiological changes", "zh": "生理变化"},
+        {"en": "physiological needs", "zh": "生理需求"}
+      ],
+      "ex": [
+        {"en": "Lack of sleep causes both psychological and physiological problems.",
+         "zh": "睡眠不足会带来心理和生理两方面的问题。"}
+      ],
+      "note": "physiological 由 physiology 加 -ical 构成，指生理的。"
+    },
+    {
+      "word": "shaft",
+      "phr": [
+        {"en": "a shaft of light", "zh": "一道光线"},
+        {"en": "a mine shaft", "zh": "矿井"}
+      ],
+      "ex": [
+        {"en": "A shaft of sunlight fell across the empty room.",
+         "zh": "一道阳光照进空荡荡的房间。"}
+      ],
+      "note": "shaft 指杆、轴或竖井，a shaft of light 指一束光。"
+    },
+    {
+      "word": "aesthetic",
+      "phr": [
+        {"en": "aesthetic value", "zh": "美学价值"},
+        {"en": "aesthetic appeal", "zh": "审美吸引力"}
+      ],
+      "ex": [
+        {"en": "The building was praised for its aesthetic appeal.",
+         "zh": "这座建筑因美感而受到称赞。"}
+      ],
+      "note": "aesthetic 指审美，名词为 aesthetics，英式也拼 esthetic。"
+    },
+    {
+      "word": "atmosphere",
+      "phr": [
+        {"en": "a relaxed atmosphere", "zh": "轻松的气氛"},
+        {"en": "the earth's atmosphere", "zh": "地球的大气层"}
+      ],
+      "ex": [
+        {"en": "The restaurant has a warm and friendly atmosphere.",
+         "zh": "这家餐馆的气氛温馨而友好。"}
+      ],
+      "note": "atmosphere 可指大气，也可指气氛，注意区分。"
+    },
+    {
+      "word": "decorate",
+      "phr": [
+        {"en": "decorate the room", "zh": "装饰房间"},
+        {"en": "be decorated with", "zh": "用…装饰"}
+      ],
+      "ex": [
+        {"en": "The hall was decorated with flowers and lights.",
+         "zh": "大厅用鲜花和彩灯装饰起来。"}
+      ],
+      "note": "decorate 后接 with 表用某物装饰，名词为 decoration。"
+    },
+    {
+      "word": "electrician",
+      "phr": [
+        {"en": "call an electrician", "zh": "叫电工来"},
+        {"en": "a qualified electrician", "zh": "合格的电工"}
+      ],
+      "ex": [
+        {"en": "We had to call an electrician to fix the wiring.",
+         "zh": "我们只好叫电工来修线路。"}
+      ],
+      "note": "electrician 由 electric 加 -ian 构成，指电气工作者。"
+    },
+    {
+      "word": "occupation",
+      "phr": [
+        {"en": "military occupation", "zh": "军事占领"},
+        {"en": "by occupation", "zh": "就职业而言"}
+      ],
+      "ex": [
+        {"en": "The country remained under military occupation for years.",
+         "zh": "这个国家多年来一直处于军事占领之下。"}
+      ],
+      "note": "occupation 指职业或占领，问职业可说 your occupation。"
+    },
+    {
+      "word": "tendency",
+      "phr": [
+        {"en": "a tendency to do", "zh": "有…的倾向"},
+        {"en": "a tendency towards", "zh": "倾向于"}
+      ],
+      "ex": [
+        {"en": "He has a tendency to talk too much.",
+         "zh": "他有说话太多的毛病。"}
+      ],
+      "note": "tendency 后接 to do 或 towards，动词为 tend。"
+    },
+    {
+      "word": "release",
+      "phr": [
+        {"en": "release a report", "zh": "发布报告"},
+        {"en": "release sb from", "zh": "把某人从…释放"}
+      ],
+      "ex": [
+        {"en": "The company released its annual report on Monday.",
+         "zh": "公司在周一发布了年度报告。"}
+      ],
+      "note": "release 可指释放、发布与发行，如 release a film。"
+    },
+    {
+      "word": "caption",
+      "phr": [
+        {"en": "add a caption", "zh": "添加说明文字"},
+        {"en": "a photo caption", "zh": "照片说明"}
+      ],
+      "ex": [
+        {"en": "Each photograph in the book has a short caption.",
+         "zh": "书中的每张照片都配有一段简短的说明。"}
+      ],
+      "note": "caption 指图片说明或字幕，动词表“加标题”。"
+    }
+  ]
+}

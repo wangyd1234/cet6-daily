@@ -1,0 +1,246 @@
+{
+ "day": 29,
+ "date": null,
+ "words": [
+  {
+   "id": 841,
+   "word": "petty",
+   "uk": "/ˈpeti/",
+   "us": "/ˈpɛti/",
+   "pos": "adj.",
+   "cn": "小的；琐碎的；不重要的；气量小的；心胸狭窄的"
+  },
+  {
+   "id": 842,
+   "word": "glow",
+   "uk": "/gləu/",
+   "us": "/ɡlo/",
+   "pos": "vi.,n.",
+   "cn": "发光；燃烧；白热光；脸红；激情"
+  },
+  {
+   "id": 843,
+   "word": "sentiment",
+   "uk": "/ˈsentɪmənt/",
+   "us": "/ˈsɛntɪmənt/",
+   "pos": "n.",
+   "cn": "意见；观点；感情；情绪"
+  },
+  {
+   "id": 844,
+   "word": "differentiation",
+   "uk": "/ˌdɪfəˌrenʃiˈeɪʃn/",
+   "us": "/,dɪfə,rɛnʃiˈeʃən/",
+   "pos": "n.",
+   "cn": "区别"
+  },
+  {
+   "id": 845,
+   "word": "constitution",
+   "uk": "/ˌkɒnstɪˈtjuːʃn/",
+   "us": "/ˈkɑnstəˈtʊʃən/",
+   "pos": "n.",
+   "cn": "宪法；章程；组成；设立"
+  },
+  {
+   "id": 846,
+   "word": "patent",
+   "uk": "/ˈpætnt/",
+   "us": "",
+   "pos": "adj.,n.,vt.",
+   "cn": "专利的；受专利保护的；专利；专利权；得到…的专利权"
+  },
+  {
+   "id": 847,
+   "word": "cocaine",
+   "uk": "/kəuˈkeɪn/",
+   "us": "/koˈken/",
+   "pos": "n.",
+   "cn": "可卡因；古柯碱"
+  },
+  {
+   "id": 848,
+   "word": "groove",
+   "uk": "/gruːv/",
+   "us": "/ɡruv/",
+   "pos": "n.",
+   "cn": "沟；槽"
+  },
+  {
+   "id": 849,
+   "word": "abundance",
+   "uk": "/əˈbʌndəns/",
+   "us": "",
+   "pos": "n.",
+   "cn": "大量；丰富；充足"
+  },
+  {
+   "id": 850,
+   "word": "racket",
+   "uk": "/ˈrækɪt/",
+   "us": "",
+   "pos": "n.",
+   "cn": "喧嚷；吵闹；敲诈；勒索；诈骗；球拍"
+  },
+  {
+   "id": 851,
+   "word": "conceive",
+   "uk": "/kənˈsiːv/",
+   "us": "/kənˈsiv/",
+   "pos": "vi.,vt.",
+   "cn": "构想出；设想；怀孕；想出；认为；怀"
+  },
+  {
+   "id": 852,
+   "word": "sour",
+   "uk": "/ˈsauə/",
+   "us": "/ˈsaʊɚ/",
+   "pos": "adj.,v.",
+   "cn": "酸的；馊的；酸味的；脾气坏的；变酸；变馊；变得乖戾"
+  },
+  {
+   "id": 853,
+   "word": "transform",
+   "uk": "/trænsˈfɔːm/",
+   "us": "/trænsˈfɔrm/",
+   "pos": "vt.",
+   "cn": "使改观；改革；变换；把…转换成"
+  },
+  {
+   "id": 854,
+   "word": "napkin",
+   "uk": "/ˈnæpkɪn/",
+   "us": "",
+   "pos": "n.",
+   "cn": "餐巾"
+  },
+  {
+   "id": 855,
+   "word": "reckless",
+   "uk": "/ˈrekləs/",
+   "us": "/ˈrɛkləs/",
+   "pos": "adj.",
+   "cn": "鲁莽的；不考虑后果的"
+  },
+  {
+   "id": 856,
+   "word": "paradox",
+   "uk": "/ˈpærədɒks/",
+   "us": "/ˈpærədɑks/",
+   "pos": "n.",
+   "cn": "似乎矛盾而正确的说法；自相矛盾的人"
+  },
+  {
+   "id": 857,
+   "word": "magnitude",
+   "uk": "/ˈmægnɪtjuːd/",
+   "us": "/ˈmæɡnɪtud/",
+   "pos": "n.",
+   "cn": "重要性；重大；巨大；广大"
+  },
+  {
+   "id": 858,
+   "word": "justification",
+   "uk": "/ˌdʒʌstɪfɪˈkeɪʃn/",
+   "us": "/,dʒʌstɪfɪˈkeʃən/",
+   "pos": "n.",
+   "cn": "正当的理由；借口"
+  },
+  {
+   "id": 859,
+   "word": "genuine",
+   "uk": "/ˈdʒenjuɪn/",
+   "us": "/ˈdʒɛnjʊɪn/",
+   "pos": "adj.",
+   "cn": "真的；真正的；真诚的"
+  },
+  {
+   "id": 860,
+   "word": "execution",
+   "uk": "/ˌeksɪˈkjuːʃn/",
+   "us": "/,ɛksɪˈkjuʃən/",
+   "pos": "n.",
+   "cn": "死刑；实行；执行；履行；演奏；表演"
+  },
+  {
+   "id": 861,
+   "word": "immune",
+   "uk": "/ɪˈmjuːn/",
+   "us": "/ɪˈmjʊn/",
+   "pos": "adj.",
+   "cn": "免疫的；有免疫力的；不受影响的；免除的；豁免的"
+  },
+  {
+   "id": 862,
+   "word": "brochure",
+   "uk": "/ˈbrəuʃə(r)/",
+   "us": "/broˈʃʊr/",
+   "pos": "n.",
+   "cn": "小册子"
+  },
+  {
+   "id": 863,
+   "word": "stern",
+   "uk": "/stɜːn/",
+   "us": "/stɝn/",
+   "pos": "adj.,n.",
+   "cn": "严厉的；严格的；严峻的；船尾"
+  },
+  {
+   "id": 864,
+   "word": "rotary",
+   "uk": "/ˈrəutəri/",
+   "us": "/ˈrotəri/",
+   "pos": "adj.",
+   "cn": "旋转的；转动的"
+  },
+  {
+   "id": 865,
+   "word": "compound",
+   "uk": "/ˈkɒmpaund/",
+   "us": "/ˈkɑmpaʊnd/",
+   "pos": "adj.,n.,vt.",
+   "cn": "复合的；化合的；化合物；复合物；复合词；使恶化；加重；使化合；使合成"
+  },
+  {
+   "id": 866,
+   "word": "dub",
+   "uk": "/dʌb/",
+   "us": "",
+   "pos": "vt.",
+   "cn": "给…起绰号；把…称为；为配音；译制"
+  },
+  {
+   "id": 867,
+   "word": "masculine",
+   "uk": "/ˈmæːskjəlɪn/",
+   "us": "/ˈmæskjəlɪn/",
+   "pos": "adj.",
+   "cn": "男性的；男子的；男子气的"
+  },
+  {
+   "id": 868,
+   "word": "extraordinary",
+   "uk": "/ɪkˈstrɔːdnri/",
+   "us": "/ɪkˈstrɔrdənerɪ;ɪkˈstrɔrdnˌɛrɪ/",
+   "pos": "adj.",
+   "cn": "非同寻常的；特别的"
+  },
+  {
+   "id": 869,
+   "word": "witness",
+   "uk": "/ˈwɪtnəs/",
+   "us": "/ˈwɪtnɪs/",
+   "pos": "n.,vt.",
+   "cn": "证据；目击者；证人；目击；为…作证；证明"
+  },
+  {
+   "id": 870,
+   "word": "conventional",
+   "uk": "/kənˈvenʃənl/",
+   "us": "/kənˈvɛnʃənl/",
+   "pos": "adj.",
+   "cn": "普通的；习惯的；常规的；因循守旧的"
+  }
+ ]
+}

@@ -1,0 +1,605 @@
+{
+  "day": 57,
+  "words": [
+    {
+      "word": "provoke",
+      "phr": [
+        {
+          "en": "provoke a reaction",
+          "zh": "激起反应"
+        },
+        {
+          "en": "provoke anger",
+          "zh": "激起愤怒"
+        }
+      ],
+      "ex": [
+        {
+          "en": "His rude remarks provoked an angry response from the audience.",
+          "zh": "他粗鲁的言论激起了听众的愤怒回应。"
+        }
+      ],
+      "note": "provoke 多接 reaction、anger，指主动激起反应。"
+    },
+    {
+      "word": "threaten",
+      "phr": [
+        {
+          "en": "threaten to do sth",
+          "zh": "威胁要做某事"
+        },
+        {
+          "en": "threaten sb with sth",
+          "zh": "用某物威胁某人"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Rising sea levels threaten to flood many coastal cities.",
+          "zh": "海平面上升预示许多沿海城市可能被淹。"
+        }
+      ],
+      "note": "threaten 后接不定式表示“预示可能发生”，接 with 表示以某物相要挟。"
+    },
+    {
+      "word": "enrich",
+      "phr": [
+        {
+          "en": "enrich one's life",
+          "zh": "丰富生活"
+        },
+        {
+          "en": "enrich the soil",
+          "zh": "使土壤肥沃"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Reading widely can enrich your life and broaden your horizons.",
+          "zh": "广泛阅读能丰富生活、开阔眼界。"
+        }
+      ],
+      "note": "enrich 由 en-（使）加 rich（富）构成，由“使富裕”引申为“丰富、充实”。"
+    },
+    {
+      "word": "foil",
+      "phr": [
+        {
+          "en": "foil a plan",
+          "zh": "挫败计划"
+        },
+        {
+          "en": "aluminium foil",
+          "zh": "铝箔"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The police foiled a plan to rob the bank.",
+          "zh": "警方挫败了一起抢劫银行的计划。"
+        }
+      ],
+      "note": "foil 作动词指挫败计划或企图，作名词常见于 aluminium foil（铝箔）。"
+    },
+    {
+      "word": "strain",
+      "phr": [
+        {
+          "en": "put a strain on",
+          "zh": "给…造成压力"
+        },
+        {
+          "en": "strain every nerve",
+          "zh": "竭尽全力"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The long working hours put a great strain on her health.",
+          "zh": "长时间工作给她的健康带来很大压力。"
+        }
+      ],
+      "note": "strain 兼指拉伤、紧张与压力，put a strain on 是高频搭配。"
+    },
+    {
+      "word": "negotiate",
+      "phr": [
+        {
+          "en": "negotiate a deal",
+          "zh": "谈成一笔交易"
+        },
+        {
+          "en": "negotiate with sb",
+          "zh": "与某人谈判"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The two companies are negotiating a new contract.",
+          "zh": "两家公司正在谈一份新合同。"
+        }
+      ],
+      "note": "negotiate 可直接接 deal，也可说 negotiate with sb。"
+    },
+    {
+      "word": "cellar",
+      "phr": [
+        {
+          "en": "wine cellar",
+          "zh": "酒窖"
+        },
+        {
+          "en": "cellar door",
+          "zh": "地窖门"
+        }
+      ],
+      "ex": [
+        {
+          "en": "They stored the old wine in a cool cellar under the house.",
+          "zh": "他们把陈酒存放在屋下阴凉的地窖里。"
+        }
+      ],
+      "note": "cellar 专指地下储藏室，尤指酒窖，与泛指房间的 basement 略有不同。"
+    },
+    {
+      "word": "tangle",
+      "phr": [
+        {
+          "en": "tangle with sb",
+          "zh": "与某人起争执"
+        },
+        {
+          "en": "get tangled up",
+          "zh": "缠在一起"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The wires behind the desk were badly tangled.",
+          "zh": "桌子后面的电线缠得乱七八糟。"
+        }
+      ],
+      "note": "tangle 常用 a tangle of（一团乱）与 get tangled up。"
+    },
+    {
+      "word": "package",
+      "phr": [
+        {
+          "en": "a package deal",
+          "zh": "一揽子交易"
+        },
+        {
+          "en": "package tour",
+          "zh": "包价旅游"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The courier left a small package at the front desk.",
+          "zh": "快递员在前台留下了一个小包裹。"
+        }
+      ],
+      "note": "美式用 package 指包裹，英式多用 parcel。"
+    },
+    {
+      "word": "intrigue",
+      "phr": [
+        {
+          "en": "be intrigued by",
+          "zh": "被…激起兴趣"
+        },
+        {
+          "en": "political intrigue",
+          "zh": "政治阴谋"
+        }
+      ],
+      "ex": [
+        {
+          "en": "I was intrigued by the strange story she told me.",
+          "zh": "她讲的离奇故事引起了我的浓厚兴趣。"
+        }
+      ],
+      "note": "intrigue 常用 be intrigued by，名词指阴谋。"
+    },
+    {
+      "word": "orient",
+      "phr": [
+        {
+          "en": "orient oneself to",
+          "zh": "使自己适应"
+        },
+        {
+          "en": "be oriented towards",
+          "zh": "以…为导向"
+        }
+      ],
+      "ex": [
+        {
+          "en": "New students need time to orient themselves to campus life.",
+          "zh": "新生需要时间适应校园生活。"
+        }
+      ],
+      "note": "orient 常用 orient oneself to，表示适应。"
+    },
+    {
+      "word": "crisis",
+      "phr": [
+        {
+          "en": "economic crisis",
+          "zh": "经济危机"
+        },
+        {
+          "en": "in crisis",
+          "zh": "处于危机中"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The company is trying to survive the worst financial crisis in its history.",
+          "zh": "公司正努力度过史上最严重的财务危机。"
+        }
+      ],
+      "note": "crisis 复数为 crises，常见 economic crisis。"
+    },
+    {
+      "word": "handicap",
+      "phr": [
+        {
+          "en": "a serious handicap",
+          "zh": "严重的不利条件"
+        },
+        {
+          "en": "be handicapped by",
+          "zh": "因…受到妨碍"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Poor eyesight is a serious handicap for a pilot.",
+          "zh": "视力差对飞行员来说是很不利的条件。"
+        }
+      ],
+      "note": "handicap 作名词指障碍、不利条件，作动词常用 be handicapped by。"
+    },
+    {
+      "word": "survival",
+      "phr": [
+        {
+          "en": "survival of the fittest",
+          "zh": "适者生存"
+        },
+        {
+          "en": "survival rate",
+          "zh": "存活率"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The survival rate of these birds has fallen sharply in recent years.",
+          "zh": "近年来这类鸟的存活率急剧下降。"
+        }
+      ],
+      "note": "survival 来自 survive，常用 survival rate。"
+    },
+    {
+      "word": "shatter",
+      "phr": [
+        {
+          "en": "shatter one's dreams",
+          "zh": "使梦想破灭"
+        },
+        {
+          "en": "shatter into pieces",
+          "zh": "碎成碎片"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The glass shattered into a thousand pieces on the floor.",
+          "zh": "玻璃杯在地板上摔得粉碎。"
+        }
+      ],
+      "note": "shatter 强调突然碎成小块，也可喻指希望、信念破灭。"
+    },
+    {
+      "word": "plea",
+      "phr": [
+        {
+          "en": "make a plea for",
+          "zh": "恳求；呼吁"
+        },
+        {
+          "en": "a plea of guilty",
+          "zh": "认罪答辩"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The parents made an emotional plea for information about their missing son.",
+          "zh": "这对父母动情地恳求提供失踪儿子的线索。"
+        }
+      ],
+      "note": "plea 指恳求，常用 make a plea for 表呼吁。"
+    },
+    {
+      "word": "persuasion",
+      "phr": [
+        {
+          "en": "by persuasion",
+          "zh": "通过劝说"
+        },
+        {
+          "en": "powers of persuasion",
+          "zh": "说服力"
+        }
+      ],
+      "ex": [
+        {
+          "en": "It took a lot of persuasion to get him to change his mind.",
+          "zh": "费了好一番劝说才让他改变主意。"
+        }
+      ],
+      "note": "persuasion 指说服的过程或能力，动词搭配为 persuade sb to do。"
+    },
+    {
+      "word": "keen",
+      "phr": [
+        {
+          "en": "be keen on",
+          "zh": "热衷于"
+        },
+        {
+          "en": "a keen eye for",
+          "zh": "对…眼光敏锐"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She is keen on learning Japanese and practises every day.",
+          "zh": "她热衷学日语，每天都练习。"
+        }
+      ],
+      "note": "be keen on 表热衷，a keen eye for 表眼光敏锐。"
+    },
+    {
+      "word": "nutrition",
+      "phr": [
+        {
+          "en": "good nutrition",
+          "zh": "良好的营养"
+        },
+        {
+          "en": "nutrition facts",
+          "zh": "营养成分表"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Good nutrition is essential for children's growth and development.",
+          "zh": "良好的营养对儿童生长发育至关重要。"
+        }
+      ],
+      "note": "nutrition 是名词营养，形容词为 nutritional。"
+    },
+    {
+      "word": "detective",
+      "phr": [
+        {
+          "en": "private detective",
+          "zh": "私家侦探"
+        },
+        {
+          "en": "detective story",
+          "zh": "侦探小说"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The detective examined every detail of the crime scene.",
+          "zh": "侦探仔细查看了犯罪现场的每个细节。"
+        }
+      ],
+      "note": "detective 可作定语，如 detective story。"
+    },
+    {
+      "word": "transfer",
+      "phr": [
+        {
+          "en": "transfer money",
+          "zh": "转账"
+        },
+        {
+          "en": "transfer to",
+          "zh": "转到；调往"
+        }
+      ],
+      "ex": [
+        {
+          "en": "He asked the bank to transfer the money to his new account.",
+          "zh": "他请银行把钱转到他的新账户。"
+        }
+      ],
+      "note": "transfer 作动词重音在后，名词重音在前。"
+    },
+    {
+      "word": "veteran",
+      "phr": [
+        {
+          "en": "a war veteran",
+          "zh": "老兵"
+        },
+        {
+          "en": "a veteran journalist",
+          "zh": "资深记者"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The veteran journalist has covered wars for over twenty years.",
+          "zh": "这位资深记者报道战争已二十多年。"
+        }
+      ],
+      "note": "veteran 作定语指经验丰富，如 veteran teacher；作名词指老兵、老手。"
+    },
+    {
+      "word": "cereal",
+      "phr": [
+        {
+          "en": "breakfast cereal",
+          "zh": "早餐麦片"
+        },
+        {
+          "en": "cereal crops",
+          "zh": "谷类作物"
+        }
+      ],
+      "ex": [
+        {
+          "en": "He eats a bowl of cereal with milk every morning.",
+          "zh": "他每天早上吃一碗加牛奶的麦片。"
+        }
+      ],
+      "note": "cereal 既指谷类作物也指麦片，注意与同音的 serial（连续的）区分。"
+    },
+    {
+      "word": "esthetic",
+      "phr": [
+        {
+          "en": "esthetic value",
+          "zh": "美学价值"
+        },
+        {
+          "en": "esthetic appeal",
+          "zh": "审美吸引力"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The building was praised for its esthetic appeal.",
+          "zh": "这栋建筑因审美吸引力而受到称赞。"
+        }
+      ],
+      "note": "esthetic 是 aesthetic 的美式拼法，常用作定语。"
+    },
+    {
+      "word": "indifferent",
+      "phr": [
+        {
+          "en": "be indifferent to",
+          "zh": "对…漠不关心"
+        },
+        {
+          "en": "an indifferent performance",
+          "zh": "平平的表现"
+        }
+      ],
+      "ex": [
+        {
+          "en": "He seemed indifferent to the criticism from his colleagues.",
+          "zh": "他对同事的批评似乎毫不在意。"
+        }
+      ],
+      "note": "indifferent 意为“冷漠”，不是“无差别”。"
+    },
+    {
+      "word": "affection",
+      "phr": [
+        {
+          "en": "have affection for",
+          "zh": "喜爱"
+        },
+        {
+          "en": "show affection",
+          "zh": "表达爱意"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She has great affection for the village where she grew up.",
+          "zh": "她对自己长大的村庄怀有很深的感情。"
+        }
+      ],
+      "note": "affection 指温和持久的喜爱，常接介词 for。"
+    },
+    {
+      "word": "diversion",
+      "phr": [
+        {
+          "en": "create a diversion",
+          "zh": "制造转移注意力的举动"
+        },
+        {
+          "en": "traffic diversion",
+          "zh": "交通绕行"
+        }
+      ],
+      "ex": [
+        {
+          "en": "A traffic diversion was set up while the bridge was repaired.",
+          "zh": "修桥期间设置了交通绕行路线。"
+        }
+      ],
+      "note": "diversion 指改道或消遣，动词 divert 表示“转移、使改道”。"
+    },
+    {
+      "word": "elementary",
+      "phr": [
+        {
+          "en": "elementary school",
+          "zh": "小学"
+        },
+        {
+          "en": "elementary knowledge",
+          "zh": "基础知识"
+        }
+      ],
+      "ex": [
+        {
+          "en": "My daughter started elementary school last September and loves it.",
+          "zh": "我女儿去年九月上了小学，很喜欢那里。"
+        }
+      ],
+      "note": "elementary school 是美式“小学”，亦指基本的。"
+    },
+    {
+      "word": "eagle",
+      "phr": [
+        {
+          "en": "a golden eagle",
+          "zh": "金雕"
+        },
+        {
+          "en": "keep an eagle eye on",
+          "zh": "密切注视"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The eagle circled high above the valley before diving for its prey.",
+          "zh": "鹰在山谷上方盘旋，随后俯冲捕食。"
+        }
+      ],
+      "note": "eagle eye 指敏锐观察力，常与 keep 连用。"
+    },
+    {
+      "word": "solemn",
+      "phr": [
+        {
+          "en": "a solemn promise",
+          "zh": "庄严的承诺"
+        },
+        {
+          "en": "a solemn ceremony",
+          "zh": "庄严的仪式"
+        }
+      ],
+      "ex": [
+        {
+          "en": "He made a solemn promise never to lie to her again.",
+          "zh": "他郑重承诺再也不对她撒谎。"
+        }
+      ],
+      "note": "solemn 强调庄重严肃，常与 promise、ceremony、vow 搭配。"
+    }
+  ]
+}

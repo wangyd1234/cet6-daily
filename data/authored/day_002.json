@@ -1,0 +1,365 @@
+{
+  "day": 2,
+  "words": [
+    {
+      "word": "neutral",
+      "phr": [
+        {"en": "remain neutral", "zh": "保持中立"},
+        {"en": "neutral ground", "zh": "中立地带"}
+      ],
+      "ex": [
+        {"en": "The judge must remain neutral while both sides present their arguments.",
+         "zh": "双方陈述观点时，法官必须保持中立。"}
+      ],
+      "note": "neutr-（两者皆非）同根词：neuter、neutrality（中立）。"
+    },
+    {
+      "word": "scratch",
+      "phr": [
+        {"en": "from scratch", "zh": "从零开始"},
+        {"en": "scratch the surface", "zh": "触及表面；浅尝辄止"}
+      ],
+      "ex": [
+        {"en": "They rebuilt the website from scratch after the old system failed.",
+         "zh": "旧系统失效后，他们从零开始重建了网站。"}
+      ],
+      "note": "from scratch 意为「从零开始」，是高频固定搭配。"
+    },
+    {
+      "word": "analysis",
+      "phr": [
+        {"en": "a detailed analysis", "zh": "详细的分析"},
+        {"en": "data analysis", "zh": "数据分析"}
+      ],
+      "ex": [
+        {"en": "A careful analysis of the survey revealed two unexpected trends.",
+         "zh": "对调查的仔细分析揭示出两个意外的趋势。"}
+      ],
+      "note": "复数是 analyses；动词 analyse/analyze，注意词形变化。"
+    },
+    {
+      "word": "devise",
+      "phr": [
+        {"en": "devise a plan", "zh": "设计一套方案"},
+        {"en": "devise a method", "zh": "想出方法"}
+      ],
+      "ex": [
+        {"en": "Engineers devised a simple method to cut energy use by half.",
+         "zh": "工程师想出一个简单方法，把能耗削减一半。"}
+      ],
+      "note": "devise 侧重设计出方法、方案；与名词 device（装置）区分。"
+    },
+    {
+      "word": "cooperative",
+      "phr": [
+        {"en": "be cooperative with", "zh": "与…配合"},
+        {"en": "a cooperative effort", "zh": "协作努力"}
+      ],
+      "ex": [
+        {"en": "The staff were cooperative and answered every question with patience.",
+         "zh": "员工很配合，耐心回答了每一个问题。"}
+      ],
+      "note": "co-（共同）+ operate（操作）→ 合作的；名词是 cooperation。"
+    },
+    {
+      "word": "triple",
+      "phr": [
+        {"en": "triple the number", "zh": "使数量增至三倍"},
+        {"en": "triple in value", "zh": "价值增至三倍"}
+      ],
+      "ex": [
+        {"en": "Online sales tripled in three years and now exceed store sales.",
+         "zh": "网上销售三年间增长两倍，现已超过门店销售。"}
+      ],
+      "note": "tri-（三）；double 两倍、triple 三倍、quadruple 四倍。"
+    },
+    {
+      "word": "clutch",
+      "phr": [
+        {"en": "clutch at straws", "zh": "抓救命稻草"},
+        {"en": "clutch a child's hand", "zh": "紧握孩子的手"}
+      ],
+      "ex": [
+        {"en": "She clutched the railing tightly as the ferry began to rock.",
+         "zh": "渡轮开始摇晃时，她紧紧抓住栏杆。"}
+      ],
+      "note": "clutch at straws 意为「抓救命稻草」，表绝望中挣扎。"
+    },
+    {
+      "word": "temper",
+      "phr": [
+        {"en": "lose one's temper", "zh": "发脾气"},
+        {"en": "keep one's temper", "zh": "忍住不发火"}
+      ],
+      "ex": [
+        {"en": "He lost his temper when the train was delayed for the third time.",
+         "zh": "火车第三次晚点时，他发火了。"}
+      ],
+      "note": "lose one's temper 发火，keep one's temper 忍住不发火。"
+    },
+    {
+      "word": "grope",
+      "phr": [
+        {"en": "grope for", "zh": "摸索着找"},
+        {"en": "grope in the dark", "zh": "在黑暗中摸索"}
+      ],
+      "ex": [
+        {"en": "She groped for the light switch in the dark hallway.",
+         "zh": "她在漆黑的走廊里摸索着找电灯开关。"}
+      ],
+      "note": "grope for 意为「摸索着找」；grope in the dark 暗中摸索。"
+    },
+    {
+      "word": "rejoice",
+      "phr": [
+        {"en": "rejoice at the news", "zh": "为此消息欣喜"},
+        {"en": "rejoice with sb", "zh": "与某人一同欢庆"}
+      ],
+      "ex": [
+        {"en": "The whole village rejoiced when the missing child was found safe.",
+         "zh": "失踪的孩子平安找到后，全村人都欢欣鼓舞。"}
+      ],
+      "note": "rejoice at/over sth 为…欣喜；与 joy 同根，多用于书面。"
+    },
+    {
+      "word": "frantic",
+      "phr": [
+        {"en": "frantic efforts", "zh": "拼命的努力"},
+        {"en": "be frantic with worry", "zh": "急得要命"}
+      ],
+      "ex": [
+        {"en": "She made a frantic search for her passport before the flight.",
+         "zh": "起飞前她发疯似地到处找护照。"}
+      ],
+      "note": "be frantic with worry 表示「急得发疯」，语气很强。"
+    },
+    {
+      "word": "tickle",
+      "phr": [
+        {"en": "tickle sb's fancy", "zh": "使某人心动"},
+        {"en": "tickle a child", "zh": "逗小孩笑"}
+      ],
+      "ex": [
+        {"en": "The idea of working abroad tickled his fancy for a while.",
+         "zh": "出国工作的念头一度让他心动。"}
+      ],
+      "note": "tickle sb's fancy 意为「使某人动心」，是常见习语。"
+    },
+    {
+      "word": "object",
+      "phr": [
+        {"en": "object to sth", "zh": "反对某事"},
+        {"en": "a moving object", "zh": "运动中的物体"}
+      ],
+      "ex": [
+        {"en": "Several residents objected to the plan to build a factory nearby.",
+         "zh": "几位居民反对在附近建厂的计划。"}
+      ],
+      "note": "作动词读 /əbˈdʒekt/；object to 中 to 是介词，后接动名词。"
+    },
+    {
+      "word": "humble",
+      "phr": [
+        {"en": "a humble background", "zh": "卑微的出身"},
+        {"en": "in my humble opinion", "zh": "依我愚见"}
+      ],
+      "ex": [
+        {"en": "He rose from a humble background to become a respected scientist.",
+         "zh": "他出身卑微，后来成为受人尊敬的科学家。"}
+      ],
+      "note": "in my humble opinion 是委婉表达个人意见的常用套语。"
+    },
+    {
+      "word": "commodity",
+      "phr": [
+        {"en": "commodity prices", "zh": "商品价格"},
+        {"en": "a valuable commodity", "zh": "贵重商品"}
+      ],
+      "ex": [
+        {"en": "Clean water is becoming a precious commodity in many dry regions.",
+         "zh": "在许多干旱地区，清洁的水正成为珍贵之物。"}
+      ],
+      "note": "com-（共同）+ mod（量度）→ 可交易之物，即商品。"
+    },
+    {
+      "word": "cliff",
+      "phr": [
+        {"en": "a steep cliff", "zh": "陡峭的悬崖"},
+        {"en": "the edge of a cliff", "zh": "悬崖边缘"}
+      ],
+      "ex": [
+        {"en": "The path along the cliff was narrow, wet and dangerously slippery.",
+         "zh": "沿悬崖的小路又窄又湿，滑得危险。"}
+      ],
+      "note": "复数是 cliffs；悬崖边可说 on the edge of a cliff。"
+    },
+    {
+      "word": "obedient",
+      "phr": [
+        {"en": "an obedient child", "zh": "听话的孩子"},
+        {"en": "be obedient to sb", "zh": "服从某人"}
+      ],
+      "ex": [
+        {"en": "The dog was well trained and obedient to every simple command.",
+         "zh": "这条狗训练有素，对每个简单口令都服从。"}
+      ],
+      "note": "be obedient to sb/sth；动词 obey，名词 obedience。"
+    },
+    {
+      "word": "infinite",
+      "phr": [
+        {"en": "infinite patience", "zh": "无限的耐心"},
+        {"en": "infinite variety", "zh": "无穷的变化"}
+      ],
+      "ex": [
+        {"en": "Learning a language demands infinite patience and daily practice.",
+         "zh": "学一门语言需要极大的耐心和每日练习。"}
+      ],
+      "note": "in-（不）+ finite（有限的）→ 无限的；finite 是其反义词。"
+    },
+    {
+      "word": "misery",
+      "phr": [
+        {"en": "live in misery", "zh": "生活困苦"},
+        {"en": "add to sb's misery", "zh": "使某人更痛苦"}
+      ],
+      "ex": [
+        {"en": "The long war brought misery to millions of ordinary families.",
+         "zh": "漫长的战争给数百万普通家庭带来苦难。"}
+      ],
+      "note": "miser-（悲惨）同根词：miserable、miserably。"
+    },
+    {
+      "word": "blur",
+      "phr": [
+        {"en": "blur the line", "zh": "模糊界限"},
+        {"en": "a blur of colours", "zh": "一片模糊的色彩"}
+      ],
+      "ex": [
+        {"en": "Tears blurred her vision as she read the letter.",
+         "zh": "她读信时，泪水模糊了视线。"}
+      ],
+      "note": "blur 可作动词也可作名词，如 a blur of colours（一片模糊）。"
+    },
+    {
+      "word": "suffice",
+      "phr": [
+        {"en": "suffice for", "zh": "足够…之用"},
+        {"en": "suffice it to say", "zh": "只消说"}
+      ],
+      "ex": [
+        {"en": "A short note will suffice; there is no need for a long report.",
+         "zh": "简短说明就够了，不必写长篇报告。"}
+      ],
+      "note": "suffice 常与 for 连用；suffice it to say 是书面套语。"
+    },
+    {
+      "word": "concede",
+      "phr": [
+        {"en": "concede defeat", "zh": "认输"},
+        {"en": "concede a point", "zh": "承认某一点"}
+      ],
+      "ex": [
+        {"en": "After two hours of argument, he finally conceded that she was right.",
+         "zh": "争论两小时后，他终于承认她是对的。"}
+      ],
+      "note": "concede defeat 认输；concede that... 承认某事为真。"
+    },
+    {
+      "word": "notable",
+      "phr": [
+        {"en": "a notable example", "zh": "显著的例子"},
+        {"en": "be notable for", "zh": "因…而著称"}
+      ],
+      "ex": [
+        {"en": "The town is notable for its old bridge and narrow streets.",
+         "zh": "这个小镇以古老的桥和狭窄的街道著称。"}
+      ],
+      "note": "be notable for 意为「因…而著称」，近义词是 famous。"
+    },
+    {
+      "word": "plausible",
+      "phr": [
+        {"en": "a plausible explanation", "zh": "貌似合理的解释"},
+        {"en": "sound plausible", "zh": "听起来可信"}
+      ],
+      "ex": [
+        {"en": "His explanation sounded plausible, but the facts did not support it.",
+         "zh": "他的解释听起来合理，但事实并不支持。"}
+      ],
+      "note": "plaus-（鼓掌）→ 值得喝彩的，故「看似可信的」。"
+    },
+    {
+      "word": "equator",
+      "phr": [
+        {"en": "near the equator", "zh": "赤道附近"},
+        {"en": "cross the equator", "zh": "穿过赤道"}
+      ],
+      "ex": [
+        {"en": "The ship crossed the equator early in the morning of the fifth day.",
+         "zh": "第五天清早，船越过了赤道。"}
+      ],
+      "note": "equ-（相等）→ 昼夜等长之线，即赤道；同根词 equality。"
+    },
+    {
+      "word": "commission",
+      "phr": [
+        {"en": "on commission", "zh": "抽取佣金"},
+        {"en": "a commission of inquiry", "zh": "调查委员会"}
+      ],
+      "ex": [
+        {"en": "The artist received a commission to paint a portrait of the mayor.",
+         "zh": "这位画家受托为市长画一幅肖像。"}
+      ],
+      "note": "com-（共同）+ miss（送）→ 委托；on commission 抽取佣金。"
+    },
+    {
+      "word": "staircase",
+      "phr": [
+        {"en": "a spiral staircase", "zh": "螺旋楼梯"},
+        {"en": "climb the staircase", "zh": "爬楼梯"}
+      ],
+      "ex": [
+        {"en": "She hurried down the wooden staircase without turning on the light.",
+         "zh": "她没开灯就匆匆下了木楼梯。"}
+      ],
+      "note": "stair（楼梯）+ case（箱、容器）→ 整段楼梯。"
+    },
+    {
+      "word": "flip",
+      "phr": [
+        {"en": "flip a coin", "zh": "掷硬币"},
+        {"en": "flip through", "zh": "快速翻阅"}
+      ],
+      "ex": [
+        {"en": "He flipped through the magazine while waiting for his train.",
+         "zh": "等火车时，他随手翻着那本杂志。"}
+      ],
+      "note": "flip through 意为「快速翻阅」；flip a coin 是掷硬币。"
+    },
+    {
+      "word": "rational",
+      "phr": [
+        {"en": "a rational decision", "zh": "理性的决定"},
+        {"en": "rational thinking", "zh": "理性思维"}
+      ],
+      "ex": [
+        {"en": "It is hard to stay rational when your plans keep failing.",
+         "zh": "计划一再失败时，很难保持理性。"}
+      ],
+      "note": "rat-（计算、推理）同根词：rate、ratio、reason。"
+    },
+    {
+      "word": "barricade",
+      "phr": [
+        {"en": "set up a barricade", "zh": "设置路障"},
+        {"en": "barricade the door", "zh": "把门堵住"}
+      ],
+      "ex": [
+        {"en": "Protesters built a barricade across the road and stopped the traffic.",
+         "zh": "抗议者在路上筑起路障，阻断了交通。"}
+      ],
+      "note": "源自法语，指临时搭起的路障；动词义为「设障阻挡」。"
+    }
+  ]
+}

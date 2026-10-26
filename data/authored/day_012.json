@@ -1,0 +1,605 @@
+{
+  "day": 12,
+  "words": [
+    {
+      "word": "safeguard",
+      "phr": [
+        {
+          "en": "safeguard national security",
+          "zh": "维护国家安全"
+        },
+        {
+          "en": "safeguard the environment",
+          "zh": "保护环境"
+        }
+      ],
+      "ex": [
+        {
+          "en": "New laws were introduced to safeguard the personal data of ordinary users.",
+          "zh": "新法律出台，以保护普通用户的个人数据。"
+        }
+      ],
+      "note": "safe 加 guard 即安全守卫，多接 rights、data 等抽象宾语。"
+    },
+    {
+      "word": "diligent",
+      "phr": [
+        {
+          "en": "a diligent student",
+          "zh": "勤奋的学生"
+        },
+        {
+          "en": "be diligent in one's studies",
+          "zh": "学习勤奋"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She was a diligent student who reviewed her notes every evening after class.",
+          "zh": "她是个勤奋的学生，每天课后都会复习笔记。"
+        }
+      ],
+      "note": "diligent 指长期认真刻苦，近义 hard-working，反义 lazy。"
+    },
+    {
+      "word": "sophisticated",
+      "phr": [
+        {
+          "en": "sophisticated equipment",
+          "zh": "精密设备"
+        },
+        {
+          "en": "sophisticated technology",
+          "zh": "尖端技术"
+        }
+      ],
+      "ex": [
+        {
+          "en": "This laboratory uses sophisticated equipment to analyse tiny samples of rock.",
+          "zh": "这个实验室用精密设备分析微小的岩石样本。"
+        }
+      ],
+      "note": "既指设备精密复杂，也指人老练，如 a sophisticated audience。"
+    },
+    {
+      "word": "entertainment",
+      "phr": [
+        {
+          "en": "the entertainment industry",
+          "zh": "娱乐业"
+        },
+        {
+          "en": "a form of entertainment",
+          "zh": "一种娱乐形式"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The small town offers little entertainment for young people on weekday evenings.",
+          "zh": "这个小镇在工作日的晚上没多少给年轻人的娱乐。"
+        }
+      ],
+      "note": "可指抽象的娱乐，也可指具体文娱节目；动词是 entertain。"
+    },
+    {
+      "word": "reside",
+      "phr": [
+        {
+          "en": "reside in",
+          "zh": "居住于；存在于"
+        },
+        {
+          "en": "reside abroad",
+          "zh": "居住在海外"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Her family has resided in this coastal village for more than a century.",
+          "zh": "她的家族在这个海边村庄居住了一个多世纪。"
+        }
+      ],
+      "note": "reside 比 live 正式；reside in 还可表示性质、权力存在于某处。"
+    },
+    {
+      "word": "indicative",
+      "phr": [
+        {
+          "en": "be indicative of",
+          "zh": "表明；显示出"
+        },
+        {
+          "en": "the indicative mood",
+          "zh": "陈述语气"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The sudden drop in sales is indicative of a wider problem in the market.",
+          "zh": "销售额骤降表明市场存在更大范围的问题。"
+        }
+      ],
+      "note": "固定搭配 be indicative of sth，多用于书面语。"
+    },
+    {
+      "word": "ward",
+      "phr": [
+        {
+          "en": "a hospital ward",
+          "zh": "医院病房"
+        },
+        {
+          "en": "the isolation ward",
+          "zh": "隔离病房"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The nurses on the hospital ward checked every patient twice during the night.",
+          "zh": "病房里的护士夜里查了每位病人两次。"
+        }
+      ],
+      "note": "ward 作病房讲最常见；ward off 意为避开、防止。"
+    },
+    {
+      "word": "dread",
+      "phr": [
+        {
+          "en": "dread doing sth",
+          "zh": "害怕做某事"
+        },
+        {
+          "en": "dread the thought of",
+          "zh": "一想到…就害怕"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Many students dread speaking in public more than taking written exams.",
+          "zh": "许多学生害怕当众讲话甚于笔试。"
+        }
+      ],
+      "note": "dread 后多接动名词，不接 to do；形容词 dreadful 表示可怕的。"
+    },
+    {
+      "word": "scrutiny",
+      "phr": [
+        {
+          "en": "under close scrutiny",
+          "zh": "受到严密审查"
+        },
+        {
+          "en": "public scrutiny",
+          "zh": "公众监督"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The company's accounts came under close scrutiny after the scandal broke.",
+          "zh": "丑闻曝光后，该公司的账目受到严密审查。"
+        }
+      ],
+      "note": "多与 come under 连用，表示受到严密审查；动词 scrutinize。"
+    },
+    {
+      "word": "chase",
+      "phr": [
+        {
+          "en": "chase after",
+          "zh": "追赶；追求"
+        },
+        {
+          "en": "chase away",
+          "zh": "赶走"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The dog chased the ball across the field and brought it back.",
+          "zh": "狗在草地上追着球跑，又把球叼了回来。"
+        }
+      ],
+      "note": "chase 后可直接接宾语，也可用 chase after；pursue 更正式。"
+    },
+    {
+      "word": "accident",
+      "phr": [
+        {
+          "en": "by accident",
+          "zh": "偶然；意外地"
+        },
+        {
+          "en": "a traffic accident",
+          "zh": "交通事故"
+        }
+      ],
+      "ex": [
+        {
+          "en": "He broke his arm in a traffic accident on his way to work.",
+          "zh": "他在上班路上的一场交通事故中摔断了胳膊。"
+        }
+      ],
+      "note": "by accident 意为偶然，不是交通事故；反义表达是 on purpose。"
+    },
+    {
+      "word": "promote",
+      "phr": [
+        {
+          "en": "promote economic growth",
+          "zh": "促进经济增长"
+        },
+        {
+          "en": "be promoted to",
+          "zh": "被提升为"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The new manager was promoted to head of department after only two years.",
+          "zh": "这位新经理仅两年后就被提升为部门主管。"
+        }
+      ],
+      "note": "promote 表晋升时常用 be promoted to；名词 promotion。"
+    },
+    {
+      "word": "routine",
+      "phr": [
+        {
+          "en": "a daily routine",
+          "zh": "日常安排"
+        },
+        {
+          "en": "routine maintenance",
+          "zh": "例行维护"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Regular exercise soon became part of his daily routine.",
+          "zh": "经常锻炼很快成了他日常安排的一部分。"
+        }
+      ],
+      "note": "routine 作形容词表例行的，作名词表惯例、固定程序。"
+    },
+    {
+      "word": "attack",
+      "phr": [
+        {
+          "en": "a heart attack",
+          "zh": "心脏病发作"
+        },
+        {
+          "en": "launch an attack on",
+          "zh": "对…发动攻击"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The old man survived a heart attack last winter thanks to quick treatment.",
+          "zh": "多亏抢救及时，这位老人去年冬天心脏病发作后活了下来。"
+        }
+      ],
+      "note": "attack 也指疾病突然发作，如 a heart attack。"
+    },
+    {
+      "word": "divorce",
+      "phr": [
+        {
+          "en": "get a divorce",
+          "zh": "离婚"
+        },
+        {
+          "en": "be divorced from reality",
+          "zh": "脱离现实"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The couple decided to get a divorce after twenty years of marriage.",
+          "zh": "这对夫妻结婚二十年后决定离婚。"
+        }
+      ],
+      "note": "divorce 可作名词也可作动词；be divorced from 还能喻指脱离。"
+    },
+    {
+      "word": "tariff",
+      "phr": [
+        {
+          "en": "impose tariffs on imports",
+          "zh": "对进口商品征税"
+        },
+        {
+          "en": "tariff barriers",
+          "zh": "关税壁垒"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The government imposed high tariffs on imported steel to protect local factories.",
+          "zh": "政府对进口钢材征收高关税以保护本地工厂。"
+        }
+      ],
+      "note": "tariff 多指关税，也可指价目表，如 the hotel tariff。"
+    },
+    {
+      "word": "attach",
+      "phr": [
+        {
+          "en": "attach importance to",
+          "zh": "重视"
+        },
+        {
+          "en": "be attached to",
+          "zh": "附属于；依恋"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Please attach your CV to the email before you send the application.",
+          "zh": "发送申请前，请把简历附在邮件里。"
+        }
+      ],
+      "note": "attach importance to 是六级高频搭配，名词 attachment。"
+    },
+    {
+      "word": "graphic",
+      "phr": [
+        {
+          "en": "graphic design",
+          "zh": "平面设计"
+        },
+        {
+          "en": "a graphic account",
+          "zh": "生动的描述"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The witness gave a graphic account of the accident that shocked the court.",
+          "zh": "目击者对事故作了生动的描述，令法庭震惊。"
+        }
+      ],
+      "note": "graphic 由图画引申为生动逼真的，如 graphic description。"
+    },
+    {
+      "word": "convict",
+      "phr": [
+        {
+          "en": "convict sb of sth",
+          "zh": "判某人犯有某罪"
+        },
+        {
+          "en": "an escaped convict",
+          "zh": "逃犯"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The jury convicted him of fraud and he was sentenced to five years.",
+          "zh": "陪审团判他犯有诈骗罪，他被判处五年徒刑。"
+        }
+      ],
+      "note": "动词重音在第二音节；名词囚犯重音在第一音节。"
+    },
+    {
+      "word": "retention",
+      "phr": [
+        {
+          "en": "memory retention",
+          "zh": "记忆保持"
+        },
+        {
+          "en": "employee retention",
+          "zh": "员工留存"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Regular review improves memory retention far more than reading alone.",
+          "zh": "定期复习对记忆保持的作用远大于只阅读。"
+        }
+      ],
+      "note": "retention 来自 retain；常见搭配 memory retention。"
+    },
+    {
+      "word": "creation",
+      "phr": [
+        {
+          "en": "the creation of jobs",
+          "zh": "创造就业岗位"
+        },
+        {
+          "en": "the creation of wealth",
+          "zh": "财富的创造"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The creation of new jobs is the government's top priority this year.",
+          "zh": "创造新的就业岗位是政府今年的首要任务。"
+        }
+      ],
+      "note": "creation 指创造或创作的作品；动词 create，形容词 creative。"
+    },
+    {
+      "word": "legislation",
+      "phr": [
+        {
+          "en": "pass legislation",
+          "zh": "通过立法"
+        },
+        {
+          "en": "environmental legislation",
+          "zh": "环境立法"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Parliament passed new legislation to limit the use of plastic bags.",
+          "zh": "议会通过了限制使用塑料袋的新法规。"
+        }
+      ],
+      "note": "legislation 为不可数名词，说 a piece of legislation。"
+    },
+    {
+      "word": "dodge",
+      "phr": [
+        {
+          "en": "dodge the question",
+          "zh": "回避问题"
+        },
+        {
+          "en": "dodge responsibility",
+          "zh": "逃避责任"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The driver dodged the falling branch and stopped the car just in time.",
+          "zh": "司机躲开掉落的树枝，及时刹住了车。"
+        }
+      ],
+      "note": "dodge 指迅速侧身躲开，也指用托辞逃避，如 dodge taxes。"
+    },
+    {
+      "word": "ingredient",
+      "phr": [
+        {
+          "en": "a key ingredient",
+          "zh": "关键要素"
+        },
+        {
+          "en": "natural ingredients",
+          "zh": "天然原料"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Trust is a key ingredient in any long and successful partnership.",
+          "zh": "信任是任何长久成功的合作关系中的关键要素。"
+        }
+      ],
+      "note": "ingredient 既指食物原料，也喻指成功要素，常与 key 连用。"
+    },
+    {
+      "word": "surplus",
+      "phr": [
+        {
+          "en": "a trade surplus",
+          "zh": "贸易顺差"
+        },
+        {
+          "en": "a budget surplus",
+          "zh": "预算盈余"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The country has run a trade surplus for six years in a row.",
+          "zh": "该国已连续六年保持贸易顺差。"
+        }
+      ],
+      "note": "surplus 与 deficit 相对；trade surplus 即贸易顺差。"
+    },
+    {
+      "word": "consolidate",
+      "phr": [
+        {
+          "en": "consolidate one's position",
+          "zh": "巩固地位"
+        },
+        {
+          "en": "consolidate power",
+          "zh": "巩固权力"
+        }
+      ],
+      "ex": [
+        {
+          "en": "The firm consolidated its position in Asia by opening three new offices.",
+          "zh": "该公司通过开设三家新办事处巩固了在亚洲的地位。"
+        }
+      ],
+      "note": "con 表共同、solid 表牢固，合起来即巩固；也可指企业合并。"
+    },
+    {
+      "word": "correspondence",
+      "phr": [
+        {
+          "en": "keep up a correspondence with",
+          "zh": "与…保持通信"
+        },
+        {
+          "en": "a correspondence course",
+          "zh": "函授课程"
+        }
+      ],
+      "ex": [
+        {
+          "en": "She kept up a correspondence with her old teacher for over thirty years.",
+          "zh": "她与以前的老师保持通信三十多年。"
+        }
+      ],
+      "note": "correspondence 指书信往来，不可数；动词 correspond。"
+    },
+    {
+      "word": "inhibit",
+      "phr": [
+        {
+          "en": "inhibit growth",
+          "zh": "抑制生长"
+        },
+        {
+          "en": "inhibit sb from doing sth",
+          "zh": "阻止某人做某事"
+        }
+      ],
+      "ex": [
+        {
+          "en": "Fear of failure can inhibit students from trying new approaches to learning.",
+          "zh": "害怕失败会阻碍学生尝试新的学习方法。"
+        }
+      ],
+      "note": "in 表否定、hibit 表拿住，合起来即抑制；搭配 inhibit from。"
+    },
+    {
+      "word": "refresh",
+      "phr": [
+        {
+          "en": "refresh one's memory",
+          "zh": "唤起记忆"
+        },
+        {
+          "en": "feel refreshed",
+          "zh": "感到精神一振"
+        }
+      ],
+      "ex": [
+        {
+          "en": "A short walk after lunch refreshed me and I worked better all afternoon.",
+          "zh": "午饭后短暂散步让我精神一振，整个下午效率更高。"
+        }
+      ],
+      "note": "refresh 指恢复精力；refresh one's memory 意为唤醒记忆。"
+    },
+    {
+      "word": "intimate",
+      "phr": [
+        {
+          "en": "an intimate friend",
+          "zh": "密友"
+        },
+        {
+          "en": "an intimate knowledge of",
+          "zh": "对…的深入了解"
+        }
+      ],
+      "ex": [
+        {
+          "en": "They have been intimate friends since they shared a flat at university.",
+          "zh": "自大学合租以来，他们一直是亲密的朋友。"
+        }
+      ],
+      "note": "intimate 作形容词重音在第一音节；作动词暗示时读 /ˈɪntɪmeɪt/。"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "day": 68,
+  "words": [
+    {
+      "word": "proposition",
+      "phr": [
+        {"en": "a business proposition", "zh": "一笔生意上的提议"},
+        {"en": "accept the proposition", "zh": "接受这一提议"}
+      ],
+      "ex": [
+        {"en": "The board rejected the proposition as too risky and too expensive.",
+         "zh": "董事会否决了这项提议，认为它风险太大、成本太高。"}
+      ],
+      "note": "proposition 指提议或命题，比 proposal 更正式、更抽象。"
+    },
+    {
+      "word": "reserve",
+      "phr": [
+        {"en": "reserve a table", "zh": "预订餐桌"},
+        {"en": "nature reserve", "zh": "自然保护区"}
+      ],
+      "ex": [
+        {"en": "I called the restaurant to reserve a table for six people.",
+         "zh": "我打电话给餐馆预订了一张六人桌。"}
+      ],
+      "note": "reserve 作动词指预订、保留，作名词可指储备或保护区。"
+    },
+    {
+      "word": "savage",
+      "phr": [
+        {"en": "a savage attack", "zh": "野蛮的攻击"},
+        {"en": "savage criticism", "zh": "猛烈的批评"}
+      ],
+      "ex": [
+        {"en": "The novel drew savage criticism from several well-known reviewers.",
+         "zh": "这部小说招致了几位知名评论家的猛烈批评。"}
+      ],
+      "note": "savage 作形容词指凶残的，作动词指猛烈抨击，贬义较强。"
+    },
+    {
+      "word": "heap",
+      "phr": [
+        {"en": "a heap of", "zh": "一堆"},
+        {"en": "heap praise on sb", "zh": "对某人大加赞扬"}
+      ],
+      "ex": [
+        {"en": "There was a heap of clothes on the floor beside the bed.",
+         "zh": "床边的地板上有一堆衣服。"}
+      ],
+      "note": "heap 指堆；动词短语 heap A on B 表示大量给予。"
+    },
+    {
+      "word": "sympathy",
+      "phr": [
+        {"en": "have sympathy for", "zh": "同情"},
+        {"en": "express sympathy", "zh": "表示慰问"}
+      ],
+      "ex": [
+        {"en": "She has great sympathy for families who lost their homes.",
+         "zh": "她非常同情那些失去家园的家庭。"}
+      ],
+      "note": "sympathy 后接 for 表同情对象，express sympathy 也指慰问。"
+    },
+    {
+      "word": "consumer",
+      "phr": [
+        {"en": "consumer rights", "zh": "消费者权益"},
+        {"en": "consumer goods", "zh": "消费品"}
+      ],
+      "ex": [
+        {"en": "New rules give consumers more protection when they shop online.",
+         "zh": "新规定在网上购物时给予消费者更多保护。"}
+      ],
+      "note": "consumer 由 consume 加 -er 构成，注意与 customer 区别。"
+    },
+    {
+      "word": "cripple",
+      "phr": [
+        {"en": "be crippled by", "zh": "因…而瘫痪"},
+        {"en": "cripple the economy", "zh": "使经济瘫痪"}
+      ],
+      "ex": [
+        {"en": "The strike crippled the country's transport system for a week.",
+         "zh": "罢工使该国的交通系统瘫痪了一周。"}
+      ],
+      "note": "cripple 本指使残疾，现多用于比喻严重削弱、使瘫痪。"
+    },
+    {
+      "word": "brief",
+      "phr": [
+        {"en": "in brief", "zh": "简言之"},
+        {"en": "brief sb on sth", "zh": "向某人介绍情况"}
+      ],
+      "ex": [
+        {"en": "The manager gave the staff a brief explanation of the new rules.",
+         "zh": "经理向员工简要说明了新规定。"}
+      ],
+      "note": "brief 作动词常用 brief sb on sth，意为介绍基本情况。"
+    },
+    {
+      "word": "console",
+      "phr": [
+        {"en": "console a friend", "zh": "安慰朋友"},
+        {"en": "console oneself with", "zh": "以…自我安慰"}
+      ],
+      "ex": [
+        {"en": "She tried to console her friend after the failed interview.",
+         "zh": "面试失败后，她试着安慰朋友。"}
+      ],
+      "note": "console 重音在后时作动词，意为安慰；重音在前指控制台。"
+    },
+    {
+      "word": "initiative",
+      "phr": [
+        {"en": "take the initiative", "zh": "采取主动"},
+        {"en": "on one's own initiative", "zh": "主动地"}
+      ],
+      "ex": [
+        {"en": "She took the initiative and called the client before the deadline.",
+         "zh": "她主动在截止日期前给客户打了电话。"}
+      ],
+      "note": "initiative 常与 take 连用，意为采取主动。"
+    },
+    {
+      "word": "recover",
+      "phr": [
+        {"en": "recover from", "zh": "从…中恢复"},
+        {"en": "recover costs", "zh": "收回成本"}
+      ],
+      "ex": [
+        {"en": "It took him three months to recover from the operation.",
+         "zh": "他花了三个月才从手术中恢复过来。"}
+      ],
+      "note": "recover from 后接疾病或打击，recover costs 指收回成本。"
+    },
+    {
+      "word": "clockwise",
+      "phr": [
+        {"en": "turn clockwise", "zh": "顺时针转动"},
+        {"en": "in a clockwise direction", "zh": "沿顺时针方向"}
+      ],
+      "ex": [
+        {"en": "Turn the handle clockwise until the lid is tightly closed.",
+         "zh": "顺时针转动把手，直到盖子拧紧。"}
+      ],
+      "note": "clockwise 由 clock 加后缀 -wise 构成，表方向。"
+    },
+    {
+      "word": "embark",
+      "phr": [
+        {"en": "embark on a journey", "zh": "开始一段旅程"},
+        {"en": "embark on a new project", "zh": "着手新项目"}
+      ],
+      "ex": [
+        {"en": "After graduation he embarked on a career in journalism.",
+         "zh": "毕业后他开始了新闻业生涯。"}
+      ],
+      "note": "embark 本指上船，embark on 引申为着手某事，后接名词。"
+    },
+    {
+      "word": "medication",
+      "phr": [
+        {"en": "take medication", "zh": "服药"},
+        {"en": "prescribe medication", "zh": "开药"}
+      ],
+      "ex": [
+        {"en": "The doctor told him to take the medication twice a day.",
+         "zh": "医生让他每天服两次药。"}
+      ],
+      "note": "medication 指药物与治疗，为不可数名词，take 常与之搭配。"
+    },
+    {
+      "word": "drill",
+      "phr": [
+        {"en": "fire drill", "zh": "消防演习"},
+        {"en": "drill a hole", "zh": "钻一个孔"}
+      ],
+      "ex": [
+        {"en": "The school holds a fire drill at the start of every term.",
+         "zh": "学校每学期初都会举行消防演习。"}
+      ],
+      "note": "drill 指钻头、钻孔，也指反复操练，如 fire drill。"
+    },
+    {
+      "word": "friction",
+      "phr": [
+        {"en": "cause friction", "zh": "引起摩擦"},
+        {"en": "friction between", "zh": "…之间的不和"}
+      ],
+      "ex": [
+        {"en": "Constant delays caused friction between the two departments.",
+         "zh": "不断的延误在两个部门之间引起了摩擦。"}
+      ],
+      "note": "friction 指物理摩擦，也指人际不和，常与 between 连用。"
+    },
+    {
+      "word": "confer",
+      "phr": [
+        {"en": "confer with", "zh": "与…商议"},
+        {"en": "confer a title on sb", "zh": "授予某人头衔"}
+      ],
+      "ex": [
+        {"en": "The judges conferred with each other before announcing the winner.",
+         "zh": "评委们在宣布获奖者前相互商议。"}
+      ],
+      "note": "confer 与 with 连用表商议，与 on 连用表授予，注意区分。"
+    },
+    {
+      "word": "intelligent",
+      "phr": [
+        {"en": "an intelligent decision", "zh": "明智的决定"},
+        {"en": "highly intelligent", "zh": "非常聪明"}
+      ],
+      "ex": [
+        {"en": "It was an intelligent decision to wait for more information.",
+         "zh": "等待更多信息是明智的决定。"}
+      ],
+      "note": "intelligent 指有智慧的，intellectual 指智力的或知识分子。"
+    },
+    {
+      "word": "clerk",
+      "phr": [
+        {"en": "bank clerk", "zh": "银行职员"},
+        {"en": "sales clerk", "zh": "售货员"}
+      ],
+      "ex": [
+        {"en": "The clerk at the front desk helped me find the right office.",
+         "zh": "前台的职员帮我找到了正确的办公室。"}
+      ],
+      "note": "clerk 指办事员、店员，bank clerk 是常见搭配。"
+    },
+    {
+      "word": "acknowledge",
+      "phr": [
+        {"en": "acknowledge the fact", "zh": "承认事实"},
+        {"en": "acknowledge receipt of", "zh": "确认收到"}
+      ],
+      "ex": [
+        {"en": "He finally acknowledged that he had made a serious mistake.",
+         "zh": "他终于承认自己犯了一个严重的错误。"}
+      ],
+      "note": "acknowledge 后可接名词、that 从句或 doing，比 admit 中性。"
+    },
+    {
+      "word": "equip",
+      "phr": [
+        {"en": "equip sb with sth", "zh": "为某人配备某物"},
+        {"en": "be well equipped", "zh": "装备齐全"}
+      ],
+      "ex": [
+        {"en": "The lab is equipped with the latest measuring instruments.",
+         "zh": "实验室配备了最新的测量仪器。"}
+      ],
+      "note": "equip 常用 equip sb with sth，注意过去式要双写 p。"
+    },
+    {
+      "word": "deferential",
+      "phr": [
+        {"en": "be deferential to sb", "zh": "对某人恭敬"},
+        {"en": "a deferential tone", "zh": "恭敬的语气"}
+      ],
+      "ex": [
+        {"en": "The young assistant spoke to the director in a deferential tone.",
+         "zh": "年轻的助理用恭敬的语气跟主管说话。"}
+      ],
+      "note": "deferential 来自 defer（顺从），指恭敬的、恭顺的。"
+    },
+    {
+      "word": "manuscript",
+      "phr": [
+        {"en": "submit a manuscript", "zh": "提交手稿"},
+        {"en": "ancient manuscript", "zh": "古代手稿"}
+      ],
+      "ex": [
+        {"en": "The publisher asked her to submit the manuscript by June.",
+         "zh": "出版商要求她在六月前提交手稿。"}
+      ],
+      "note": "manuscript 由 manu（手）加 script（写）构成，指手稿。"
+    },
+    {
+      "word": "luxury",
+      "phr": [
+        {"en": "live in luxury", "zh": "过奢侈生活"},
+        {"en": "luxury goods", "zh": "奢侈品"}
+      ],
+      "ex": [
+        {"en": "They spent one night in a luxury hotel near the beach.",
+         "zh": "他们在海滩附近的一家豪华酒店住了一晚。"}
+      ],
+      "note": "luxury 指奢侈或奢侈品，作定语时表示豪华的。"
+    },
+    {
+      "word": "overthrow",
+      "phr": [
+        {"en": "overthrow the government", "zh": "推翻政府"},
+        {"en": "the overthrow of the president", "zh": "总统被推翻"}
+      ],
+      "ex": [
+        {"en": "The rebels tried to overthrow the government but failed within days.",
+         "zh": "叛军试图推翻政府，但几天内就失败了。"}
+      ],
+      "note": "overthrow 过去式为 overthrew，过去分词为 overthrown。"
+    },
+    {
+      "word": "knit",
+      "phr": [
+        {"en": "knit a sweater", "zh": "织毛衣"},
+        {"en": "knit one's brows", "zh": "皱眉"}
+      ],
+      "ex": [
+        {"en": "My grandmother knitted a sweater for me last winter.",
+         "zh": "去年冬天我奶奶给我织了一件毛衣。"}
+      ],
+      "note": "knit 指编织，knit one's brows 意为皱眉，过去式 knitted。"
+    },
+    {
+      "word": "inflict",
+      "phr": [
+        {"en": "inflict damage on", "zh": "造成损害"},
+        {"en": "inflict pain on sb", "zh": "使某人痛苦"}
+      ],
+      "ex": [
+        {"en": "The storm inflicted serious damage on the coastal villages.",
+         "zh": "暴风雨给沿海村庄造成了严重破坏。"}
+      ],
+      "note": "inflict 常与 on 连用，指使遭受打击、痛苦或损失。"
+    },
+    {
+      "word": "worthwhile",
+      "phr": [
+        {"en": "a worthwhile cause", "zh": "有意义的事业"},
+        {"en": "a worthwhile investment", "zh": "值得的投资"}
+      ],
+      "ex": [
+        {"en": "Volunteering at the shelter is a worthwhile experience for students.",
+         "zh": "在收容所做志愿者对学生来说是一段有价值的经历。"}
+      ],
+      "note": "worthwhile 可作定语或表语；be worth doing 中不用它。"
+    },
+    {
+      "word": "inland",
+      "phr": [
+        {"en": "inland areas", "zh": "内陆地区"},
+        {"en": "travel inland", "zh": "向内陆行进"}
+      ],
+      "ex": [
+        {"en": "They travelled inland to visit the ancient temples.",
+         "zh": "他们向内陆旅行，去参观古老的寺庙。"}
+      ],
+      "note": "inland 可作形容词或副词，作副词时前面不加介词。"
+    },
+    {
+      "word": "stumble",
+      "phr": [
+        {"en": "stumble over", "zh": "被…绊倒"},
+        {"en": "stumble upon", "zh": "偶然发现"}
+      ],
+      "ex": [
+        {"en": "He stumbled over a loose stone and dropped the papers.",
+         "zh": "他被一块松动的石头绊了一下，手里的文件掉了下来。"}
+      ],
+      "note": "stumble 指绊倒，也可指说话结巴，stumble upon 为偶然发现。"
+    }
+  ]
+}
