@@ -108,7 +108,21 @@ def main():
         (DAYS / f"day_{d+1:03d}.json").write_text(
             json.dumps(pack, ensure_ascii=False, indent=1), encoding="utf-8")
 
-    print(f"words={len(words)} days={total_days} per_day={PER_DAY}")
+    # 最后一天不足 PER_DAY 时，用前面的词补成「复习日」，保证每天都是 30 词
+    last = DAYS / f"day_{total_days:03d}.json"
+    pack = json.loads(last.read_text(encoding="utf-8"))
+    need = PER_DAY - len(pack["words"])
+    if 0 < need < PER_DAY:
+        import random
+        used = [w for w in words[: len(words) - (len(pack["words"]))]]
+        rnd = random.Random(42)
+        picks = rnd.sample(used, need)
+        pack["words"] += [{**w, "review": True} for w in picks]
+        pack["review_day"] = True
+        last.write_text(json.dumps(pack, ensure_ascii=False, indent=1), encoding="utf-8")
+
+    print(f"words={len(words)} days={total_days} per_day={PER_DAY} "
+          f"last_day_review={need if 'need' in dir() else 0}")
     print("sample:", json.dumps(words[:3], ensure_ascii=False))
 
 

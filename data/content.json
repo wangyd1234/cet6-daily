@@ -59023,8 +59023,659 @@
       }
      ],
      "note": "rival 可作名词、形容词和动词；rival sb 意为比得上某人。"
+    },
+    {
+     "id": 457,
+     "word": "resultant",
+     "uk": "/rɪˈzʌltənt/",
+     "us": "",
+     "pos": "adj.",
+     "cn": "作为结果的；因而发生的",
+     "review": true,
+     "phr": [
+      {
+       "en": "the resultant damage",
+       "zh": "由此造成的损失"
+      },
+      {
+       "en": "the resultant effect",
+       "zh": "由此产生的效果"
+      }
+     ],
+     "ex": [
+      {
+       "en": "The heavy rain caused floods and the resultant damage was enormous.",
+       "zh": "大雨引发洪水，由此造成的损失巨大。"
+      }
+     ],
+     "note": "形容词，表「因而产生的」，多用于正式或学术文体。"
+    },
+    {
+     "id": 103,
+     "word": "erosion",
+     "uk": "/ɪˈrəuʒn/",
+     "us": "/ɪˈroʒən/",
+     "pos": "n.",
+     "cn": "腐蚀；侵蚀；磨损；削弱；减少",
+     "review": true,
+     "phr": [
+      {
+       "en": "soil erosion",
+       "zh": "水土流失"
+      },
+      {
+       "en": "the erosion of confidence",
+       "zh": "信心的削弱"
+      }
+     ],
+     "ex": [
+      {
+       "en": "Planting trees along the river helps slow down soil erosion.",
+       "zh": "沿河种树有助于减缓水土流失。"
+      }
+     ],
+     "note": "e-（向外）+ ros（咬）→ 逐渐侵蚀掉；动词 erode。"
+    },
+    {
+     "id": 1127,
+     "word": "coward",
+     "uk": "/ˈkauəd/",
+     "us": "/ˈkaʊɚd/",
+     "pos": "n.",
+     "cn": "胆小鬼；懦夫",
+     "review": true,
+     "phr": [
+      {
+       "en": "call sb a coward",
+       "zh": "说某人是胆小鬼"
+      },
+      {
+       "en": "a complete coward",
+       "zh": "十足的懦夫"
+      }
+     ],
+     "ex": [
+      {
+       "en": "He called himself a coward for running away from the fight.",
+       "zh": "他因临阵脱逃而骂自己是胆小鬼。"
+      }
+     ],
+     "note": "coward 指人，形容词 cowardly，抽象名词 cowardice。"
+    },
+    {
+     "id": 1004,
+     "word": "alloy",
+     "uk": "/ˈælɒɪ/",
+     "us": "/ˈælɔɪ/",
+     "pos": "n.,vt.",
+     "cn": "合金；将…铸成合金",
+     "review": true,
+     "phr": [
+      {
+       "en": "a light alloy",
+       "zh": "轻合金"
+      },
+      {
+       "en": "an alloy of copper and zinc",
+       "zh": "铜与锌的合金"
+      }
+     ],
+     "ex": [
+      {
+       "en": "The frame is made of a light alloy that resists rust.",
+       "zh": "这个框架由一种防锈的轻合金制成。"
+      }
+     ],
+     "note": "alloy 是金属混合物；alloy 作动词读 /əˈlɔɪ/。"
+    },
+    {
+     "id": 915,
+     "word": "processing",
+     "uk": "/prəuˈsesɪŋ/",
+     "us": "/proˈsɛsɪŋ/",
+     "pos": "n.",
+     "cn": "处理",
+     "review": true,
+     "phr": [
+      {
+       "en": "data processing",
+       "zh": "数据处理"
+      },
+      {
+       "en": "food processing",
+       "zh": "食品加工"
+      }
+     ],
+     "ex": [
+      {
+       "en": "The company uses modern software for data processing and storage.",
+       "zh": "该公司使用现代软件进行数据处理和存储。"
+      }
+     ],
+     "note": "processing 多作定语，如 data processing。"
+    },
+    {
+     "id": 572,
+     "word": "deserve",
+     "uk": "/dɪˈzɜːv/",
+     "us": "/dɪˈzɝv/",
+     "pos": "vt.",
+     "cn": "应受；值得",
+     "review": true,
+     "phr": [
+      {
+       "en": "deserve a break",
+       "zh": "该休息一下"
+      },
+      {
+       "en": "deserve attention",
+       "zh": "值得关注"
+      }
+     ],
+     "ex": [
+      {
+       "en": "After working all night, you deserve a good rest.",
+       "zh": "熬了一整夜，你该好好休息。"
+      }
+     ],
+     "note": "deserve 后接名词或不定式：deserve to win 表理应获胜。"
+    },
+    {
+     "id": 420,
+     "word": "resistant",
+     "uk": "/rɪˈzɪstənt/",
+     "us": "",
+     "pos": "adj.",
+     "cn": "抵抗的；抗…的；耐…的",
+     "review": true,
+     "phr": [
+      {
+       "en": "be resistant to",
+       "zh": "对…有抵抗力"
+      },
+      {
+       "en": "heat-resistant",
+       "zh": "耐热的"
+      }
+     ],
+     "ex": [
+      {
+       "en": "This new type of rice is resistant to both drought and disease.",
+       "zh": "这种新型水稻既抗旱又抗病。"
+      }
+     ],
+     "note": "resistant 后接 to；名词 resistance 表抵抗力。"
+    },
+    {
+     "id": 2234,
+     "word": "capacity",
+     "uk": "/kəˈpæsəti/",
+     "us": "",
+     "pos": "n.",
+     "cn": "容量；能力；能量；才能；身份；地位",
+     "review": true,
+     "phr": [
+      {
+       "en": "the capacity to do sth",
+       "zh": "做某事的能力"
+      },
+      {
+       "en": "in one's capacity as",
+       "zh": "以…身份"
+      }
+     ],
+     "ex": [
+      {
+       "en": "The hall has a seating capacity of about five hundred.",
+       "zh": "这个大厅可容纳约五百人就座。"
+      }
+     ],
+     "note": "兼指容量与能力；in one's capacity as 指以某身份。"
+    },
+    {
+     "id": 357,
+     "word": "correspondence",
+     "uk": "/ˌkɒrəˈspɒndəns/",
+     "us": "/,kɔrəˈspɑndəns/",
+     "pos": "n.",
+     "cn": "信件；函件；通信；通信联系；符合；一致；相似",
+     "review": true,
+     "phr": [
+      {
+       "en": "keep up a correspondence with",
+       "zh": "与…保持通信"
+      },
+      {
+       "en": "a correspondence course",
+       "zh": "函授课程"
+      }
+     ],
+     "ex": [
+      {
+       "en": "She kept up a correspondence with her old teacher for over thirty years.",
+       "zh": "她与以前的老师保持通信三十多年。"
+      }
+     ],
+     "note": "correspondence 指书信往来，不可数；动词 correspond。"
+    },
+    {
+     "id": 1729,
+     "word": "database",
+     "uk": "/ˈdeɪtəbeɪs/",
+     "us": "/ˈdetəbes/",
+     "pos": "n.",
+     "cn": "数据库",
+     "review": true,
+     "phr": [
+      {
+       "en": "build a database",
+       "zh": "建立数据库"
+      },
+      {
+       "en": "database management",
+       "zh": "数据库管理"
+      }
+     ],
+     "ex": [
+      {
+       "en": "All customer records are stored in a secure database.",
+       "zh": "所有客户记录都存放在安全的数据库中。"
+      }
+     ],
+     "note": "database 由 data 加 base 构成，常与 store 连用。"
+    },
+    {
+     "id": 131,
+     "word": "permissible",
+     "uk": "/pəˈmɪsəbl/",
+     "us": "/pɚˈmɪsəbl/",
+     "pos": "adj.",
+     "cn": "可允许的；许可的",
+     "review": true,
+     "phr": [
+      {
+       "en": "be permissible to do",
+       "zh": "允许做"
+      },
+      {
+       "en": "the maximum permissible level",
+       "zh": "最高允许值"
+      }
+     ],
+     "ex": [
+      {
+       "en": "Smoking is not permissible anywhere inside the building.",
+       "zh": "大楼内任何地方都不允许吸烟。"
+      }
+     ],
+     "note": "per-（通过）+ miss（放行）→ 可允许的；反义 impermissible。"
+    },
+    {
+     "id": 123,
+     "word": "evolution",
+     "uk": "/ˌevəˈluːʃn/",
+     "us": "/ˌɛvəˈluʃən;(occas.)ˌivəˈluʃən/",
+     "pos": "n.",
+     "cn": "进化；演化；发展",
+     "review": true,
+     "phr": [
+      {
+       "en": "the theory of evolution",
+       "zh": "进化论"
+      },
+      {
+       "en": "gradual evolution",
+       "zh": "逐渐演变"
+      }
+     ],
+     "ex": [
+      {
+       "en": "The exhibition shows the evolution of printing over five centuries.",
+       "zh": "展览呈现了印刷术五个世纪以来的演变。"
+      }
+     ],
+     "note": "e-（向外）+ volv（卷）→ 逐渐展开、演变；动词 evolve。"
+    },
+    {
+     "id": 384,
+     "word": "participant",
+     "uk": "/pɑːˈtɪsɪpənt/",
+     "us": "/pɑrˈtɪsəpənt/",
+     "pos": "n.",
+     "cn": "参加者；参与者",
+     "review": true,
+     "phr": [
+      {
+       "en": "a participant in",
+       "zh": "…的参与者"
+      },
+      {
+       "en": "an active participant",
+       "zh": "积极的参与者"
+      }
+     ],
+     "ex": [
+      {
+       "en": "Each participant in the study was asked to keep a daily diary.",
+       "zh": "这项研究的每位参与者都被要求每天写日记。"
+      }
+     ],
+     "note": "participant 后接 in；动词 participate 也接 in。"
+    },
+    {
+     "id": 896,
+     "word": "magnetic",
+     "uk": "/mægˈnetɪk/",
+     "us": "/mægˈnɛtɪk/",
+     "pos": "adj.",
+     "cn": "磁的；有吸引力的",
+     "review": true,
+     "phr": [
+      {
+       "en": "magnetic field",
+       "zh": "磁场"
+      },
+      {
+       "en": "a magnetic personality",
+       "zh": "有魅力的性格"
+      }
+     ],
+     "ex": [
+      {
+       "en": "A compass needle points north because it follows the earth's magnetic field.",
+       "zh": "指南针指向北方，因为它顺着地球磁场。"
+      }
+     ],
+     "note": "除「磁的」，magnetic 还引申为「有吸引力的」，如 magnetic smile。"
+    },
+    {
+     "id": 953,
+     "word": "extensive",
+     "uk": "/ɪkˈstensɪv/",
+     "us": "/ɪkˈstɛnsɪv/",
+     "pos": "adj.",
+     "cn": "广阔的；广泛的",
+     "review": true,
+     "phr": [
+      {
+       "en": "extensive research",
+       "zh": "广泛研究"
+      },
+      {
+       "en": "extensive damage",
+       "zh": "大面积破坏"
+      }
+     ],
+     "ex": [
+      {
+       "en": "Extensive research has been done on the effects of screen time on children.",
+       "zh": "关于屏幕时间对儿童影响的研究已大量展开。"
+      }
+     ],
+     "note": "extensive 强调范围广；动词是 extend，名词 extension。"
+    },
+    {
+     "id": 2070,
+     "word": "hurricane",
+     "uk": "/ˈhʌrɪkən/",
+     "us": "/ˈhʌrɪken/",
+     "pos": "n.",
+     "cn": "飓风",
+     "review": true,
+     "phr": [
+      {
+       "en": "a hurricane warning",
+       "zh": "飓风警报"
+      },
+      {
+       "en": "the hurricane season",
+       "zh": "飓风季"
+      }
+     ],
+     "ex": [
+      {
+       "en": "The hurricane destroyed hundreds of houses along the coast.",
+       "zh": "这场飓风摧毁了沿海数百所房屋。"
+      }
+     ],
+     "note": "指大西洋飓风；太平洋的称 typhoon，印度洋的称 cyclone。"
+    },
+    {
+     "id": 109,
+     "word": "lens",
+     "uk": "/lenz/",
+     "us": "/lɛnz/",
+     "pos": "n.",
+     "cn": "透镜；镜片；镜头",
+     "review": true,
+     "phr": [
+      {
+       "en": "a camera lens",
+       "zh": "相机镜头"
+      },
+      {
+       "en": "contact lenses",
+       "zh": "隐形眼镜"
+      }
+     ],
+     "ex": [
+      {
+       "en": "He cleaned the lens of his camera before taking the photo.",
+       "zh": "拍照前他擦干净了相机的镜头。"
+      }
+     ],
+     "note": "lens 复数 lenses；contact lenses 指隐形眼镜。"
+    },
+    {
+     "id": 2299,
+     "word": "testimony",
+     "uk": "/ˈtestɪməni/",
+     "us": "/ˈtɛstəˈmoni/",
+     "pos": "n.",
+     "cn": "证词；见证；证明",
+     "review": true,
+     "phr": [
+      {
+       "en": "give testimony",
+       "zh": "作证"
+      },
+      {
+       "en": "a testimony to",
+       "zh": "…的明证"
+      }
+     ],
+     "ex": [
+      {
+       "en": "Her success is a testimony to the value of hard work.",
+       "zh": "她的成功证明了努力工作的价值。"
+      }
+     ],
+     "note": "法律语境指证词；a testimony to sth 表明证。"
+    },
+    {
+     "id": 815,
+     "word": "accelerate",
+     "uk": "/əkˈseləreɪt/",
+     "us": "/əkˈsɛləˌret/",
+     "pos": "vt.",
+     "cn": "使加快；使增速",
+     "review": true,
+     "phr": [
+      {
+       "en": "accelerate growth",
+       "zh": "加快增长"
+      },
+      {
+       "en": "accelerate the process",
+       "zh": "加速进程"
+      }
+     ],
+     "ex": [
+      {
+       "en": "The government cut taxes to accelerate economic growth.",
+       "zh": "政府减税以加快经济增长。"
+      }
+     ],
+     "note": "accelerate 指加速，名词为 acceleration。"
+    },
+    {
+     "id": 2233,
+     "word": "derive",
+     "uk": "/dɪˈraɪv/",
+     "us": "",
+     "pos": "vi.,vt.",
+     "cn": "起源；衍生；取得；得到；追溯…的起源或来由",
+     "review": true,
+     "phr": [
+      {
+       "en": "derive from",
+       "zh": "源自"
+      },
+      {
+       "en": "derive pleasure from",
+       "zh": "从…中获得乐趣"
+      }
+     ],
+     "ex": [
+      {
+       "en": "Many English words derive from Latin and Greek.",
+       "zh": "许多英语单词源自拉丁语和希腊语。"
+      }
+     ],
+     "note": "derive from 表来源；derive sth from 表获得。"
+    },
+    {
+     "id": 1719,
+     "word": "ascertain",
+     "uk": "/ˌæsəˈteɪn/",
+     "us": "/ˈæsɚˈten/",
+     "pos": "vt.",
+     "cn": "弄清；查明；确定",
+     "review": true,
+     "phr": [
+      {
+       "en": "ascertain the facts",
+       "zh": "查明事实"
+      },
+      {
+       "en": "ascertain whether",
+       "zh": "确定是否"
+      }
+     ],
+     "ex": [
+      {
+       "en": "The police are trying to ascertain the cause of the fire.",
+       "zh": "警方正设法查明起火原因。"
+      }
+     ],
+     "note": "ascertain 为正式用词，意为查明、确定。"
+    },
+    {
+     "id": 903,
+     "word": "symbolic",
+     "uk": "/sɪmˈbɒlɪk/",
+     "us": "/sɪmˈbɑlɪk/",
+     "pos": "adj.",
+     "cn": "符号的；象征性的",
+     "review": true,
+     "phr": [
+      {
+       "en": "be symbolic of",
+       "zh": "象征…"
+      },
+      {
+       "en": "a symbolic gesture",
+       "zh": "象征性姿态"
+      }
+     ],
+     "ex": [
+      {
+       "en": "The white dove is symbolic of peace in many cultures.",
+       "zh": "在许多文化中，白鸽象征和平。"
+      }
+     ],
+     "note": "be symbolic of 后接所象征之物；名词是 symbol。"
+    },
+    {
+     "id": 1840,
+     "word": "prospective",
+     "uk": "/prəˈspektɪv/",
+     "us": "/prəˈspɛktɪv/",
+     "pos": "adj.",
+     "cn": "预期的；未来的；可能的",
+     "review": true,
+     "phr": [
+      {
+       "en": "prospective buyers",
+       "zh": "潜在买家"
+      },
+      {
+       "en": "prospective students",
+       "zh": "潜在学生"
+      }
+     ],
+     "ex": [
+      {
+       "en": "The house was shown to prospective buyers over the weekend.",
+       "zh": "周末带潜在买家看了这套房子。"
+      }
+     ],
+     "note": "prospective 指未来可能的，如潜在买家。"
+    },
+    {
+     "id": 1140,
+     "word": "commence",
+     "uk": "/kəˈmens/",
+     "us": "/kəˈmɛns/",
+     "pos": "v.",
+     "cn": "开始",
+     "review": true,
+     "phr": [
+      {
+       "en": "commence work",
+       "zh": "开始工作"
+      },
+      {
+       "en": "commence with",
+       "zh": "以…开始"
+      }
+     ],
+     "ex": [
+      {
+       "en": "The ceremony will commence at nine o'clock sharp.",
+       "zh": "典礼将于九点整开始。"
+      }
+     ],
+     "note": "commence 比 begin 正式，多用于典礼、工程、诉讼。"
+    },
+    {
+     "id": 27,
+     "word": "sniff",
+     "uk": "/snɪf/",
+     "us": "",
+     "pos": "v.,n.",
+     "cn": "以鼻吸气；用力吸入；嗅；闻；吸气；嗅；闻",
+     "review": true,
+     "phr": [
+      {
+       "en": "sniff at sth",
+       "zh": "对…嗤之以鼻"
+      },
+      {
+       "en": "sniff out",
+       "zh": "嗅出；发现"
+      }
+     ],
+     "ex": [
+      {
+       "en": "The dog sniffed at the ground and then ran towards the gate.",
+       "zh": "狗嗅了嗅地面，然后朝大门跑去。"
+      }
+     ],
+     "note": "sniff at 意为「嗤之以鼻」，sniff out 意为「嗅出、发现」。"
     }
-   ]
+   ],
+   "review_day": true
   }
  ],
  "essays": [

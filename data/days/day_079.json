@@ -41,6 +41,232 @@
    "us": "",
    "pos": "adj.,n.,vt.",
    "cn": "竞争的；对抗的；竞争对手；敌手；可与匹敌的人；与…竞争；与…匹敌；比得上"
+  },
+  {
+   "id": 457,
+   "word": "resultant",
+   "uk": "/rɪˈzʌltənt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "作为结果的；因而发生的",
+   "review": true
+  },
+  {
+   "id": 103,
+   "word": "erosion",
+   "uk": "/ɪˈrəuʒn/",
+   "us": "/ɪˈroʒən/",
+   "pos": "n.",
+   "cn": "腐蚀；侵蚀；磨损；削弱；减少",
+   "review": true
+  },
+  {
+   "id": 1127,
+   "word": "coward",
+   "uk": "/ˈkauəd/",
+   "us": "/ˈkaʊɚd/",
+   "pos": "n.",
+   "cn": "胆小鬼；懦夫",
+   "review": true
+  },
+  {
+   "id": 1004,
+   "word": "alloy",
+   "uk": "/ˈælɒɪ/",
+   "us": "/ˈælɔɪ/",
+   "pos": "n.,vt.",
+   "cn": "合金；将…铸成合金",
+   "review": true
+  },
+  {
+   "id": 915,
+   "word": "processing",
+   "uk": "/prəuˈsesɪŋ/",
+   "us": "/proˈsɛsɪŋ/",
+   "pos": "n.",
+   "cn": "处理",
+   "review": true
+  },
+  {
+   "id": 572,
+   "word": "deserve",
+   "uk": "/dɪˈzɜːv/",
+   "us": "/dɪˈzɝv/",
+   "pos": "vt.",
+   "cn": "应受；值得",
+   "review": true
+  },
+  {
+   "id": 420,
+   "word": "resistant",
+   "uk": "/rɪˈzɪstənt/",
+   "us": "",
+   "pos": "adj.",
+   "cn": "抵抗的；抗…的；耐…的",
+   "review": true
+  },
+  {
+   "id": 2234,
+   "word": "capacity",
+   "uk": "/kəˈpæsəti/",
+   "us": "",
+   "pos": "n.",
+   "cn": "容量；能力；能量；才能；身份；地位",
+   "review": true
+  },
+  {
+   "id": 357,
+   "word": "correspondence",
+   "uk": "/ˌkɒrəˈspɒndəns/",
+   "us": "/,kɔrəˈspɑndəns/",
+   "pos": "n.",
+   "cn": "信件；函件；通信；通信联系；符合；一致；相似",
+   "review": true
+  },
+  {
+   "id": 1729,
+   "word": "database",
+   "uk": "/ˈdeɪtəbeɪs/",
+   "us": "/ˈdetəbes/",
+   "pos": "n.",
+   "cn": "数据库",
+   "review": true
+  },
+  {
+   "id": 131,
+   "word": "permissible",
+   "uk": "/pəˈmɪsəbl/",
+   "us": "/pɚˈmɪsəbl/",
+   "pos": "adj.",
+   "cn": "可允许的；许可的",
+   "review": true
+  },
+  {
+   "id": 123,
+   "word": "evolution",
+   "uk": "/ˌevəˈluːʃn/",
+   "us": "/ˌɛvəˈluʃən;(occas.)ˌivəˈluʃən/",
+   "pos": "n.",
+   "cn": "进化；演化；发展",
+   "review": true
+  },
+  {
+   "id": 384,
+   "word": "participant",
+   "uk": "/pɑːˈtɪsɪpənt/",
+   "us": "/pɑrˈtɪsəpənt/",
+   "pos": "n.",
+   "cn": "参加者；参与者",
+   "review": true
+  },
+  {
+   "id": 896,
+   "word": "magnetic",
+   "uk": "/mægˈnetɪk/",
+   "us": "/mægˈnɛtɪk/",
+   "pos": "adj.",
+   "cn": "磁的；有吸引力的",
+   "review": true
+  },
+  {
+   "id": 953,
+   "word": "extensive",
+   "uk": "/ɪkˈstensɪv/",
+   "us": "/ɪkˈstɛnsɪv/",
+   "pos": "adj.",
+   "cn": "广阔的；广泛的",
+   "review": true
+  },
+  {
+   "id": 2070,
+   "word": "hurricane",
+   "uk": "/ˈhʌrɪkən/",
+   "us": "/ˈhʌrɪken/",
+   "pos": "n.",
+   "cn": "飓风",
+   "review": true
+  },
+  {
+   "id": 109,
+   "word": "lens",
+   "uk": "/lenz/",
+   "us": "/lɛnz/",
+   "pos": "n.",
+   "cn": "透镜；镜片；镜头",
+   "review": true
+  },
+  {
+   "id": 2299,
+   "word": "testimony",
+   "uk": "/ˈtestɪməni/",
+   "us": "/ˈtɛstəˈmoni/",
+   "pos": "n.",
+   "cn": "证词；见证；证明",
+   "review": true
+  },
+  {
+   "id": 815,
+   "word": "accelerate",
+   "uk": "/əkˈseləreɪt/",
+   "us": "/əkˈsɛləˌret/",
+   "pos": "vt.",
+   "cn": "使加快；使增速",
+   "review": true
+  },
+  {
+   "id": 2233,
+   "word": "derive",
+   "uk": "/dɪˈraɪv/",
+   "us": "",
+   "pos": "vi.,vt.",
+   "cn": "起源；衍生；取得；得到；追溯…的起源或来由",
+   "review": true
+  },
+  {
+   "id": 1719,
+   "word": "ascertain",
+   "uk": "/ˌæsəˈteɪn/",
+   "us": "/ˈæsɚˈten/",
+   "pos": "vt.",
+   "cn": "弄清；查明；确定",
+   "review": true
+  },
+  {
+   "id": 903,
+   "word": "symbolic",
+   "uk": "/sɪmˈbɒlɪk/",
+   "us": "/sɪmˈbɑlɪk/",
+   "pos": "adj.",
+   "cn": "符号的；象征性的",
+   "review": true
+  },
+  {
+   "id": 1840,
+   "word": "prospective",
+   "uk": "/prəˈspektɪv/",
+   "us": "/prəˈspɛktɪv/",
+   "pos": "adj.",
+   "cn": "预期的；未来的；可能的",
+   "review": true
+  },
+  {
+   "id": 1140,
+   "word": "commence",
+   "uk": "/kəˈmens/",
+   "us": "/kəˈmɛns/",
+   "pos": "v.",
+   "cn": "开始",
+   "review": true
+  },
+  {
+   "id": 27,
+   "word": "sniff",
+   "uk": "/snɪf/",
+   "us": "",
+   "pos": "v.,n.",
+   "cn": "以鼻吸气；用力吸入；嗅；闻；吸气；嗅；闻",
+   "review": true
   }
- ]
+ ],
+ "review_day": true
 }

@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
-"""把词库 + 撰写好的词卡 + 作文好句 合并成运行时使用的 data/content.json，并做质量校验。"""
+"""把词库 + 撰写好的词卡 + 作文好句 合并成运行时使用的 data/content.json，并做质量校验。
+
+词卡按「单词」归集，因此最后一天的复习词（复用前面出现过的词）也能自动拿到内容。
+"""
 import json
 import re
 import sys
@@ -8,7 +11,6 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DAYS_DIR = ROOT / "data" / "days"
 AUTH_DIR = ROOT / "data" / "authored"
-WORDS = ROOT / "data" / "words.json"
 ESSAYS = ROOT / "data" / "essays.json"
 OUT = ROOT / "data" / "content.json"
 
@@ -31,28 +33,30 @@ def stem_ok(word: str, text: str) -> bool:
 
 def main() -> int:
     days_src = sorted(DAYS_DIR.glob("day_*.json"))
-    problems = []
-    missing = []
-    warnings = []
-    out_days = []
+    problems, missing, warnings, out_days = [], [], [], []
+
+    # 1) 所有词卡按单词归集
+    card_map = {}
+    for p in sorted(AUTH_DIR.glob("day_*.json")):
+        auth = json.loads(p.read_text(encoding="utf-8"))
+        for card in auth.get("words") or []:
+            w = (card.get("word") or "").strip()
+            if w:
+                card_map[w.lower()] = card
+
+    # 2) 逐天拼装 + 校验
     for src in days_src:
         day = json.loads(src.read_text(encoding="utf-8"))
-        p = AUTH_DIR / src.name
-        if not p.exists():
+        if not (AUTH_DIR / src.name).exists():
             missing.append(src.name)
             continue
-        auth = json.loads(p.read_text(encoding="utf-8"))
-        cards = auth.get("words") or []
-        if len(cards) != len(day["words"]):
-            problems.append(f"{src.name}: 词数不一致 {len(cards)} != {len(day['words'])}")
-            continue
         merged = []
-        for base, card in zip(day["words"], cards):
+        for base in day["words"]:
             w = base["word"]
-            if (card.get("word") or "").lower() != w.lower():
-                problems.append(f"{src.name}: 顺序错位 {w} -> {card.get('word')}")
-                merged = None
-                break
+            card = card_map.get(w.lower())
+            if card is None:
+                problems.append(f"{src.name}/{w}: 找不到词卡")
+                continue
             phr = [x for x in (card.get("phr") or []) if x.get("en") and x.get("zh")][:3]
             ex = [x for x in (card.get("ex") or []) if x.get("en") and x.get("zh")][:2]
             note = (card.get("note") or "").strip()
@@ -66,13 +70,17 @@ def main() -> int:
                 warnings.append(f"{src.name}/{w}: 例句里没找到原词，请人工扫一眼")
             merged.append({**base, "phr": phr, "ex": ex, "note": note})
         if merged:
-            out_days.append({"day": day["day"], "words": merged})
+            item = {"day": day["day"], "words": merged}
+            if day.get("review_day"):
+                item["review_day"] = True
+            out_days.append(item)
 
     essays = json.loads(ESSAYS.read_text(encoding="utf-8")) if ESSAYS.exists() else []
+    total_words = sum(1 for d in out_days for w in d["words"] if not w.get("review"))
     content = {
         "meta": {
             "title": "六级考纲词汇 79 天计划",
-            "total_words": sum(len(d["words"]) for d in out_days),
+            "total_words": total_words,
             "days": len(out_days),
             "essays": len(essays),
         },
@@ -81,7 +89,7 @@ def main() -> int:
     }
     OUT.write_text(json.dumps(content, ensure_ascii=False, indent=1), encoding="utf-8")
 
-    print(f"days={len(out_days)}/{len(days_src)} words={content['meta']['total_words']} essays={len(essays)}")
+    print(f"days={len(out_days)}/{len(days_src)} 新词={total_words} essays={len(essays)}")
     print(f"content.json = {OUT.stat().st_size / 1024:.0f} KB")
     if missing:
         print(f"未撰写 {len(missing)} 天：{', '.join(missing[:8])}{' ...' if len(missing) > 8 else ''}")

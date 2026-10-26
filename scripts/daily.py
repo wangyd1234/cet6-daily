@@ -55,7 +55,7 @@ def render(cfg: dict, content: dict, r: dict, on_date: date) -> tuple:
     day, essay, no, cycle, total = r["day"], r["essay"], r["no"], r["cycle"], r["total"]
     meta = content.get("meta", {})
     total_words = meta.get("total_words", 0)
-    done_words = sum(len(d["words"]) for d in content["days"][:no])
+    done_words = sum(1 for d in content["days"][:no] for w in d["words"] if not w.get("review"))
     prefix = cfg.get("title_prefix", "六级词汇")
     round_tag = "" if cycle == 1 else f"（第{cycle}轮复习）"
     title = f"{prefix} Day{no} · {len(day['words'])}词+好句{round_tag}"
@@ -68,9 +68,14 @@ def render(cfg: dict, content: dict, r: dict, on_date: date) -> tuple:
         f"*{on_date.isoformat()} {WEEK[on_date.weekday()]} ｜ "
         f"今日 {len(day['words'])} 词 ｜ 累计 {done_words}/{total_words} 词 ｜ 共 {total} 天*"
     )
+    if day.get("review_day"):
+        new_cnt = sum(1 for w in day["words"] if not w.get("review"))
+        L.append(f"\n> 🔁 **复习日**：{new_cnt} 个新词 + {len(day['words']) - new_cnt} 个回顾词，"
+                 f"考纲 2345 词全部学完，今天把尾巴收掉。\n")
     L.append("")
     for i, w in enumerate(day["words"], 1):
-        head = f"**{i}. {w['word']}**"
+        tag = " 🔁" if w.get("review") else ""
+        head = f"**{i}. {w['word']}**{tag}"
         ipa = w.get("uk") or ""
         ipa_us = w.get("us") or ""
         if ipa and ipa_us and ipa_us != ipa:
